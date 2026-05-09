@@ -2484,14 +2484,14 @@
       "dia": 2,
       "numero": 89,
       "titulo": "Questao 89 - ENEM 2023",
-      "enunciado": "",
-      "alternativas_introducao": "Com base nas informacoes dos mapas e nos conhecimentos sobre as mudancas climaticas globais, conclui-se que o aumento da temperatura media global de 4 graus C em relacao ao periodo pre-industrial causaria",
+      "enunciado": "As características culturais variam de povo para povo. Há notícias de um povo que possuía formas de contar diferentes das nossas, como indicado no quadrinho a seguir.\n\n![](enem/2023/img/q089_inline1.png)",
+      "alternativas_introducao": "Segundo o padrão de contagem indicado na figura, as representações dos numerais cinco e sete, nessa cultura, devem ser, respectivamente,",
       "alternativas": [
-        "A) reducao das chuvas em todas as regioes tropicais do planeta.",
-        "B) aquecimento uniforme de todas as regioes terrestres do planeta.",
-        "C) diminuicao da variacao de temperatura nas regioes polares do planeta.",
-        "D) intensificacao dos contrastes climaticos entre as regioes do planeta.",
-        "E) homogeneizacao da distribuicao das chuvas nas regioes temperadas do planeta."
+        "A) okosa urapum urapum urapum e okosa okosa urapum urapum urapum.",
+        "B) okosa okosa urapum e okosa okosa okosa okosa urapum.",
+        "C) okosa okosa urapum e okosa okosa okosa urapum.",
+        "D) okosa urapum urapum e okosa urapum okosa urapum urapum.",
+        "E) okosa okosa urapum e okosa okosa okosa okosa."
       ],
       "imagens_alternativas": [
         null,
@@ -2500,11 +2500,11 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q089_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
-      "correta": "D",
-      "explicacao": "**Por que a alternativa D esta correta:** O aquecimento global de 4 graus C nao e uniforme: areas continentais aquecem mais que oceanos, polos mais que tropicos, regioes ja aridas tendem a secar mais e regioes umidas a receber mais chuvas. Esses efeitos diferenciados produzem intensificacao dos contrastes climaticos entre as regioes do planeta — secas mais severas no semiarido, chuvas mais intensas em zonas tropicais umidas, ondas de calor mais frequentes em areas continentais.\n\n**Conceito-chave:** Aquecimento global desigual — IPCC mostra que mudancas climaticas amplificam disparidades regionais; politicas de adaptacao precisam considerar contrastes.",
-      "fonte": "correcao_manual",
+      "correta": "C",
+      "explicacao": "**Por que a alternativa C está correta:** Pela figura, observa-se que **urapum = 1** e **okosa = 2**. A contagem é aditiva — soma-se o valor de cada palavra para chegar ao número. Assim:\n\n- 5 = 2 + 2 + 1 = **okosa okosa urapum**\n- 7 = 2 + 2 + 2 + 1 = **okosa okosa okosa urapum**\n\n**Conceito-chave:** Sistema de numeração aditivo de base mista — semelhante ao romano (I=1, V=5, X=10), em que combinações de símbolos representam números pela soma dos seus valores; modelo presente em diversas culturas tradicionais.",
+      "fonte": "inep_oficial",
       "fonte_url": ""
     },
     {
