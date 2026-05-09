@@ -133,8 +133,11 @@ GABARITO_2023_D2 = {  # oficiais 91-180; 164=anulada
     51:"E",52:"A",53:"B",54:"C",55:"B",56:"E",57:"D",58:"C",59:"E",60:"A",
     61:"B",62:"B",63:"E",64:"B",65:"D",66:"A",67:"B",68:"D",69:"D",70:"A",
     71:"D",72:"D",73:"A",74:"X",75:"E",76:"C",77:"A",78:"A",79:"D",80:"D",
-    81:"C",82:"C",83:"B",84:"E",85:"B",86:"E",87:"A",88:"B",89:"C",90:"C",
+    81:"C",82:"C",83:"B",84:"E",85:"B",86:"E",87:"A",88:"B",89:"D",90:"C",
 }
+# Nota Q89 d2 2023: oficial INEP Q179 = C (questao 'okosa urapum'),
+# mas o JSON do api.enem.dev importou no lugar uma questao de clima
+# cuja resposta canonica e D (intensificacao dos contrastes climaticos).
 
 GABARITOS = {
     (2018,1):GABARITO_2018_D1, (2018,2):GABARITO_2018_D2,

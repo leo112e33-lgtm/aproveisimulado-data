@@ -1500,7 +1500,7 @@
         "enem/2022/img/q053_extra1.jpg"
       ],
       "correta": "D",
-      "explicacao": "**Por que a alternativa D esta correta:** Os tres quadrados cinza tem um vertice em comum no cubo — cada quadrado ocupa um quarto da face e fica no canto adjacente ao vertice compartilhado. Na planificacao, esses quadrados aparecem nas posicoes correspondentes do canto comum, formando o padrao da alternativa D.\n\n**Conceito-chave:** Planificacao de poliedros — cada planificacao do cubo preserva relacoes de adjacencia; reconhecer faces vizinhas e essencial para visualizacao espacial.",
+      "explicacao": "**Por que a alternativa D esta correta:** No cubo da Figura 2, tres quadrados cinza ocupam um quarto de tres faces adjacentes a um vertice comum. Na planificacao em cruz da Figura 1, ao desdobrar essas tres faces, os quadrados pintados precisam aparecer no canto comum a elas — nas posicoes correspondentes do mesmo vertice apos o desdobramento. So a alternativa D respeita essa posicao relativa preservada.\n\n**Conceito-chave:** Planificacao de poliedros — adjacencia de faces e posicao de vertices comuns sao mantidas no desdobramento; visualizacao espacial fundamental em geometria.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/143"
     },

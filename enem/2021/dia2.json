@@ -1389,7 +1389,7 @@
       "imagem_principal": "enem/2021/img/q049_principal.png",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "**Por que a alternativa E esta correta:** Calculando a media de vendas por franquia para cada tipo de lanche, o tipo V apresenta a maior media nas tres franquias. Por isso a gerencia o inclui no cardapio.\n\n**Conceito-chave:** Media aritmetica simples — soma dos valores dividida pelo numero de elementos; usada em decisoes baseadas em desempenho medio.",
+      "explicacao": "**Por que a alternativa E esta correta:** Calcula-se a media de vendas por franquia para cada um dos cinco lanches (somando vendas das tres franquias e dividindo por 3). O lanche tipo V apresenta a maior media entre os cinco — por isso a gerencia o inclui definitivamente no cardapio.\n\n**Conceito-chave:** Media aritmetica simples — Σxi/n; usada em decisoes baseadas em desempenho medio entre unidades comparaveis.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/139"
     },
@@ -1559,7 +1559,7 @@
       "imagem_principal": "enem/2021/img/q055_principal.png",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "**Por que a alternativa C esta correta:** Sistema com media ponderada total = 6 min usando os percentuais x, y e o restante. Resolvendo as equacoes (3x + 5y + 12·resto)/100 = 6 e x+y+resto=100, obtem-se x=20% e y=60%.\n\n**Conceito-chave:** Media ponderada — Σ(xi·fi)/Σfi; sistemas de equacoes lineares para descobrir distribuicoes percentuais.",
+      "explicacao": "**Por que a alternativa C esta correta:** Sistema de media ponderada: o tempo medio total e 6 min, com tres faixas etarias contribuindo com seus tempos medios (3, 5 e 12 min) ponderados pelos percentuais. Resolvendo 3·x + 5·(100-x-y) + 12·y = 600 com x e y sendo os percentuais das faixas extremas, obtem-se x=20% (10-24 anos) e y=60% (24-60 anos), com 20% restantes na faixa 60+. Verificacao: 3·20 + 5·60 + 12·20 = 600 → media 6 min ✓.\n\n**Conceito-chave:** Media ponderada — Σ(xi·pi)/Σpi; sistemas lineares para inferir distribuicoes a partir da media.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/145"
     },
@@ -1761,7 +1761,7 @@
         "enem/2021/img/q062_extra3.png"
       ],
       "correta": "E",
-      "explicacao": "**Por que a alternativa E esta correta:** A equacao (a△b)*(b△a)=0 fatora-se de modo que (a△b)=0 ou (b△a)=0. Resolvendo as duas quadraticas e somando as duas maiores raizes, obtem-se o valor da alternativa E.\n\n**Conceito-chave:** Operacoes algebricas definidas e equacoes do segundo grau — composicao de operacoes nao-padrao; aplicacoes em sistemas de codificacao.",
+      "explicacao": "**Por que a alternativa E esta correta:** Com b=1, a△1 = a²+a-1 e 1△a = 1+a-a². Aplicando a operacao estrela, (a△1)*(1△a) = (a²+a-1)·(2+a-a²) = 0. Raizes: a²+a-1=0 da a=(-1±√5)/2; e 2+a-a²=0 (ou a²-a-2=0) da a=2 ou a=-1. As duas maiores raizes sao 2 e (-1+√5)/2; sua soma e (3+√5)/2 — valor recebido pelo navio receptor.\n\n**Conceito-chave:** Operacoes definidas e equacoes do segundo grau — fatoracao da composicao para evitar grau 3; soma de raizes pelo Teorema de Girard ou diretamente pela formula de Bhaskara.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/152"
     },

@@ -420,7 +420,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "**Por que a alternativa D esta correta:** Machado descreve compositor erudito (referencias a Mozart) que se rende ao maxixe popular. A obra explicita a tensa relacao entre o erudito e o popular na constituicao da musica brasileira — choque entre a formacao classica e os generos urbanos populares no fim do seculo XIX.\n\n**Conceito-chave:** Modernismo musical brasileiro — maxixe, polca, samba; Machado de Assis ja antecipava o dialogo entre alta cultura e cultura popular na configuracao da identidade musical do pais.",
+      "explicacao": "**Por que a alternativa D esta correta:** O conto 'Um homem celebre' de Machado de Assis retrata o personagem Pestana, compositor que aspira a ser erudito (referencias a Mozart) mas se rende a polcas/maxixes populares — generos associados historicamente a escravidao e a mesticagem. Esse conflito interno representa a tensa relacao entre o erudito e o popular na constituicao da musica brasileira: a alta cultura desejada vs. o gosto popular que efetivamente impulsiona o sucesso.\n\n**Conceito-chave:** Cultura erudita vs. popular no Brasil — Machado anteviu no seculo XIX o dilema central da identidade musical brasileira; tema retomado no Modernismo e consolidado com Villa-Lobos.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/15"
     },
@@ -700,7 +700,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "**Por que a alternativa B esta correta:** O delegado usa expressoes pomposas misturadas a giria ('dura lex', 'morou?', 'em cana'), tratando os 'gringos' com autoritarismo caricato. Esse contraste linguistico confere a narrativa um tom anedotico — situacao comica que ridiculariza a propria figura do agente da autoridade.\n\n**Conceito-chave:** Anedota literaria — narrativa breve e comica que ironiza autoridades por meio do exagero e do contraste de registros; recurso classico da literatura brasileira de costumes.",
+      "explicacao": "**Por que a alternativa B esta correta:** O delegado mistura linguagem rebuscada ('dura lex', 'autoridades constituidas') com gírias ('em cana', 'morou?', 'gringos'), criando uma figura caricata. O ponto comico vem quando ele descobre que a mulher e parente de militares de alta patente — encolhe imediatamente ('Estaressudo... — Da alva, minha senhora?'). Esse desfecho confere a narrativa um tom anedotico: a autoridade aparente desmonta-se como anedota.\n\n**Conceito-chave:** Anedota literaria (Fernando Sabino, 'A mulher do vizinho') — narrativa breve que ridiculariza autoridades pelo contraste entre pose e realidade; recurso classico da cronica brasileira.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/25"
     },
@@ -1064,7 +1064,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "**Por que a alternativa C esta correta:** O eu lirico recorda 'brilho das mares', 'peixes rosados', 'meus pes molhados' — imagens da memoria afetiva. O desejo expresso remete ao sonho de autorrealizacao desenhado pela memoria — o reencontro projetado a partir das lembrancas.\n\n**Conceito-chave:** Lirica amorosa contemporanea (Hilda Hilst) — memoria afetiva como motor do desejo; reencontro e plenitude buscados via reconstrucao do passado.",
+      "explicacao": "**Por que a alternativa C esta correta:** O eu lirico do poema de Hilda Hilst pede ao outro 'manda-me dizer' ('e lua cheia', 'e lua nova') e evoca lembrancas concretas — 'brilho das mares', 'peixes rosados', 'meus pes molhados'. Essas imagens da memoria sustentam o desejo do reencontro pleno ('revestida de luz te volto a ver') — o sonho de autorrealizacao desenhado pela memoria.\n\n**Conceito-chave:** Lirica amorosa contemporanea de Hilda Hilst — memoria afetiva como forca propulsora do desejo; a plenitude se constroi pela evocacao de momentos passados, projetada como reencontro futuro.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/38"
     },
@@ -1484,7 +1484,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "**Por que a alternativa B esta correta:** Ze de Sila relata pratica da avo (rezar e emborcar pratos para sustentar a chuva) — costume tradicional regional. O texto destaca praticas misticas associadas a patrimonio cultural — religiosidade popular como heranca cultural do sertao.\n\n**Conceito-chave:** Patrimonio imaterial — saberes, ritos e tradicoes populares constituem cultura brasileira; valorizados pelo IPHAN como patrimonio.",
+      "explicacao": "**Por que a alternativa B esta correta:** Ze de Sila relata pratica da avo paraibana: emborcar pratos no terreiro e rezar para sustentar a chuva — costume da cultura sertaneja. O texto destaca essa pratica como exemplo de praticas misticas associadas a patrimonio cultural — religiosidade popular e saber da terra constituem patrimonio imaterial regional.\n\n**Conceito-chave:** Patrimonio imaterial brasileiro — saberes, ritos e tradicoes (como simpatias para chuva) sao reconhecidos pelo IPHAN como bens culturais; tipico do sertao nordestino.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/53"
     },
