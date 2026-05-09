@@ -28,7 +28,7 @@
       "imagem_principal": "enem/2022/img/q001_principal.jpg",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** O cartaz, vinculado ao Instituto Nacional de Línguas Indígenas (INALI), tem foco em valorizar e preservar as línguas originárias do México como elemento da diversidade linguística. A função social é defender a preservação dessas línguas e da pluralidade cultural por trás delas.\n\n**Conceito-chave:** Função social do gênero cartaz — peças institucionais com finalidade conscientizadora. Identificar a função exige cruzar produtor, público e tema do texto.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/1"
     },
@@ -56,7 +56,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** O autor critica como o celular invade decisões pessoais ao decidir o que é \"recuerdo\" sem ser solicitado. A indignação central é com a ingerência do aparelho sobre escolhas que deveriam ser do usuário, como o que vale a pena ser lembrado.\n\n**Conceito-chave:** Crítica à automatização da experiência — algoritmos de smartphones interferem em campos antes íntimos (memória, relacionamentos), tema central da reflexão contemporânea sobre tecnologia.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/2"
     },
@@ -84,7 +84,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Em Cuba, \"mi sangre\" lembra laços de solidariedade em contexto de escassez; em Caracas, \"mi pana\" remete à fome física e \"mi llave\" à proteção em momentos de perseguição (caso Benedetti em Buenos Aires sob o terror). As expressões variam segundo o papel da amizade em cada contexto — proteger, alimentar, salvar.\n\n**Conceito-chave:** Lexicultura — palavras carregam contextos históricos e sociais. As variações regionais não são aleatórias: respondem a vivências coletivas.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/3"
     },
@@ -112,7 +112,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** A canção descreve crianças sem lar, dormindo na rua, esquivando balas, pedindo esmolas. \"Un mañana sin sol\" sintetiza um futuro sem esperança como crítica direta ao descaso da sociedade com a problemática das crianças em situação de rua.\n\n**Conceito-chave:** Letra de canção como denúncia social — recurso usado por compositores para tratar temas que outros gêneros formais nem sempre alcançam. A ausência de luz simboliza a ausência de futuro.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/4"
     },
@@ -140,7 +140,7 @@
       "imagem_principal": "enem/2022/img/q005_principal.jpg",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** As palavras \"crianzas\" (criação coletiva) e \"tribu\" remetem ao provérbio \"é preciso uma tribo para criar uma criança\". O texto evidencia a importância de uma rede de apoio para as mães na criação dos seus filhos, contra a ideia da maternidade solitária e isolada.\n\n**Conceito-chave:** Maternidade compartilhada — perspectiva feminista que questiona o ideal de mãe solitária e celebra responsabilidade coletiva no cuidado infantil.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/5"
     },
@@ -168,7 +168,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** O texto é construído sobre metáforas — \"a vida engata uma primeira e sai em disparada\", \"caímos fatalmente no vício\", \"amor não pode ser mastigado e engolido\". Esse uso intenso de imagens figuradas, em vez de termos técnicos, revela registro distenso e pouco formal.\n\n**Conceito-chave:** Marcas de informalidade no texto opinativo — uso de metáforas cotidianas, primeira pessoa do plural inclusiva e linguagem acessível são típicos de crônica e textos de blog.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/6"
     },
@@ -196,7 +196,7 @@
       "imagem_principal": "enem/2022/img/q007_principal.png",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** O Texto I (cartaz de campanha) busca incentivar a adoção de animais. O Texto II conta a história do Delegado, cão comunitário que viveu nas ruas porque \"talvez lhe tenham feito mal dentro de quatro paredes\" — tom que problematiza a adoção, mostrando que nem todos animais se ajustam ao ambiente doméstico.\n\n**Conceito-chave:** Comparação entre textos com tema comum — mesmo assunto pode ser abordado por ângulos opostos. Diferenças aparecem nas escolhas lexicais e nos enquadramentos.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/7"
     },
@@ -224,7 +224,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** Ao substituir personagens estereotipadas por mulheres notáveis (cientistas, ativistas, artistas), o jogo \"Who's She?\" promove conhecimento sobre figuras históricas femininas. Isso contribui para a formação cidadã dos jogadores ao expandir referências culturais e diversificar modelos.\n\n**Conceito-chave:** Função pedagógica do produto cultural — jogos, livros e filmes podem incorporar valores éticos e cidadãos, transformando-se em ferramentas de educação informal.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/8"
     },
@@ -252,7 +252,7 @@
       "imagem_principal": "enem/2022/img/q009_principal.png",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** A peça publicitária expõe situações em que motoristas causam acidentes, mostrando consequências para os outros. O apelo central é despertar o sentimento de culpa no condutor causador, levando-o a refletir sobre suas atitudes e dirigir com mais responsabilidade.\n\n**Conceito-chave:** Apelos persuasivos em peças publicitárias — campanhas de conscientização frequentemente usam medo, culpa ou identificação para alterar comportamento, em vez de só informar.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/9"
     },
@@ -280,7 +280,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** O texto destaca que, embora a internet amplie compartilhamento e criação artística, ela também \"ganha dimensão dos dilemas envolvidos com a questão da autoria, dos direitos autorais, da reprodução e intervenção não autorizadas\". Ou seja, ameaça a proteção da produção estética.\n\n**Conceito-chave:** Direitos autorais na era digital — facilidade de reprodução desafia conceitos tradicionais de autoria, originalidade e propriedade intelectual.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/10"
     },
@@ -308,7 +308,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** O texto desmonta o mito de que novas tecnologias são intuitivas e dispensam aprendizado. Ao contrário, \"cada nova técnica exige uma longa iniciação numa nova linguagem\". O impacto principal nos usuários é a dificuldade na apropriação dessa nova linguagem.\n\n**Conceito-chave:** Letramento tecnológico — domínio de novas tecnologias exige aprendizado de linguagens específicas, não é automático. Inclusão digital depende dessa alfabetização.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/11"
     },
@@ -336,7 +336,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** O texto encena uma conversa cotidiana entre dois interlocutores. As correções gramaticais (\"disseram-me\", \"matar-lhe-ei-te\") soam absurdas e desproporcionais ao registro descontraído. A inadequação ocorre porque a norma-padrão ignora o contexto informal de comunicação.\n\n**Conceito-chave:** Adequação linguística ao contexto — não há \"certo\" ou \"errado\" absolutos; há registros adequados a cada situação. Dialeto culto na conversa banal soa pedante.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/12"
     },
@@ -364,7 +364,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** A pesquisa mostra que justamente os mais escolarizados, mais ricos e brancos têm maior acesso à internet. Os pesquisadores questionam, portanto, a crença de que o acesso à informação online é igualitário e democrático — na prática, ele reproduz desigualdades sociais.\n\n**Conceito-chave:** Exclusão digital — a internet não é distribuída equitativamente; barreiras econômicas e educacionais fazem com que ela amplifique desigualdades preexistentes.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/13"
     },
@@ -392,7 +392,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** O Texto I afirma que a língua reflete e classifica a realidade conforme experiências de um povo. O Texto II mostra exemplos concretos: expressões como \"dia negro\", \"lado negro\", \"ovelha negra\" carregam discriminação racial. O léxico, portanto, incorpora preconceitos da história social.\n\n**Conceito-chave:** Língua como construção social — escolhas lexicais refletem valores históricos, inclusive preconceitos enraizados; conscientizar-se delas é parte do antirracismo linguístico.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/14"
     },
@@ -420,7 +420,7 @@
       "imagem_principal": "enem/2022/img/q015_principal.png",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** O post do Senado se apropria de elementos visuais de outro gênero (provavelmente publicitário ou meme) para divulgar o projeto sobre transparência da administração pública. A função é tornar o tema acessível e atrativo nas redes sociais.\n\n**Conceito-chave:** Hibridização de gêneros — instituições oficiais adotam estéticas de redes sociais (memes, infográficos) para alcançar públicos mais amplos. Mistura de gêneros redefine o tom e o alcance da comunicação institucional.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/15"
     },
@@ -448,7 +448,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** O texto descreve o filme \"Elena\", trazendo informações sobre personagens, contexto e percurso narrativo. Esse padrão é típico de crítica/resenha cinematográfica — gênero que avalia uma obra para o leitor decidir se vai assisti-la.\n\n**Conceito-chave:** Resenha crítica — gênero híbrido entre informar e avaliar; descreve o objeto cultural e emite juízo sobre ele para o leitor.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/16"
     },
@@ -476,7 +476,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** O texto se constitui como poema porque utiliza recursos figurativos como a metáfora, em \"As palavras têm corpo e alma\" — atribui qualidades humanas (corpo, alma, querer, dizer) às palavras, abandonando a definição técnica e abrindo o significado.\n\n**Conceito-chave:** Linguagem poética x linguagem referencial — o poema explora plurissignificação, ritmo e figuras de linguagem; usa a palavra para evocar, não apenas para informar.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/17"
     },
@@ -504,7 +504,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** O texto encadeia frases curtas, fragmentos nominais e orações verbais sem conectivos elaborados — \"Quadrados de pedregulho irregular socados à mão. À mão!\" — criando uma justaposição de sequências verbais e nominais que reproduz o pensamento agitado e indignado do narrador.\n\n**Conceito-chave:** Recursos sintáticos da prosa contemporânea — fragmentação, frases curtas e ausência de conectivos imitam o fluxo do pensamento, característica do estilo introspectivo e crítico.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/18"
     },
@@ -532,7 +532,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** O texto não isola a violência aos estádios; ela é apresentada como reflexo de um quadro mais amplo: 61 mil homicídios anuais no Brasil, escalada de violência social. A violência no futebol é, portanto, manifestação da precariedade da organização social do país.\n\n**Conceito-chave:** Análise sociológica — fenômenos isolados (violência no esporte) precisam ser lidos no contexto estrutural; medidas pontuais (proibir torcidas) são ineficazes sem enfrentar as causas sociais profundas.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/19"
     },
@@ -560,7 +560,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** A pesquisa mostra correlação direta entre escolaridade/renda e prática de atividade física: quanto mais educação e renda, mais exercício. Para impactar a saúde dos brasileiros, é preciso atacar essas duas variáveis estruturais — ações relacionadas a educação e distribuição de renda.\n\n**Conceito-chave:** Determinantes sociais da saúde — saúde não é só biológica; depende de condições socioeconômicas, escolaridade e acesso a recursos. Intervenções eficazes consideram esses determinantes.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/20"
     },
@@ -588,7 +588,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** A senhora invoca \"moral religiosa\" e \"moral cívica\" para denunciar a escravidão e expõe a contradição entre o discurso cristão (sangue de Cristo como redenção) e a prática escravista — apontando a hipocrisia do discurso conservador que defendia a escravidão usando os mesmos princípios morais.\n\n**Conceito-chave:** Romantismo brasileiro e abolicionismo — literatura do XIX usa diálogo e oratória para expor contradições sociais; argumento ad hominem moral é recurso comum.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/21"
     },
@@ -616,7 +616,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** Ambos os textos descrevem projetos de tecnologia voltados à inclusão de pessoas com deficiência, com foco em garantir acesso à informação. O ponto comum é que os dois projetos buscam disseminar conhecimento em condições antes inacessíveis.\n\n**Conceito-chave:** Tecnologia assistiva e inclusão — soluções tecnológicas para reduzir barreiras de acesso à informação são tema central de políticas educacionais contemporâneas.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/22"
     },
@@ -644,7 +644,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** A descrição dos olhos verdes de Maria Santa não é apenas física — eles \"diziam logo a sua origem cruzada e decantada através das misérias e dos orgulhos\" de seus antepassados. Os olhos refletem a marca de antigos sofrimentos no fluxo de consciência da personagem.\n\n**Conceito-chave:** Caracterização indireta — olhar e gestos como condensação de história ancestral, recurso típico do romance regionalista que conecta indivíduo e linhagem.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/23"
     },
@@ -672,7 +672,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** O exemplo do pedido de pão usando linguagem jurídica formal mostra como a fala rebuscada se torna ridícula em situação cotidiana. O autor evidencia a importância de adequar a linguagem ao contexto comunicativo — princípio que vale também para o jurista.\n\n**Conceito-chave:** Adequação linguística — \"saber quando e como\" usar cada registro é mais importante que dominar formas elevadas; comunicação exige sintonia com o interlocutor.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/24"
     },
@@ -700,7 +700,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** A jornalista celebra a vitória de Rayssa Leal e questiona padrões que enquadram pessoas em papéis fixos: \"a menina ganha boneca, mas por que também não fazer um esporte de aventura?\". O discurso busca desconstruir a noção do skate como modalidade masculina.\n\n**Conceito-chave:** Estereótipos de gênero no esporte — atividades historicamente masculinas vêm sendo questionadas; representatividade feminina em conquistas esportivas amplia o repertório cultural.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/25"
     },
@@ -728,7 +728,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** A função emotiva expressa o estado interior do emissor (1ª pessoa). O verso \"A cidade não mora mais em mim\" usa o pronome \"mim\" e a forma reflexiva para expressar o sentimento pessoal do eu lírico, que rompe com a vida urbana.\n\n**Conceito-chave:** Funções da linguagem (Jakobson) — função emotiva é centrada no emissor; função poética (predominante aqui) na própria mensagem; identificar marcas pronominais é o caminho para distinguir cada uma.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/26"
     },
@@ -756,7 +756,7 @@
       "imagem_principal": "enem/2022/img/q027_principal.png",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** A articulação entre verbal e visual da peça mostra estereótipos de gênero (mulher = doméstica, homem = trabalho) como construções a serem questionadas. O propósito é desencadear a revisão dessas representações estereotipadas.\n\n**Conceito-chave:** Multimodalidade em peças críticas — combinação de imagem e texto verbal cria efeito persuasivo; ironia visual desnaturaliza papéis sociais que parecem óbvios.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/27"
     },
@@ -784,7 +784,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** O movimento de recuperação da língua patxôhã não é só linguístico: ele responde à perseguição histórica do povo Pataxó (Fogo de 1951) e visa preservar a identidade. \"Você diz quem você é por meio da sua língua\" — conjuga resistência étnica e preservação da memória cultural.\n\n**Conceito-chave:** Língua e identidade — para povos originários, recuperar a língua é ato de resistência política e cultural simultaneamente; perda da língua = perda de cosmologia.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/28"
     },
@@ -812,7 +812,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Bárbara aparece como \"criaturinha leve e breve\", de \"sacerdotisa\" com olhos opacos e agudos que \"revolviam o coração\". Machado constrói ironicamente um misto de singeleza (chinelinha, fita enxovalhada) e astúcia (olhar penetrante, aceitação calculada do trabalho), expondo a teatralidade do ofício.\n\n**Conceito-chave:** Ironia machadiana — alterna entre seriedade aparente e sutil deboche dos personagens; descrição minuciosa esconde julgamento sutil.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/29"
     },
@@ -840,7 +840,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** O narrador descreve Margarida como agindo por \"egoísta e cru instinto da maternidade, obrando por mera simpatia carnal\" — explicando comportamento humano por instinto biológico. Esse determinismo natural é traço típico do pensamento científico que influenciou o naturalismo (escola de Zola, Aluísio Azevedo).\n\n**Conceito-chave:** Naturalismo — escola literária do XIX inspirada no positivismo e darwinismo social; trata personagens como produtos de hereditariedade, ambiente e instintos biológicos.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/30"
     },
@@ -868,7 +868,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** O Romance de 30 (segunda fase modernista) caracteriza-se pelo retrato cru da realidade nordestina, especialmente da seca e dos retirantes. O texto mostra essa realidade sem idealização: \"esqueletos redivivos\", \"fedor das covas podres\", \"barrigas alarmantes\" — desenho cru e dramático típico do gênero.\n\n**Conceito-chave:** Romance de 30 (literatura regionalista) — Graciliano Ramos, José Lins do Rego, Jorge Amado, Rachel de Queiroz; foco em condições sociais do Nordeste, retirantes, secas, latifúndio.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/31"
     },
@@ -896,7 +896,7 @@
       "imagem_principal": "enem/2022/img/q032_principal.jpg",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** O texto sobre nativos digitais discute como crianças interagem com tecnologia em diferentes idades, apontando ações específicas para cada etapa da infância (limites de tela, tipos de interação adequada, etc.).\n\n**Conceito-chave:** Educação digital por faixa etária — recomendações pedagógicas modernas levam em conta desenvolvimento cognitivo, emocional e social em cada estágio.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/32"
     },
@@ -924,7 +924,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** Machado usa enumeração — \"caixão, essa, tocheiros, convites, convidados...\" — para listar elementos do velório. Essa técnica de inventariar objetos e ações dá ao texto o caráter de \"notas\", como o próprio narrador classifica.\n\n**Conceito-chave:** Enumeração como recurso estilístico — acúmulo de itens sem hierarquia gera efeito de lista, contraste com narração tradicional. Recurso experimental em Machado.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/33"
     },
@@ -952,7 +952,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** O mountainboard nasceu de praticantes de snowboard que queriam treinar fora da temporada de neve — adaptaram um esporte a outro ambiente. A criatividade para adaptações a novos espaços é justamente uma das marcas das atividades de aventura.\n\n**Conceito-chave:** Esportes de aventura/lifestyle sports — caracterizam-se por flexibilidade de espaço, regras informais e criatividade, em oposição aos esportes federados tradicionais.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/34"
     },
@@ -980,7 +980,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Clarice Lispector reflete sobre o gênero crônica e questiona a obrigação de ser \"mais leve\", \"divertir\", \"fazer passar uns minutos de leitura\" — características da brevidade no tratamento da temática que o gênero exige por sua natureza jornalística.\n\n**Conceito-chave:** Crônica como gênero jornalístico-literário — texto curto, leve, sobre cotidiano. Tensão entre liberdade artística e exigências do veículo é tema clássico do gênero.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/35"
     },
@@ -1008,7 +1008,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Além de informar sobre o projeto de lei, a notícia chama atenção para a leishmaniose como problema de saúde pública na região. A finalidade adicional é conscientizar a população sobre a gravidade da doença e a importância da prevenção.\n\n**Conceito-chave:** Notícia como gênero híbrido — função primária é informar, mas pode incorporar funções persuasiva e educativa, especialmente em saúde pública.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/36"
     },
@@ -1036,7 +1036,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** A positividade tóxica nasce da exposição constante a vidas \"perfeitas\" nas redes sociais — corpos esbeltos, viagens, alegria contínua. São representações estereotipadas e superficiais de felicidade: imagens editadas e fragmentárias que escondem a realidade complexa da vida.\n\n**Conceito-chave:** Cultura digital e saúde mental — comparação social ascendente nas redes gera frustração; reconhecer que perfis representam recortes idealizados é parte da educação midiática.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/37"
     },
@@ -1064,7 +1064,7 @@
       "imagem_principal": "enem/2022/img/q038_principal.jpg",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** O Maneirismo (séc. XVI-XVII), do qual El Greco é referência, caracteriza-se por figuras alongadas, posturas torcidas, anatomia distorcida e tons dramáticos — afastando-se do equilíbrio renascentista. A obra mostra exatamente essa distorção ao representar a figura humana.\n\n**Conceito-chave:** Maneirismo — escola de transição entre Renascimento e Barroco; busca expressividade pela distorção, perspectiva incomum e cores intensas, em vez do ideal clássico de proporção.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/38"
     },
@@ -1092,7 +1092,7 @@
       "imagem_principal": "enem/2022/img/q039_principal.jpg",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** A obra de Donald Judd combina formas geométricas simples — caixas, cubos, retângulos — em arranjos que ocupam o espaço de modo deliberado. O minimalismo se define por essa combinação de formas sintéticas distribuídas em um ambiente, sem narrativa nem representação.\n\n**Conceito-chave:** Minimalismo (anos 1960) — reduziu a arte a elementos formais essenciais; o objeto e seu lugar no espaço são a obra, sem simbolismo ou referência externa.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/39"
     },
@@ -1120,7 +1120,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** A análise do texto sobre Firmo, o vaqueiro, evidencia características regionalistas: vocabulário específico, descrição do trabalho rural, valores culturais do sertanejo. O texto se filia à tradição de retratar particularidades regionais, característica destacada na alternativa D.\n\n**Conceito-chave:** Regionalismo literário — registra modos de viver, falar e pensar de regiões específicas, fixando aspectos culturais que escapam à literatura urbana hegemônica.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/40"
     },
@@ -1148,7 +1148,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** O personagem se entrega ao carnaval com \"ânsia de acanalhar-se\" e ao mesmo tempo classifica seu comportamento como \"ignóbil\". Há simultaneamente atração pelo deboche e asco diante das atitudes libertinas — sentimento ambíguo característico da literatura decadentista de João do Rio.\n\n**Conceito-chave:** Decadentismo literário — sondagem da moralidade nos prazeres e vícios urbanos; tensão entre o desejo e o juízo crítico é marca do gênero.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/41"
     },
@@ -1176,7 +1176,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Ao reproduzir a fala do tenente sobre delinquência na favela, Carolina Maria de Jesus faz a observação ácida: \"se ele sabe disto, porque não faz um relatório e envia para os políticos?... Agora falar para mim, que sou uma pobre lixeira\". A resposta é claramente irônica diante do discurso da autoridade.\n\n**Conceito-chave:** Ironia em texto autobiográfico — mecanismo de resistência simbólica de pessoas em situação de marginalização; expõe contradições do poder sem confronto direto.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/42"
     },
@@ -1204,7 +1204,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** A trajetória de Vanda (gata-borralheira, nariz quebrado por rolo de pão) é apresentada com leve humor familiar — \"fazia-nos apertar seu nariz quebrado\" — em tom de causo doméstico. Essa representação anedótica de atos de violência cria efeito expressivo paradoxal: rir do horror.\n\n**Conceito-chave:** Tom anedótico em violência social — recurso literário que torna a denúncia palatável e mais impactante, pelo contraste entre o leve e o trágico.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/43"
     },
@@ -1232,7 +1232,7 @@
       "imagem_principal": "enem/2022/img/q044_principal.jpg",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** O ready-made de Duchamp transformou objeto cotidiano em arte, criticando o sistema artístico. A instalação In absentia (1983) mantém esse gesto de desafio aos critérios estéticos tradicionais — as criações desmistificam os valores estéticos estabelecidos pelo cânone museológico.\n\n**Conceito-chave:** Arte conceitual e ready-made — questionamento institucional sobre o que é arte; o gesto e o contexto importam mais que a habilidade técnica ou a beleza.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/44"
     },
@@ -1260,7 +1260,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** O manguebeat fundiu maracatu, hip-hop, rock e elementos eletrônicos com o sotaque recifense. Essa integração de referenciais culturais de diferentes origens criou uma estética híbrida e nova, renovando a música pernambucana sem apagar suas raízes.\n\n**Conceito-chave:** Hibridismo cultural na música pop — diálogos entre tradição local e formas globais geram novas estéticas (samba-rock, mangue-beat, rap caipira); inovação por mistura, não por substituição.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/45"
     },
@@ -1288,7 +1288,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** O sertanejo prevê chuvas de janeiro a junho usando seis pedrinhas de sal — leitura empírica da umidade ambiente. Essa observação sutil das condições climáticas, integrada a tradições religiosas (dia de Santa Luzia), evidencia a intimidade do sertanejo com a Caatinga ao interpretar condições ambientais.\n\n**Conceito-chave:** Saber tradicional sertanejo — conhecimento prático e simbólico construído por gerações; ciência popular sobre ciclos climáticos e ambientais sem base laboratorial.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/46"
     },
@@ -1316,7 +1316,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** Hannah Arendt afirma que \"é o discurso que faz do homem um ser político\" e que os significados surgem na interação entre os homens em plural. A linguagem é o tecido que torna possível a sociabilidade — sem ela, não há comunidade política nem mundo compartilhado.\n\n**Conceito-chave:** Filosofia política de Hannah Arendt — o domínio público é construído pela linguagem; agir é falar com outros; condição humana é, antes de tudo, plural.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/47"
     },
@@ -1344,7 +1344,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** Carolina relata um guarda civil branco espancando e amarrando um preto, e questiona se \"ainda estamos em regime de chibata\". A cena exibe um padrão sistêmico de violência racial — não um caso isolado — caracterizando o racismo estrutural na sociedade brasileira.\n\n**Conceito-chave:** Racismo estrutural — racismo embutido em instituições e práticas cotidianas; opera mesmo sem agentes \"racistas\" individuais, reproduzindo desigualdades raciais por padrões sociais.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/48"
     },
@@ -1372,7 +1372,7 @@
       "imagem_principal": "enem/2022/img/q049_principal.png",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** A urbanização impermeabiliza o solo (asfalto, concreto), reduz infiltração e aumenta o escoamento superficial. Isso afeta diretamente o ciclo hidrológico — menos infiltração para o lençol freático, mais escoamento, alteração de evapotranspiração e maior risco de enchentes.\n\n**Conceito-chave:** Ciclo da água em meio urbano — impermeabilização altera o equilíbrio entre infiltração, escoamento e evaporação, gerando enchentes e estresse hídrico em cidades.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/49"
     },
@@ -1400,7 +1400,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** A construção da Madeira-Mamoré apresentou hospitais modernos, ciência avançada, mas trabalhadores tratados como \"cobaias sem consolo\". A crítica é a contradição entre o desenvolvimento nacional (ferrovia, modernização) e o desrespeito aos trabalhadores que pagaram com a vida.\n\n**Conceito-chave:** Modernização autoritária — projetos modernizantes de Estado historicamente sacrificam mão de obra (escravizada, indígena, migrante); contradição entre progresso técnico e custo humano.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/50"
     },
@@ -1428,7 +1428,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** Castells descreve uma economia global em rede, em que produção, finanças e informação fluem entre territórios sem necessidade de coincidência geográfica. A consequência estrutural é a desterritorialização da produção — empresa pode ter design no Japão, fábrica no Vietnã e cliente nos EUA, sem unidade territorial.\n\n**Conceito-chave:** Globalização produtiva — empresas multinacionais redistribuem etapas da cadeia produtiva conforme custo e tecnologia, dissociando produção de fronteiras nacionais.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/51"
     },
@@ -1456,7 +1456,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** A canção valoriza personagens do campo (Clemente, Zezé, Maria) que produzem alimentos (semente, cacau, milho) que sustentam a cidade. A relação rural-urbano evidenciada é a função do campo de promover a produção alimentar — \"arroz com feijão\" para o gigante urbano.\n\n**Conceito-chave:** Geografia agrária — espaço rural ainda concentra produção primária essencial para a vida urbana, mesmo com industrialização e urbanização crescentes.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/52"
     },
@@ -1484,7 +1484,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** A inserção das mulheres em práticas de leitura e escrita no Segundo Reinado — escritoras, leitoras de folhetins, imprensa feminina — caracteriza o surgimento de novas práticas culturais que reposicionavam a mulher no espaço público letrado.\n\n**Conceito-chave:** Mulheres na cultura letrada do XIX — passagem de excluídas à categoria de público e produtoras culturais é processo lento; folhetim e imprensa femininas foram porta de entrada.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/53"
     },
@@ -1512,7 +1512,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** Os caixeiros do Rio de Janeiro se associaram a republicanos e abolicionistas na década de 1880 — momento de questionamento do regime imperial. A ação coletiva representou contestação dos princípios monárquicos, prenunciando a Proclamação da República em 1889.\n\n**Conceito-chave:** Movimento operário e crise do Império — organização de trabalhadores urbanos no fim do XIX se entrelaça com causas abolicionista e republicana, abalando os fundamentos do regime monárquico.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/54"
     },
@@ -1540,7 +1540,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** O texto explica que a salinização ocorre quando água com sais evapora antes de infiltrar-se totalmente. Sistemas de irrigação no semiárido sem drenagem adequada repetem esse processo artificialmente — a água sobe, evapora e deposita sal na superfície, intensificando a salinização.\n\n**Conceito-chave:** Salinização do solo — problema ambiental do uso intensivo de irrigação em regiões áridas; agricultura sem drenagem adequada acumula sais que tornam o solo improdutivo.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/55"
     },
@@ -1568,7 +1568,7 @@
       "imagem_principal": "enem/2022/img/q056_principal.png",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** A pandemia escancarou que muitos estudantes não tinham internet, computador ou pacote de dados adequado para acompanhar aulas remotas. A crítica visual e textual aponta para a exclusão social — a desigualdade preexistente foi amplificada e tornada visível pela crise.\n\n**Conceito-chave:** Exclusão digital como exclusão social — falta de acesso a tecnologia reproduz desigualdades de classe; pandemia transformou desigualdade silenciosa em crise educacional explícita.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/56"
     },
@@ -1596,7 +1596,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** Foucault analisa modelos de controle (lepra/exclusão e peste/disciplina) para mostrar como a sociedade moderna é organizada pela vigilância detalhada — recortes, repartições, registro, monitoramento individualizado. Isso caracteriza a formação da sociedade disciplinar moderna.\n\n**Conceito-chave:** Sociedade disciplinar (Foucault) — instituições modernas (escola, prisão, hospital, fábrica) operam por vigilância e produção de corpos dóceis; poder difuso e capilar, não apenas repressivo.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/57"
     },
@@ -1624,7 +1624,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** Juazeiro do Norte, com beata Maria de Araújo e Padre Cícero, exemplifica como o catolicismo popular cria lugares místicos a partir de relatos de milagres e devoções não autorizadas pela hierarquia. Esses fenômenos místicos consolidaram um espaço sagrado popular distinto do oficial.\n\n**Conceito-chave:** Catolicismo popular brasileiro — manifestações religiosas que combinam doutrina católica com elementos populares, milagres não institucionais e culto a figuras locais (Padre Cícero, Frei Damião, Antônio Conselheiro).",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/58"
     },
@@ -1652,7 +1652,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** O Programa de Aquisição de Alimentos (PAA) garante a compra pública de produtos da agricultura familiar — assentados, sem-terra, quilombolas, indígenas. A vantagem central para os pequenos produtores é a comercialização garantida, eliminando incerteza sobre venda e preço.\n\n**Conceito-chave:** Política pública de soberania alimentar — Estado como comprador estratégico da agricultura familiar fortalece pequenos produtores e abastece programas sociais (merenda, restaurantes populares).",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/59"
     },
@@ -1680,7 +1680,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** O experimento FunFit usa celulares para medir atividade física e ligar incentivos financeiros a um par de pessoas conhecidas — se eu ando, meus amigos ganham. O dispositivo, normalmente associado a isolamento, aqui assume função social, estimulando reciprocidade e cooperação por meios digitais.\n\n**Conceito-chave:** Efeitos sociais positivos da tecnologia — design de aplicações pode moldar comportamento; redes sociais não geram automaticamente isolamento, podem fortalecer cooperação e responsabilidade mútua.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/60"
     },
@@ -1708,7 +1708,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** A IA aplicada à dublagem substitui dubladores e atores em postos de trabalho específicos. Esse padrão se repete em diversos setores e caracteriza desemprego estrutural — perda de empregos não por crise conjuntural, mas por mudança permanente nas tecnologias de produção.\n\n**Conceito-chave:** Desemprego estrutural — vagas extintas pela automação não retornam; trabalhadores precisam migrar de carreira ou se requalificar.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/61"
     },
@@ -1736,7 +1736,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** O Mercosul é uma união aduaneira — bloco com Tarifa Externa Comum (TEC) aplicada por todos os países a importações de fora. Por isso qualquer alteração na tarifa exige consenso entre os membros, justificando a negociação diplomática descrita.\n\n**Conceito-chave:** Etapas de integração econômica — área de livre comércio (sem tarifas internas), união aduaneira (+ TEC comum), mercado comum (+ livre circulação de fatores), união econômica (+ moeda).",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/62"
     },
@@ -1764,7 +1764,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** Na Gália merovíngia (séc. VI), o auxílio aos famintos pertencia à esfera da gestão pública, mesmo apresentado em termos de caridade individual. Essa responsabilidade decorria do conceito de monarquia cristã — o rei era responsável pelo bem-estar dos súditos como dever religioso e político.\n\n**Conceito-chave:** Monarquia cristã medieval — fusão entre poder político e missão religiosa; rei como vigário de Deus na Terra, com obrigações pastorais sobre o povo.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/63"
     },
@@ -1792,7 +1792,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** A interação entre forças tectônicas (vulcanismo) e forças meteorológicas (intemperismo) gera solos vulcânicos extremamente férteis em regiões como o sudeste asiático. Essa fertilidade favorece a ocupação humana e o desenvolvimento agrícola.\n\n**Conceito-chave:** Pedogênese — formação do solo combina rocha-mãe (geologia), clima, biota, relevo e tempo. Solos vulcânicos jovens, ricos em minerais, sustentam densas populações em áreas de risco vulcânico.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/64"
     },
@@ -1820,7 +1820,7 @@
       "imagem_principal": "enem/2022/img/q065_principal.png",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** A ilustração mostra a escalada da violência contra a mulher culminando no homicídio. O ápice dessa conduta social — assassinato de uma mulher por ser mulher — é tipificado como feminicídio, crime previsto na lei brasileira desde 2015.\n\n**Conceito-chave:** Feminicídio — homicídio motivado por gênero (violência doméstica, menosprezo à condição feminina); reconhecer essa especificidade é essencial para políticas de prevenção.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/65"
     },
@@ -1848,7 +1848,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** O Visconde de Cayru defende currículo reduzido para meninas, apoiado em uma visão da mulher como sexo \"intelectualmente menor\" — dominação de corpos. O Marquês de Santo Amaro defende currículo idêntico — pressuposto de igualdade humana entre os sexos. Os discursos se opõem nesse eixo.\n\n**Conceito-chave:** História da educação feminina — exclusão das mulheres do conhecimento elaborado foi instrumento histórico de dominação; igualdade educacional é luta longa, ainda inacabada.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/66"
     },
@@ -1876,7 +1876,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** A ocupação de terrenos abandonados é estratégia de movimentos sociais para fazer cumprir o art. 6º da Constituição — direito à moradia — diante da omissão do poder público. A ação visa, portanto, garantir o preceito constitucional, e não desafiar a ordem.\n\n**Conceito-chave:** Direito à cidade e função social da propriedade — propriedade não absoluta; deve cumprir função social. Movimentos como MTST e MST atuam na fronteira entre exercício legítimo e ilegalidade formal.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/67"
     },
@@ -1904,7 +1904,7 @@
       "imagem_principal": "enem/2022/img/q068_principal.png",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** O texto identifica regiões \"insubmissas\" às normas dos EUA, FMI, OMC e Banco Mundial. A preocupação não é militar nem cultural, mas econômica — assegurar a expansão da economia neoliberal global. A estratégia é, portanto, de ampliação da influência econômica.\n\n**Conceito-chave:** Hegemonia econômica — controle pelo capital de instituições financeiras internacionais (Banco Mundial, FMI) impõe regras que beneficiam países centrais e mantêm dependência periférica.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/68"
     },
@@ -1932,7 +1932,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** Putin justifica a anexação da Crimeia pelo argumento de que a península é \"inseparável\" da Rússia, baseando-se em laços culturais, históricos e linguísticos. A lógica subjacente é que populações com idioma comum (russo) devem estar sob a mesma autoridade estatal — pan-eslavismo atualizado como justificativa anexionista.\n\n**Conceito-chave:** Nacionalismo étnico-linguístico — defesa de que fronteiras políticas devem coincidir com fronteiras linguísticas/culturais; usado historicamente como pretexto para anexações (Hitler em Sudetos, Áustria; Rússia na Crimeia).",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/69"
     },
@@ -1960,7 +1960,7 @@
       "imagem_principal": "enem/2022/img/q070_principal.png",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** Interseccionalidade analisa como diferentes desigualdades se cruzam, gerando padrões complexos de discriminação. Os dados mostram que mulheres negras são as mais penalizadas — combinação de raça e gênero como fatores que se intensificam mutuamente.\n\n**Conceito-chave:** Interseccionalidade (Kimberlé Crenshaw) — discriminações não são aditivas, são multiplicativas; mulher negra enfrenta combinação específica que não é só \"mulher + negra\" mas algo qualitativamente distinto.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/70"
     },
@@ -1988,7 +1988,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** O Estado de direito pressupõe que o poder público se submeta à lei e que governantes sejam escolhidos democraticamente. A supressão de eleições para representantes políticos viola diretamente esse princípio, abrindo espaço para o arbítrio e concentração de poder.\n\n**Conceito-chave:** Estado de direito x autoritarismo — eleições periódicas e respeito à constituição são pilares do Estado democrático de direito; sua eliminação caracteriza ruptura institucional.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/71"
     },
@@ -2016,7 +2016,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Trabalhadores que diariamente saem de casa, vão ao trabalho e voltam — sem mudança de residência — caracterizam o movimento pendular. É o deslocamento cotidiano típico das metrópoles, agravado pela distância entre periferia (onde mora) e centro (onde trabalha).\n\n**Conceito-chave:** Movimento pendular — característica das metrópoles; distinguir de migração interna (mudança definitiva), sazonal (temporária) e refúgio (forçado).",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/72"
     },
@@ -2044,7 +2044,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** A criação do 1º de Maio como festa operária, em 1890, foi gesto deliberado dos socialistas para construir politicamente uma classe — a operária — dotando-a de unidade simbólica. O objetivo era afirmar uma identidade coletiva pela memória compartilhada de uma data comum.\n\n**Conceito-chave:** Construção da identidade de classe — datas, símbolos, festas e lutas comuns produzem coesão; classe operária não é dado natural, é resultado de organização política e cultural.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/73"
     },
@@ -2072,7 +2072,7 @@
       "imagem_principal": "enem/2022/img/q074_principal.png",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** O potencial de aproveitamento solar é maior em regiões com baixa nebulosidade atmosférica (poucas nuvens), pois mais radiação solar atinge a superfície. O Nordeste brasileiro, com clima semiárido e céus limpos a maior parte do ano, é ideal por essa razão.\n\n**Conceito-chave:** Energia solar e clima — radiação solar disponível depende de latitude, nebulosidade e umidade; semiárido tem condições ideais por baixa nebulosidade média anual.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/74"
     },
@@ -2100,7 +2100,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** Para os Kambeba, o rio é parte da cosmologia (\"povo das águas\", origem na gota d'água), prática familiar (pai ensina a ouvi-lo) e identidade do grupo. Essa relação caracteriza o rio como patrimônio cultural e afetivo — herança coletiva que transcende valor utilitário.\n\n**Conceito-chave:** Patrimônio imaterial e cosmovisão indígena — povos originários relacionam-se com a natureza por laços identitários e espirituais que diferem da relação utilitária ocidental.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/75"
     },
@@ -2128,7 +2128,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** A construção do açude Itans envolve milhares de sertanejos em ação coletiva — \"formigueiro a cavar a terra\". Esses trabalhadores constroem não só a obra, mas o embrião de uma futura cidade ao seu redor. São agentes da formação de novos espaços urbanos no sertão.\n\n**Conceito-chave:** Trabalho como produtor de espaço (geografia crítica) — espaços geográficos são produzidos pelo trabalho humano organizado, não apenas dados pela natureza.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/76"
     },
@@ -2156,7 +2156,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** No contexto colonial, a saúde dos escravizados não era preocupação humanitária, mas econômica: corpos saudáveis significavam mais produção, e doenças (paludismo, varíola) reduziam o lucro. A medicina servia, portanto, aos objetivos econômicos das elites senhoriais.\n\n**Conceito-chave:** Medicina colonial — saber científico mobilizado para gerenciar mão de obra escravizada; saúde tratada como ativo produtivo, não direito humano.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/77"
     },
@@ -2184,7 +2184,7 @@
       "imagem_principal": "enem/2022/img/q078_principal.png",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** Avistamento de destroços do avião MH370 ocorreu a cerca de 2 500 km de Perth (~250 000 000 cm). Como na imagem essa distância é representada por 2 cm, a escala é 2 / 250 000 000 = 1 / 125 000 000.\n\n**Conceito-chave:** Cálculo de escala — escala = (medida no mapa) / (medida real). Para mapas globais, escalas pequenas como 1:100M são típicas.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/78"
     },
@@ -2212,7 +2212,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** O tamborete narra suas memórias destacando os \"dons individuais\" e \"práticas sociais\" das pessoas que o produziram, venderam e usaram — mãos que o fizeram, mulheres que o usaram. Sua história está ligada às habilidades artísticas e culturais dos sujeitos envolvidos.\n\n**Conceito-chave:** Patrimônio museológico e história social do objeto — museus contemporâneos valorizam relações sociais e saberes embutidos nos objetos, não só sua estética.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/79"
     },
@@ -2240,7 +2240,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** A pólis grega (cidade-estado) criou condições para o nascimento da filosofia ao estimular o debate público. Os sofistas — mestres pagos da palavra e da argumentação — foram os pensadores que atenderam a essa demanda urbana por retórica e persuasão na vida política.\n\n**Conceito-chave:** Pólis e filosofia clássica — espaço público de discussão na Grécia antiga gerou demanda por habilidades argumentativas; sofistas (críticados por Platão) foram os primeiros a profissionalizar o ensino da retórica.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/80"
     },
@@ -2268,7 +2268,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** O DIP, criado por Vargas em 1939, controlava o que se publicava ao decidir quais jornais recebiam papel para impressão e ao mediar a relação imprensa-poder. Esse instrumento permitia censurar veículos críticos e assim cercear a liberdade de expressão.\n\n**Conceito-chave:** Estado Novo (1937-1945) — regime autoritário com forte controle midiático; censura prévia, propaganda estatal e cooptação de jornalistas faziam parte da máquina de poder.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/81"
     },
@@ -2296,7 +2296,7 @@
       "imagem_principal": "enem/2022/img/q082_principal.png",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** A Amazônia abriga uma das maiores províncias minerais do mundo (Serra dos Carajás), com altas concentrações de ferro, manganês, cobre, ouro, níquel. O recurso espacializado no mapa indica esse alto potencial para jazidas de minerais metálicos.\n\n**Conceito-chave:** Geologia da Amazônia — escudo cristalino antigo é base de grandes jazidas minerais; mineração é vetor econômico forte mas também causa de desmatamento e conflitos socioambientais.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/82"
     },
@@ -2324,7 +2324,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** Indivíduos que não conseguem ser registrados em nenhum país e, portanto, não são reconhecidos como cidadãos por nenhum Estado, são chamados apátridas. As crianças do texto, sem registro no Líbano nem na Síria, encontram-se exatamente nessa condição desde o nascimento.\n\n**Conceito-chave:** Apatridia — situação reconhecida pela ONU como vulnerabilidade extrema; sem nacionalidade não há acesso a serviços, documentos, educação. Distinguir de refúgio (sai do país por perseguição) e exílio (afastado do país de origem).",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/83"
     },
@@ -2352,7 +2352,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Merleau-Ponty fala em \"reaprender a ver\" e Deleuze afirma que cineastas \"pensam com imagens, em vez de conceitos\". Ambos defendem que o olhar e a sensibilidade não são meros acessórios da razão — são experiências legítimas de conhecimento, distintas mas igualmente válidas.\n\n**Conceito-chave:** Estética como conhecimento — fenomenologia e estética contemporâneas reconhecem que arte produz saber sobre o mundo, não inferior ao saber conceitual.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/84"
     },
@@ -2380,7 +2380,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Os autos de fé eram cerimônias minuciosamente coreografadas: regras de circulação, gestos, palavras, posturas. Pelo controle ritualístico desses elementos, a Igreja Católica produzia padrões de conduta — moldando comportamento de espectadores, condenados e autoridades.\n\n**Conceito-chave:** Ritual e poder — instituições produzem disciplina não só pela violência direta, mas pela coreografia do espaço público. Foucault e Bethencourt analisam como rituais educam corpos e mentes.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/85"
     },
@@ -2408,7 +2408,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Empédocles propõe quatro elementos primordiais (fogo, ar, água, terra) e duas forças cósmicas (Amor, Ódio) para explicar a origem e dinâmica do mundo. Essa pergunta sobre a arché (princípio originário) caracteriza a discussão cosmogônica típica dos pré-socráticos.\n\n**Conceito-chave:** Filosofia pré-socrática — busca pela arché (princípio gerador da realidade); diferentes filósofos propuseram água (Tales), apeíron (Anaximandro), fogo (Heráclito), átomos (Demócrito). Empédocles combinou os quatro elementos.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/86"
     },
@@ -2436,7 +2436,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** A macrocefalia urbana — concentração desordenada em metrópoles — foi alimentada historicamente pelo êxodo da população do campo, em busca de empregos urbanos. Esse fluxo migratório intenso é a causa direta do crescimento desproporcional das grandes cidades brasileiras.\n\n**Conceito-chave:** Êxodo rural e metropolização — modernização agrícola expulsou trabalhadores, indústria atraiu para cidades; resultado foi crescimento metropolitano sem infraestrutura adequada (favelização, mobilidade, serviços).",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/87"
     },
@@ -2464,7 +2464,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** Sêneca, filósofo estoico, descreve o amigo Basso como \"alegre diante da morte\" graças à filosofia. O bem fundamental da filosofia, no estoicismo, é exatamente promover a moderação das paixões — não anular emoções, mas não se deixar dominar por elas.\n\n**Conceito-chave:** Estoicismo — escola filosófica romana (Sêneca, Epicteto, Marco Aurélio) que defende equilíbrio interior diante das circunstâncias externas; moderação das paixões como caminho para a tranquilidade da alma.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/88"
     },
@@ -2492,7 +2492,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Incas, Maias e Astecas desenvolveram conhecimentos próprios em astronomia, matemática (zero entre os Maias), engenharia, medicina (cirurgias cranianas Incas). Esses saberes são heranças culturais com lógica e métodos próprios, não derivações de outras tradições.\n\n**Conceito-chave:** Civilizações pré-colombianas — produção autônoma de conhecimento científico e técnico, frequentemente subestimada pela historiografia eurocêntrica que tendeu a valorizar somente avanços europeus.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/89"
     },
@@ -2520,7 +2520,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** As paneleiras de Goiabeiras tiram argila do barreiro local, madeira do entorno, tinta do mangue. Essa relação direta com recursos naturais sustenta a manutenção dos modos de vida da comunidade — transmissão de saberes, identidade cultural, autonomia produtiva.\n\n**Conceito-chave:** Modos de vida tradicionais e meio ambiente — comunidades que preservam técnicas ancestrais dependem de recursos naturais específicos; sua continuidade exige preservação ambiental e reconhecimento social.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/90"
     }
