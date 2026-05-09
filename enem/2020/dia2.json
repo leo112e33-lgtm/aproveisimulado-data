@@ -9,7 +9,7 @@
       "dia": 2,
       "numero": 1,
       "titulo": "Questão 91 - ENEM 2020",
-      "enunciado": "![](enem/2020/img/q001_inline1.png)\n\nDAVIS, J. Disponível em: http://garfield.com. Acesso em: 10 fev. 2015.",
+      "enunciado": "![](enem/2020/dia2/img/q001_inline1.png)\n\nDAVIS, J. Disponível em: http://garfield.com. Acesso em: 10 fev. 2015.",
       "alternativas_introducao": "Por qual motivo ocorre a eletrização ilustrada na tirinha?",
       "alternativas": [
         "A) Troca de átomos entre a calça e os pelos do gato.",
@@ -25,7 +25,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q001_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
       "explicacao": "**Por que a alternativa D está correta:** Quando dois materiais se atritam (a calça e os pelos do gato), os elétrons da camada de valência podem ser transferidos de um para o outro. A eletrização ilustrada decorre dessa movimentação de elétrons entre a calça e os pelos do gato — não há criação ou destruição de cargas, apenas redistribuição.\n\n**Conceito-chave:** Eletrização por atrito — fenômeno triboelétrico; um material perde elétrons (fica positivo) e o outro ganha (fica negativo). Carga total é conservada.",
@@ -75,11 +75,11 @@
         "E)"
       ],
       "imagens_alternativas": [
-        "enem/2020/img/q003_altA.png",
-        "enem/2020/img/q003_altB.png",
-        "enem/2020/img/q003_altC.png",
-        "enem/2020/img/q003_altD.png",
-        "enem/2020/img/q003_altE.png"
+        "enem/2020/dia2/img/q003_altA.png",
+        "enem/2020/dia2/img/q003_altB.png",
+        "enem/2020/dia2/img/q003_altC.png",
+        "enem/2020/dia2/img/q003_altD.png",
+        "enem/2020/dia2/img/q003_altE.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],
@@ -93,7 +93,7 @@
       "dia": 2,
       "numero": 4,
       "titulo": "Questão 94 - ENEM 2020",
-      "enunciado": "Um microempresário do ramo de cosméticos utiliza óleos essenciais e quer produzir um creme com fragrância de rosas. O principal componente do óleo de rosas tem cadeia poli-insaturada e hidroxila em carbono terminal. O catálogo dos óleos essenciais apresenta, para escolha da essência, estas estruturas químicas:\n\n![](enem/2020/img/q004_inline1.png)",
+      "enunciado": "Um microempresário do ramo de cosméticos utiliza óleos essenciais e quer produzir um creme com fragrância de rosas. O principal componente do óleo de rosas tem cadeia poli-insaturada e hidroxila em carbono terminal. O catálogo dos óleos essenciais apresenta, para escolha da essência, estas estruturas químicas:\n\n![](enem/2020/dia2/img/q004_inline1.png)",
       "alternativas_introducao": "Qual substância o empresário deverá utilizar?",
       "alternativas": [
         "A) 1",
@@ -109,7 +109,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q004_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
       "explicacao": "**Por que a alternativa A está correta:** O componente do óleo de rosas é o geraniol (ou similar) — molécula com cadeia carbônica poli-insaturada (várias duplas ligações) e grupo OH em carbono terminal (álcool primário). A estrutura 1 do catálogo apresenta exatamente esse padrão.\n\n**Conceito-chave:** Identificação de grupos funcionais — observar tipo de ligações (saturadas/insaturadas) e posição de grupos funcionais (carbono terminal vs interno) é habilidade fundamental em química orgânica.",
@@ -233,7 +233,7 @@
       "dia": 2,
       "numero": 9,
       "titulo": "Questão 99 - ENEM 2020",
-      "enunciado": "Você foi contratado para sincronizar os quatro semáforos de uma avenida, indicados pelas letras O, A, B e C, conforme a figura.\n\n![](enem/2020/img/q009_inline1.png)\n\nOs semáforos estão separados por uma distância de 500m. Segundo os dados estatísticos da companhia controladora de trânsito, um veículo, que está inicialmente parado no semáforo O, tipicamente parte com aceleração constante de 1 m s–2 até atingir a velocidade de 72 km h–1 e, a partir daí, prossegue com velocidade constante. Você deve ajustar os semáforos A, B e C de modo que eles mudem para a cor verde quando o veículo estiver a 100 m de cruzá-los, para que ele não tenha que reduzir a velocidade em nenhum momento.",
+      "enunciado": "Você foi contratado para sincronizar os quatro semáforos de uma avenida, indicados pelas letras O, A, B e C, conforme a figura.\n\n![](enem/2020/dia2/img/q009_inline1.png)\n\nOs semáforos estão separados por uma distância de 500m. Segundo os dados estatísticos da companhia controladora de trânsito, um veículo, que está inicialmente parado no semáforo O, tipicamente parte com aceleração constante de 1 m s–2 até atingir a velocidade de 72 km h–1 e, a partir daí, prossegue com velocidade constante. Você deve ajustar os semáforos A, B e C de modo que eles mudem para a cor verde quando o veículo estiver a 100 m de cruzá-los, para que ele não tenha que reduzir a velocidade em nenhum momento.",
       "alternativas_introducao": "Considerando essas condições, aproximadamente quanto tempo depois da abertura do semáforo O os semáforos A, B e C devem abrir, respectivamente?",
       "alternativas": [
         "A) 20s, 45s e 70s.",
@@ -249,7 +249,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q009_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
       "explicacao": "**Por que a alternativa D está correta:** O carro acelera 1 m/s² até 20 m/s (72 km/h), em 20 s percorrendo 200 m. Depois mantém 20 m/s. Para chegar 100 m antes do semáforo A (a 500-100 = 400 m de O): t = 20s (até 200 m) + (200 m / 20 m/s) = 30 s. Para B: 30 + 500/20 = 55 s. Para C: 55 + 25 = 80 s.\n\n**Conceito-chave:** Cinemática — combinar movimento uniformemente acelerado com movimento uniforme; resolver tempo total como soma de etapas.",
@@ -261,7 +261,7 @@
       "dia": 2,
       "numero": 10,
       "titulo": "Questão 100 - ENEM 2020",
-      "enunciado": "Nos dias atuais, o amplo uso de objetos de plástico gera bastante lixo, que muitas vezes é eliminado pela população por meio da queima. Esse procedimento é prejudicial ao meio ambiente por lançar substâncias poluentes. Para constatar esse problema, um estudante analisou a decomposição térmica do policloreto de vinila (PVC), um tipo de plástico, cuja estrutura é representada na figura.\n\n![](enem/2020/img/q010_inline1.png)\n\nPara realizar esse experimento, o estudante colocou uma amostra de filme de PVC em um tubo de ensaio e o aqueceu, promovendo a decomposição térmica. Houve a liberação majoritária de um gás diatômico heteronuclear que foi recolhido em um recipiente acoplado ao tubo de ensaio. Esse gás, quando borbulhado em solução alcalina diluída contendo indicador ácido-base, alterou a cor da solução. Além disso, em contato com uma solução aquosa de carbonato de sódio (Na2CO3), liberou gás carbônico.",
+      "enunciado": "Nos dias atuais, o amplo uso de objetos de plástico gera bastante lixo, que muitas vezes é eliminado pela população por meio da queima. Esse procedimento é prejudicial ao meio ambiente por lançar substâncias poluentes. Para constatar esse problema, um estudante analisou a decomposição térmica do policloreto de vinila (PVC), um tipo de plástico, cuja estrutura é representada na figura.\n\n![](enem/2020/dia2/img/q010_inline1.png)\n\nPara realizar esse experimento, o estudante colocou uma amostra de filme de PVC em um tubo de ensaio e o aqueceu, promovendo a decomposição térmica. Houve a liberação majoritária de um gás diatômico heteronuclear que foi recolhido em um recipiente acoplado ao tubo de ensaio. Esse gás, quando borbulhado em solução alcalina diluída contendo indicador ácido-base, alterou a cor da solução. Além disso, em contato com uma solução aquosa de carbonato de sódio (Na2CO3), liberou gás carbônico.",
       "alternativas_introducao": "Qual foi o gás liberado majoritariamente na decomposição térmica desse tipo de plástico?",
       "alternativas": [
         "A) H2",
@@ -277,7 +277,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q010_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
       "explicacao": "**Por que a alternativa E está correta:** O PVC é poli(cloreto de vinila): cadeia carbônica com átomos de cloro. A decomposição térmica libera cloreto de hidrogênio (HCl) — gás diatômico heteronuclear (composto por dois átomos diferentes: H e Cl), corrosivo e tóxico.\n\n**Conceito-chave:** Decomposição térmica de polímeros — PVC libera HCl tóxico ao queimar; razão pela qual queima de plásticos é prejudicial à saúde e ao ambiente.",
@@ -289,7 +289,7 @@
       "dia": 2,
       "numero": 11,
       "titulo": "Questão 101 - ENEM 2020",
-      "enunciado": "Uma população (momento A) sofre isolamento em duas subpopulações (momento B) por um fator de isolamento (I). Passado um tempo, essas subpopulações apresentam características fenotípicas e genotípicas que as distinguem (momento C), representadas na figura pelas tonalidades de cor. O posterior desaparecimento do fator de isolamento I pode levar, no momento D, às situações Dl e D2.\n\n![](enem/2020/img/q011_inline1.png)",
+      "enunciado": "Uma população (momento A) sofre isolamento em duas subpopulações (momento B) por um fator de isolamento (I). Passado um tempo, essas subpopulações apresentam características fenotípicas e genotípicas que as distinguem (momento C), representadas na figura pelas tonalidades de cor. O posterior desaparecimento do fator de isolamento I pode levar, no momento D, às situações Dl e D2.\n\n![](enem/2020/dia2/img/q011_inline1.png)",
       "alternativas_introducao": "A representação indica que, no momento D, na situação",
       "alternativas": [
         "A) Dl ocorre um novo fator de isolamento geográfico.",
@@ -305,7 +305,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q011_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
       "explicacao": "**Por que a alternativa C está correta:** No momento C, as subpopulações já têm características distintas. Quando o fator de isolamento desaparece (momento D), se as diferenças genéticas forem suficientes, as populações não se reproduzem entre si — o que caracteriza a situação D1: duas populações separadas por isolamento reprodutivo (especiação completa).\n\n**Conceito-chave:** Especiação alopátrica — isolamento geográfico permite divergência genética; se a divergência atinge ponto onde reprodução cruzada não é mais viável, novas espécies surgem.",
@@ -317,7 +317,7 @@
       "dia": 2,
       "numero": 12,
       "titulo": "Questão 102 - ENEM 2020",
-      "enunciado": "A obtenção de óleos vegetais, de maneira geral, passa pelas etapas descritas no quadro.\n\n![](enem/2020/img/q012_inline1.png)",
+      "enunciado": "A obtenção de óleos vegetais, de maneira geral, passa pelas etapas descritas no quadro.\n\n![](enem/2020/dia2/img/q012_inline1.png)",
       "alternativas_introducao": "Qual das subetapas do processo é realizada em função apenas da polaridade das substâncias?",
       "alternativas": [
         "A) Trituração.",
@@ -333,7 +333,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q012_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
       "explicacao": "**Por que a alternativa D está correta:** A extração com solvente (geralmente hexano) separa o óleo da matriz vegetal pela diferença de polaridade — óleos são apolares e dissolvem em solventes apolares. Outras subetapas (trituração, cozimento, prensagem) usam força mecânica ou calor; destilação separa por volatilidade.\n\n**Conceito-chave:** 'Semelhante dissolve semelhante' — princípio fundamental da extração; polaridade do solvente deve corresponder à do soluto a ser extraído.",
@@ -429,7 +429,7 @@
       "dia": 2,
       "numero": 16,
       "titulo": "Questão 106 - ENEM 2020",
-      "enunciado": "Um mergulhador fica preso ao explorar uma caverna no oceano. Dentro da caverna formou-se um bolsão de ar, como mostrado na figura, onde o mergulhador se abrigou.\n\n![](enem/2020/img/q016_inline1.png)\n\nDurante o resgate, para evitar danos a seu organismo, foi necessário que o mergulhador passasse por um processo de descompressão antes de retornar à superfície para que seu corpo ficasse novamente sob pressão atmosférica. O gráfico mostra a relação entre os tempos de descompressão recomendados para indivíduos nessa situação e a variação de pressão.\n\n![](enem/2020/img/q016_inline2.png)\n\nConsidere que a aceleração da gravidade seja igual a ![](enem/2020/img/q016_inline3.png) e que a densidade da água seja de ![](enem/2020/img/q016_inline4.png).",
+      "enunciado": "Um mergulhador fica preso ao explorar uma caverna no oceano. Dentro da caverna formou-se um bolsão de ar, como mostrado na figura, onde o mergulhador se abrigou.\n\n![](enem/2020/dia2/img/q016_inline1.png)\n\nDurante o resgate, para evitar danos a seu organismo, foi necessário que o mergulhador passasse por um processo de descompressão antes de retornar à superfície para que seu corpo ficasse novamente sob pressão atmosférica. O gráfico mostra a relação entre os tempos de descompressão recomendados para indivíduos nessa situação e a variação de pressão.\n\n![](enem/2020/dia2/img/q016_inline2.png)\n\nConsidere que a aceleração da gravidade seja igual a ![](enem/2020/dia2/img/q016_inline3.png) e que a densidade da água seja de ![](enem/2020/dia2/img/q016_inline4.png).",
       "alternativas_introducao": "Em minutos, qual é o tempo de descompressão a que o mergulhador deverá ser submetido?",
       "alternativas": [
         "A) 100.",
@@ -445,12 +445,8 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q016_principal.png",
-      "imagens_extras": [
-        "enem/2020/img/q016_extra1.png",
-        "enem/2020/img/q016_extra2.png",
-        "enem/2020/img/q016_extra3.png"
-      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
       "correta": "C",
       "explicacao": "**Por que a alternativa C está correta:** Pelo gráfico, a relação entre variação de pressão e tempo de descompressão indica que para a profundidade do mergulhador (calculável pela pressão da coluna d'água), o tempo necessário é aproximadamente 60 minutos.\n\n**Conceito-chave:** Pressão hidrostática — P = ρ·g·h; descompressão lenta evita formação de bolhas de N₂ no sangue (doença descompressiva), tema de mergulho profundo.",
       "fonte": "api.enem.dev",
@@ -461,7 +457,7 @@
       "dia": 2,
       "numero": 17,
       "titulo": "Questão 107 - ENEM 2020",
-      "enunciado": "A Torre Eiffel, com seus 324 metros de altura, feita com treliças de ferro, pesava 7 300 toneladas quando terminou de ser construída em 1889. Um arquiteto resolve construir um protótipo dessa torre em escala 1:100, usando os mesmos materiais (cada dimensão linear em escala de 1:100 do monumento real).  Considere que a torre real tenha uma massa Mtorre e exerça na fundação sobre a qual foi erguida uma pressão Ptorre. O modelo construído pelo arquiteto terá uma massa Mmodelo e exercerá uma pressão Pmodelo .\n\n![](enem/2020/img/q017_inline1.png)",
+      "enunciado": "A Torre Eiffel, com seus 324 metros de altura, feita com treliças de ferro, pesava 7 300 toneladas quando terminou de ser construída em 1889. Um arquiteto resolve construir um protótipo dessa torre em escala 1:100, usando os mesmos materiais (cada dimensão linear em escala de 1:100 do monumento real).  Considere que a torre real tenha uma massa Mtorre e exerça na fundação sobre a qual foi erguida uma pressão Ptorre. O modelo construído pelo arquiteto terá uma massa Mmodelo e exercerá uma pressão Pmodelo .\n\n![](enem/2020/dia2/img/q017_inline1.png)",
       "alternativas_introducao": "Como a pressão exercida pela torre se compara com a pressão exercida pelo protótipo? Ou seja, qual é a razão entre as pressões (Ptorre)/(Pmodelo)?",
       "alternativas": [
         "A) 100",
@@ -477,7 +473,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q017_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
       "explicacao": "**Por que a alternativa C está correta:** Em escala 1:100, dimensões lineares são 100x menores. Massa escala com volume (L³): M_modelo = M_torre / 100³. Pressão = peso/área = m·g / A. Razão P_torre/P_modelo = (M·A_modelo)/(M_modelo·A) = L³ · 1/L² = L = 100 = 10². Razão = 10².\n\n**Conceito-chave:** Análise dimensional e escala — em modelos, propriedades escalam com diferentes potências do fator linear (L¹ para comprimento, L² para área, L³ para volume/massa).",
@@ -601,7 +597,7 @@
       "dia": 2,
       "numero": 22,
       "titulo": "Questão 112 - ENEM 2020",
-      "enunciado": "Para garantir que produtos eletrônicos estejam armazenados de forma adequada antes da venda, algumas empresas utilizam cartões indicadores de umidade nas embalagens desses produtos. Alguns desses cartões contêm um sal de cobalto que muda de cor em presença de água, de acordo com a equação química:\n\n![](enem/2020/img/q022_inline1.png)",
+      "enunciado": "Para garantir que produtos eletrônicos estejam armazenados de forma adequada antes da venda, algumas empresas utilizam cartões indicadores de umidade nas embalagens desses produtos. Alguns desses cartões contêm um sal de cobalto que muda de cor em presença de água, de acordo com a equação química:\n\n![](enem/2020/dia2/img/q022_inline1.png)",
       "alternativas_introducao": "Como você procederia para reutilizar, num curto intervalo de tempo, um cartão que já estivesse com a coloração rosa?",
       "alternativas": [
         "A) Resfriaria no congelador.",
@@ -617,7 +613,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q022_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
       "explicacao": "**Por que a alternativa D está correta:** O cartão muda de azul (sal anidro) para rosa (sal hidratado) ao absorver água. Para reverter rapidamente, é preciso retirar a água — aquecer com secador de cabelo evapora a água e o sal volta a ficar anidro (azul).\n\n**Conceito-chave:** Sais higroscópicos e indicadores — alguns compostos de cobalto (CoCl₂) mudam de cor com água; reversíveis por aquecimento. Aplicação em sílica-gel também.",
@@ -639,11 +635,11 @@
         "E)"
       ],
       "imagens_alternativas": [
-        "enem/2020/img/q023_altA.png",
-        "enem/2020/img/q023_altB.png",
-        "enem/2020/img/q023_altC.png",
-        "enem/2020/img/q023_altD.png",
-        "enem/2020/img/q023_altE.png"
+        "enem/2020/dia2/img/q023_altA.png",
+        "enem/2020/dia2/img/q023_altB.png",
+        "enem/2020/dia2/img/q023_altC.png",
+        "enem/2020/dia2/img/q023_altD.png",
+        "enem/2020/dia2/img/q023_altE.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],
@@ -713,7 +709,7 @@
       "dia": 2,
       "numero": 26,
       "titulo": "Questão 116 - ENEM 2020",
-      "enunciado": "Um estudante tem uma fonte de tensão com corrente contínua que opera em tensão fixa de 12 V. Como precisa alimentar equipamentos que operam em tensões menores, ele emprega quatro resistores de 100 para construir um divisor de tensão. Obtém-se este divisor associando os resistores, como exibido na figura. Os aparelhos podem ser ligados entre os pontos A, B, C, D e E, dependendo da tensão especificada.\n\n![](enem/2020/img/q026_inline1.png)\n\nEle tem um equipamento que opera em 9,0 V com uma resistência interna de 10 kΩ.",
+      "enunciado": "Um estudante tem uma fonte de tensão com corrente contínua que opera em tensão fixa de 12 V. Como precisa alimentar equipamentos que operam em tensões menores, ele emprega quatro resistores de 100 para construir um divisor de tensão. Obtém-se este divisor associando os resistores, como exibido na figura. Os aparelhos podem ser ligados entre os pontos A, B, C, D e E, dependendo da tensão especificada.\n\n![](enem/2020/dia2/img/q026_inline1.png)\n\nEle tem um equipamento que opera em 9,0 V com uma resistência interna de 10 kΩ.",
       "alternativas_introducao": "Entre quais pontos do divisor de tensão esse equipamento deve ser ligado para funcionar corretamente e qual será o valor da intensidade da corrente nele estabelecida?",
       "alternativas": [
         "A) Entre A e C; 30 mA.",
@@ -729,7 +725,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q026_principal.png",
+      "imagem_principal": "enem/2020/dia2/img/q026_principal.png",
       "imagens_extras": [],
       "correta": "D",
       "explicacao": "**Por que a alternativa D está correta:** Os 4 resistores em série dividem 12 V em 4 partes de 3 V cada. Entre B e E (3 resistores: B-C, C-D, D-E) = 9 V. Como a resistência interna do equipamento (10 kΩ) é muito maior que 300 Ω (3 resistores), a corrente que flui no equipamento ≈ 9 V / 10 kΩ = 0,9 mA.\n\n**Conceito-chave:** Divisor de tensão e Lei de Ohm — em divisores resistivos, tensão é proporcional à fração da resistência; carga com resistência muito maior que a do divisor não distorce a tensão.",
@@ -797,7 +793,7 @@
       "dia": 2,
       "numero": 29,
       "titulo": "Questão 119 - ENEM 2020",
-      "enunciado": "Pesquisadores coletaram amostras de água de um rio em pontos diferentes, distantes alguns quilômetros um do outro. Ao longo do rio, há locais de águas limpas, como também locais que recebem descarga de esgoto de área urbana, e locais onde há decomposição ativa com ausência de peixes. Os pesquisadores  analisaram dois parâmetros: oxigênio dissolvido (OD) e demanda bioquímica de oxigênio (DBO) em cada ponto de coleta de água, obtendo o gráfico:\n\n![](enem/2020/img/q029_inline1.png)\n\n> Valores limites permitidos para águas doces destinadas ao abaste cimento para o consumo humano após tratamento convencional, segundo Resolução Conama n. 357/2005: OD≥5mgL–1 e DBO ≤ 5mgL–1.\n\nO OD é proveniente da atmosfera e da fotossíntese que ocorre no curso-d’água e sua concentração é função das variáveis físicas, químicas e bioquímicas  locais. A DBO é a quantidade de oxigênio consumido por microrganismos em condições aeróbicas para degradar uma determinada quantidade de matéria orgânica, durante um período de tempo, numa temperatura de incubação específica.\n\nDisponível em: www.programaaguaazul.rn.gov.br. Acesso em: 16 ago. 2014 (adaptado)",
+      "enunciado": "Pesquisadores coletaram amostras de água de um rio em pontos diferentes, distantes alguns quilômetros um do outro. Ao longo do rio, há locais de águas limpas, como também locais que recebem descarga de esgoto de área urbana, e locais onde há decomposição ativa com ausência de peixes. Os pesquisadores  analisaram dois parâmetros: oxigênio dissolvido (OD) e demanda bioquímica de oxigênio (DBO) em cada ponto de coleta de água, obtendo o gráfico:\n\n![](enem/2020/dia2/img/q029_inline1.png)\n\n> Valores limites permitidos para águas doces destinadas ao abaste cimento para o consumo humano após tratamento convencional, segundo Resolução Conama n. 357/2005: OD≥5mgL–1 e DBO ≤ 5mgL–1.\n\nO OD é proveniente da atmosfera e da fotossíntese que ocorre no curso-d’água e sua concentração é função das variáveis físicas, químicas e bioquímicas  locais. A DBO é a quantidade de oxigênio consumido por microrganismos em condições aeróbicas para degradar uma determinada quantidade de matéria orgânica, durante um período de tempo, numa temperatura de incubação específica.\n\nDisponível em: www.programaaguaazul.rn.gov.br. Acesso em: 16 ago. 2014 (adaptado)",
       "alternativas_introducao": "Qual ponto de amostragem da água do rio está mais próximo ao local em que o rio recebe despejo de esgoto?",
       "alternativas": [
         "A) 1",
@@ -813,7 +809,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q029_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
       "explicacao": "**Por que a alternativa A está correta:** Onde o esgoto é despejado, há grande quantidade de matéria orgânica → bactérias decompositoras consomem oxigênio (DBO alta) e o oxigênio dissolvido despenca (OD baixo). O ponto 1 do gráfico mostra esse padrão — DBO máxima e OD mínimo.\n\n**Conceito-chave:** DBO e OD — indicadores complementares de qualidade da água; DBO alta = muita matéria orgânica para decompor; OD baixo = pouco oxigênio disponível para vida aquática.",
@@ -853,7 +849,7 @@
       "dia": 2,
       "numero": 31,
       "titulo": "Questão 121 - ENEM 2020",
-      "enunciado": "Em uma aula sobre metabolismo energético, foi  \napresentado um experimento clássico realizado por  \nEngelmann. Um recipiente contendo bactérias aeróbias e  \numa alga verde filamentosa foi submetido à iluminação  \nde uma fonte de luz, representada pelo microespectro.  \nApós a explicação, um aluno esquematizou na lousa o  \nresultado do referido experimento.\n\n![](enem/2020/img/q031_inline1.png)",
+      "enunciado": "Em uma aula sobre metabolismo energético, foi  \napresentado um experimento clássico realizado por  \nEngelmann. Um recipiente contendo bactérias aeróbias e  \numa alga verde filamentosa foi submetido à iluminação  \nde uma fonte de luz, representada pelo microespectro.  \nApós a explicação, um aluno esquematizou na lousa o  \nresultado do referido experimento.\n\n![](enem/2020/dia2/img/q031_inline1.png)",
       "alternativas_introducao": "Considerando a figura, a faixa do microespectro em que a\nalga possui maior taxa de realização fotossintética é a do:",
       "alternativas": [
         "A) Anil.",
@@ -869,7 +865,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q031_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
       "explicacao": "**Por que a alternativa E está correta:** No experimento de Engelmann, bactérias aeróbias se concentram onde há mais oxigênio liberado pela alga — ou seja, onde a fotossíntese é mais intensa. A clorofila absorve mais energia nas regiões do azul-violeta e do vermelho. Pela curva tipica, o pico mais alto fica na faixa do vermelho.\n\n**Conceito-chave:** Espectro de absorção da clorofila — pigmento absorve principalmente azul-violeta e vermelho; pouco absorve verde (por isso plantas parecem verdes).",
@@ -881,7 +877,7 @@
       "dia": 2,
       "numero": 32,
       "titulo": "Questão 122 - ENEM 2020",
-      "enunciado": "O exame parasitológico de fezes é utilizado para detectar  \novos de parasitos. Um dos métodos utilizados,  \ndenominado de centrífugo-flutuação, considera a  \ndensidade dos ovos em relação a uma solução de  \ndensidade 1,15 g mL–1. Assim, ovos que flutuam na  \nsuperfície dessa solução são detectados. Os dados de  \ndensidade dos ovos de alguns parasitos estão  \napresentados na tabela.\n\n![](enem/2020/img/q032_inline1.png)",
+      "enunciado": "O exame parasitológico de fezes é utilizado para detectar  \novos de parasitos. Um dos métodos utilizados,  \ndenominado de centrífugo-flutuação, considera a  \ndensidade dos ovos em relação a uma solução de  \ndensidade 1,15 g mL–1. Assim, ovos que flutuam na  \nsuperfície dessa solução são detectados. Os dados de  \ndensidade dos ovos de alguns parasitos estão  \napresentados na tabela.\n\n![](enem/2020/dia2/img/q032_inline1.png)",
       "alternativas_introducao": "Considerando-se a densidade dos ovos e da solução, ovos\nde quais parasitos podem ser detectados por esse método?",
       "alternativas": [
         "A) A. lumbricoides, A. suum e S. mansoni.",
@@ -897,7 +893,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q032_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
       "explicacao": "**Por que a alternativa C está correta:** No método centrífugo-flutuação, ovos com densidade MENOR que 1,15 g/mL flutuam e são detectados. Pela tabela, Ancylostoma, A. lumbricoides e A. suum têm densidades inferiores a esse limite, sendo detectáveis pelo método.\n\n**Conceito-chave:** Densidade e flutuação — princípio de Arquimedes; método de Faust em parasitologia explora essa diferença para selecionar parasitas específicos.",
@@ -909,7 +905,7 @@
       "dia": 2,
       "numero": 33,
       "titulo": "Questão 123 - ENEM 2020",
-      "enunciado": "Em seu laboratório, um técnico em química foi  \nincumbido de tratar um resíduo, evitando seu descarte  \ndireto no meio ambiente. Ao encontrar o frasco, observou  \na seguinte informação: “Resíduo: mistura de acetato de  \netila e água”.\n\n![](enem/2020/img/q033_inline1.png)",
+      "enunciado": "Em seu laboratório, um técnico em química foi  \nincumbido de tratar um resíduo, evitando seu descarte  \ndireto no meio ambiente. Ao encontrar o frasco, observou  \na seguinte informação: “Resíduo: mistura de acetato de  \netila e água”.\n\n![](enem/2020/dia2/img/q033_inline1.png)",
       "alternativas_introducao": "A fim de tratar o resíduo, recuperando o acetato de etila,\no técnico deve",
       "alternativas": [
         "A) Evaporar o acetato de etila sem alterar o conteúdo de água.",
@@ -925,7 +921,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q033_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
       "explicacao": "**Por que a alternativa E está correta:** Acetato de etila e água são líquidos imiscíveis (formam duas fases). A separação adequada é decantação em funil de separação (funil de bromo) — a fase orgânica (acetato) é separada da aquosa pela diferença de densidade.\n\n**Conceito-chave:** Decantação de líquidos imiscíveis — funil de separação é o instrumento padrão; método rápido e eficiente para fases distintas.",
@@ -965,7 +961,7 @@
       "dia": 2,
       "numero": 35,
       "titulo": "Questão 125 - ENEM 2020",
-      "enunciado": "Uma população encontra-se em equilíbrio genético  \nquanto ao sistema ABO, em que 25% dos indivíduos  \npertencem ao grupo O e 16%, ao grupo A homozigotos.  \nConsiderando que: p = frequência de 1A; q = frequência  \nde IB; e r = frequência de i, espera-se encontrar:\n\n![](enem/2020/img/q035_inline1.png)",
+      "enunciado": "Uma população encontra-se em equilíbrio genético  \nquanto ao sistema ABO, em que 25% dos indivíduos  \npertencem ao grupo O e 16%, ao grupo A homozigotos.  \nConsiderando que: p = frequência de 1A; q = frequência  \nde IB; e r = frequência de i, espera-se encontrar:\n\n![](enem/2020/dia2/img/q035_inline1.png)",
       "alternativas_introducao": "A porcentagem de doadores compatíveis para alguém do\ngrupo B nessa população deve ser de",
       "alternativas": [
         "A) 11%.",
@@ -981,7 +977,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q035_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
       "explicacao": "**Por que a alternativa D está correta:** Frequência de O = r² = 25% → r = 0,5. Frequência de AA = p² = 16% → p = 0,4. Logo q = 1 - 0,5 - 0,4 = 0,1. Tipo B = q² + 2qr = 0,01 + 0,1 = 0,11 = 11%. Doadores compatíveis para B: tipo O (25%) + tipo B (11%) = 36%.\n\n**Conceito-chave:** Equilíbrio de Hardy-Weinberg — p² + 2pq + 2pr + 2qr + q² + r² = 1; uso para estimar frequências genotípicas.",
@@ -1077,7 +1073,7 @@
       "dia": 2,
       "numero": 39,
       "titulo": "Questão 129 - ENEM 2020",
-      "enunciado": "Em uma pesquisa estão sendo testados cinco quimioterápicos quanto à sua capacidade antitumoral. No entanto, para o tratamento de pacientes, sabe-se que é necessário verificar também o quanto cada composto agride células normais. Para o experimento, partiu-se de cultivos de células tumorais  colunas escuras na figura) e células normais (colunas claras) com o mesmo número de células iniciais. Dois grupos-controle não receberam quimioterápicos: controle de células  tumorais (CT) e de células normais (CN). As colunas I, II, III, IV e V correspondem aos grupos tratados com os cinco compostos. O número de células viáveis após os tratamentos está representado pelas colunas.\n\n![](enem/2020/img/q039_inline1.png)",
+      "enunciado": "Em uma pesquisa estão sendo testados cinco quimioterápicos quanto à sua capacidade antitumoral. No entanto, para o tratamento de pacientes, sabe-se que é necessário verificar também o quanto cada composto agride células normais. Para o experimento, partiu-se de cultivos de células tumorais  colunas escuras na figura) e células normais (colunas claras) com o mesmo número de células iniciais. Dois grupos-controle não receberam quimioterápicos: controle de células  tumorais (CT) e de células normais (CN). As colunas I, II, III, IV e V correspondem aos grupos tratados com os cinco compostos. O número de células viáveis após os tratamentos está representado pelas colunas.\n\n![](enem/2020/dia2/img/q039_inline1.png)",
       "alternativas_introducao": "Qual quimioterápico deve ser escolhido desse tipo de tumor?",
       "alternativas": [
         "A) I",
@@ -1093,7 +1089,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q039_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
       "explicacao": "**Por que a alternativa B está correta:** O quimioterápico ideal mata muitas células tumorais e poucas normais — alta seletividade. O composto II do gráfico apresenta queda dramática no número de células tumorais e baixo impacto sobre células normais, sendo o melhor para tratamento.\n\n**Conceito-chave:** Índice terapêutico — relação entre dose efetiva e dose tóxica; quanto maior, mais segura é a droga.",
@@ -1105,7 +1101,7 @@
       "dia": 2,
       "numero": 40,
       "titulo": "Questão 130 - ENEM 2020",
-      "enunciado": "Herschel, em 1880, começou a escrever sobre a condensação da luz solar no foco de uma lente e queria verificar de que maneira os raios coloridos contribuem para o aquecimento. Para isso, ele projetou sobre um anteparo o espectro solar obtido com um prisma, colocou termômetros nas diversas faixas de cores e verificou nos dados obtidos que um dos termômetros iluminados indicou um aumento de  temperatura maior para uma determinada faixa de frequências.\n\nSAYURI, M.; GASPAR, M. B. Infravermelho na sala de aula. Disponível em: www.cienciamao.usp.br. Acesso em: 15 ago. 2016 (adaptado).\n\nPara verificar a hipótese de Herschel, um estudante montou o dispositivo apresentado na figura. Nesse aparato, cinco recipientes contendo água, à mesma temperatura inicial, e separados por um material isolante térmico e refletor são posicionados lado a lado (A, B, C, D e E) no interior de uma caixa de material isolante térmico e opaco. A luz solar, ao entrar na caixa, atravessa o prisma e incide sobre os recipientes. O estudante aguarda até que ocorra o aumento da temperatura e a afere em cada recipiente.\n\n![](enem/2020/img/q040_inline1.png)",
+      "enunciado": "Herschel, em 1880, começou a escrever sobre a condensação da luz solar no foco de uma lente e queria verificar de que maneira os raios coloridos contribuem para o aquecimento. Para isso, ele projetou sobre um anteparo o espectro solar obtido com um prisma, colocou termômetros nas diversas faixas de cores e verificou nos dados obtidos que um dos termômetros iluminados indicou um aumento de  temperatura maior para uma determinada faixa de frequências.\n\nSAYURI, M.; GASPAR, M. B. Infravermelho na sala de aula. Disponível em: www.cienciamao.usp.br. Acesso em: 15 ago. 2016 (adaptado).\n\nPara verificar a hipótese de Herschel, um estudante montou o dispositivo apresentado na figura. Nesse aparato, cinco recipientes contendo água, à mesma temperatura inicial, e separados por um material isolante térmico e refletor são posicionados lado a lado (A, B, C, D e E) no interior de uma caixa de material isolante térmico e opaco. A luz solar, ao entrar na caixa, atravessa o prisma e incide sobre os recipientes. O estudante aguarda até que ocorra o aumento da temperatura e a afere em cada recipiente.\n\n![](enem/2020/dia2/img/q040_inline1.png)",
       "alternativas_introducao": "Em qual dos recipientes a água terá maior temperatura ao final do experimento?",
       "alternativas": [
         "A) A.",
@@ -1121,7 +1117,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q040_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
       "explicacao": "**Por que a alternativa A está correta:** No experimento de Herschel (1800), além das cores visíveis do espectro solar, havia uma região INVISÍVEL além do vermelho com temperatura ainda mais alta — descobriu o infravermelho. O termômetro A, posicionado fora da faixa visível além do vermelho, registra maior temperatura.\n\n**Conceito-chave:** Espectro eletromagnético — luz visível é apenas pequena fração; infravermelho carrega bastante energia térmica. Descoberta histórica fundadora da espectroscopia.",
@@ -1217,7 +1213,7 @@
       "dia": 2,
       "numero": 44,
       "titulo": "Questão 134 - ENEM 2020",
-      "enunciado": "As moedas despertam o interesse de colecionadores, numismatas e investidores há bastante tempo. Uma moeda de 100% cobre, circulante no período do Brasil Colônia, pode ser bastante valiosa. O elevado valor gera  \na necessidade de realização de testes que validem a procedência da moeda, bem como a veracidade de sua composição. Sabendo que a densidade do cobre metálico é próxima de 9 g cm–3, um investidor negocia a aquisição  \nde um lote de quatro moedas A, B, C e D fabricadas supostamente de 100% cobre e massas 26 g, 27 g, 10g e 36 g, respectivamente. Com o objetivo de testar a densidade das moedas, foi realizado um procedimento em que elas foram sequencialmente inseridas em uma proveta contendo 5 mL de água, conforme  \nesquematizado.\n\n![](enem/2020/img/q044_inline1.png)",
+      "enunciado": "As moedas despertam o interesse de colecionadores, numismatas e investidores há bastante tempo. Uma moeda de 100% cobre, circulante no período do Brasil Colônia, pode ser bastante valiosa. O elevado valor gera  \na necessidade de realização de testes que validem a procedência da moeda, bem como a veracidade de sua composição. Sabendo que a densidade do cobre metálico é próxima de 9 g cm–3, um investidor negocia a aquisição  \nde um lote de quatro moedas A, B, C e D fabricadas supostamente de 100% cobre e massas 26 g, 27 g, 10g e 36 g, respectivamente. Com o objetivo de testar a densidade das moedas, foi realizado um procedimento em que elas foram sequencialmente inseridas em uma proveta contendo 5 mL de água, conforme  \nesquematizado.\n\n![](enem/2020/dia2/img/q044_inline1.png)",
       "alternativas_introducao": "Com base nos dados obtidos, o investidor adquiriu as moedas",
       "alternativas": [
         "A) A e B",
@@ -1233,7 +1229,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q044_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
       "explicacao": "**Por que a alternativa D está correta:** Pelo método de Arquimedes, o volume da moeda é igual ao volume de água deslocado. Calculando densidade ρ = m/V para cada moeda e comparando com 9 g/cm³ (cobre puro), apenas as moedas B e D apresentaram densidade compatível, sendo então confirmadas como autênticas.\n\n**Conceito-chave:** Princípio de Arquimedes — volume deslocado = volume submerso; método clássico para identificar autenticidade por densidade.",
@@ -1273,7 +1269,7 @@
       "dia": 2,
       "numero": 46,
       "titulo": "Questão 136 - ENEM 2020",
-      "enunciado": "A fabricação da Bandeira Nacional deve obedecer ao descrito na Lei n. 5.700, de 1º de setembro de 1971, que trata dos Símbolos Nacionais. No artigo que se refere às dimensões da Bandeira, observa-se:\n\n“Para cálculos das dimensões, será tomada por base a largura, dividindo-a em 14 (quatorze) partes iguais, sendo que cada uma das partes será considerada uma medida ou um módulo (M). Os demais requisitos dimensionais seguem o critério abaixo:\n\n1.  Comprimento será de vinte módulos (20 M);\n2.  A distância dos vértices do losango amarelo ao quadro externo será de um módulo e sete décimos (1,7 M);\n3.  O raio do círculo azul no meio do losango amarelo será de três módulos e meio (3,5 M).”\n\nBRASIL, Lei n. 5.700, de 1° de setembro de 1971. Disponível em: www.planalto.gov.br. Acesso em: 15 set. 2015.\n\nA figura indica as cores da bandeira do Brasil e localiza o quadro externo a que se refere a Lei n. 5.700.\n\n![](enem/2020/img/q046_inline1.png)\n\nUm torcedor, preparando-se para a Copa do Mundo e dispondo de cortes de tecidos verde (180 cm x 150 cm) e  \namarelo (o quanto baste), deseja confeccionar a maior Bandeira Nacional possível a partir das medidas do tecido verde.",
+      "enunciado": "A fabricação da Bandeira Nacional deve obedecer ao descrito na Lei n. 5.700, de 1º de setembro de 1971, que trata dos Símbolos Nacionais. No artigo que se refere às dimensões da Bandeira, observa-se:\n\n“Para cálculos das dimensões, será tomada por base a largura, dividindo-a em 14 (quatorze) partes iguais, sendo que cada uma das partes será considerada uma medida ou um módulo (M). Os demais requisitos dimensionais seguem o critério abaixo:\n\n1.  Comprimento será de vinte módulos (20 M);\n2.  A distância dos vértices do losango amarelo ao quadro externo será de um módulo e sete décimos (1,7 M);\n3.  O raio do círculo azul no meio do losango amarelo será de três módulos e meio (3,5 M).”\n\nBRASIL, Lei n. 5.700, de 1° de setembro de 1971. Disponível em: www.planalto.gov.br. Acesso em: 15 set. 2015.\n\nA figura indica as cores da bandeira do Brasil e localiza o quadro externo a que se refere a Lei n. 5.700.\n\n![](enem/2020/dia2/img/q046_inline1.png)\n\nUm torcedor, preparando-se para a Copa do Mundo e dispondo de cortes de tecidos verde (180 cm x 150 cm) e  \namarelo (o quanto baste), deseja confeccionar a maior Bandeira Nacional possível a partir das medidas do tecido verde.",
       "alternativas_introducao": "Qual a medida, em centímetro, do lado do menor quadrado de tecido azul que deverá ser comprado para confecção do círculo da bandeira desejada?",
       "alternativas": [
         "A) 27",
@@ -1289,7 +1285,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q046_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
       "explicacao": "**Por que a alternativa D está correta:** Cada módulo M = largura/14. Para o círculo, r = 3,5 M, então o quadrado mínimo de tecido azul tem lado 2r = 7 M. Aplicando-se as dimensões da bandeira solicitada, o lado do quadrado vale 63 cm.\n\n**Conceito-chave:** Geometria proporcional e cálculo de medidas — usar relações dadas para calcular medidas específicas; comum em problemas de engenharia gráfica.",
@@ -1301,7 +1297,7 @@
       "dia": 2,
       "numero": 47,
       "titulo": "Questão 137 - ENEM 2020",
-      "enunciado": "Uma empresa de ônibus utiliza um sistema de vendas de passagens que fornece a imagem de todos os assentos do ônibus, diferenciando os assentos já vendidos, por uma cor mais escura, dos assentos ainda disponíveis. A empresa monitora, permanentemente, o número de assentos já vendidos e compara-o com o número total de assentos do ônibus para avaliar a necessidade de alocação de veículos extras.\n\nNa imagem tem-se a informação dos assentos já vendidos e dos assentos ainda disponíveis em um determinado instante.\n\n![](enem/2020/img/q047_inline1.png)",
+      "enunciado": "Uma empresa de ônibus utiliza um sistema de vendas de passagens que fornece a imagem de todos os assentos do ônibus, diferenciando os assentos já vendidos, por uma cor mais escura, dos assentos ainda disponíveis. A empresa monitora, permanentemente, o número de assentos já vendidos e compara-o com o número total de assentos do ônibus para avaliar a necessidade de alocação de veículos extras.\n\nNa imagem tem-se a informação dos assentos já vendidos e dos assentos ainda disponíveis em um determinado instante.\n\n![](enem/2020/dia2/img/q047_inline1.png)",
       "alternativas_introducao": "A razão entre o número de assentos já vendidos e o total de assentos desse ônibus, no instante considerado na image, é",
       "alternativas": [
         "A)",
@@ -1311,13 +1307,13 @@
         "E)"
       ],
       "imagens_alternativas": [
-        "enem/2020/img/q047_altA.png",
-        "enem/2020/img/q047_altB.png",
-        "enem/2020/img/q047_altC.png",
-        "enem/2020/img/q047_altD.png",
-        "enem/2020/img/q047_altE.png"
+        "enem/2020/dia2/img/q047_altA.png",
+        "enem/2020/dia2/img/q047_altB.png",
+        "enem/2020/dia2/img/q047_altC.png",
+        "enem/2020/dia2/img/q047_altD.png",
+        "enem/2020/dia2/img/q047_altE.png"
       ],
-      "imagem_principal": "enem/2020/img/q047_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
       "explicacao": "**Por que a alternativa A está correta:** Contam-se os assentos com cor escura (vendidos) e divide-se pelo total de assentos do ônibus na imagem. A razão obtida corresponde à fração da alternativa A.\n\n**Conceito-chave:** Razão e fração simples — comparar quantidade parcial com total; representação em fração ou percentual.",
@@ -1357,7 +1353,7 @@
       "dia": 2,
       "numero": 49,
       "titulo": "Questão 139 - ENEM 2020",
-      "enunciado": "Os gráficos representam a produção de peças em uma indústria e as horas trabalhadas dos funcionários no período de cinco dias. Em cada dia, o gerente de produção aplica uma metodologia diferente de trabalho. Seu objetivo é avaliar a metodologia mais eficiente para utilizá-la como modelo nos próximos períodos. Sabe-se que, neste caso, quanto maior for a razão entre o número de peças produzidas e o número de horas trabalhadas, maior será a eficiência da metodologia.\n\n![](enem/2020/img/q049_inline1.png)\n\n![](enem/2020/img/q049_inline2.png)",
+      "enunciado": "Os gráficos representam a produção de peças em uma indústria e as horas trabalhadas dos funcionários no período de cinco dias. Em cada dia, o gerente de produção aplica uma metodologia diferente de trabalho. Seu objetivo é avaliar a metodologia mais eficiente para utilizá-la como modelo nos próximos períodos. Sabe-se que, neste caso, quanto maior for a razão entre o número de peças produzidas e o número de horas trabalhadas, maior será a eficiência da metodologia.\n\n![](enem/2020/dia2/img/q049_inline1.png)\n\n![](enem/2020/dia2/img/q049_inline2.png)",
       "alternativas_introducao": "Em qual dia foi aplicada a metodologia mais eficiente?",
       "alternativas": [
         "A) 1",
@@ -1373,10 +1369,8 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q049_principal.png",
-      "imagens_extras": [
-        "enem/2020/img/q049_extra1.png"
-      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
       "correta": "C",
       "explicacao": "**Por que a alternativa C está correta:** Dividindo peças produzidas pelas horas trabalhadas em cada dia, o dia 3 apresenta a maior razão — maior produtividade por hora. A metodologia desse dia é a mais eficiente.\n\n**Conceito-chave:** Eficiência produtiva — produtividade = output/input; comparar processos exige normalizar pelo recurso utilizado.",
       "fonte": "api.enem.dev",
@@ -1443,7 +1437,7 @@
       "dia": 2,
       "numero": 52,
       "titulo": "Questão 142 - ENEM 2020",
-      "enunciado": "O Estatuto do Idoso, no Brasil, prevê certos direitos às pessoas com idade avançada, concedendo a estas, entre outros benefícios, a restituição de imposto de renda antes dos demais contribuintes. A tabela informa os nomes e as idades de 12 idosos que aguardam suas restituições de imposto de renda. Considere que, entre os idosos, a restituição seja concedida em ordem decrescente de idade e que, em subgrupos de pessoas com a mesma idade, a ordem seja decidida por sorteio.\n\n![](enem/2020/img/q052_inline1.png)",
+      "enunciado": "O Estatuto do Idoso, no Brasil, prevê certos direitos às pessoas com idade avançada, concedendo a estas, entre outros benefícios, a restituição de imposto de renda antes dos demais contribuintes. A tabela informa os nomes e as idades de 12 idosos que aguardam suas restituições de imposto de renda. Considere que, entre os idosos, a restituição seja concedida em ordem decrescente de idade e que, em subgrupos de pessoas com a mesma idade, a ordem seja decidida por sorteio.\n\n![](enem/2020/dia2/img/q052_inline1.png)",
       "alternativas_introducao": "Nessas condições, a probabilidade de João ser a sétima pessoa do grupo a receber sua restituição é igual a",
       "alternativas": [
         "A)",
@@ -1453,13 +1447,13 @@
         "E)"
       ],
       "imagens_alternativas": [
-        "enem/2020/img/q052_altA.png",
-        "enem/2020/img/q052_altB.png",
-        "enem/2020/img/q052_altC.png",
-        "enem/2020/img/q052_altD.png",
-        "enem/2020/img/q052_altE.png"
+        "enem/2020/dia2/img/q052_altA.png",
+        "enem/2020/dia2/img/q052_altB.png",
+        "enem/2020/dia2/img/q052_altC.png",
+        "enem/2020/dia2/img/q052_altD.png",
+        "enem/2020/dia2/img/q052_altE.png"
       ],
-      "imagem_principal": "enem/2020/img/q052_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
       "explicacao": "**Por que a alternativa E está correta:** Reordena-se os 12 idosos por idade decrescente. Calcula-se em qual posição João pode chegar com base nos sub-grupos por idade igual e aplica-se a probabilidade do sorteio interno. O resultado corresponde à fração da alternativa E.\n\n**Conceito-chave:** Probabilidade condicional em ordenamento — quando há empates, a ordem entre eles é aleatória; calcular envolve combinatória dentro do subgrupo.",
@@ -1471,7 +1465,7 @@
       "dia": 2,
       "numero": 53,
       "titulo": "Questão 143 - ENEM 2020",
-      "enunciado": "No Brasil, o tempo necessário para um estudante realizar sua formação até a diplomação em um curso superior, considerando os 9 anos de ensino fundamental, os 3 anos do ensino médio e os 4 anos de graduação (tempo médio), é de 16 anos. No entanto, a realidade dos brasileiros mostra que o tempo médio de estudo de pessoas acima de 14 anos é ainda muito pequeno, conforme apresentado na tabela\n\n![](enem/2020/img/q053_inline1.png)\n\nConsidere que o incremento no tempo de estudo, a cada período, para essas pessoas, se mantenha constante até o ano 2050, e que se pretenda chegar ao patamar de 70% do tempo necessário à obtenção do curso superior dado anteriormente.",
+      "enunciado": "No Brasil, o tempo necessário para um estudante realizar sua formação até a diplomação em um curso superior, considerando os 9 anos de ensino fundamental, os 3 anos do ensino médio e os 4 anos de graduação (tempo médio), é de 16 anos. No entanto, a realidade dos brasileiros mostra que o tempo médio de estudo de pessoas acima de 14 anos é ainda muito pequeno, conforme apresentado na tabela\n\n![](enem/2020/dia2/img/q053_inline1.png)\n\nConsidere que o incremento no tempo de estudo, a cada período, para essas pessoas, se mantenha constante até o ano 2050, e que se pretenda chegar ao patamar de 70% do tempo necessário à obtenção do curso superior dado anteriormente.",
       "alternativas_introducao": "O ano em que o tempo médio de estudo de pessoas acima de 14 anos atingirá o percentual pretendido será",
       "alternativas": [
         "A) 2018.",
@@ -1487,7 +1481,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q053_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
       "explicacao": "**Por que a alternativa D está correta:** 70% de 16 anos = 11,2 anos. A tabela mostra incremento constante de tempo de estudo. Projetando linearmente até atingir 11,2 anos, o ano correspondente é aproximadamente 2035.\n\n**Conceito-chave:** Progressão aritmética e projeção — incremento constante (PA) permite calcular quando uma sequência atinge um valor-alvo; aplicação em demografia educacional.",
@@ -1515,7 +1509,7 @@
       "dia": 2,
       "numero": 55,
       "titulo": "Questão 145 - ENEM 2020",
-      "enunciado": "Um clube deseja produzir miniaturas em escala do troféu que ganhou no último campeonato. O troféu está representado na Figura 1 e é composto por uma base em formato de um paralelepípedo reto-retângulo de madeira, sobre a qual estão fixadas três hastes verticais que sustentam uma esfera de 30 cm de diâmetro, que fica centralizada sobre a base de madeira. O troféu tem 100 cm de altura, incluída sua base.\n\n![](enem/2020/img/q055_inline1.png)\n\nA miniatura desse troféu deverá ser instalada no interior de uma caixa de vidro, em formato de paralelepípedo reto-retângulo, cujas dimensões internas de sua base estão indicadas na Figura 2, de modo que a base do troféu seja colada na base da caixa e distante das paredes laterais da caixa de vidro em pelo menos 1 cm. Deve ainda haver uma distância de exatos 2 cm entre o topo da esfera e a tampa dessa caixa de vidro. Nessas condições deseja-se fazer a maior miniatura possível.",
+      "enunciado": "Um clube deseja produzir miniaturas em escala do troféu que ganhou no último campeonato. O troféu está representado na Figura 1 e é composto por uma base em formato de um paralelepípedo reto-retângulo de madeira, sobre a qual estão fixadas três hastes verticais que sustentam uma esfera de 30 cm de diâmetro, que fica centralizada sobre a base de madeira. O troféu tem 100 cm de altura, incluída sua base.\n\n![](enem/2020/dia2/img/q055_inline1.png)\n\nA miniatura desse troféu deverá ser instalada no interior de uma caixa de vidro, em formato de paralelepípedo reto-retângulo, cujas dimensões internas de sua base estão indicadas na Figura 2, de modo que a base do troféu seja colada na base da caixa e distante das paredes laterais da caixa de vidro em pelo menos 1 cm. Deve ainda haver uma distância de exatos 2 cm entre o topo da esfera e a tampa dessa caixa de vidro. Nessas condições deseja-se fazer a maior miniatura possível.",
       "alternativas_introducao": "A medida da altura, em centímetro, dessa caixa de vidro deverá ser igual a",
       "alternativas": [
         "A) 12.",
@@ -1531,7 +1525,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q055_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
       "explicacao": "**Por que a alternativa B está correta:** A miniatura mantém proporções: altura total da miniatura é fração da altura real (100 cm) baseada na proporção entre as bases. Calculando, a miniatura terá altura tal que a caixa de vidro precisará ter altura interna de 14 cm, considerando a esfera centralizada e a base.\n\n**Conceito-chave:** Escala em sólidos compostos — manter proporções entre dimensões lineares; calcular cada elemento da miniatura conforme escala.",
@@ -1543,7 +1537,7 @@
       "dia": 2,
       "numero": 56,
       "titulo": "Questão 146 - ENEM 2020",
-      "enunciado": "Uma casa de dois andares está sendo projetada. É necessário incluir no projeto a construção de uma escada para o acesso ao segundo andar. Para o cálculo das dimensões dos degraus utilizam-se as regras:\n\n\u00052_h_ + _b_ — 63,5\u0005 ≤ 1,5 e 16 ≤ _h_ ≤ 19,\n\nnas quais _h_ é a altura do degrau (denominada espelho) e _b_ é a profundidade da pisada, como mostra a figura. Por conveniência, escolheu-se a altura do degrau como sendo _h_ = 16. As unidades de _h_ e _b_ estão em centímetro.\n\n![](enem/2020/img/q056_inline1.png)",
+      "enunciado": "Uma casa de dois andares está sendo projetada. É necessário incluir no projeto a construção de uma escada para o acesso ao segundo andar. Para o cálculo das dimensões dos degraus utilizam-se as regras:\n\n\u00052_h_ + _b_ — 63,5\u0005 ≤ 1,5 e 16 ≤ _h_ ≤ 19,\n\nnas quais _h_ é a altura do degrau (denominada espelho) e _b_ é a profundidade da pisada, como mostra a figura. Por conveniência, escolheu-se a altura do degrau como sendo _h_ = 16. As unidades de _h_ e _b_ estão em centímetro.\n\n![](enem/2020/dia2/img/q056_inline1.png)",
       "alternativas_introducao": "Nesse caso, o mais amplo intervalo numérico ao qual a profundidade da pisada (b) deve pertencer, para que as regras sejam satisfeitas é",
       "alternativas": [
         "A) 30 ≤ b",
@@ -1559,7 +1553,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q056_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
       "explicacao": "**Por que a alternativa C está correta:** Com h = 16: 2·16 + b − 63,5 ≤ 1,5 → 32 + b ≤ 65 → b ≤ 33. Combinado com a regra ergonômica básica (b ≥ 30 para conforto), o intervalo é 30 ≤ b ≤ 33.\n\n**Conceito-chave:** Resolução de inequações — isolar variável, manter sentido das desigualdades; aplicação em problemas de engenharia/ergonomia.",
@@ -1581,11 +1575,11 @@
         "E)"
       ],
       "imagens_alternativas": [
-        "enem/2020/img/q057_altA.png",
-        "enem/2020/img/q057_altB.png",
-        "enem/2020/img/q057_altC.png",
-        "enem/2020/img/q057_altD.png",
-        "enem/2020/img/q057_altE.png"
+        "enem/2020/dia2/img/q057_altA.png",
+        "enem/2020/dia2/img/q057_altB.png",
+        "enem/2020/dia2/img/q057_altC.png",
+        "enem/2020/dia2/img/q057_altD.png",
+        "enem/2020/dia2/img/q057_altE.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],
@@ -1599,7 +1593,7 @@
       "dia": 2,
       "numero": 58,
       "titulo": "Questão 148 - ENEM 2020",
-      "enunciado": "A Pesquisa Nacional por Amostra de Domicílios (Pnad) é uma pesquisa feita anualmente pelo IBGE, exceto nos anos em que há Censo. Em um ano, foram entrevistados 363 mil jovens para fazer um levantamento sobre suas atividades profissionais e/ou acadêmicas. Os resultados da pesquisa estão indicados no gráfico.\n\n![](enem/2020/img/q058_inline1.png)\n\nDisponível em: http://noticias.uol.com.br. Acesso em 20 ago. 2014.",
+      "enunciado": "A Pesquisa Nacional por Amostra de Domicílios (Pnad) é uma pesquisa feita anualmente pelo IBGE, exceto nos anos em que há Censo. Em um ano, foram entrevistados 363 mil jovens para fazer um levantamento sobre suas atividades profissionais e/ou acadêmicas. Os resultados da pesquisa estão indicados no gráfico.\n\n![](enem/2020/dia2/img/q058_inline1.png)\n\nDisponível em: http://noticias.uol.com.br. Acesso em 20 ago. 2014.",
       "alternativas_introducao": "De acordo com as informações dadas, o número de jovens entrevistados que trabalha é",
       "alternativas": [
         "A) 114 708.",
@@ -1615,7 +1609,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q058_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
       "explicacao": "**Por que a alternativa C está correta:** Pelo gráfico, a fração de jovens que trabalham é 58,8% (incluindo só estudantes que também trabalham e não estudantes que trabalham). Total de trabalhadores: 363 000 × 0,588 = 213 444.\n\n**Conceito-chave:** Análise de dados percentuais — extrair categorias relevantes do gráfico, somar percentuais e aplicar ao total absoluto.",
@@ -1627,7 +1621,7 @@
       "dia": 2,
       "numero": 59,
       "titulo": "Questão 149 - ENEM 2020",
-      "enunciado": "A Lei de Zipf, batizada com o nome do linguista americano George Zipf, é uma lei empírica que relaciona a frequência (_f_) de uma palavra em um dado texto com o seu ranking (_r_). Ela é dada por\n\n![](enem/2020/img/q059_inline1.png)\n\nO ranking da palavra é a sua posição ao ordenar as palavras por ordem de frequência. Ou seja, _r_ = 1 para a palavra mais frequente, _r_ = 2 para a segunda palavra mais frequente e assim sucessivamente. A e B são constantes positivas.\n\nDisponível em: http://klein.sbm.org.br. Acesso em: 12 ago. 2020 (adaptado).",
+      "enunciado": "A Lei de Zipf, batizada com o nome do linguista americano George Zipf, é uma lei empírica que relaciona a frequência (_f_) de uma palavra em um dado texto com o seu ranking (_r_). Ela é dada por\n\n![](enem/2020/dia2/img/q059_inline1.png)\n\nO ranking da palavra é a sua posição ao ordenar as palavras por ordem de frequência. Ou seja, _r_ = 1 para a palavra mais frequente, _r_ = 2 para a segunda palavra mais frequente e assim sucessivamente. A e B são constantes positivas.\n\nDisponível em: http://klein.sbm.org.br. Acesso em: 12 ago. 2020 (adaptado).",
       "alternativas_introducao": "Com base nos valores de X = log (r) e Y = log (f), é possível estimar valores para A e B.\nNo caso hipotético em que a lei é verificada exatamente, a relação entre Y e X é",
       "alternativas": [
         "A)",
@@ -1637,13 +1631,13 @@
         "E)"
       ],
       "imagens_alternativas": [
-        "enem/2020/img/q059_altA.png",
-        "enem/2020/img/q059_altB.png",
-        "enem/2020/img/q059_altC.png",
-        "enem/2020/img/q059_altD.png",
-        "enem/2020/img/q059_altE.png"
+        "enem/2020/dia2/img/q059_altA.png",
+        "enem/2020/dia2/img/q059_altB.png",
+        "enem/2020/dia2/img/q059_altC.png",
+        "enem/2020/dia2/img/q059_altD.png",
+        "enem/2020/dia2/img/q059_altE.png"
       ],
-      "imagem_principal": "enem/2020/img/q059_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
       "explicacao": "**Por que a alternativa A está correta:** A Lei de Zipf é f = A/r^B. Aplicando log: log f = log A − B·log r. Substituindo Y = log f, X = log r: Y = log A − B·X. Reta com inclinação negativa (-B) e intercepto log A.\n\n**Conceito-chave:** Linearização de leis de potência — funções tipo y = A·x^k tornam-se retas em escala logarítmica; ferramenta clássica em análise de dados.",
@@ -1655,7 +1649,7 @@
       "dia": 2,
       "numero": 60,
       "titulo": "Questão 150 - ENEM 2020",
-      "enunciado": "Enquanto um ser está vivo, a quantidade de carbono 14 nele existente não se altera. Quando ele morre, essa quantidade vai diminuindo. Sabe-se que a meia-vida do carbono 14 é de 5 730 anos, ou seja, num fóssil de um organismo que morreu há 5 730 anos haverá metade do carbono 14 que existia quando ele estava vivo. Assim, cientistas e arqueólogos usam a seguinte fórmula para saber a idade de um fóssil encontrado: ![](enem/2020/img/q060_inline1.png) em que t é o tempo, medido em ano, Q(t) é a quantidade de carbono 14 medida no instante t e Q0 é a quantidade de carbono 14 no ser vivo correspondente.\n\nUm grupo de arqueólogos, numa de suas expedições, encontrou 5 fósseis de espécies conhecidas e mediram a  \nquantidade de carbono 14 neles existente. Na tabela temos esses valores juntamente com a quantidade de carbono 14 nas referidas espécies vivas.\n\n![](enem/2020/img/q060_inline2.jpeg)",
+      "enunciado": "Enquanto um ser está vivo, a quantidade de carbono 14 nele existente não se altera. Quando ele morre, essa quantidade vai diminuindo. Sabe-se que a meia-vida do carbono 14 é de 5 730 anos, ou seja, num fóssil de um organismo que morreu há 5 730 anos haverá metade do carbono 14 que existia quando ele estava vivo. Assim, cientistas e arqueólogos usam a seguinte fórmula para saber a idade de um fóssil encontrado: ![](enem/2020/dia2/img/q060_inline1.png) em que t é o tempo, medido em ano, Q(t) é a quantidade de carbono 14 medida no instante t e Q0 é a quantidade de carbono 14 no ser vivo correspondente.\n\nUm grupo de arqueólogos, numa de suas expedições, encontrou 5 fósseis de espécies conhecidas e mediram a  \nquantidade de carbono 14 neles existente. Na tabela temos esses valores juntamente com a quantidade de carbono 14 nas referidas espécies vivas.\n\n![](enem/2020/dia2/img/q060_inline2.jpeg)",
       "alternativas_introducao": "O fóssil mais antigo encontrado nessa expedição foi",
       "alternativas": [
         "A) 1.",
@@ -1671,10 +1665,8 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q060_principal.png",
-      "imagens_extras": [
-        "enem/2020/img/q060_extra1.jpeg"
-      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
       "correta": "B",
       "explicacao": "**Por que a alternativa B está correta:** O fóssil mais antigo tem o menor valor de Q(t)/Q0 — pois quanto mais tempo se passou desde a morte, menos C-14 resta. Pelos dados experimentais, o fóssil 2 apresenta o menor valor relativo, sendo o mais antigo.\n\n**Conceito-chave:** Datação por carbono-14 — método baseado em decaimento exponencial com meia-vida 5 730 anos; aplicação em paleontologia e arqueologia.",
       "fonte": "api.enem.dev",
@@ -1713,7 +1705,7 @@
       "dia": 2,
       "numero": 62,
       "titulo": "Questão 152 - ENEM 2020",
-      "enunciado": "Um processo de aeração, que consiste na introdução de ar num líquido, acontece do seguinte modo: uma bomba B retira o líquido de um tanque T1 e o faz passar pelo aerador A1, que aumenta o volume do líquido em 15%, e em seguida pelo aerador A2, ganhando novo aumento de volume de 10%. Ao final, ele fica armazenado num tanque T2, de acordo com a figura\n\n![](enem/2020/img/q062_inline1.png)\n\nOs tanques T1 e T2 são prismas retos de bases retangulares, sendo que a base de T1 tem comprimento c e largura L, e a base de T2 tem comprimento ![](enem/2020/img/q062_inline2.png) e largura 2L.\n\nPara finalizar o processo de aeração sem derramamento do líquido em T2, o responsável deve saber a relação entre a altura da coluna de líquido que já saiu de T1, denotada por x, e a altura da coluna de líquido que chegou a T2, denotada por y.\n\nDisponível em: www.dec.ufcg.edu.br. Acesso em: 21 abr. 2015.",
+      "enunciado": "Um processo de aeração, que consiste na introdução de ar num líquido, acontece do seguinte modo: uma bomba B retira o líquido de um tanque T1 e o faz passar pelo aerador A1, que aumenta o volume do líquido em 15%, e em seguida pelo aerador A2, ganhando novo aumento de volume de 10%. Ao final, ele fica armazenado num tanque T2, de acordo com a figura\n\n![](enem/2020/dia2/img/q062_inline1.png)\n\nOs tanques T1 e T2 são prismas retos de bases retangulares, sendo que a base de T1 tem comprimento c e largura L, e a base de T2 tem comprimento ![](enem/2020/dia2/img/q062_inline2.png) e largura 2L.\n\nPara finalizar o processo de aeração sem derramamento do líquido em T2, o responsável deve saber a relação entre a altura da coluna de líquido que já saiu de T1, denotada por x, e a altura da coluna de líquido que chegou a T2, denotada por y.\n\nDisponível em: www.dec.ufcg.edu.br. Acesso em: 21 abr. 2015.",
       "alternativas_introducao": "A equação que relaciona as medidas das alturas y e x é dada por",
       "alternativas": [
         "A) Y = 1,265x",
@@ -1729,10 +1721,8 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q062_principal.png",
-      "imagens_extras": [
-        "enem/2020/img/q062_extra1.png"
-      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
       "correta": "A",
       "explicacao": "**Por que a alternativa A está correta:** O volume após os dois aeradores aumenta 1,15 × 1,10 = 1,265 vezes. Como T2 tem base maior que T1, a relação entre as alturas y e x deve compensar essa proporção. Aplicando V₁ = c·L·x e V₂ = c'·2L·y, onde c'·2L = c·L (ou outra relação geométrica explicitada na figura), resulta y = 1,265·x.\n\n**Conceito-chave:** Conservação de volume — V = base × altura; mudança nas dimensões da base implica mudança proporcional na altura para manter volume.",
       "fonte": "api.enem.dev",
@@ -1743,7 +1733,7 @@
       "dia": 2,
       "numero": 63,
       "titulo": "Questão 153 - ENEM 2020",
-      "enunciado": "Para chegar à universidade, um estudante utiliza um metrô e, depois, tem duas opções:\n\n*   seguir num ônibus, percorrendo 2,0 km;\n*   alugar uma bicicleta, ao lado da estação do metrô, seguindo 3,0 km pela ciclovia.\n\nO quadro fornece as velocidades médias do ônibus e da bicicleta, em km/h, no trajeto metrô-universidade.\n\n![](enem/2020/img/q063_inline1.jpeg)",
+      "enunciado": "Para chegar à universidade, um estudante utiliza um metrô e, depois, tem duas opções:\n\n*   seguir num ônibus, percorrendo 2,0 km;\n*   alugar uma bicicleta, ao lado da estação do metrô, seguindo 3,0 km pela ciclovia.\n\nO quadro fornece as velocidades médias do ônibus e da bicicleta, em km/h, no trajeto metrô-universidade.\n\n![](enem/2020/dia2/img/q063_inline1.jpeg)",
       "alternativas_introducao": "A fim de poupar tempo no deslocamento para a universidade, em quais dias o aluno deve seguir pela ciclovia?",
       "alternativas": [
         "A) Às segundas, quintas e sextas-feiras.",
@@ -1759,7 +1749,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q063_principal.jpeg",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
       "explicacao": "**Por que a alternativa C está correta:** Calcula-se o tempo de cada modal em cada dia: tônibus = 2/v_ônibus e tbicicleta = 3/v_bici. Onde tbicicleta < tônibus, vale a ciclovia. Pelos dados do quadro, isso ocorre nas segundas, quartas e sextas-feiras.\n\n**Conceito-chave:** Otimização cotidiana — comparar tempos com base em distâncias e velocidades; mesmo trajeto mais longo pode ser mais rápido se velocidade for proporcionalmente maior.",
@@ -1771,7 +1761,7 @@
       "dia": 2,
       "numero": 64,
       "titulo": "Questão 154 - ENEM 2020",
-      "enunciado": "Pesquisadores da Universidade de Tecnologia de Viena, na Áustria, produziram miniaturas de objetos em impressoras 3D de alta precisão. Ao serem ativadas, tais impressoras lançam feixes de laser sobre um tipo de resina, esculpindo o objeto desejado. O produto final da impressão é uma escultura microscópica de três dimensões, como visto na imagem ampliada.\n\n![](enem/2020/img/q064_inline1.png)\n\nA escultura apresentada é uma miniatura de um carro de Fórmula 1, com 100 micrômetros de comprimento. Um micrômetro é a milionésima parte de um metro.",
+      "enunciado": "Pesquisadores da Universidade de Tecnologia de Viena, na Áustria, produziram miniaturas de objetos em impressoras 3D de alta precisão. Ao serem ativadas, tais impressoras lançam feixes de laser sobre um tipo de resina, esculpindo o objeto desejado. O produto final da impressão é uma escultura microscópica de três dimensões, como visto na imagem ampliada.\n\n![](enem/2020/dia2/img/q064_inline1.png)\n\nA escultura apresentada é uma miniatura de um carro de Fórmula 1, com 100 micrômetros de comprimento. Um micrômetro é a milionésima parte de um metro.",
       "alternativas_introducao": "Usando notação científica, qual é a representação do comprimento dessa miniatura, em metro?",
       "alternativas": [
         "A) 1,0 x 10-1",
@@ -1787,7 +1777,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q064_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
       "explicacao": "**Por que a alternativa C está correta:** 1 micrômetro = 10⁻⁶ m. Logo 100 micrômetros = 100 × 10⁻⁶ = 10² × 10⁻⁶ = 10⁻⁴ m, ou 1,0 × 10⁻⁴ m.\n\n**Conceito-chave:** Notação científica e prefixos — micro = 10⁻⁶, nano = 10⁻⁹, mili = 10⁻³; conversões essenciais em ciência e engenharia.",
@@ -1799,7 +1789,7 @@
       "dia": 2,
       "numero": 65,
       "titulo": "Questão 155 - ENEM 2020",
-      "enunciado": "O artista gráfico holandês Maurits Cornelius Escher criou belíssimas obras nas quais as imagens se repetiam, com diferentes tamanhos, induzindo ao raciocínio de repetição infinita das imagens. Inspirado por ele, um artista fez um rascunho de uma obra na qual propunha a ideia de construção de uma sequência de infinitos quadrados, cada vez menores, uns sob os outros, conforme indicado na figura.\n\n![](enem/2020/img/q065_inline1.png)\n\nO quadrado _PRST_, com lado de medida 1, é o ponto de partida. O segundo quadrado é construído sob ele tomando-se o ponto médio da base do quadrado anterior e criando-se um novo quadrado, cujo lado corresponde à metade dessa base. Essa sequência de construção se repete recursivamente.",
+      "enunciado": "O artista gráfico holandês Maurits Cornelius Escher criou belíssimas obras nas quais as imagens se repetiam, com diferentes tamanhos, induzindo ao raciocínio de repetição infinita das imagens. Inspirado por ele, um artista fez um rascunho de uma obra na qual propunha a ideia de construção de uma sequência de infinitos quadrados, cada vez menores, uns sob os outros, conforme indicado na figura.\n\n![](enem/2020/dia2/img/q065_inline1.png)\n\nO quadrado _PRST_, com lado de medida 1, é o ponto de partida. O segundo quadrado é construído sob ele tomando-se o ponto médio da base do quadrado anterior e criando-se um novo quadrado, cujo lado corresponde à metade dessa base. Essa sequência de construção se repete recursivamente.",
       "alternativas_introducao": "Qual é a medida do lado do centésimo quadrado construído de acordo com esse padrão?",
       "alternativas": [
         "A)",
@@ -1809,13 +1799,13 @@
         "E)"
       ],
       "imagens_alternativas": [
-        "enem/2020/img/q065_altA.png",
-        "enem/2020/img/q065_altB.png",
-        "enem/2020/img/q065_altC.png",
-        "enem/2020/img/q065_altD.png",
-        "enem/2020/img/q065_altE.png"
+        "enem/2020/dia2/img/q065_altA.png",
+        "enem/2020/dia2/img/q065_altB.png",
+        "enem/2020/dia2/img/q065_altC.png",
+        "enem/2020/dia2/img/q065_altD.png",
+        "enem/2020/dia2/img/q065_altE.png"
       ],
-      "imagem_principal": "enem/2020/img/q065_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
       "explicacao": "**Por que a alternativa B está correta:** A sequência tem razão 1/2: cada quadrado tem lado igual à metade do anterior. Em PA geométrica de razão 1/2, o termo n é (1/2)^(n-1). O 100º quadrado tem lado (1/2)^99 = 1/2⁹⁹.\n\n**Conceito-chave:** Progressão geométrica — termo geral aₙ = a₁·r^(n-1); razão r = 1/2 gera valores que tendem a zero.",
@@ -1827,7 +1817,7 @@
       "dia": 2,
       "numero": 66,
       "titulo": "Questão 156 - ENEM 2020",
-      "enunciado": "O gerente de uma loja de cosméticos colocou à venda cinco diferentes tipos de perfume, tendo em estoque na loja as mesmas quantidades de cada um deles. O setor de controle de estoque encaminhou ao gerente registros gráficos descrevendo os preços unitários de cada perfume, em real, e a quantidade vendida de cada um deles, em percentual, ocorrida no mês de novembro.\n\n![](enem/2020/img/q066_inline1.png)\n\n![](enem/2020/img/q066_inline2.png)\n\nDados a chegada do final de ano e o aumento das vendas, a gerência pretende aumentar a quantidade estocada do perfume do tipo que gerou a maior arrecadação em espécie, em real, no mês de novembro.",
+      "enunciado": "O gerente de uma loja de cosméticos colocou à venda cinco diferentes tipos de perfume, tendo em estoque na loja as mesmas quantidades de cada um deles. O setor de controle de estoque encaminhou ao gerente registros gráficos descrevendo os preços unitários de cada perfume, em real, e a quantidade vendida de cada um deles, em percentual, ocorrida no mês de novembro.\n\n![](enem/2020/dia2/img/q066_inline1.png)\n\n![](enem/2020/dia2/img/q066_inline2.png)\n\nDados a chegada do final de ano e o aumento das vendas, a gerência pretende aumentar a quantidade estocada do perfume do tipo que gerou a maior arrecadação em espécie, em real, no mês de novembro.",
       "alternativas_introducao": "Nessas condições, qual o tipo de perfume que deverá ter maior reposição no estoque?",
       "alternativas": [
         "A) I",
@@ -1843,10 +1833,8 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q066_principal.png",
-      "imagens_extras": [
-        "enem/2020/img/q066_extra1.png"
-      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
       "correta": "D",
       "explicacao": "**Por que a alternativa D está correta:** Arrecadação = preço × quantidade vendida. Multiplicando preço de cada tipo pelo percentual vendido (e considerando o estoque igual), o tipo IV gera o maior produto, sendo o que mais arrecadou e merece reposição prioritária.\n\n**Conceito-chave:** Análise de receita — preço alto e baixa quantidade pode arrecadar mais que preço baixo e alta quantidade; depende do produto.",
       "fonte": "api.enem.dev",
@@ -1867,11 +1855,11 @@
         "E)"
       ],
       "imagens_alternativas": [
-        "enem/2020/img/q067_altA.png",
-        "enem/2020/img/q067_altB.png",
-        "enem/2020/img/q067_altC.png",
-        "enem/2020/img/q067_altD.png",
-        "enem/2020/img/q067_altE.png"
+        "enem/2020/dia2/img/q067_altA.png",
+        "enem/2020/dia2/img/q067_altB.png",
+        "enem/2020/dia2/img/q067_altC.png",
+        "enem/2020/dia2/img/q067_altD.png",
+        "enem/2020/dia2/img/q067_altE.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],
@@ -1885,7 +1873,7 @@
       "dia": 2,
       "numero": 68,
       "titulo": "Questão 158 - ENEM 2020",
-      "enunciado": "Três amigos, André, Bernardo e Carlos, moram em um condomínio fechado de uma cidade. O quadriculado representa a localização das ruas paralelas e perpendiculares, delimitando quadras de mesmo tamanho nesse condomínio, em que nos pontos A, B e C estão localizadas as casas de André, Bernardo e Carlos, respectivamente.\n\n![](enem/2020/img/q068_inline1.png)\n\nAndré deseja deslocar-se da sua casa até a casa de Bernardo, sem passar pela casa de Carlos, seguindo ao longo das ruas do condomínio, fazendo sempre deslocamentos para a direita (→) ou para cima (↑), segundo o esquema da figura.",
+      "enunciado": "Três amigos, André, Bernardo e Carlos, moram em um condomínio fechado de uma cidade. O quadriculado representa a localização das ruas paralelas e perpendiculares, delimitando quadras de mesmo tamanho nesse condomínio, em que nos pontos A, B e C estão localizadas as casas de André, Bernardo e Carlos, respectivamente.\n\n![](enem/2020/dia2/img/q068_inline1.png)\n\nAndré deseja deslocar-se da sua casa até a casa de Bernardo, sem passar pela casa de Carlos, seguindo ao longo das ruas do condomínio, fazendo sempre deslocamentos para a direita (→) ou para cima (↑), segundo o esquema da figura.",
       "alternativas_introducao": "O número de diferentes caminhos que André poderá utilizar para realizar o deslocamento nas condições propostas é",
       "alternativas": [
         "A) 4",
@@ -1901,7 +1889,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q068_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
       "explicacao": "**Por que a alternativa C está correta:** Total de caminhos de A até B em malha sem restrição é dado pelo coeficiente binomial. Subtraindo os caminhos que passam por C (os 'caminhos proibidos'), resta 17 caminhos válidos para André.\n\n**Conceito-chave:** Caminhos em malha quadriculada — princípio aditivo/multiplicativo da contagem; restrições eliminam subconjuntos.",
@@ -1913,7 +1901,7 @@
       "dia": 2,
       "numero": 69,
       "titulo": "Questão 159 - ENEM 2020",
-      "enunciado": "Uma pessoa precisa comprar 15 sacos de cimento para uma reforma em sua casa. Faz pesquisa de preço em cinco depósitos que vendem o cimento de sua preferência e cobram frete para entrega do material, conforme a distância do depósito à sua casa. As informações sobre preço do cimento, valor do frete e distância do depósito até a casa dessa pessoa estão apresentadas no quadro.\n\n![](enem/2020/img/q069_inline1.png)\n\nA pessoa escolherá um desses depósitos para realizar sua compra, considerando os preços do cimento e do frete oferecidos em cada opção.",
+      "enunciado": "Uma pessoa precisa comprar 15 sacos de cimento para uma reforma em sua casa. Faz pesquisa de preço em cinco depósitos que vendem o cimento de sua preferência e cobram frete para entrega do material, conforme a distância do depósito à sua casa. As informações sobre preço do cimento, valor do frete e distância do depósito até a casa dessa pessoa estão apresentadas no quadro.\n\n![](enem/2020/dia2/img/q069_inline1.png)\n\nA pessoa escolherá um desses depósitos para realizar sua compra, considerando os preços do cimento e do frete oferecidos em cada opção.",
       "alternativas_introducao": "Se a pessoa decidir pela opção mais econômica, o depósito escolhido para a realização dessa compra será o",
       "alternativas": [
         "A) A.",
@@ -1929,7 +1917,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q069_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
       "explicacao": "**Por que a alternativa C está correta:** Custo total = (15 × preço/saco) + frete. Calculando para cada depósito da tabela e comparando, o depósito C apresenta o menor custo total — mesmo se não for o mais barato no preço unitário, o frete o torna a opção mais econômica.\n\n**Conceito-chave:** Custo total — soma de custos fixos e variáveis; otimização exige somar todas as componentes, não comparar isoladamente.",
@@ -1979,11 +1967,11 @@
         "E)"
       ],
       "imagens_alternativas": [
-        "enem/2020/img/q071_altA.png",
-        "enem/2020/img/q071_altB.png",
-        "enem/2020/img/q071_altC.png",
-        "enem/2020/img/q071_altD.png",
-        "enem/2020/img/q071_altE.png"
+        "enem/2020/dia2/img/q071_altA.png",
+        "enem/2020/dia2/img/q071_altB.png",
+        "enem/2020/dia2/img/q071_altC.png",
+        "enem/2020/dia2/img/q071_altD.png",
+        "enem/2020/dia2/img/q071_altE.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],
@@ -1997,7 +1985,7 @@
       "dia": 2,
       "numero": 72,
       "titulo": "Questão 162 - ENEM 2020",
-      "enunciado": "A lei municipal para a edificação de casas em lotes de uma cidade determina que sejam obedecidos os seguintes critérios:\n\n*   afastamento mínimo de 4 m da rua;\n*   afastamento mínimo de 1 m da divisa com outro lote;\n*   área total construída da casa entre 40% e 50% da área total do lote.\n\nUm construtor submeteu para aprovação na prefeitura dessa cidade uma planta com propostas para a construção de casas em seus 5 lotes. Cada lote tem área medindo 200 m2.\n\nA imagem apresenta um esquema, sem escala, no qual estão representados os lotes, as ruas e os afastamentos considerados nos projetos entre as casas e as divisas dos lotes. As medidas indicadas no esquema estão expressas em metro.\n\n![](enem/2020/img/q072_inline1.png)",
+      "enunciado": "A lei municipal para a edificação de casas em lotes de uma cidade determina que sejam obedecidos os seguintes critérios:\n\n*   afastamento mínimo de 4 m da rua;\n*   afastamento mínimo de 1 m da divisa com outro lote;\n*   área total construída da casa entre 40% e 50% da área total do lote.\n\nUm construtor submeteu para aprovação na prefeitura dessa cidade uma planta com propostas para a construção de casas em seus 5 lotes. Cada lote tem área medindo 200 m2.\n\nA imagem apresenta um esquema, sem escala, no qual estão representados os lotes, as ruas e os afastamentos considerados nos projetos entre as casas e as divisas dos lotes. As medidas indicadas no esquema estão expressas em metro.\n\n![](enem/2020/dia2/img/q072_inline1.png)",
       "alternativas_introducao": "A prefeitura aprovará apenas a planta da casa",
       "alternativas": [
         "A) 1.",
@@ -2013,7 +2001,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q072_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
       "explicacao": "**Por que a alternativa E está correta:** Lote 200 m². Critérios: afastamento ≥ 4m da rua, ≥ 1m das divisas, área construída entre 80 e 100 m² (40-50% de 200). Verificando cada planta proposta, apenas a casa 5 atende simultaneamente todos os critérios e será aprovada.\n\n**Conceito-chave:** Restrições urbanísticas — projetos devem atender múltiplas regras simultâneas; verificar cada exigência separadamente.",
@@ -2035,11 +2023,11 @@
         "E)"
       ],
       "imagens_alternativas": [
-        "enem/2020/img/q073_altA.png",
-        "enem/2020/img/q073_altB.png",
-        "enem/2020/img/q073_altC.png",
-        "enem/2020/img/q073_altD.png",
-        "enem/2020/img/q073_altE.png"
+        "enem/2020/dia2/img/q073_altA.png",
+        "enem/2020/dia2/img/q073_altB.png",
+        "enem/2020/dia2/img/q073_altC.png",
+        "enem/2020/dia2/img/q073_altD.png",
+        "enem/2020/dia2/img/q073_altE.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],
@@ -2053,7 +2041,7 @@
       "dia": 2,
       "numero": 74,
       "titulo": "Questão 164 - ENEM 2020",
-      "enunciado": "A exposição a barulhos excessivos, como os que percebemos em geral em trânsitos intensos, casas noturnas e espetáculos musicais, podem provocar insônia, estresse, infarto, perda de audição, entre outras enfermidades. De acordo com a Organização Mundial da Saúde, todo e qualquer som que ultrapasse os 55 decibéis (unidade de intensidade do som) já pode ser considerado nocivo para a saúde. O gráfico foi elaborado a partir da medição do ruído produzido, durante um dia, em um canteiro de obras.\n\n![](enem/2020/img/q074_inline1.png)",
+      "enunciado": "A exposição a barulhos excessivos, como os que percebemos em geral em trânsitos intensos, casas noturnas e espetáculos musicais, podem provocar insônia, estresse, infarto, perda de audição, entre outras enfermidades. De acordo com a Organização Mundial da Saúde, todo e qualquer som que ultrapasse os 55 decibéis (unidade de intensidade do som) já pode ser considerado nocivo para a saúde. O gráfico foi elaborado a partir da medição do ruído produzido, durante um dia, em um canteiro de obras.\n\n![](enem/2020/dia2/img/q074_inline1.png)",
       "alternativas_introducao": "Nesse dia, durante quantas horas o ruído esteve acima de 55 decibéis?",
       "alternativas": [
         "A) 5",
@@ -2069,7 +2057,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q074_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
       "explicacao": "**Por que a alternativa E está correta:** Pelo gráfico de medição ao longo do dia, identificam-se os intervalos de tempo em que o ruído ultrapassa 55 dB. Somando esses intervalos, o ruído esteve acima do limite por aproximadamente 13 horas.\n\n**Conceito-chave:** Análise de gráficos contínuos — somar durações de intervalos onde a função excede um limiar; aplicação em saúde ambiental.",
@@ -2109,7 +2097,7 @@
       "dia": 2,
       "numero": 76,
       "titulo": "Questão 166 - ENEM 2020",
-      "enunciado": "O consumo de espumantes no Brasil tem aumentado nos últimos anos. Uma das etapas do seu processo de produção consiste no envasamento da bebida em garrafas semelhantes às da imagem. Nesse processo, a vazão do líquido no interior da garrafa é constante e cessa quando atinge o nível de envasamento.\n\n![](enem/2020/img/q076_inline1.png)",
+      "enunciado": "O consumo de espumantes no Brasil tem aumentado nos últimos anos. Uma das etapas do seu processo de produção consiste no envasamento da bebida em garrafas semelhantes às da imagem. Nesse processo, a vazão do líquido no interior da garrafa é constante e cessa quando atinge o nível de envasamento.\n\n![](enem/2020/dia2/img/q076_inline1.png)",
       "alternativas_introducao": "Qual esboço de gráfico melhor representa a variação da altura do líquido em função do tempo, na garrafa indicada na imagem?",
       "alternativas": [
         "A)",
@@ -2119,13 +2107,13 @@
         "E)"
       ],
       "imagens_alternativas": [
-        "enem/2020/img/q076_altA.png",
-        "enem/2020/img/q076_altB.png",
-        "enem/2020/img/q076_altC.png",
-        "enem/2020/img/q076_altD.png",
-        "enem/2020/img/q076_altE.png"
+        "enem/2020/dia2/img/q076_altA.png",
+        "enem/2020/dia2/img/q076_altB.png",
+        "enem/2020/dia2/img/q076_altC.png",
+        "enem/2020/dia2/img/q076_altD.png",
+        "enem/2020/dia2/img/q076_altE.png"
       ],
-      "imagem_principal": "enem/2020/img/q076_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
       "explicacao": "**Por que a alternativa B está correta:** A garrafa tem gargalo estreito + corpo largo + base mais estreita. Como vazão é constante, a altura sobe rápido onde a seção é estreita (gargalo), devagar onde é larga (corpo). O gráfico B reflete essa variação não linear: lentidão no corpo (largura maior) e rapidez no gargalo (largura menor).\n\n**Conceito-chave:** Vazão e geometria — altura(t) depende do volume acumulado e da seção transversal; secções diferentes geram velocidades de subida diferentes.",
@@ -2137,7 +2125,7 @@
       "dia": 2,
       "numero": 77,
       "titulo": "Questão 167 - ENEM 2020",
-      "enunciado": "O quadro representa os gastos mensais, em real, de uma família com internet, mensalidade escolar e mesada do filho.\n\n![](enem/2020/img/q077_inline1.png)\n\nNo início do ano, a internet e a mensalidade escolar tiveram acréscimos, respectivamente, de 20% e 10%. Necessitando manter o valor da despesa mensal total com os itens citados, a família reduzirá a mesada do filho.",
+      "enunciado": "O quadro representa os gastos mensais, em real, de uma família com internet, mensalidade escolar e mesada do filho.\n\n![](enem/2020/dia2/img/q077_inline1.png)\n\nNo início do ano, a internet e a mensalidade escolar tiveram acréscimos, respectivamente, de 20% e 10%. Necessitando manter o valor da despesa mensal total com os itens citados, a família reduzirá a mesada do filho.",
       "alternativas_introducao": "Qual será a porcentagem da redução da mesada?",
       "alternativas": [
         "A) 15,0",
@@ -2153,7 +2141,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q077_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
       "explicacao": "**Por que a alternativa B está correta:** Total inicial = soma de internet + escola + mesada. Acréscimos: internet × 1,2 e escola × 1,1. Para manter total fixo, a mesada deve cair pelo valor exato do aumento. Calculando, a redução percentual da mesada fica em torno de 23,5%.\n\n**Conceito-chave:** Compensação de aumentos — quando uma despesa aumenta e o orçamento total é fixo, outra deve diminuir; o cálculo envolve achar o desconto que zera o aumento líquido.",
@@ -2219,11 +2207,11 @@
         "E)"
       ],
       "imagens_alternativas": [
-        "enem/2020/img/q080_altA.png",
-        "enem/2020/img/q080_altB.png",
-        "enem/2020/img/q080_altC.png",
-        "enem/2020/img/q080_altD.png",
-        "enem/2020/img/q080_altE.png"
+        "enem/2020/dia2/img/q080_altA.png",
+        "enem/2020/dia2/img/q080_altB.png",
+        "enem/2020/dia2/img/q080_altC.png",
+        "enem/2020/dia2/img/q080_altD.png",
+        "enem/2020/dia2/img/q080_altE.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],
@@ -2237,7 +2225,7 @@
       "dia": 2,
       "numero": 81,
       "titulo": "Questão 171 - ENEM 2020",
-      "enunciado": "Azulejo designa peça de cerâmica vitrificada e/ou esmaltada usada, sobretudo, no revestimento de paredes. A origem das técnicas de fabricação de azulejos é oriental, mas sua expansão pela Europa traz consigo uma diversificação de estilos, padrões e usos, que podem ser decorativos, utilitários e arquitetônicos.\n\nDisponível em: www.itaucultural.org.br. Acesso em: 31 jul. 2012.\n\nAzulejos no formato de octógonos regulares serão utilizados para cobrir um painel retangular conforme ilustrado na figura.\n\n![](enem/2020/img/q081_inline1.png)\n\nEntre os octógonos e na borda lateral dessa área, será necessária a colocação de 15 azulejos de outros formatos para preencher os 15 espaços em branco do painel. Uma loja oferece azulejos nos seguintes formatos:\n\n1 — Triângulo retângulo isósceles;\n\n2 — Triângulo equilátero;\n\n3 — Quadrado.",
+      "enunciado": "Azulejo designa peça de cerâmica vitrificada e/ou esmaltada usada, sobretudo, no revestimento de paredes. A origem das técnicas de fabricação de azulejos é oriental, mas sua expansão pela Europa traz consigo uma diversificação de estilos, padrões e usos, que podem ser decorativos, utilitários e arquitetônicos.\n\nDisponível em: www.itaucultural.org.br. Acesso em: 31 jul. 2012.\n\nAzulejos no formato de octógonos regulares serão utilizados para cobrir um painel retangular conforme ilustrado na figura.\n\n![](enem/2020/dia2/img/q081_inline1.png)\n\nEntre os octógonos e na borda lateral dessa área, será necessária a colocação de 15 azulejos de outros formatos para preencher os 15 espaços em branco do painel. Uma loja oferece azulejos nos seguintes formatos:\n\n1 — Triângulo retângulo isósceles;\n\n2 — Triângulo equilátero;\n\n3 — Quadrado.",
       "alternativas_introducao": "Os azulejos necessários para o devido preenchimento das áreas em branco desse painel são os de formato",
       "alternativas": [
         "A) 1.",
@@ -2253,7 +2241,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q081_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
       "explicacao": "**Por que a alternativa D está correta:** Os 15 espaços vazios em volta dos octógonos têm dois formatos distintos: pequenos quadrados entre os octógonos (formato 1) e meias-formas nas bordas laterais (formato 3). Os azulejos necessários são dos tipos 1 e 3.\n\n**Conceito-chave:** Pavimentação geométrica — preencher superfícies com polígonos regulares; octógonos não tesselam sozinhos, requerem complemento (geralmente quadrados pequenos).",
@@ -2265,7 +2253,7 @@
       "dia": 2,
       "numero": 82,
       "titulo": "Questão 172 - ENEM 2020",
-      "enunciado": "No período de fim de ano, o síndico de um condomínio resolveu colocar, em um poste, uma iluminação natalina em formato de cone, lembrando uma árvore de Natal, conforme as figuras 1 e 2.\n\n![](enem/2020/img/q082_inline1.png)\n\nA árvore deverá ser feita colocando-se mangueiras de iluminação, consideradas segmentos de reta de mesmo comprimento, a partir de um ponto situado a 3 m de altura no poste até um ponto de uma circunferência de fixação, no chão, de tal forma que esta fique dividida em 20 arcos iguais. O poste está fixado no ponto C (centro da circunferência) perpendicularmente ao plano do chão.\n\nPara economizar, ele utilizará mangueiras de iluminação aproveitadas de anos anteriores, que juntas totalizaram pouco mais de 100 m de comprimento, dos quais ele decide usar exatamente 100 m e deixar o restante como reserva.",
+      "enunciado": "No período de fim de ano, o síndico de um condomínio resolveu colocar, em um poste, uma iluminação natalina em formato de cone, lembrando uma árvore de Natal, conforme as figuras 1 e 2.\n\n![](enem/2020/dia2/img/q082_inline1.png)\n\nA árvore deverá ser feita colocando-se mangueiras de iluminação, consideradas segmentos de reta de mesmo comprimento, a partir de um ponto situado a 3 m de altura no poste até um ponto de uma circunferência de fixação, no chão, de tal forma que esta fique dividida em 20 arcos iguais. O poste está fixado no ponto C (centro da circunferência) perpendicularmente ao plano do chão.\n\nPara economizar, ele utilizará mangueiras de iluminação aproveitadas de anos anteriores, que juntas totalizaram pouco mais de 100 m de comprimento, dos quais ele decide usar exatamente 100 m e deixar o restante como reserva.",
       "alternativas_introducao": "Para que ele atinja seu objetivo, o raio, em metro, da circunferência deverá ser de",
       "alternativas": [
         "A) 4,00.",
@@ -2281,7 +2269,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q082_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
       "explicacao": "**Por que a alternativa A está correta:** Sejam r o raio da circunferência e g a geratriz (mangueira). Pelo teorema de Pitágoras g² = 3² + r². Comprimento total = 2πr (circunferência inicial) + 20·g. Aplicando o comprimento de mangueiras disponível e resolvendo, r = 4 m.\n\n**Conceito-chave:** Geometria do cone — geratriz é hipotenusa de triângulo formado por raio (cateto) e altura (cateto); aplicação em construções com mangueiras/cabos.",
@@ -2293,7 +2281,7 @@
       "dia": 2,
       "numero": 83,
       "titulo": "Questão 173 - ENEM 2020",
-      "enunciado": "Pergolado é o nome que se dá a um tipo de cobertura projetada por arquitetos, comumente em praças e jardins, para criar um ambiente para pessoas ou plantas, no qual há uma quebra da quantidade de luz, dependendo da posição do sol. É feito como um estrado de vigas iguais, postas paralelas e perfeitamente em fila, como ilustra a figura.\n\n![](enem/2020/img/q083_inline1.png)\n\nUm arquiteto projeta um pergolado com vãos de 30 cm de distância entre suas vigas, de modo que, no solstício de verão, a trajetória do sol durante o dia seja realizada num plano perpendicular à direção das vigas, e que o sol da tarde, no momento em que seus raios fizerem 30° com a posição a pino, gere a metade da luz que passa no pergolado ao meio-dia.",
+      "enunciado": "Pergolado é o nome que se dá a um tipo de cobertura projetada por arquitetos, comumente em praças e jardins, para criar um ambiente para pessoas ou plantas, no qual há uma quebra da quantidade de luz, dependendo da posição do sol. É feito como um estrado de vigas iguais, postas paralelas e perfeitamente em fila, como ilustra a figura.\n\n![](enem/2020/dia2/img/q083_inline1.png)\n\nUm arquiteto projeta um pergolado com vãos de 30 cm de distância entre suas vigas, de modo que, no solstício de verão, a trajetória do sol durante o dia seja realizada num plano perpendicular à direção das vigas, e que o sol da tarde, no momento em que seus raios fizerem 30° com a posição a pino, gere a metade da luz que passa no pergolado ao meio-dia.",
       "alternativas_introducao": "Para atender à proposta do projeto elaborado pelo arquiteto, as vigas do pergolado devem ser construídas de maneira que a altura, em centímetro, seja a mais próxima possível de",
       "alternativas": [
         "A) 9.",
@@ -2309,7 +2297,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q083_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
       "explicacao": "**Por que a alternativa C está correta:** Vão entre vigas = 30 cm. Sol a 30° da vertical (60° da horizontal). Para que o sol da tarde gere metade da luz do meio-dia, a sombra da viga adjacente deve cobrir metade do vão. Calculando geometricamente com tan(30°) e ajustes, a altura ideal das vigas é próxima de 26 cm.\n\n**Conceito-chave:** Trigonometria aplicada à arquitetura — controle de iluminação solar via geometria; pergolados são sistemas projetados por cálculo de ângulos solares.",
@@ -2321,7 +2309,7 @@
       "dia": 2,
       "numero": 84,
       "titulo": "Questão 174 - ENEM 2020",
-      "enunciado": "O fenômeno das manifestações populares de massa traz à discussão como estimar o número de pessoas presentes nesse tipo de evento. Uma metodologia usada é: no momento do ápice do evento, é feita uma foto aérea da via pública principal na área ocupada, bem como das vias afluentes que apresentem aglomerações de pessoas que acessam a via principal. A foto é sobreposta por um mapa virtual das vias, ambos na mesma escala, fazendo-se um esboço geométrico da situação. Em seguida, subdividese o espaço total em trechos, quantificando a densidade, da seguinte forma:\n\n• 4 pessoas por metro quadrado, se elas estiverem andando em uma mesma direção;\n\n• 5 pessoas por metro quadrado, se elas estiverem se movimentando sem deixar o local;\n\n• 6 pessoas por metro quadrado, se elas estiverem paradas.\n\nÉ feito, então, o cálculo do total de pessoas, considerando os diversos trechos, e desconta-se daí 1.000 pessoas para cada carro de som fotografado.\n\nCom essa metodologia, procederam-se aos cálculos para estimar o número de participantes na manifestação cujo esboço geométrico é dado na figura. Há três trechos na via principal: MN, NO e OP, e um trecho numa via afluente da principal: _QR_.\n\n![](enem/2020/img/q084_inline1.png)\n\n**Obs.:** a figura não está em escala (considere as medidas dadas).",
+      "enunciado": "O fenômeno das manifestações populares de massa traz à discussão como estimar o número de pessoas presentes nesse tipo de evento. Uma metodologia usada é: no momento do ápice do evento, é feita uma foto aérea da via pública principal na área ocupada, bem como das vias afluentes que apresentem aglomerações de pessoas que acessam a via principal. A foto é sobreposta por um mapa virtual das vias, ambos na mesma escala, fazendo-se um esboço geométrico da situação. Em seguida, subdividese o espaço total em trechos, quantificando a densidade, da seguinte forma:\n\n• 4 pessoas por metro quadrado, se elas estiverem andando em uma mesma direção;\n\n• 5 pessoas por metro quadrado, se elas estiverem se movimentando sem deixar o local;\n\n• 6 pessoas por metro quadrado, se elas estiverem paradas.\n\nÉ feito, então, o cálculo do total de pessoas, considerando os diversos trechos, e desconta-se daí 1.000 pessoas para cada carro de som fotografado.\n\nCom essa metodologia, procederam-se aos cálculos para estimar o número de participantes na manifestação cujo esboço geométrico é dado na figura. Há três trechos na via principal: MN, NO e OP, e um trecho numa via afluente da principal: _QR_.\n\n![](enem/2020/dia2/img/q084_inline1.png)\n\n**Obs.:** a figura não está em escala (considere as medidas dadas).",
       "alternativas_introducao": "Segundo a metodologia descrita, o número estimado de pessoas presentes a essa manifestação foi igual a",
       "alternativas": [
         "A) 110.000",
@@ -2337,7 +2325,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q084_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
       "explicacao": "**Por que a alternativa B está correta:** Aplicando densidades (4 ou 5 pessoas/m²) às áreas mapeadas em cada trecho da manifestação e somando, o total estimado é de aproximadamente 104 000 pessoas.\n\n**Conceito-chave:** Estimação de público em manifestações — método Jacobs e variantes; densidade × área é base; resultados são ordens de grandeza, não números exatos.",
@@ -2349,7 +2337,7 @@
       "dia": 2,
       "numero": 85,
       "titulo": "Questão 175 - ENEM 2020",
-      "enunciado": "Um administrador resolve estudar o lucro de sua empresa e, para isso, traça o gráfico da receita e do custo de produção de seus itens, em real, em função da quantidade de itens produzidos.\n\n![](enem/2020/img/q085_inline1.png)\n\nO lucro é determinado pela diferença: Receita – Custo.",
+      "enunciado": "Um administrador resolve estudar o lucro de sua empresa e, para isso, traça o gráfico da receita e do custo de produção de seus itens, em real, em função da quantidade de itens produzidos.\n\n![](enem/2020/dia2/img/q085_inline1.png)\n\nO lucro é determinado pela diferença: Receita – Custo.",
       "alternativas_introducao": "O gráfico que representa o lucro dessa empresa, em função da quantidade de itens produzidos, é",
       "alternativas": [
         "A)",
@@ -2359,13 +2347,13 @@
         "E)"
       ],
       "imagens_alternativas": [
-        "enem/2020/img/q085_altA.png",
-        "enem/2020/img/q085_altB.png",
-        "enem/2020/img/q085_altC.png",
-        "enem/2020/img/q085_altD.png",
-        "enem/2020/img/q085_altE.png"
+        "enem/2020/dia2/img/q085_altA.png",
+        "enem/2020/dia2/img/q085_altB.png",
+        "enem/2020/dia2/img/q085_altC.png",
+        "enem/2020/dia2/img/q085_altD.png",
+        "enem/2020/dia2/img/q085_altE.png"
       ],
-      "imagem_principal": "enem/2020/img/q085_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
       "explicacao": "**Por que a alternativa A está correta:** Lucro = Receita − Custo. Se ambas são funções lineares no gráfico, o lucro também é linear (a diferença entre duas retas é uma reta). Quando R > C, lucro positivo; quando R < C, negativo. O gráfico A representa essa reta com inclinação compatível.\n\n**Conceito-chave:** Operações com funções lineares — soma, subtração e multiplicação por escalar mantêm linearidade; análise de break-even point.",
@@ -2377,7 +2365,7 @@
       "dia": 2,
       "numero": 86,
       "titulo": "Questão 176 - ENEM 2020",
-      "enunciado": "Em um jogo desenvolvido para uso no computador, objetos tridimensionais vão descendo do alto da tela até alcançarem o plano da base. O usuário pode mover ou girar cada objeto durante sua descida para posicioná-lo convenientemente no plano horizontal. Um desses objetos é formado pela justaposição de quatro cubos idênticos, formando assim um sólido rígido, como ilustrado na figura\n\n![](enem/2020/img/q086_inline1.png)\n\nPara facilitar a movimentação do objeto pelo usuário, o programa projeta ortogonalmente esse sólido em três planos quadriculados perpendiculares entre si, durante sua descida.",
+      "enunciado": "Em um jogo desenvolvido para uso no computador, objetos tridimensionais vão descendo do alto da tela até alcançarem o plano da base. O usuário pode mover ou girar cada objeto durante sua descida para posicioná-lo convenientemente no plano horizontal. Um desses objetos é formado pela justaposição de quatro cubos idênticos, formando assim um sólido rígido, como ilustrado na figura\n\n![](enem/2020/dia2/img/q086_inline1.png)\n\nPara facilitar a movimentação do objeto pelo usuário, o programa projeta ortogonalmente esse sólido em três planos quadriculados perpendiculares entre si, durante sua descida.",
       "alternativas_introducao": "A figura que apresenta uma possível posição desse sólido, com suas respectivas projeções ortogonais sobre os três planos citados, durante sua descida é",
       "alternativas": [
         "A)",
@@ -2387,13 +2375,13 @@
         "E)"
       ],
       "imagens_alternativas": [
-        "enem/2020/img/q086_altA.png",
-        "enem/2020/img/q086_altB.png",
-        "enem/2020/img/q086_altC.png",
-        "enem/2020/img/q086_altD.png",
-        "enem/2020/img/q086_altE.png"
+        "enem/2020/dia2/img/q086_altA.png",
+        "enem/2020/dia2/img/q086_altB.png",
+        "enem/2020/dia2/img/q086_altC.png",
+        "enem/2020/dia2/img/q086_altD.png",
+        "enem/2020/dia2/img/q086_altE.png"
       ],
-      "imagem_principal": "enem/2020/img/q086_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
       "explicacao": "**Por que a alternativa E está correta:** O sólido é formado por 4 cubos justapostos. As projeções ortogonais sobre os 3 planos perpendiculares revelam o formato em L em uma vista, retângulos em outras. A figura E representa corretamente as 3 projeções compatíveis com o sólido.\n\n**Conceito-chave:** Vistas ortográficas — projeção sobre planos x-y, y-z, x-z permitem reconstruir geometria 3D; fundamento de desenho técnico.",
@@ -2405,7 +2393,7 @@
       "dia": 2,
       "numero": 87,
       "titulo": "Questão 177 - ENEM 2020",
-      "enunciado": "A Figura 1 apresenta uma casa e a planta do seu telhado, em que as setas indicam o sentido do escoamento da água de chuva. Um pedreiro precisa fazer a planta do escoamento da água de chuva de um telhado que tem três caídas de água, como apresentado na Figura 2.\n\n![](enem/2020/img/q087_inline1.png)",
+      "enunciado": "A Figura 1 apresenta uma casa e a planta do seu telhado, em que as setas indicam o sentido do escoamento da água de chuva. Um pedreiro precisa fazer a planta do escoamento da água de chuva de um telhado que tem três caídas de água, como apresentado na Figura 2.\n\n![](enem/2020/dia2/img/q087_inline1.png)",
       "alternativas_introducao": "A figura que representa a planta do telhado da Figura 2 com o escoamento da água de chuva que o pedreiro precisa fazer é",
       "alternativas": [
         "A)",
@@ -2415,13 +2403,13 @@
         "E)"
       ],
       "imagens_alternativas": [
-        "enem/2020/img/q087_altA.png",
-        "enem/2020/img/q087_altB.png",
-        "enem/2020/img/q087_altC.png",
-        "enem/2020/img/q087_altD.png",
-        "enem/2020/img/q087_altE.png"
+        "enem/2020/dia2/img/q087_altA.png",
+        "enem/2020/dia2/img/q087_altB.png",
+        "enem/2020/dia2/img/q087_altC.png",
+        "enem/2020/dia2/img/q087_altD.png",
+        "enem/2020/dia2/img/q087_altE.png"
       ],
-      "imagem_principal": "enem/2020/img/q087_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
       "explicacao": "**Por que a alternativa B está correta:** Telhados com 3 caídas formam linhas de espigão e cumeeira específicas. A figura 1 ilustra o padrão para 4 caídas; aplicando o mesmo princípio para 3 caídas (uma encontra com as outras duas formando ângulos), a figura B representa o escoamento corretamente.\n\n**Conceito-chave:** Geometria de telhados — espigões (linhas convexas) escoam águas para fora; cumeeiras (linhas no topo) dividem caídas; planta indica o escoamento.",
@@ -2477,7 +2465,7 @@
       "dia": 2,
       "numero": 90,
       "titulo": "Questão 180 - ENEM 2020",
-      "enunciado": "Com o objetivo de contratar uma empresa responsável pelo serviço de atendimento ao público, os executivos de uma agência bancária realizaram uma pesquisa de satisfação envolvendo cinco empresas especializadas nesse segmento. Os procedimentos analisados (com pesos que medem sua importância para a agência) e as respectivas notas que cada empresa recebeu estão organizados no quadro.\n\n![](enem/2020/img/q090_inline1.png)\n\nA agência bancária contratará a empresa com a maior média ponderada das notas obtidas nos procedimentos analisados.",
+      "enunciado": "Com o objetivo de contratar uma empresa responsável pelo serviço de atendimento ao público, os executivos de uma agência bancária realizaram uma pesquisa de satisfação envolvendo cinco empresas especializadas nesse segmento. Os procedimentos analisados (com pesos que medem sua importância para a agência) e as respectivas notas que cada empresa recebeu estão organizados no quadro.\n\n![](enem/2020/dia2/img/q090_inline1.png)\n\nA agência bancária contratará a empresa com a maior média ponderada das notas obtidas nos procedimentos analisados.",
       "alternativas_introducao": "Após a análise dos resultados da pesquisa de satisfação, os executivos da agência bancária contrataram a empresa",
       "alternativas": [
         "A) X.",
@@ -2493,7 +2481,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q090_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
       "explicacao": "**Por que a alternativa C está correta:** Calculando média ponderada (notas × pesos) para cada empresa, a empresa Z apresenta a maior pontuação final, sendo a contratada pela agência bancária.\n\n**Conceito-chave:** Média ponderada como critério de decisão — pesos refletem importância relativa; ferramenta clássica em avaliação multicritério.",

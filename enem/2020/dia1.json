@@ -177,7 +177,7 @@
       "dia": 1,
       "numero": 7,
       "titulo": "Questão 7 - ENEM 2020",
-      "enunciado": "![](enem/2020/img/q007_inline1.png)\n\nDisponível em: www.globofilmes.globo.com. Acesso em: 13 dez. 2017 (adaptado).",
+      "enunciado": "![](enem/2020/dia1/img/q007_inline1.png)\n\nDisponível em: www.globofilmes.globo.com. Acesso em: 13 dez. 2017 (adaptado).",
       "alternativas_introducao": "A frase, título do filme, reproduz uma variedade linguística recorrente na fala de muitos brasileiros. Essa estrutura caracteriza-se pelo(a)",
       "alternativas": [
         "A) Uso de uma marcação temporal.",
@@ -193,7 +193,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q007_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
       "explicacao": "**Por que a alternativa E está correta:** A fala popular brasileira frequentemente apaga preposições obrigatórias na norma culta — 'vou no mercado' (em vez de 'vou ao mercado'), 'comuniquei o fato' (em vez de 'comuniquei do fato'). Essa estrutura caracteriza-se pelo apagamento de uma preposição.\n\n**Conceito-chave:** Variação morfossintática — fala popular simplifica regências preposicionais; fenômeno gramatical típico do português brasileiro.",
@@ -373,7 +373,7 @@
       "dia": 1,
       "numero": 14,
       "titulo": "Questão 14 - ENEM 2020",
-      "enunciado": "![](enem/2020/img/q014_inline1.png)\n\nHIRST, O. **Mother and Child**. Bezerro dividido em duas partes: 1029 x 1689 x 625mm, 1993(detalhe). Vidro, aço pintado, silicone, acrílico, monofilamento, aço inoxidável, bezerro e solução de formaldeído.\n\n**TEXTO II**  \nO grupo Jovens Artistas Britânicos (YABs), que surgiu no final da década de 1980, possui obras diversificadas que incluem fotografias, instalações, pinturas e carcaças desmembradas. O trabalho desses artistas chamou a atenção no final do período da recessão, por utilizar materiais incomuns, como esterco de elefantes, sangue e legumes, o que expressava os detritos da vida e uma  \natmosfera de niilismo, temperada por um humor mordaz.\n\nDisponível em: http://damienhirsti.com:Acesso em: 15 jul. 2015. FARTHING, S. **Tudo sobre arte**. Rio de Janeiro: Sextante, 2011 (adaptado).",
+      "enunciado": "![](enem/2020/dia1/img/q014_inline1.png)\n\nHIRST, O. **Mother and Child**. Bezerro dividido em duas partes: 1029 x 1689 x 625mm, 1993(detalhe). Vidro, aço pintado, silicone, acrílico, monofilamento, aço inoxidável, bezerro e solução de formaldeído.\n\n**TEXTO II**  \nO grupo Jovens Artistas Britânicos (YABs), que surgiu no final da década de 1980, possui obras diversificadas que incluem fotografias, instalações, pinturas e carcaças desmembradas. O trabalho desses artistas chamou a atenção no final do período da recessão, por utilizar materiais incomuns, como esterco de elefantes, sangue e legumes, o que expressava os detritos da vida e uma  \natmosfera de niilismo, temperada por um humor mordaz.\n\nDisponível em: http://damienhirsti.com:Acesso em: 15 jul. 2015. FARTHING, S. **Tudo sobre arte**. Rio de Janeiro: Sextante, 2011 (adaptado).",
       "alternativas_introducao": "A provocação desse grupo gera um debate em torno da obra de arte pelo(a)",
       "alternativas": [
         "A) Recusa a crenças, convicções, valores morais, estéticos e políticos na história moderna.",
@@ -389,7 +389,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q014_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
       "explicacao": "**Por que a alternativa B está correta:** Os YBAs (incluindo Damien Hirst) usam materiais incomuns — esterco de elefante, sangue, carcaças — para gerar arte. A provocação reside no frutífero arsenal de materiais e formas que se relacionam com os objetos construídos, expandindo limites do que pode ser arte.\n\n**Conceito-chave:** Arte conceitual contemporânea — escolha de materiais e formas tem peso semântico; obra desafia categorias tradicionais (escultura, pintura) e provoca reação.",
@@ -401,7 +401,7 @@
       "dia": 1,
       "numero": 15,
       "titulo": "Questão 15 - ENEM 2020",
-      "enunciado": "O suor para estar em competições nacionais e internacionais de alto nível é o mesmo para homens e mulheres, mas não raramente as remunerações são menores para elas. Se no tênis, um dos esportes mais equânimes em termos de gênero, todos os principais torneiros oferecem prêmios idênticos nas disputas femininas e masculinas, no futebol a desigualdade atinge seu ápice. Neymar e Marta são dois expoentes dessa paixão nacional. Ela já foi eleita cinco vezes a melhor jogadora do mundo pela Fifa. Ele conquistou o terceiro lugar na última votação para melhor do mundo. Mas é na conta bancária que a diferença entre os dois se sobressai.\n\n![](enem/2020/img/q015_inline1.png)\n\nDisponível em: http://apublica.org. Acesso em: 9 ago. 2017 (adaptado).",
+      "enunciado": "O suor para estar em competições nacionais e internacionais de alto nível é o mesmo para homens e mulheres, mas não raramente as remunerações são menores para elas. Se no tênis, um dos esportes mais equânimes em termos de gênero, todos os principais torneiros oferecem prêmios idênticos nas disputas femininas e masculinas, no futebol a desigualdade atinge seu ápice. Neymar e Marta são dois expoentes dessa paixão nacional. Ela já foi eleita cinco vezes a melhor jogadora do mundo pela Fifa. Ele conquistou o terceiro lugar na última votação para melhor do mundo. Mas é na conta bancária que a diferença entre os dois se sobressai.\n\n![](enem/2020/dia1/img/q015_inline1.png)\n\nDisponível em: http://apublica.org. Acesso em: 9 ago. 2017 (adaptado).",
       "alternativas_introducao": "O esporte é uma manifestação cultural na qual se estabelecem relações sociais. Considerando o texto, o futebol é uma mobilidade que",
       "alternativas": [
         "A) Apresenta proximidades com o tênis, no que tange às relações de gênero entre homens e mulheres.",
@@ -417,7 +417,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q015_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
       "explicacao": "**Por que a alternativa B está correta:** O texto compara remunerações de Marta e Neymar — Marta, melhor jogadora 5 vezes, ganha bem menos que Neymar. Isso revela que o futebol no Brasil se caracteriza por uma identidade masculina, conferindo maior remuneração aos jogadores em detrimento das jogadoras.\n\n**Conceito-chave:** Desigualdade de gênero no esporte — esportes historicamente associados ao masculino reproduzem disparidades; equidade exige ação consciente sobre estrutura.",
@@ -657,7 +657,7 @@
       "dia": 1,
       "numero": 25,
       "titulo": "Questão 25 - ENEM 2020",
-      "enunciado": "![](enem/2020/img/q025_inline1.png)\n\nA obra de Joseph Kosuth data de 1965 e se constitui por uma fotografia de cadeira, uma cadeira exposta e um quadro com o verbete “Cadeira”. Trata-se de um exemplo de arte conceitual que revela o paradoxo entre verdade e imitação, já que a arte\n\nKOSUTH J. _One and Three Chairs_. Museu Reina Sofia, Espanha, 1965.  \nDisponível em: www.museoreinasofia.es. Acesso em: 4 jun. 2018  \n(adaptado).",
+      "enunciado": "![](enem/2020/dia1/img/q025_inline1.png)\n\nA obra de Joseph Kosuth data de 1965 e se constitui por uma fotografia de cadeira, uma cadeira exposta e um quadro com o verbete “Cadeira”. Trata-se de um exemplo de arte conceitual que revela o paradoxo entre verdade e imitação, já que a arte\n\nKOSUTH J. _One and Three Chairs_. Museu Reina Sofia, Espanha, 1965.  \nDisponível em: www.museoreinasofia.es. Acesso em: 4 jun. 2018  \n(adaptado).",
       "alternativas_introducao": "A obra de Joseph Kosuth data de 1965 e se constitui por uma fotografia de cadeira, uma cadeira exposta e um quadro com o verbete “Cadeira”. Trata-se de um exemplo\nde arte conceitual que revela o paradoxo entre verdade e imitação, já que a arte",
       "alternativas": [
         "A) Não é a realidade, mas uma representação dela.",
@@ -673,7 +673,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q025_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
       "explicacao": "**Por que a alternativa A está correta:** A obra de Kosuth justapõe três 'cadeiras': fotografia, objeto real e definição verbal. O gesto questiona o que é arte e revela que a arte não é a realidade, mas uma representação dela — cada uma das três 'cadeiras' é mediação de um conceito.\n\n**Conceito-chave:** Arte conceitual — arte como reflexão sobre seus próprios meios e linguagens; obra é o conceito, não o objeto.",
@@ -685,7 +685,7 @@
       "dia": 1,
       "numero": 26,
       "titulo": "Questão 26 - ENEM 2020",
-      "enunciado": "![](enem/2020/img/q026_inline1.png)\n\nA realidade virtual é uma tecnologia de informação que, conforme sugere a imagem, tem como uma de suas principais funções\n\nDisponível em: www.iotforall.com. Acesso em: 22 jun. 2018.",
+      "enunciado": "![](enem/2020/dia1/img/q026_inline1.png)\n\nA realidade virtual é uma tecnologia de informação que, conforme sugere a imagem, tem como uma de suas principais funções\n\nDisponível em: www.iotforall.com. Acesso em: 22 jun. 2018.",
       "alternativas_introducao": "A realidade virtual é uma tecnologia de informação que, conforme sugere a imagem, tem como uma de suas principais funções",
       "alternativas": [
         "A) Promover a manipulação eficiente de conhecimentos e informações de difícil compreensão no mundo físico.",
@@ -701,7 +701,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q026_principal.png",
+      "imagem_principal": "enem/2020/dia1/img/q026_principal.png",
       "imagens_extras": [],
       "correta": "D",
       "explicacao": "**Por que a alternativa D está correta:** A realidade virtual cria ambientes simulados imersivos — o usuário experimenta mentalmente outra realidade enquanto está fisicamente em seu lugar. Aplicações em treinamento, terapia, jogos, educação aproveitam essa transposição mental.\n\n**Conceito-chave:** Realidade virtual — tecnologia que simula experiência sensorial completa; limites entre virtual e real se diluem com avanço de hardware (visores, hápticos).",
@@ -797,7 +797,7 @@
       "dia": 1,
       "numero": 30,
       "titulo": "Questão 30 - ENEM 2020",
-      "enunciado": "![](enem/2020/img/q030_inline1.png)\n\nDisponível em: www.bhaz.com.br. Acesso em: 14 jun. 2018.",
+      "enunciado": "![](enem/2020/dia1/img/q030_inline1.png)\n\nDisponível em: www.bhaz.com.br. Acesso em: 14 jun. 2018.",
       "alternativas_introducao": "Essa campanha de conscientização sobre o assédio sofrido pelas mulheres nas ruas constrói-se pela combinação da linguagem verbal e não verbal. A imagem da mulher com o nariz e a boca cobertos por um lenço é a representação não verbal do(a)",
       "alternativas": [
         "A) Silêncio imposto às mulheres, que não podem denunciar o assédio sofrido.",
@@ -813,7 +813,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q030_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
       "explicacao": "**Por que a alternativa B está correta:** A imagem da mulher com nariz e boca cobertos por lenço pode ser lida como ato de combate ou autoproteção. No contexto da campanha contra assédio, a imagem é metáfora de que as mulheres precisam defender-se do assédio masculino — sinaliza a necessidade de proteção ativa.\n\n**Conceito-chave:** Linguagem visual em campanhas — imagens carregam metáforas que reforçam mensagem verbal; combinar verbal e não-verbal amplifica impacto.",
@@ -881,7 +881,7 @@
       "dia": 1,
       "numero": 33,
       "titulo": "Questão 33 - ENEM 2020",
-      "enunciado": "**TEXTO I**\n\nO caminho habitual para o trabalho, aquele em que a gente já nem repara direito, pode ficar mais belo com um poema. O projeto #UmLambePorDia nasceu desta intenção: trazer mais cor e alegria para a cidade por meio de cartazes coloridos ao estilo lambe-lambe. Quem teve a ideia foi o escritor Leonardo Beltrão, em Belo Horizonte. “Em meio a olhares cada vez mais viciados, acabamos nos esquecendo da beleza envolvida em cada esquina e no próprio poder transformador da palavra”. Assim, a cada dia um cartaz é colocado por aí, para nos lembrar de reparar na cidade, na vida que corre ao redor e também em nós mesmos.\n\n**TEXTO II**\n\n![](enem/2020/img/q033_inline1.png)\n\nDisponível em: www.vidasimples.uol.com.br. Acesso em: 6 dez. 2017 (adaptado).",
+      "enunciado": "**TEXTO I**\n\nO caminho habitual para o trabalho, aquele em que a gente já nem repara direito, pode ficar mais belo com um poema. O projeto #UmLambePorDia nasceu desta intenção: trazer mais cor e alegria para a cidade por meio de cartazes coloridos ao estilo lambe-lambe. Quem teve a ideia foi o escritor Leonardo Beltrão, em Belo Horizonte. “Em meio a olhares cada vez mais viciados, acabamos nos esquecendo da beleza envolvida em cada esquina e no próprio poder transformador da palavra”. Assim, a cada dia um cartaz é colocado por aí, para nos lembrar de reparar na cidade, na vida que corre ao redor e também em nós mesmos.\n\n**TEXTO II**\n\n![](enem/2020/dia1/img/q033_inline1.png)\n\nDisponível em: www.vidasimples.uol.com.br. Acesso em: 6 dez. 2017 (adaptado).",
       "alternativas_introducao": "Considerando-se a função que os cartazes colados em postes normalmente exercem nas ruas das cidades grandes, esse texto evidencia a",
       "alternativas": [
         "A) Disseminação da arte poética em um veículo não convencional.",
@@ -897,7 +897,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q033_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
       "explicacao": "**Por que a alternativa A está correta:** O projeto #UmLambePorDia coloca poemas em cartazes lambe-lambe nas ruas — local típico de propagandas comerciais e avisos. Isso configura a disseminação da arte poética em um veículo não convencional, ampliando seu alcance para além de livros e revistas literárias.\n\n**Conceito-chave:** Arte urbana e democratização — usar suportes não-convencionais (ruas, muros, redes sociais) leva arte a públicos que não frequentam museus ou livrarias.",
@@ -993,7 +993,7 @@
       "dia": 1,
       "numero": 37,
       "titulo": "Questão 37 - ENEM 2020",
-      "enunciado": "O conceito de saúde formulado na histórica VIII Conferência Nacional de Saúde, no ano de 1986, ficou conhecido como um “conceito ampliado” de saúde, conforme ilustrado na figura. Esse conceito foi fruto de intensa mobilização em diversos países da América Latina nas décadas de 1970 e 1980, como resposta à crise dos sistemas públicos de saúde.\n\nBATISTELLA, C. **Abordagens contemporâneas do conceito de saúde**.\n\nDisponível em: www.dihs.ensp.fiocruz.br. Acesso em: 23 set. 2020.\n\n![](enem/2020/img/q037_inline1.png)",
+      "enunciado": "O conceito de saúde formulado na histórica VIII Conferência Nacional de Saúde, no ano de 1986, ficou conhecido como um “conceito ampliado” de saúde, conforme ilustrado na figura. Esse conceito foi fruto de intensa mobilização em diversos países da América Latina nas décadas de 1970 e 1980, como resposta à crise dos sistemas públicos de saúde.\n\nBATISTELLA, C. **Abordagens contemporâneas do conceito de saúde**.\n\nDisponível em: www.dihs.ensp.fiocruz.br. Acesso em: 23 set. 2020.\n\n![](enem/2020/dia1/img/q037_inline1.png)",
       "alternativas_introducao": "Com base no conceito apresentado no texto, a saúde é consequência direta do(a)",
       "alternativas": [
         "A) Adoção de um estilo de vida ativo por parte dos indivíduos.",
@@ -1009,7 +1009,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q037_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
       "explicacao": "**Por que a alternativa E está correta:** O conceito ampliado de saúde da VIII Conferência (1986) entende saúde como decorrência de moradia, alimentação, educação, trabalho, lazer, ambiente — ou seja, da forma de organização social. Saúde não é só ausência de doença, mas resultado de um modo coletivo de vida.\n\n**Conceito-chave:** Saúde como direito coletivo — formulação que fundamentou o SUS; saúde pública depende de condições estruturais, não só de comportamento individual.",
@@ -1189,7 +1189,7 @@
       "dia": 1,
       "numero": 44,
       "titulo": "Questão 44 - ENEM 2020",
-      "enunciado": "![](enem/2020/img/q044_inline1.png)",
+      "enunciado": "![](enem/2020/dia1/img/q044_inline1.png)",
       "alternativas_introducao": "Nessa campanha publicitária, a imagem da família e o texto verbal unem-se para reforçar a ideia de que",
       "alternativas": [
         "A) A família que adota é mais feliz.",
@@ -1205,7 +1205,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q044_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
       "explicacao": "**Por que a alternativa B está correta:** A campanha publicitária de adoção mostra família com filhos adotivos mais velhos, demonstrando alegria e integração. A combinação visual+verbal reforça que a adoção tardia é muito positiva — combate o estereótipo de que crianças mais velhas não 'dão certo' em adoção.\n\n**Conceito-chave:** Adoção tardia no Brasil — campanhas combatem preferência cultural por bebês; crianças e adolescentes na fila representam grande parte das que aguardam família.",
@@ -1385,7 +1385,7 @@
       "dia": 1,
       "numero": 51,
       "titulo": "Questão 51 - ENEM 2020",
-      "enunciado": "**Zona de pastoreio e cultura do algodão e cereais do agreste (1963)**\n\n![](enem/2020/img/q051_inline1.jpg)\n\nANDRADE, M. C. **A terra e o homem no Nordeste**. São Paulo: Brasiliense, 1963.",
+      "enunciado": "**Zona de pastoreio e cultura do algodão e cereais do agreste (1963)**\n\n![](enem/2020/dia1/img/q051_inline1.jpg)\n\nANDRADE, M. C. **A terra e o homem no Nordeste**. São Paulo: Brasiliense, 1963.",
       "alternativas_introducao": "A dinâmica produtiva apresentada na imagem tem como estratégia central a",
       "alternativas": [
         "A) Separação pelo tipo de solo.",
@@ -1401,7 +1401,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q051_principal.jpg",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
       "explicacao": "**Por que a alternativa D está correta:** A imagem do agreste mostra alternância entre pastoreio (estação seca) e cultivo de algodão/cereais (estação chuvosa). Essa estratégia central é adequação ao tempo da natureza — calendário agrícola dialoga com regime climático.\n\n**Conceito-chave:** Agroecologia regional — agricultura sertaneja tradicional respeita ciclos naturais; sistemas agropecuários integrados otimizam recursos limitados.",
@@ -1777,7 +1777,7 @@
       "dia": 1,
       "numero": 65,
       "titulo": "Questão 65 - ENEM 2020",
-      "enunciado": "![](enem/2020/img/q065_inline1.png)\n\nO conjunto representado pelo agronegócio demanda condições específicas que passam a ser exigidas dos territórios. Como há uma elevação da formação de fluxos, materiais e imateriais, a crescente articulação com as escalas que vão do local ao global terminam por pressionar o Estado a agir visando uma instalação no território de fixos diversos, bem como uma regulação específica.\n\nLIMA, R. C.; PENHA, N. A. A logística de transportes do agronegócio em Mato Grosso (Brasil). **Confins**, n.26, fev. 2016.",
+      "enunciado": "![](enem/2020/dia1/img/q065_inline1.png)\n\nO conjunto representado pelo agronegócio demanda condições específicas que passam a ser exigidas dos territórios. Como há uma elevação da formação de fluxos, materiais e imateriais, a crescente articulação com as escalas que vão do local ao global terminam por pressionar o Estado a agir visando uma instalação no território de fixos diversos, bem como uma regulação específica.\n\nLIMA, R. C.; PENHA, N. A. A logística de transportes do agronegócio em Mato Grosso (Brasil). **Confins**, n.26, fev. 2016.",
       "alternativas_introducao": "O mapa e o texto se complementam indicando que a expansão das rodovias se deu como resposta ao(à)",
       "alternativas": [
         "A) Alteração da matriz econômica.",
@@ -1793,7 +1793,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q065_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
       "explicacao": "**Por que a alternativa D está correta:** O agronegócio brasileiro cresceu massivamente, e o transporte é gargalo logístico. A expansão das rodovias responde à projeção do escoamento produtivo — escoar safras crescentes (soja, milho) dos centros produtores até portos de exportação.\n\n**Conceito-chave:** Logística do agronegócio — Brasil ainda depende excessivamente de rodovias para escoamento de commodities; modais ferroviário e hidroviário são subutilizados.",
@@ -1833,7 +1833,7 @@
       "dia": 1,
       "numero": 67,
       "titulo": "Questão 67 - ENEM 2020",
-      "enunciado": "![](enem/2020/img/q067_inline1.png)\n\nDisponível em: https://noticias.uol.com.br. Acesso em: l3 jun. 2018  \n(adaptado).",
+      "enunciado": "![](enem/2020/dia1/img/q067_inline1.png)\n\nDisponível em: https://noticias.uol.com.br. Acesso em: l3 jun. 2018  \n(adaptado).",
       "alternativas_introducao": "Os aspectos físicos apresentados originam-se da atuação da força natural de",
       "alternativas": [
         "A) Colisão de placas tectônicas.",
@@ -1849,7 +1849,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q067_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
       "explicacao": "**Por que a alternativa B está correta:** O rifteamento ocorre quando a crosta continental é estirada e fendida, formando vales (rifts). Esse processo origina aspectos físicos como vales escarpados, lagos alongados, vulcanismo associado — característico de zonas como o Rift Africano.\n\n**Conceito-chave:** Tectônica de placas — limites divergentes sobre continentes geram rifteamento; ao longo de milhões de anos, podem evoluir para novos oceanos.",
@@ -2421,7 +2421,7 @@
       "dia": 1,
       "numero": 88,
       "titulo": "Questão 88 - ENEM 2020",
-      "enunciado": "**TEXTO I**\n\n![](enem/2020/img/q088_inline1.jpg)\n\nRio Tietê, São Paulo (SP). Foto: Delfim Martins/Pulsar.\n\n**TEXTO II**\n\nO Rio Tietê está morto. Ao menos uma parte dele: 137 quilômetros, para ser mais preciso. Uma pesquisa da Fundação SOS Mata Atlântica mostra que, em 2016, o trecho do rio com qualidade de água classificada como ruim ou péssima começa em Itaquaquecetuba, passa por toda a Região Metropolitana de São Paulo e chega até Cabreúva, já no interior de São Paulo. Nesse trecho, a água não tem oxigênio suficiente para abrigar vida.\n\nDisponível em: http://epoca.globo.com. Acesso em: 7 dez. 2017 (adaptado).",
+      "enunciado": "**TEXTO I**\n\n![](enem/2020/dia1/img/q088_inline1.jpg)\n\nRio Tietê, São Paulo (SP). Foto: Delfim Martins/Pulsar.\n\n**TEXTO II**\n\nO Rio Tietê está morto. Ao menos uma parte dele: 137 quilômetros, para ser mais preciso. Uma pesquisa da Fundação SOS Mata Atlântica mostra que, em 2016, o trecho do rio com qualidade de água classificada como ruim ou péssima começa em Itaquaquecetuba, passa por toda a Região Metropolitana de São Paulo e chega até Cabreúva, já no interior de São Paulo. Nesse trecho, a água não tem oxigênio suficiente para abrigar vida.\n\nDisponível em: http://epoca.globo.com. Acesso em: 7 dez. 2017 (adaptado).",
       "alternativas_introducao": "Considerando a análise dos textos, a condição atual desse rio tem como origem a",
       "alternativas": [
         "A) Valorização do sítio urbano.",
@@ -2437,7 +2437,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2020/img/q088_principal.jpg",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
       "explicacao": "**Por que a alternativa C está correta:** O Tietê morto na Região Metropolitana de São Paulo é resultado direto de receber dejetos urbanos e industriais sem tratamento adequado por décadas. A recepção de densa carga de dejetos esgota o oxigênio dissolvido e mata a vida aquática.\n\n**Conceito-chave:** Eutrofização e mortandade fluvial — excesso de matéria orgânica leva ao consumo de oxigênio por bactérias decompositoras; rios urbanos sem saneamento agonizam por esse processo.",

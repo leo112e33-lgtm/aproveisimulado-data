@@ -653,7 +653,7 @@
       "dia": 1,
       "numero": 24,
       "titulo": "Questão 24 - ENEM 2023",
-      "enunciado": "![](enem/2023/img/q024_inline1.png)",
+      "enunciado": "",
       "alternativas_introducao": "Esse anúncio publicitário, veiculado durante o contexto da pandemia de covid-19, tem por finalidade",
       "alternativas": [
         "A) Divulgar o canal telefônico de atendimento a casos de violência contra a mulher.",
@@ -669,7 +669,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q024_principal.png",
+      "imagem_principal": "enem/2023/dia1/img/q024_principal.png",
       "imagens_extras": [],
       "correta": "E",
       "explicacao": "A questão 24 do ENEM 2023 solicita a identificação da finalidade de um anúncio publicitário veiculado durante a pandemia de COVID-19. Para isso, é fundamental analisar todos os elementos do texto e da imagem.\n\n1.  **Por que a alternativa E está correta:**\n    A alternativa E afirma que a finalidade é \"Incentivar o público feminino a denunciar crimes de violência contra a mulher durante o período de isolamento\". Esta opção é a mais completa e precisa, pois abrange todos os aspectos do anúncio. A frase \"A violência não está em quarentena\" e o contexto da pandemia (isolamento) são cruciais. O texto \"Se você é vítima de violência doméstica, não se cale. Denuncie.\" é um chamado direto à ação para as vítimas (que, no contexto da violência doméstica, são predominantemente mulheres), e o \"Ligue 180\" é o canal específico para denúncias de violência contra a mulher. Portanto, o anúncio visa claramente encorajar as mulheres a denunciar, mesmo em um período desafiador de isolamento.\n\n2.  **Por que as outras alternativas estão erradas:**\n\n    *   **A) Divulgar o canal telefônico de atendimento a casos de violência contra a mulher.**\n        Embora o anúncio *mostre* o \"Ligue 180\", sua finalidade não se limita a *divulgar* o número. A divulgação é um *meio* para o objetivo maior, que é o *incentivo à denúncia*. A finalidade é mais abrangente do que apenas informar sobre a existência do canal; é motivar seu uso.\n\n    *   **B) Informar sobre a atuação de uma entidade defensora da mulher vítima de violência.**\n        **C) Evidenciar o trabalho da Defensoria Pública em relação ao problema do abuso contra a mulher.**\n        As alternativas B e C estão incorretas porque, embora o anúncio seja da \"Defensoria Pública do Estado de São Paulo\", o objetivo principal não é *informar sobre a atuação* ou *evidenciar o trabalho* da Defensoria. A Defensoria é a *emissora* da mensagem, mas o foco da mensagem é a *ação da vítima* (denunciar), e não a autopromoção ou a descrição das atividades da instituição. O anúncio é um serviço público direto às vítimas.\n\n    *   **D) Alertar a sociedade sobre o aumento da violência contra a mulher em decorrência do coronavírus.**\n        O anúncio *sugere* que a violência continua (\"não está em quarentena\") e pode até ser agravada pelo isolamento, mas sua finalidade principal não é *alertar a sociedade em geral* sobre um *aumento* ou estatísticas. O foco é um apelo direto às *vítimas* para que ajam. É uma mensagem de empoderamento e um chamado à denúncia, e não uma campanha de conscientização sobre a dimensão do problema para o público em geral.\n\n3.  **Qual conceito o aluno precisa dom",
@@ -905,7 +905,7 @@
       "dia": 1,
       "numero": 33,
       "titulo": "Questão 33 - ENEM 2023",
-      "enunciado": "**Texto I**\n\n![](enem/2023/img/q033_inline1.png)\n\nSEGALL, L. Eternos caminhantes. Óleo sobre tela, 138 x 184 cm. Museu Lasar Segall. IbramMinc. São Paulo, 1919.\n\n**Texto II**\n\nEm 1933, a obra Eternos caminhantes ingressou em uma das primeiras edições das exposições de Arte Degenerada, promovida por membros do partido nazista alemão. Nos anos seguintes, ela voltaria a ser exibida na mostra denominada Exposição da Vergonha, promovida por pequenos grupos abastados. Em 1937, essa obra foi confiscada pelo Ministério da Propaganda daquele país, na grande ação nacional-socialista contra a “Arte Degenerada”.\n\nSCHWARTZ, J. Perseguição à Arte Moderna em tempos de amarra São Paulo: Museu Lasar Segall, 2018 (adaptado)",
+      "enunciado": "**Texto I**\n\n![](enem/2023/dia1/img/q033_inline1.png)\n\nSEGALL, L. Eternos caminhantes. Óleo sobre tela, 138 x 184 cm. Museu Lasar Segall. IbramMinc. São Paulo, 1919.\n\n**Texto II**\n\nEm 1933, a obra Eternos caminhantes ingressou em uma das primeiras edições das exposições de Arte Degenerada, promovida por membros do partido nazista alemão. Nos anos seguintes, ela voltaria a ser exibida na mostra denominada Exposição da Vergonha, promovida por pequenos grupos abastados. Em 1937, essa obra foi confiscada pelo Ministério da Propaganda daquele país, na grande ação nacional-socialista contra a “Arte Degenerada”.\n\nSCHWARTZ, J. Perseguição à Arte Moderna em tempos de amarra São Paulo: Museu Lasar Segall, 2018 (adaptado)",
       "alternativas_introducao": "Quase cinquenta obras de Lasar Segall foram confiscadas pelo regime totalitário alemão na primeira metade do século XX, entre elas a obra Eternos caminhantes, considerada degenerada por",
       "alternativas": [
         "A) Representar uma estética tida como inconveniente para o ideário político vigente.",
@@ -921,7 +921,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q033_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
       "explicacao": "A questão 33 do ENEM 2023 aborda a obra \"Eternos caminhantes\" de Lasar Segall e sua classificação como \"Arte Degenerada\" pelo regime nazista alemão. Para respondê-la corretamente, é fundamental compreender o contexto histórico e as políticas culturais da Alemanha nazista.\n\n1.  **Por que a alternativa A está correta:**\n    A alternativa A afirma que a obra foi considerada degenerada por \"Representar uma estética tida como inconveniente para o ideário político vigente\". Esta é a resposta correta porque o regime nazista promovia uma estética específica, baseada em ideais de pureza racial, heroísmo e classicismo, que considerava \"ariana\". Qualquer forma de arte moderna, expressionista, abstrata ou que retratasse temas considerados \"deprimentes\", \"doentios\" ou \"não-germânicos\" (como o sofrimento, a marginalização, ou estilos que distorciam a realidade de forma não idealizada) era rotulada como \"degenerada\" (Entartete Kunst). A obra de Segall, com seu estilo expressionista e temática que evoca a migração e o sofrimento, não se aladinhava com essa visão, sendo, portanto, esteticamente e ideologicamente inconveniente para o regime totalitário.\n\n2.  **Por que as outras alternativas estão erradas:**\n\n    *   **B) Manifestar um posicionamento político-cultural concebido por grupos de oposição.** Embora a arte moderna pudesse ser vista como uma oposição implícita ao regime, o texto não indica que a obra de Segall *manifestava explicitamente* um posicionamento político-cultural de grupos de oposição. A principal razão para ser classificada como \"degenerada\" era sua estética, que por si só era vista como contrária aos valores nazistas, independentemente de uma intenção política direta do artista na obra. O foco do regime era a *incompatibilidade estética e ideológica*, não necessariamente uma panfletagem política explícita.\n\n    *   **C) Expressar a cultura artística por meio da representação parcial do corpo humano.** A representação parcial ou distorcida do corpo humano é uma característica de certas correntes modernistas, mas não é a *razão principal* pela qual a obra foi considerada degenerada. O problema para os nazistas era o estilo moderno em si, que eles viam como uma corrupção da arte e da cultura \"germânica\", e não apenas um detalhe específico da representação anatômica. A crítica era mais abrangente, visando o expressionismo e outras vanguardas.\n\n    *   **D) Apresentar uma composição que antecipa o imaginário artístico germânico.** Esta alternativa está incorreta porque a obra de Segall, sendo expressionista e moderna, *contradizia* o imaginário artístico que o regime nazista promovia. O \"imaginário artístico germânico\" para os nazistas era aquele que glorificava a raça ariana, a força, a ordem e o classicismo, repudiando as vanguardas artísticas que consideravam \"decadentes\" ou \"não-germânicas\".\n\n    *   **E) Estimular discussões sobre o papel da arte na construção coletiva de cultura.** O objetivo do regime nazista ao rotular e confiscar a \"Arte Degenerada\" não era estimular discussões, mas sim *suprimir* e *eliminar* qualquer manifestação artística que não se alinhasse com sua ideologia. Eles queriam impor uma única visão de arte e cultura, e não promover debates sobre a diversidade ou o papel da arte na construção coletiva.\n\n3.  **Qual conceito o aluno precisa dominar para acertar essa questão:**\n    O conceito fundamental que o aluno precisa dominar para acertar esta questão é o de **\"Arte Degenerada\" (Entartete Kunst)** no contexto do regime nazista alemão. Isso envolve compreender as **políticas culturais de regimes totalitários**, especificamente como o Nazismo utilizou a arte como ferramenta de propaganda e controle social, repudiando e perseguindo manifestações artísticas que considerava contrárias à sua ideologia e estética oficial. É preciso entender que a classificação de \"degenerada\" não era uma crítica artística imparcial, mas sim uma condenação política e ideológica de estilos e temas que desafiavam a visão de mundo nazista.",
@@ -949,7 +949,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q034_principal.png",
+      "imagem_principal": "enem/2023/dia1/img/q034_principal.png",
       "imagens_extras": [],
       "correta": "C",
       "explicacao": "Vamos analisar a questão 34 do ENEM 2023, explicando cada alternativa de forma didática.\n\n**1. Por que a alternativa C está correta.**\n\nA alternativa C está correta porque o TEXTO I descreve uma performance de dança que, embora \"sugira o transe\" e dialogue com \"cultos afro-brasileiros\", explicitamente afirma: \"Mas engana-se quem pensa que vai assistir a uma representação mimética dos cultos afro-brasileiros.\" Isso significa que a dança não é uma cópia fiel ou literal (mimética) das práticas religiosas populares. Em vez disso, ela as **reelabora esteticamente**, ou seja, transforma elementos dessas práticas em uma linguagem artística de palco. O termo \"erudita\" refere-se ao contexto de uma apresentação artística formal, com \"bailarinas\" e uma concepção coreográfica, que eleva ou reinterpreta essas \"práticas religiosas populares\" (os cultos afro-brasileiros) para um público e um formato de arte. Portanto, é uma transformação artística e refinada de elementos culturais populares.\n\n**2. Por que cada uma das outras alternativas está errada.**\n\n*   **A) crítica aos movimentos padronizados do balé clássico.**\n    Esta alternativa está incorreta porque o texto não faz nenhuma menção ao balé clássico, nem expressa qualquer tipo de crítica a ele. O foco do texto é a relação da dança com os cultos afro-brasileiros, e não com outros estilos de dança.\n\n*   **B) representação contemporânea de rituais ancestrais extintos.**\n    Esta alternativa está incorreta principalmente pela palavra \"extintos\". Os cultos afro-brasileiros, como o candomblé e a umbanda, são religiões vivas e ativas no Brasil, não rituais ancestrais que desapareceram. O texto fala de um \"diálogo\" com essas religiões, não de um resgate de algo que não existe mais.\n\n*   **D) releitura irônica",
@@ -1229,7 +1229,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q044_principal.png",
+      "imagem_principal": "enem/2023/dia1/img/q044_principal.png",
       "imagens_extras": [],
       "correta": "A",
       "explicacao": "**Por que a alternativa A está correta:** A peça do Ministério da Saúde apresenta uma lista de vantagens da amamentação para mãe e bebê (vínculo, nutrição, prevenção de doenças, redução de risco de câncer de mama). Esse conjunto de benefícios é o que caracteriza o objetivo da campanha.\n\n**Conceito-chave:** Identificar a função social de uma peça publicitária governamental. Campanhas do Ministério da Saúde têm caráter educativo-informativo, divulgando comportamentos saudáveis com base em evidências.",
@@ -1269,7 +1269,7 @@
       "dia": 1,
       "numero": 46,
       "titulo": "Questão 46 - ENEM 2023",
-      "enunciado": "![](enem/2023/img/q046_inline1.png)",
+      "enunciado": "![](enem/2023/dia1/img/q046_inline1.png)",
       "alternativas_introducao": "Fotografia da avó bordada\nSCARELI. G. A máquina de costura e os fios da memória Revista Brasileira de Pesquisa (Auto) Biográfica, n. 18 maio-ago, 2021\nA definição de Sertão descrita no bordado associa esse recorte espacial a",
       "alternativas": [
         "A) Percursos e roteiros turísticos.",
@@ -1285,7 +1285,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q046_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
       "explicacao": "**Por que a alternativa C está correta:** O bordado é descrito como \"fotografia da avó\" e remete ao trabalho artesanal feminino, à memória familiar e aos fios afetivos transmitidos entre gerações. Por isso, o Sertão representado associa-se a vivências e itinerários socioafetivos, não a um recorte físico do território.\n\n**Conceito-chave:** Sertão como espaço vivido, conceito da geografia humanista — o lugar é construído pelas práticas, lembranças e relações das pessoas, e não apenas pelos limites geográficos.",
@@ -1565,7 +1565,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q056_principal.png",
+      "imagem_principal": "enem/2023/dia1/img/q056_principal.png",
       "imagens_extras": [],
       "correta": "C",
       "explicacao": "**Por que a alternativa C está correta:** A charge expressa o anseio por participar de decisões públicas, característica da democracia contemporânea. Diante da concentração de poder e da exclusão, parte da sociedade reivindica voz nas escolhas coletivas — participação em ações decisórias.\n\n**Conceito-chave:** Democracia participativa contemporânea — para além do voto, há demanda por mecanismos que permitam à sociedade civil influenciar políticas públicas (conselhos, audiências, plebiscitos, controle social).",
@@ -1997,7 +1997,7 @@
       "dia": 1,
       "numero": 72,
       "titulo": "Questão 72 - ENEM 2023",
-      "enunciado": "**TEXTO I**\n\nPor hora, apenas os mais abastados poderão sonhar em viajar ao espaço, seja por um foguete ou por um avião híbrido, mas toda a população global poderá sentir os efeitos dessas viagens e avanços tecnológicos. Para uma aventura dessas, as empresas tiveram que criar novas tecnologias, materiais e softwares, o que podem, em algum momento, voltar para a sociedade. A câmera fotográfica, hoje comum no mundo, antes foi uma invenção para ser usada em telescópios e o titânio, usado até na medicina, foi desenvolvido para a construção de foguetes.\n\nORLANDO, G. **Corrida espacial dos bilionários pode trazer vantagens para todos**. Disponível em: https://noticias.r7.com/. Acesso em: 5 nov. 2021 (adaptado).\n\n**TEXTO II**\n\n![](enem/2023/img/q072_inline1.png)\n\nCAZO. Disponível em: www.humorpolitico.com.br. Acesso em: 5 nov. 2021.",
+      "enunciado": "**TEXTO I**\n\nPor hora, apenas os mais abastados poderão sonhar em viajar ao espaço, seja por um foguete ou por um avião híbrido, mas toda a população global poderá sentir os efeitos dessas viagens e avanços tecnológicos. Para uma aventura dessas, as empresas tiveram que criar novas tecnologias, materiais e softwares, o que podem, em algum momento, voltar para a sociedade. A câmera fotográfica, hoje comum no mundo, antes foi uma invenção para ser usada em telescópios e o titânio, usado até na medicina, foi desenvolvido para a construção de foguetes.\n\nORLANDO, G. **Corrida espacial dos bilionários pode trazer vantagens para todos**. Disponível em: https://noticias.r7.com/. Acesso em: 5 nov. 2021 (adaptado).\n\n**TEXTO II**\n\n![](enem/2023/dia1/img/q072_inline1.png)\n\nCAZO. Disponível em: www.humorpolitico.com.br. Acesso em: 5 nov. 2021.",
       "alternativas_introducao": "Os textos apresentam perspectivas da nova corrida espacial que revelam, respectivamente:",
       "alternativas": [
         "A) Dependência e progresso.",
@@ -2013,7 +2013,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q072_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
       "explicacao": "**Por que a alternativa B está correta:** O Texto I apresenta a corrida espacial dos bilionários como possível fonte de avanços tecnológicos para a humanidade — perspectiva de expectativa positiva. A charge do Texto II critica esse mesmo movimento, sugerindo que ricos fogem dos problemas terrestres — perspectiva de desconfiança.\n\n**Conceito-chave:** Identificar contraste entre dois textos sobre o mesmo tema. Mídia jornalística e charge frequentemente apresentam visões opostas, e o leitor crítico identifica os pontos de vista em jogo.",
@@ -2109,7 +2109,7 @@
       "dia": 1,
       "numero": 76,
       "titulo": "Questão 76 - ENEM 2023",
-      "enunciado": "![](enem/2023/img/q076_inline1.jpg)\n\nDisponível em: www.insper.edu.br. Acesso em: 27 set. 2021 (adaptado).",
+      "enunciado": "![](enem/2023/dia1/img/q076_inline1.jpg)\n\nDisponível em: www.insper.edu.br. Acesso em: 27 set. 2021 (adaptado).",
       "alternativas_introducao": "Qual fator foi determinante para a mudança do indicador apresentado no gráfico?",
       "alternativas": [
         "A) Flexibilização legal da prática de aborto.",
@@ -2125,7 +2125,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q076_principal.jpg",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
       "explicacao": "**Por que a alternativa D está correta:** O indicador retratado (queda na taxa de fecundidade brasileira ao longo das décadas) tem como principal motor a entrada das mulheres no mercado de trabalho. Trabalho remunerado, escolarização e acesso a métodos contraceptivos transformaram o projeto reprodutivo feminino, levando a famílias menores.\n\n**Conceito-chave:** Transição demográfica brasileira — queda de fecundidade explicada por urbanização, escolaridade feminina e participação no mercado de trabalho, fenômeno comum em países que se urbanizam rapidamente.",
@@ -2473,7 +2473,7 @@
       "dia": 1,
       "numero": 89,
       "titulo": "Questão 89 - ENEM 2023",
-      "enunciado": "![](enem/2023/img/q089_inline1.png)",
+      "enunciado": "![](enem/2023/dia1/img/q089_inline1.png)",
       "alternativas_introducao": "Qual medida é capaz de minimizar as mudanças apresentadas nas simulações?",
       "alternativas": [
         "A) Expandir o transporte marítimo.",
@@ -2489,7 +2489,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q089_principal.png",
+      "imagem_principal": "enem/2023/dia1/img/q089_principal.png",
       "imagens_extras": [],
       "correta": "D",
       "explicacao": "**Por que a alternativa D está correta:** As simulações apresentadas representam cenários de aquecimento global causado pelo aumento de gases de efeito estufa, principalmente o dióxido de carbono. Para minimizar essas mudanças climáticas é preciso atacar a causa: controlar as emissões de carbono — substituindo combustíveis fósseis por energias limpas, reduzindo desmatamento e aumentando eficiência energética.\n\n**Conceito-chave:** Mudanças climáticas antropogênicas — ação humana é causa principal do aquecimento atual; mitigação exige redução das emissões de CO2 e outros gases de efeito estufa.",

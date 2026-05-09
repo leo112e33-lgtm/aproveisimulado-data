@@ -93,7 +93,7 @@
       "dia": 2,
       "numero": 4,
       "titulo": "Questão 94 - ENEM 2023",
-      "enunciado": "Em uma indústria, o controle da dureza da água é importante quando ela é utilizada em caldeiras, uma vez que sais pouco solúveis, formados a partir de sulfatos e carbonatos, podem acumular-se no interior das tubulações, causando obstruções. Para avaliar a água utilizada nessa indústria, foram realizados testes de qualidade que consideraram os seauintes parâmetros:\n\n![](enem/2023/img/q004_inline1.png)",
+      "enunciado": "Em uma indústria, o controle da dureza da água é importante quando ela é utilizada em caldeiras, uma vez que sais pouco solúveis, formados a partir de sulfatos e carbonatos, podem acumular-se no interior das tubulações, causando obstruções. Para avaliar a água utilizada nessa indústria, foram realizados testes de qualidade que consideraram os seauintes parâmetros:\n\n![](enem/2023/dia2/img/q004_inline1.png)",
       "alternativas_introducao": "Qual teste deve ser considerado para controlar a formação desse tipo de obstrução de tubulações?",
       "alternativas": [
         "A) 1",
@@ -109,7 +109,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q004_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
       "explicacao": "**Por que a alternativa A está correta:** A dureza da água — relacionada à presença de íons Ca²⁺ e Mg²⁺ que formam sulfatos e carbonatos pouco solúveis — é justamente o que provoca a obstrução de tubulações em caldeiras. O teste 1, que mede dureza ou íons cálcio/magnésio, é o adequado para esse controle.\n\n**Conceito-chave:** Dureza da água — concentração de cátions divalentes (Ca²⁺, Mg²⁺) que formam incrustações em superfícies aquecidas (caldeiras, chuveiros, panelas). Tratamento envolve abrandadores.",
@@ -261,7 +261,7 @@
       "dia": 2,
       "numero": 10,
       "titulo": "Questão 100 - ENEM 2023",
-      "enunciado": "Um professor lança uma esfera verticalmente para cima, a qual retorna, depois de alguns segundos, ao ponto de lançamento. Em seguida, lista em um quadro todas as possibilidades para as grandezas cinemáticas.\n\n![](enem/2023/img/q010_inline1.jpg)",
+      "enunciado": "Um professor lança uma esfera verticalmente para cima, a qual retorna, depois de alguns segundos, ao ponto de lançamento. Em seguida, lista em um quadro todas as possibilidades para as grandezas cinemáticas.\n\n![](enem/2023/dia2/img/q010_inline1.jpg)",
       "alternativas_introducao": "Ele solicita aos alunos que analisem as grandezas cinemáticas no instante em que a esfera atinge a altura máxima, escolhendo uma combinação para os módulos e sentidos da velocidade e da aceleração. A escolha que corresponde à combinação correta é",
       "alternativas": [
         "A) V = 0 e a ≠ 0 para cima.",
@@ -277,7 +277,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q010_principal.jpg",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
       "explicacao": "**Por que a alternativa C está correta:** No ponto mais alto da trajetória vertical, a esfera está momentaneamente parada (V = 0), mas a aceleração da gravidade continua atuando para baixo (a = g ≈ 9,8 m/s², sentido para baixo). Por isso a velocidade pode ser nula e a aceleração não nula — não confundir os dois conceitos.\n\n**Conceito-chave:** Lançamento vertical — velocidade e aceleração são grandezas independentes. A aceleração da gravidade é constante e sempre apontada para o centro da Terra; a velocidade muda continuamente, podendo passar por zero.",
@@ -513,7 +513,7 @@
       "dia": 2,
       "numero": 19,
       "titulo": "Questão 109 - ENEM 2023",
-      "enunciado": "Uma academia decide trocar gradualmente seus aparelhos de musculação. Agora, os frequentadores que utilizam os aparelhos do tipo 1 podem também utilizar os aparelhos do tipo 2, representados na figura, para elevar cargas correspondentes às massas M1 e M2 com velocidade constante. A fim de que o exercício seja realizado com a mesma força F, os usuários devem ser orientados a respeito da relação entre as cargas nos dois tipos de aparelhos, já que as polias fixas apenas mudam a direção das forças, enquanto a polia móvel divide as forças.\n\nEm ambos os aparelhos, considere as cordas inextensíveis, as massas das polias e das cordas desprezíveis e que não há dissipação de energia.\n\n![](enem/2023/img/q019_inline1.png)",
+      "enunciado": "Uma academia decide trocar gradualmente seus aparelhos de musculação. Agora, os frequentadores que utilizam os aparelhos do tipo 1 podem também utilizar os aparelhos do tipo 2, representados na figura, para elevar cargas correspondentes às massas M1 e M2 com velocidade constante. A fim de que o exercício seja realizado com a mesma força F, os usuários devem ser orientados a respeito da relação entre as cargas nos dois tipos de aparelhos, já que as polias fixas apenas mudam a direção das forças, enquanto a polia móvel divide as forças.\n\nEm ambos os aparelhos, considere as cordas inextensíveis, as massas das polias e das cordas desprezíveis e que não há dissipação de energia.\n\n![](enem/2023/dia2/img/q019_inline1.png)",
       "alternativas_introducao": "Para essa academia, qual deve ser a razão M2/M1 informada aos usuários?",
       "alternativas": [
         "A) 1/4",
@@ -529,7 +529,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q019_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
       "explicacao": "**Por que a alternativa D está correta:** No aparelho 2 a polia móvel divide a força necessária pela metade — para erguer M2 com velocidade constante, o usuário aplica F = M2·g/2. No aparelho 1, sem polia móvel, F = M1·g. Igualando para mesma F: M1·g = M2·g/2 → M2 = 2·M1, logo a razão M2/M1 = 2.\n\n**Conceito-chave:** Vantagem mecânica de polias móveis — cada polia móvel divide o esforço necessário pela metade, em troca do dobro do deslocamento da corda. Aplicação prática de máquinas simples.",
@@ -541,7 +541,7 @@
       "dia": 2,
       "numero": 20,
       "titulo": "Questão 110 - ENEM 2023",
-      "enunciado": "Um assistente de laboratório precisou descartar sete frascos contendo solução de nitrato de mercúrio(l) que não foram utilizados em uma aula prática. Cada frasco continha 5,25 g de Hg2(NO3)2 dissolvidos em água. Temendo a toxidez do mercúrio e sabendo que o Hg2Cl2 tem solubilidade muito baixa, o assistente optou por retirar o mercúrio da solução por precipitação com cloreto de sódio (NaCl), conforme a equação química:\n\n![](enem/2023/img/q020_inline1.png)\n\nNa dúvida sobre a massa de NaCl a ser utilizada, o assistente aumentou gradativamente a quantidade adicionada em cada frasco, como apresentado no quadro.\n\n![](enem/2023/img/q020_inline2.png)\n\nO produto obtido em cada experimento foi filtrado, secado e teve sua massa aferida. O assistente organizou os resultados na forma de um gráfico que correlaciona a massa de NaCl adicionada com a massa de Hg2Cl2 obtida em cada frasco. A massa molar do Hg2(NO3)2 é 525 g mol\\-1, a do NaCl é 58 g mol\\-1 e a do Hg2Cl2 é 472 g mol\\-1.",
+      "enunciado": "Um assistente de laboratório precisou descartar sete frascos contendo solução de nitrato de mercúrio(l) que não foram utilizados em uma aula prática. Cada frasco continha 5,25 g de Hg2(NO3)2 dissolvidos em água. Temendo a toxidez do mercúrio e sabendo que o Hg2Cl2 tem solubilidade muito baixa, o assistente optou por retirar o mercúrio da solução por precipitação com cloreto de sódio (NaCl), conforme a equação química:\n\n![](enem/2023/dia2/img/q020_inline1.png)\n\nNa dúvida sobre a massa de NaCl a ser utilizada, o assistente aumentou gradativamente a quantidade adicionada em cada frasco, como apresentado no quadro.\n\n![](enem/2023/dia2/img/q020_inline2.png)\n\nO produto obtido em cada experimento foi filtrado, secado e teve sua massa aferida. O assistente organizou os resultados na forma de um gráfico que correlaciona a massa de NaCl adicionada com a massa de Hg2Cl2 obtida em cada frasco. A massa molar do Hg2(NO3)2 é 525 g mol\\-1, a do NaCl é 58 g mol\\-1 e a do Hg2Cl2 é 472 g mol\\-1.",
       "alternativas_introducao": "Qual foi o gráfico obtido pelo assistente de laboratório?",
       "alternativas": [
         "A)",
@@ -551,16 +551,14 @@
         "E)"
       ],
       "imagens_alternativas": [
-        "enem/2023/img/q020_altA.png",
-        "enem/2023/img/q020_altB.png",
-        "enem/2023/img/q020_altC.png",
-        "enem/2023/img/q020_altD.png",
-        "enem/2023/img/q020_altE.png"
+        "enem/2023/dia2/img/q020_altA.png",
+        "enem/2023/dia2/img/q020_altB.png",
+        "enem/2023/dia2/img/q020_altC.png",
+        "enem/2023/dia2/img/q020_altD.png",
+        "enem/2023/dia2/img/q020_altE.png"
       ],
-      "imagem_principal": "enem/2023/img/q020_principal.png",
-      "imagens_extras": [
-        "enem/2023/img/q020_extra1.png"
-      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
       "correta": "B",
       "explicacao": "**Por que a alternativa B está correta:** Cada 525 g de Hg₂(NO₃)₂ reagem com 2 × 58,5 = 117 g de NaCl produzindo 472 g de Hg₂Cl₂. Em 5,25 g de Hg₂(NO₃)₂ a massa máxima de Hg₂Cl₂ é 4,72 g, atingida quando se adiciona 1,17 g de NaCl. O gráfico correto cresce linearmente até esse ponto e depois fica constante (saturação).\n\n**Conceito-chave:** Reagente limitante — em estequiometria, ao aumentar um reagente, o produto cresce até o outro reagente acabar; depois disso, excessos não geram mais produto. O patamar do gráfico revela a saturação.",
       "fonte": "api.enem.dev",
@@ -571,7 +569,7 @@
       "dia": 2,
       "numero": 21,
       "titulo": "Questão 111 - ENEM 2023",
-      "enunciado": "![](enem/2023/img/q021_inline1.png)\n\nSOUSA. M. Disponível em: www.monica.com.br. Acesso em: 2 out. 2012 (adaptado)",
+      "enunciado": "![](enem/2023/dia2/img/q021_inline1.png)\n\nSOUSA. M. Disponível em: www.monica.com.br. Acesso em: 2 out. 2012 (adaptado)",
       "alternativas_introducao": "Na tirinha de Mauricio de Sousa, os personagens Cebolinha e Cascão fazem uma brincadeira utilizando duas latas e um barbante. Ao perceberem que o som pode ser transmitido através do barbante, resolvem alterar o comprimento do barbante para ficar cada vez mais extenso. As demais condições permaneceram inalteradas durante a brincadeira.\nNa prática, à medida que se aumenta o comprimento do barbante, ocorre a redução de qual característica da onda sonora?",
       "alternativas": [
         "A) Altura.",
@@ -587,7 +585,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q021_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
       "explicacao": "**Por que a alternativa C está correta:** Quando o som se propaga pelo barbante, parte da energia mecânica é dissipada por atrito interno. Quanto mais longo o barbante, mais energia se perde no caminho — o resultado é a redução da amplitude da onda (volume mais baixo na lata receptora). Frequência (altura) e comprimento de onda dependem da fonte, não do meio.\n\n**Conceito-chave:** Atenuação de ondas — propagação real envolve perda de energia. Frequência e período permanecem constantes ao longo do meio; amplitude diminui com a distância em meios dissipativos.",
@@ -637,11 +635,11 @@
         "E)"
       ],
       "imagens_alternativas": [
-        "enem/2023/img/q023_altA.png",
-        "enem/2023/img/q023_altB.png",
-        "enem/2023/img/q023_altC.png",
-        "enem/2023/img/q023_altD.png",
-        "enem/2023/img/q023_altE.png"
+        "enem/2023/dia2/img/q023_altA.png",
+        "enem/2023/dia2/img/q023_altB.png",
+        "enem/2023/dia2/img/q023_altC.png",
+        "enem/2023/dia2/img/q023_altD.png",
+        "enem/2023/dia2/img/q023_altE.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],
@@ -655,7 +653,7 @@
       "dia": 2,
       "numero": 24,
       "titulo": "Questão 114 - ENEM 2023",
-      "enunciado": "Uma equipe de segurança do transporte de uma empresa avalia o comportamento das tensões que aparecem em duas cordas, 1 e 2, usadas para prender uma carga de massa M = 200 kg na carroceria, conforme a ilustração. Quando o caminhão parte do repouso, sua aceleração é constante e igual a 3 m/s2 e, quando ele é freado bruscamente, sua frenagem é constante e igual a 5 m/s2. Em ambas as situações, a carga encontra-se na iminência de movimento, e o sentido do movimento do caminhão está indicado na figura. O coeficiente de atrito estático entre a caixa e c assoalho da carroceria é igual a 0,2. Considere a aceleração da gravidade igual a 10 m/s2, as tensões iniciais nas cordas iguais a zero e as duas cordas ideais.\n\n![](enem/2023/img/q024_inline1.png)",
+      "enunciado": "Uma equipe de segurança do transporte de uma empresa avalia o comportamento das tensões que aparecem em duas cordas, 1 e 2, usadas para prender uma carga de massa M = 200 kg na carroceria, conforme a ilustração. Quando o caminhão parte do repouso, sua aceleração é constante e igual a 3 m/s2 e, quando ele é freado bruscamente, sua frenagem é constante e igual a 5 m/s2. Em ambas as situações, a carga encontra-se na iminência de movimento, e o sentido do movimento do caminhão está indicado na figura. O coeficiente de atrito estático entre a caixa e c assoalho da carroceria é igual a 0,2. Considere a aceleração da gravidade igual a 10 m/s2, as tensões iniciais nas cordas iguais a zero e as duas cordas ideais.",
       "alternativas_introducao": "Nas situações de aceleração e frenagem do caminhão, as tensões nas cordas 1 e 2, em newton, serão",
       "alternativas": [
         "A) Aceleração: T1 = 0 e T2 = 200; frenagem: T1 = 600 e T2 = 0.",
@@ -671,7 +669,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q024_principal.png",
+      "imagem_principal": "enem/2023/dia2/img/q024_principal.png",
       "imagens_extras": [],
       "correta": "A",
       "explicacao": "**Por que a alternativa A está correta:** A força máxima de atrito estático é f = μ·M·g = 0,2 × 200 × 10 = 400 N. Na aceleração (3 m/s²): força necessária 600 N > 400 N, falta 200 N → corda 2 supre, T₂ = 200 N e T₁ = 0. Na frenagem (5 m/s²): força 1000 N > 400 N, falta 600 N → corda 1 supre, T₁ = 600 N e T₂ = 0.\n\n**Conceito-chave:** Atrito estático e segunda lei de Newton em referencial não-inercial — quando a força inercial supera o atrito máximo, a tração da corda completa o que falta para manter a carga acompanhando o veículo.",
@@ -711,7 +709,7 @@
       "dia": 2,
       "numero": 26,
       "titulo": "Questão 116 - ENEM 2023",
-      "enunciado": "O ciclo do nitrogênio é composto por várias etapas, conforme a figura, sendo cada uma desempenhada por um grupo específico de microrganismos.\n\n![](enem/2023/img/q026_inline1.png)",
+      "enunciado": "O ciclo do nitrogênio é composto por várias etapas, conforme a figura, sendo cada uma desempenhada por um grupo específico de microrganismos.\n\n![](enem/2023/dia2/img/q026_inline1.png)",
       "alternativas_introducao": "Se o grupo dos microrganismos decompositores fosse exterminado, qual etapa não ocorreria?",
       "alternativas": [
         "A) 1",
@@ -727,7 +725,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q026_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
       "explicacao": "**Por que a alternativa B está correta:** Os decompositores (bactérias e fungos) realizam a amonificação — etapa em que matéria orgânica nitrogenada (proteínas, ureia, ácidos nucleicos) é transformada em amônia (NH₃) ou íon amônio (NH₄⁺). Sem decompositores, essa etapa do ciclo do nitrogênio não ocorre, bloqueando o retorno do N ao solo.\n\n**Conceito-chave:** Ciclo do nitrogênio — etapas: fixação (N₂ → NH₃), amonificação (matéria orgânica → NH₃), nitrificação (NH₃ → NO₂⁻ → NO₃⁻), assimilação e desnitrificação (NO₃⁻ → N₂).",
@@ -767,7 +765,7 @@
       "dia": 2,
       "numero": 28,
       "titulo": "Questão 118 - ENEM 2023",
-      "enunciado": "A gasolina é uma mistura de hidrocarbonetos de cadeias saturadas contendo de 8 a 12 átomos de carbono. Além disso, a gasolina de alto desempenho deve conter elevados teores de hidrocarbonetos de cadeias ramificadas, de forma a resistir à compressão e entrar em ignição apenas quando a vela aciona uma centelha elétrica no motor. No quadro, estão apresentados compostos que podem ser utilizados como combustíveis.\n\n![](enem/2023/img/q028_inline1.png)",
+      "enunciado": "A gasolina é uma mistura de hidrocarbonetos de cadeias saturadas contendo de 8 a 12 átomos de carbono. Além disso, a gasolina de alto desempenho deve conter elevados teores de hidrocarbonetos de cadeias ramificadas, de forma a resistir à compressão e entrar em ignição apenas quando a vela aciona uma centelha elétrica no motor. No quadro, estão apresentados compostos que podem ser utilizados como combustíveis.\n\n![](enem/2023/dia2/img/q028_inline1.png)",
       "alternativas_introducao": "Entre esses compostos, aquele que conferirá maior desempenho como combustível é o",
       "alternativas": [
         "A) I.",
@@ -783,7 +781,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q028_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
       "explicacao": "**Por que a alternativa C está correta:** O texto destaca que gasolinas de alto desempenho devem conter elevados teores de hidrocarbonetos de cadeias ramificadas (alta octanagem) para resistir à compressão. Entre os compostos avaliados, o III é o que apresenta a estrutura mais ramificada, sendo o melhor combustível.\n\n**Conceito-chave:** Octanagem — medida da resistência à autoignição por compressão. Hidrocarbonetos ramificados (como isoctano, padrão 100) têm octanagem mais alta que os lineares; cadeias compactas reduzem detonação prematura.",
@@ -795,7 +793,7 @@
       "dia": 2,
       "numero": 29,
       "titulo": "Questão 119 - ENEM 2023",
-      "enunciado": "De acordo com a Constituição Federal, é competencia dos municípios o gerenciamento dos serviços de limpeza e coleta dos resíduos urbanos (lixo). No entanto, há relatos de que parte desse lixo acaba sendo incinerado, liberando substâncias tóxicas para o ambiente e causando acidentes por explosões, principalmente quando ocorre a incineração de frascos de aerossóis (por exemplo: desodorantes, inseticidas e repelentes). A temperatura elevada provoca a vaporização de todo o conteúdo dentro desse tipo de frasco, aumentando a pressão em seu interior até culminar na explosão da embalagem.\n\nZVEIBIL, V. Z. et al. **Cartilha de limpeza urbana**. Disponível em: www.lbam.org.br. Acesso em: 6 jul. 2015 (adaptado).\n\nSuponha um frasco metálico de um aerossol de capacidade igual a 100 mL, contendo 0,1 mol de produtos gasosos à temperatura de 650 °C, no momento da explosão.\n\n![](enem/2023/img/q029_inline1.png)",
+      "enunciado": "De acordo com a Constituição Federal, é competencia dos municípios o gerenciamento dos serviços de limpeza e coleta dos resíduos urbanos (lixo). No entanto, há relatos de que parte desse lixo acaba sendo incinerado, liberando substâncias tóxicas para o ambiente e causando acidentes por explosões, principalmente quando ocorre a incineração de frascos de aerossóis (por exemplo: desodorantes, inseticidas e repelentes). A temperatura elevada provoca a vaporização de todo o conteúdo dentro desse tipo de frasco, aumentando a pressão em seu interior até culminar na explosão da embalagem.\n\nZVEIBIL, V. Z. et al. **Cartilha de limpeza urbana**. Disponível em: www.lbam.org.br. Acesso em: 6 jul. 2015 (adaptado).\n\nSuponha um frasco metálico de um aerossol de capacidade igual a 100 mL, contendo 0,1 mol de produtos gasosos à temperatura de 650 °C, no momento da explosão.\n\n![](enem/2023/dia2/img/q029_inline1.png)",
       "alternativas_introducao": "A pressão, em atm, dentro do frasco, no momento da explosão, é mais próxima de",
       "alternativas": [
         "A) 756.",
@@ -811,7 +809,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q029_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
       "explicacao": "**Por que a alternativa C está correta:** Aplicando a equação dos gases ideais P·V = n·R·T: P = (n·R·T) / V = (0,1 × 0,082 × 923) / 0,1 ≈ 76 atm. Onde T = 650 + 273 = 923 K e V = 0,1 L. A alternativa C (76 atm) é o resultado direto.\n\n**Conceito-chave:** Equação geral dos gases ideais (P·V = n·R·T) — relaciona pressão, volume, temperatura absoluta e mols. Atenção: temperatura sempre em Kelvin e volume em litros quando R = 0,082 atm·L/(mol·K).",
@@ -823,7 +821,7 @@
       "dia": 2,
       "numero": 30,
       "titulo": "Questão 120 - ENEM 2023",
-      "enunciado": "O circuito com três lâmpadas incandescentes idênticas, representado na figura, consiste em uma associação mista de resistores. Cada lâmpada (L1, L2, e L3) é associada, em paralelo, a um resistor de resistência R, formando um conjunto. Esses conjuntos são associados em série, tendo todas as lâmpadas o mesmo brilho quando ligadas à fonte de energia. Após vários dias em uso, apenas a lâmpada L2 queima, enquanto as demais permanecem acesas.\n\n![](enem/2023/img/q030_inline1.png)",
+      "enunciado": "O circuito com três lâmpadas incandescentes idênticas, representado na figura, consiste em uma associação mista de resistores. Cada lâmpada (L1, L2, e L3) é associada, em paralelo, a um resistor de resistência R, formando um conjunto. Esses conjuntos são associados em série, tendo todas as lâmpadas o mesmo brilho quando ligadas à fonte de energia. Após vários dias em uso, apenas a lâmpada L2 queima, enquanto as demais permanecem acesas.\n\n![](enem/2023/dia2/img/q030_inline1.png)",
       "alternativas_introducao": "Em relação à situação em que todas as lâmpadas funcionam, após a queima de L2, os brilhos das lâmpadas serão",
       "alternativas": [
         "A) Os mesmos.",
@@ -839,7 +837,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q030_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
       "explicacao": "**Por que a alternativa C está correta:** No circuito original, cada conjunto tem lâmpada paralela a resistor R, e os três conjuntos estão em série. Quando L₂ queima, o conjunto 2 passa a ter apenas R (resistência maior que antes, pois antes havia o paralelo lâmpada-R com resistência menor). Resistência total aumenta → corrente total diminui → L₁ e L₃ recebem menos corrente e brilham menos.\n\n**Conceito-chave:** Associação mista de resistores — em série, a corrente é a mesma; remover um caminho paralelo aumenta a resistência local. Como tudo está em série, mais resistência = menos corrente em todo o circuito.",
@@ -851,7 +849,7 @@
       "dia": 2,
       "numero": 31,
       "titulo": "Questão 121 - ENEM 2023",
-      "enunciado": "Os solos amazônicos, ricos em silicato, não são apropriados para o cultivo por serem incapazes de reter nutrientes. Contudo, descobertas arqueológicas têm demonstrado que os antigos habitantes da Amazônia dominavam a técnica de preparo de um insumo agrícola natural, denominado terra preta. Esse insumo era constituído principalmente de uma espécie de biocarvão (biochar) obtido da queima de matéria orgânica, como troncos de árvores, pedaços de ossos e esterco, capaz de manter um solo fértil por anos.\n\nAdmite-se que o efeito do biocarvão na fertilização do solo estava, em parte, relacionado à presença de grupos orgânicos do tipo carboxilato em sua superfície, carregados negativamente (—COO–). Esses grupos atraem íons positivos necessários como nutrientes, tais quais os provenientes do potássio (K), do cálcio (Ca) e do magnésio (Mg), além de micronutrientes, como zinco (Zn) e ferro (Fe). Essa ligação no solo fertilizado é predominantemente iônica, conforme ilustra a figura, em que M\\* representa os cátions metálicos. De acordo com a escala de Pauling, a eletronegatividade do elemento oxigênio é igual a 3,44\n\n![](enem/2023/img/q031_inline1.png)\n\nO quadro apresenta os valores de eletronegatividade desses cinco elementos metálicos.\n\n![](enem/2023/img/q031_inline2.png)\n\nMICHALOVIC, M. Ancient Soil Chemists of the Amazon. **ChemMatters**, fev. 2009 (adaptado).",
+      "enunciado": "Os solos amazônicos, ricos em silicato, não são apropriados para o cultivo por serem incapazes de reter nutrientes. Contudo, descobertas arqueológicas têm demonstrado que os antigos habitantes da Amazônia dominavam a técnica de preparo de um insumo agrícola natural, denominado terra preta. Esse insumo era constituído principalmente de uma espécie de biocarvão (biochar) obtido da queima de matéria orgânica, como troncos de árvores, pedaços de ossos e esterco, capaz de manter um solo fértil por anos.\n\nAdmite-se que o efeito do biocarvão na fertilização do solo estava, em parte, relacionado à presença de grupos orgânicos do tipo carboxilato em sua superfície, carregados negativamente (—COO–). Esses grupos atraem íons positivos necessários como nutrientes, tais quais os provenientes do potássio (K), do cálcio (Ca) e do magnésio (Mg), além de micronutrientes, como zinco (Zn) e ferro (Fe). Essa ligação no solo fertilizado é predominantemente iônica, conforme ilustra a figura, em que M\\* representa os cátions metálicos. De acordo com a escala de Pauling, a eletronegatividade do elemento oxigênio é igual a 3,44\n\n![](enem/2023/dia2/img/q031_inline1.png)\n\nO quadro apresenta os valores de eletronegatividade desses cinco elementos metálicos.\n\n![](enem/2023/dia2/img/q031_inline2.png)\n\nMICHALOVIC, M. Ancient Soil Chemists of the Amazon. **ChemMatters**, fev. 2009 (adaptado).",
       "alternativas_introducao": "O cátion que resultará em uma interação de maior caráter iônico com o ânion carboxilato será aquele proveniente do elemento",
       "alternativas": [
         "A) Potássio.",
@@ -867,10 +865,8 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q031_principal.png",
-      "imagens_extras": [
-        "enem/2023/img/q031_extra1.png"
-      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
       "correta": "A",
       "explicacao": "**Por que a alternativa A está correta:** Quanto maior a diferença de eletronegatividade entre dois átomos ligados, mais iônico o caráter da ligação. O potássio (K, eletronegatividade ≈ 0,82) tem a menor eletronegatividade entre os cinco metais listados. Sua diferença em relação ao oxigênio (3,44) é a maior, gerando a interação de maior caráter iônico com o ânion carboxilato.\n\n**Conceito-chave:** Caráter iônico das ligações (escala de Pauling) — quanto maior |Δχ|, mais iônica é a ligação. Metais alcalinos (K, Na) formam ligações mais iônicas com não-metais que metais de transição.",
       "fonte": "api.enem.dev",
@@ -909,7 +905,7 @@
       "dia": 2,
       "numero": 33,
       "titulo": "Questão 123 - ENEM 2023",
-      "enunciado": "Entre os medicamentos mais comuns consumidos para o alívio da dor está o ibuprofeno, um composto quiral com ação anti-inflamatória e efeito analgésico, que é comercializado como fármaco opticamente puro, ou seja, sem a mistura com outro isômero óptico. A fórmula estrutural plana do ibuprofeno é:\n\n![](enem/2023/img/q033_inline1.png)\n\nAlém do ibuprofeno, destacam-se também os princípios ativos a seguir, presentes em outros medicamentos para o alívio da dor:\n\n![](enem/2023/img/q033_inline2.jpg)",
+      "enunciado": "Entre os medicamentos mais comuns consumidos para o alívio da dor está o ibuprofeno, um composto quiral com ação anti-inflamatória e efeito analgésico, que é comercializado como fármaco opticamente puro, ou seja, sem a mistura com outro isômero óptico. A fórmula estrutural plana do ibuprofeno é:\n\n![](enem/2023/dia2/img/q033_inline1.png)\n\nAlém do ibuprofeno, destacam-se também os princípios ativos a seguir, presentes em outros medicamentos para o alívio da dor:\n\n![](enem/2023/dia2/img/q033_inline2.jpg)",
       "alternativas_introducao": "O princípio ativo que apresenta o mesmo tipo de isomeria espacial que o ibuprofeno é o(a)",
       "alternativas": [
         "A) Fenacetina.",
@@ -925,10 +921,8 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q033_principal.png",
-      "imagens_extras": [
-        "enem/2023/img/q033_extra1.jpg"
-      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
       "correta": "E",
       "explicacao": "**Por que a alternativa E está correta:** O ibuprofeno apresenta isomeria óptica (quiralidade) por possuir carbono assimétrico — átomo ligado a quatro grupos diferentes. Entre os princípios ativos listados, o butilbrometo de escopolamina também possui carbono assimétrico em sua estrutura, apresentando o mesmo tipo de isomeria espacial.\n\n**Conceito-chave:** Isomeria óptica — surge quando há carbono assimétrico (quiral). Moléculas quirais têm enantiômeros (imagens especulares não sobreponíveis), com efeitos farmacológicos potencialmente diferentes.",
       "fonte": "api.enem.dev",
@@ -995,7 +989,7 @@
       "dia": 2,
       "numero": 36,
       "titulo": "Questão 126 - ENEM 2023",
-      "enunciado": "Para que uma molécula dê origem a um medicamento de administração oral, além de apresentar atividade farmacológica, deve ser capaz de atingir o local de ação. Para tanto, essa molécula não deve se degradar no estômago (onde o meio é fortemente ácido e há várias enzimas que reagem mediante catálise ácida), deve ser capaz de atravessar as membranas celulares e ser solúvel no plasma sanguíneo (sistema aquoso). Para os fármacos cujas estruturas são formadas por cadeias carbônicas longas contendo pelo menos um grupamento amino, um recurso tecnológico empregado é sua conversão no cloridrato correspondente. Essa conversão é representada, de forma genérica, pela equação química:\n\n![](enem/2023/img/q036_inline1.png)",
+      "enunciado": "Para que uma molécula dê origem a um medicamento de administração oral, além de apresentar atividade farmacológica, deve ser capaz de atingir o local de ação. Para tanto, essa molécula não deve se degradar no estômago (onde o meio é fortemente ácido e há várias enzimas que reagem mediante catálise ácida), deve ser capaz de atravessar as membranas celulares e ser solúvel no plasma sanguíneo (sistema aquoso). Para os fármacos cujas estruturas são formadas por cadeias carbônicas longas contendo pelo menos um grupamento amino, um recurso tecnológico empregado é sua conversão no cloridrato correspondente. Essa conversão é representada, de forma genérica, pela equação química:\n\n![](enem/2023/dia2/img/q036_inline1.png)",
       "alternativas_introducao": "O aumento da eficiência de circulação do fármaco no sangue, promovido por essa conversão, deve-se ao incremento de seu(sua)",
       "alternativas": [
         "A) Basicidade.",
@@ -1011,7 +1005,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q036_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
       "explicacao": "**Por que a alternativa C está correta:** Ao converter o grupo amino (-NH₂) em cloridrato (R-NH₃⁺Cl⁻), o fármaco passa a existir como sal (íon). O caráter iônico aumenta drasticamente sua solubilidade em água e no plasma sanguíneo, melhorando a circulação. A neutralização da amina via reação ácido-base é o ajuste-chave.\n\n**Conceito-chave:** Salificação de fármacos — converter molécula em sal melhora solubilidade aquosa. Por isso muitos fármacos comerciais aparecem como cloridratos, sulfatos ou maleatos.",
@@ -1023,7 +1017,7 @@
       "dia": 2,
       "numero": 37,
       "titulo": "Questão 127 - ENEM 2023",
-      "enunciado": "**Toxicidade do cianeto**\n\nA produção de ATP depende do gradiente de prótons gerado pela cadeia respiratória. Nessas reações, os elétrons  \nprovenientes da oxidação do NADH em NAD+ percorrem a cadeia até chegarem à citocromo c oxidase reduzindo o  \nFe3+ a Fe2+. O oxigênio atua como aceptor final desses elétrons formando água. O cianeto é uma espécie química  \naltamente tóxica que tem grande afinidade pelo Fe3+. Quando células são expostas ao cianeto, ele se liga ao sítio de  \nFe3+ da citocromo c oxidase, impedindo a sua conversão em Fe2+ e bloqueando a cadeia respiratória.\n\n![](enem/2023/img/q037_inline1.png)\n\nALBERTS, B. et al. **Biologia molecular da célula**. Porto Alegre: Artmed, 2010 (adaptado).",
+      "enunciado": "**Toxicidade do cianeto**\n\nA produção de ATP depende do gradiente de prótons gerado pela cadeia respiratória. Nessas reações, os elétrons  \nprovenientes da oxidação do NADH em NAD+ percorrem a cadeia até chegarem à citocromo c oxidase reduzindo o  \nFe3+ a Fe2+. O oxigênio atua como aceptor final desses elétrons formando água. O cianeto é uma espécie química  \naltamente tóxica que tem grande afinidade pelo Fe3+. Quando células são expostas ao cianeto, ele se liga ao sítio de  \nFe3+ da citocromo c oxidase, impedindo a sua conversão em Fe2+ e bloqueando a cadeia respiratória.\n\n![](enem/2023/dia2/img/q037_inline1.png)\n\nALBERTS, B. et al. **Biologia molecular da célula**. Porto Alegre: Artmed, 2010 (adaptado).",
       "alternativas_introducao": "Esse bloqueio aumenta a concentração celular de",
       "alternativas": [
         "A) ATP.",
@@ -1039,7 +1033,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q037_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
       "explicacao": "**Por que a alternativa C está correta:** O cianeto bloqueia a citocromo c oxidase, impedindo que os elétrons da cadeia respiratória cheguem ao oxigênio. Sem regeneração de NAD⁺, o NADH se acumula nas células. Como consequência, ATP cai (não é gerado), água também não é formada (sem aceptor final), e o ciclo do ácido cítrico para por falta de NAD⁺.\n\n**Conceito-chave:** Cadeia respiratória mitocondrial — NADH só é reoxidado a NAD⁺ se elétrons fluírem até o O₂. Bloqueio em qualquer etapa para todo o sistema, com NADH acumulando como sintoma.",
@@ -1163,7 +1157,7 @@
       "dia": 2,
       "numero": 42,
       "titulo": "Questão 132 - ENEM 2023",
-      "enunciado": "O manual de um automóvel alerta sobre os cuidados em relação à pressão do ar no interior dos pneus. Recomenda-se que a pressão seja verificada com os pneus frios (à temperatura ambiente). Um motorista, desatento a essa informação, realizou uma viagem longa sobre o asfalto quente e, em seguida, verificou que a pressão![](enem/2023/img/q042_inline1.jpg) no interior dos pneus não era a recomendada pelo fabricante. Na ocasião, a temperatura dos pneus era ![](enem/2023/img/q042_inline2.jpg). Após um longo período em repouso, os pneus do carro atingiram a temperatura ambiente T. Durante o resfriamento, não há alteração no volume dos pneus e na quantidade de ar no seu interior. Considere o ar dos pneus um gás perfeito (também denominado gás ideal).",
+      "enunciado": "O manual de um automóvel alerta sobre os cuidados em relação à pressão do ar no interior dos pneus. Recomenda-se que a pressão seja verificada com os pneus frios (à temperatura ambiente). Um motorista, desatento a essa informação, realizou uma viagem longa sobre o asfalto quente e, em seguida, verificou que a pressão![](enem/2023/dia2/img/q042_inline1.jpg) no interior dos pneus não era a recomendada pelo fabricante. Na ocasião, a temperatura dos pneus era ![](enem/2023/dia2/img/q042_inline2.jpg). Após um longo período em repouso, os pneus do carro atingiram a temperatura ambiente T. Durante o resfriamento, não há alteração no volume dos pneus e na quantidade de ar no seu interior. Considere o ar dos pneus um gás perfeito (também denominado gás ideal).",
       "alternativas_introducao": "Durante o processo de resfriamento, os valores de pressão em relação à temperatura (P x T) são representados pelo gráfico:",
       "alternativas": [
         "A)",
@@ -1177,12 +1171,10 @@
         null,
         null,
         null,
-        "enem/2023/img/q042_altE.jpg"
+        "enem/2023/dia2/img/q042_altE.jpg"
       ],
-      "imagem_principal": "enem/2023/img/q042_principal.jpg",
-      "imagens_extras": [
-        "enem/2023/img/q042_extra1.jpg"
-      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
       "correta": "E",
       "explicacao": "**Por que a alternativa E está correta:** Para um gás ideal com volume e quantidade de matéria constantes (V e n fixos), a Lei de Gay-Lussac diz que P/T = constante. Em um gráfico P × T (com T em kelvin), isso é uma reta que passa pela origem. A alternativa E representa essa relação linear de proporcionalidade direta entre pressão e temperatura.\n\n**Conceito-chave:** Lei de Gay-Lussac — em transformação isovolumétrica de gás ideal, pressão e temperatura absoluta são diretamente proporcionais. Cuidado: T em Kelvin é essencial para o gráfico passar pela origem.",
       "fonte": "api.enem.dev",
@@ -1193,7 +1185,7 @@
       "dia": 2,
       "numero": 43,
       "titulo": "Questão 133 - ENEM 2023",
-      "enunciado": "O descarte de detergentes comuns nos esgotos domésticos ocasiona a formação de uma camada de espuma que impede a entrada de oxigênio na água. Os microrganismos que vivem nessas águas não são capazes de quebrar moléculas ramificadas, ocorrendo assim um desequilíbrio ambiental nos rios. A fórmula a seguir representa a estrutura química de um tensoativo presente na composição de um detergente não biodegradável.\n\n![](enem/2023/img/q043_inline1.png)\n\n**Tensoativo não biodegradável**",
+      "enunciado": "O descarte de detergentes comuns nos esgotos domésticos ocasiona a formação de uma camada de espuma que impede a entrada de oxigênio na água. Os microrganismos que vivem nessas águas não são capazes de quebrar moléculas ramificadas, ocorrendo assim um desequilíbrio ambiental nos rios. A fórmula a seguir representa a estrutura química de um tensoativo presente na composição de um detergente não biodegradável.\n\n![](enem/2023/dia2/img/q043_inline1.png)\n\n**Tensoativo não biodegradável**",
       "alternativas_introducao": "Qual modificação química na estrutura desse tensoativo o tornaria um detergente biodegradável?",
       "alternativas": [
         "A) Retirar a parte polar da molécula.",
@@ -1209,7 +1201,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q043_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
       "explicacao": "**Por que a alternativa E está correta:** O texto explica que microrganismos não conseguem quebrar moléculas ramificadas. A solução é alterar a estrutura para uma cadeia carbônica normal (linear, sem ramificações), que pode ser metabolizada pelas bactérias presentes em estações de tratamento e no meio ambiente, tornando o detergente biodegradável.\n\n**Conceito-chave:** Biodegradabilidade de tensoativos — sulfonados de cadeia linear (LAS) substituíram os ramificados (ABS) justamente por serem degradáveis por bactérias. Critério ambiental fundamental para detergentes domésticos.",
@@ -1249,7 +1241,7 @@
       "dia": 2,
       "numero": 45,
       "titulo": "Questão 135 - ENEM 2023",
-      "enunciado": "O petróleo é uma matéria-prima muito valiosa e métodos geofísicos são úteis na sua prospecção. É possível identificar a composição de materiais estratificados medindo-se a velocidade de propagação do som (onda mecânica) através deles. Considere que uma camada de 450 m de um líquido se encontra presa no subsolo entre duas camadas rochosas, conforme o esquema. Um pulso acústico (que gera uma vibração mecânica) é emitido a partir da superfície do solo, onde são posteriormente recebidas duas vibrações refletidas (ecos). A primeira corresponde à reflexão do pulso na interface superior do líquido com a camada rochosa. A segunda vibração deve-se à reflexão do pulso na interface inferior. O tempo entre a emissão do pulso e a chegada do primeiro eco é de 0,5 s. O segundo eco chega 1,1 s após a emissão do pulso\n\n![](enem/2023/img/q045_inline1.png)",
+      "enunciado": "O petróleo é uma matéria-prima muito valiosa e métodos geofísicos são úteis na sua prospecção. É possível identificar a composição de materiais estratificados medindo-se a velocidade de propagação do som (onda mecânica) através deles. Considere que uma camada de 450 m de um líquido se encontra presa no subsolo entre duas camadas rochosas, conforme o esquema. Um pulso acústico (que gera uma vibração mecânica) é emitido a partir da superfície do solo, onde são posteriormente recebidas duas vibrações refletidas (ecos). A primeira corresponde à reflexão do pulso na interface superior do líquido com a camada rochosa. A segunda vibração deve-se à reflexão do pulso na interface inferior. O tempo entre a emissão do pulso e a chegada do primeiro eco é de 0,5 s. O segundo eco chega 1,1 s após a emissão do pulso\n\n![](enem/2023/dia2/img/q045_inline1.png)",
       "alternativas_introducao": "A velocidade do som na camada líquida, em metro por segundo, é",
       "alternativas": [
         "A) 270.",
@@ -1265,7 +1257,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q045_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
       "explicacao": "**Por que a alternativa D está correta:** O primeiro eco (0,5 s) corresponde à reflexão na superfície superior do líquido — não passa por ele. O segundo eco (1,1 s) inclui ida e volta na camada líquida (900 m no total). Tempo dentro do líquido = 1,1 - 0,5 = 0,6 s. Velocidade = 900 m / 0,6 s = 1500 m/s.\n\n**Conceito-chave:** Reflexão de ondas em interfaces e cálculo de velocidade — quando uma onda atravessa uma camada e volta, percorre o dobro da espessura; o tempo de trânsito permite calcular a velocidade no meio.",
@@ -1277,7 +1269,7 @@
       "dia": 2,
       "numero": 46,
       "titulo": "Questão 136 - ENEM 2023",
-      "enunciado": "Um artista plástico esculpe uma escultura a partir de um bloco de madeira de lei, em etapas. Inicialmente, esculpe um cone reto com 36 cm de altura e diâmetro da base medindo 18 cm. Em seguida, remove desse cone um cone menor, cujo diâmetro da base mede 6 cm, obtendo, assim, um tronco de cone, conforme ilustrado na figura.\n\n![](enem/2023/img/q046_inline1.png)\n\nEm seguida, perfura esse tronco de cone, removendo um cilindro reto, de diâmetro 6 cm, cujo eixo de simetria é o mesmo do cone original. Dessa forma, ao final, a escultura tem a forma de um tronco de cone com uma perfuração cilíndrica de base a base.  \nO tipo de madeira utilizada para produzir essa escultura tem massa igual a 0,6 g por centímetro cúbico de volume. Utilize 3 como aproximação para π.",
+      "enunciado": "Um artista plástico esculpe uma escultura a partir de um bloco de madeira de lei, em etapas. Inicialmente, esculpe um cone reto com 36 cm de altura e diâmetro da base medindo 18 cm. Em seguida, remove desse cone um cone menor, cujo diâmetro da base mede 6 cm, obtendo, assim, um tronco de cone, conforme ilustrado na figura.\n\n![](enem/2023/dia2/img/q046_inline1.png)\n\nEm seguida, perfura esse tronco de cone, removendo um cilindro reto, de diâmetro 6 cm, cujo eixo de simetria é o mesmo do cone original. Dessa forma, ao final, a escultura tem a forma de um tronco de cone com uma perfuração cilíndrica de base a base.  \nO tipo de madeira utilizada para produzir essa escultura tem massa igual a 0,6 g por centímetro cúbico de volume. Utilize 3 como aproximação para π.",
       "alternativas_introducao": "Qual é a massa, em grama, dessa escultura?",
       "alternativas": [
         "A) 1.198,8",
@@ -1293,7 +1285,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q046_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
       "explicacao": "**Por que a alternativa B está correta:** Volume do cone original: V = π·r²·h/3 = 3·9²·36/3 = 2916 cm³. Cone semelhante removido (r=3, h=12 por proporcionalidade): 3·9·12/3 = 108 cm³. Tronco resultante = 2916 - 108 = 2808 cm³. Furo cilíndrico (r=3, altura do tronco = 24 cm): 3·9·24 = 648 cm³. Volume final = 2808 - 648 = 2160 cm³. Massa = 2160 × 0,6 = 1296 g.\n\n**Conceito-chave:** Volumes de sólidos geométricos e semelhança de cones — V_cone = πr²h/3, V_cilindro = πr²h. Em cones semelhantes, razão de raios = razão de alturas; o cone retirado tem 1/3 das medidas lineares.",
@@ -1305,7 +1297,7 @@
       "dia": 2,
       "numero": 47,
       "titulo": "Questão 137 - ENEM 2023",
-      "enunciado": "Os 100 funcionários de uma empresa estão distribuídos em dois setores: Produção e Administração.\n\nOs funcionários de um mesmo setor recebem salários com valores iguais. O quadro apresenta a quantidade de funcionários por setor e seus respectivos salários.\n\n![](enem/2023/img/q047_inline1.png)",
+      "enunciado": "Os 100 funcionários de uma empresa estão distribuídos em dois setores: Produção e Administração.\n\nOs funcionários de um mesmo setor recebem salários com valores iguais. O quadro apresenta a quantidade de funcionários por setor e seus respectivos salários.\n\n![](enem/2023/dia2/img/q047_inline1.png)",
       "alternativas_introducao": "A média dos salários dos 100 funcionários dessa empresa, em real, é",
       "alternativas": [
         "A) 2.000,00.",
@@ -1321,7 +1313,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q047_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
       "explicacao": "**Por que a alternativa C está correta:** A média ponderada dos 100 funcionários é calculada multiplicando a quantidade de cada setor pelo respectivo salário, somando e dividindo por 100. Aplicando os valores do quadro (Produção com mais funcionários e salário menor; Administração com menos funcionários e salário maior), o resultado é R$ 3.250,00.\n\n**Conceito-chave:** Média ponderada — quando há grupos de tamanhos diferentes, cada salário é \"pesado\" pela quantidade de pessoas que o recebe. Difere da média simples (que daria o ponto médio entre os dois salários).",
@@ -1361,7 +1353,7 @@
       "dia": 2,
       "numero": 49,
       "titulo": "Questão 139 - ENEM 2023",
-      "enunciado": "O gerente de uma fábrica pretende comparar a evolução das vendas de dois produtos similares (I e II). Para isso, passou a verificar o número de unidades vendidas de cada um desses produtos em cada mês. Os resultados dessa verificação, para os meses de abril a junho, são apresentados na tabela.\n\n![](enem/2023/img/q049_inline1.png)\n\nO gerente estava decidido a cessar a produção do produto II no mês seguinte àquele em que as vendas do produto I superassem as do produto II.  \nSuponha que a variação na quantidade de unidades vendidas dos produtos I e II se manteve, mês a mês, como no período representado na tabela.",
+      "enunciado": "O gerente de uma fábrica pretende comparar a evolução das vendas de dois produtos similares (I e II). Para isso, passou a verificar o número de unidades vendidas de cada um desses produtos em cada mês. Os resultados dessa verificação, para os meses de abril a junho, são apresentados na tabela.\n\n![](enem/2023/dia2/img/q049_inline1.png)\n\nO gerente estava decidido a cessar a produção do produto II no mês seguinte àquele em que as vendas do produto I superassem as do produto II.  \nSuponha que a variação na quantidade de unidades vendidas dos produtos I e II se manteve, mês a mês, como no período representado na tabela.",
       "alternativas_introducao": "Em qual mês o produto II parou de ser produzido?",
       "alternativas": [
         "A) Junho.",
@@ -1377,7 +1369,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q049_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
       "explicacao": "**Por que a alternativa D está correta:** Mantida a mesma variação mensal observada de abril a junho (produto I crescendo e produto II decrescendo na mesma taxa), a primeira coincidência em que I supera II ocorre em agosto. A regra do gerente determina cessar a produção do II no mês seguinte — setembro.\n\n**Conceito-chave:** Progressão aritmética — quando a variação por unidade de tempo é constante, é possível extrapolar valores futuros somando ou subtraindo a razão; a interseção entre duas PA's encontra o ponto de cruzamento.",
@@ -1389,7 +1381,7 @@
       "dia": 2,
       "numero": 50,
       "titulo": "Questão 140 - ENEM 2023",
-      "enunciado": "Uma empresa de transporte faz regularmente um levantamento do número de viagens realizadas durante o dia por todos os 160 motoristas cadastrados em seu aplicativo. Em um certo dia, foi gerado um relatório, por meio de um gráfico de barras, no qual se relacionaram a quantidade de motoristas com a quantidade de viagens realizadas até aquele instante do dia.\n\n![](enem/2023/img/q050_inline1.png)",
+      "enunciado": "Uma empresa de transporte faz regularmente um levantamento do número de viagens realizadas durante o dia por todos os 160 motoristas cadastrados em seu aplicativo. Em um certo dia, foi gerado um relatório, por meio de um gráfico de barras, no qual se relacionaram a quantidade de motoristas com a quantidade de viagens realizadas até aquele instante do dia.\n\n![](enem/2023/dia2/img/q050_inline1.png)",
       "alternativas_introducao": "Comparando os valores da média, da mediana e da moda da distribuição das quantidades de viagens realizadas pelos motoristas cadastrados nessa empresa, obtém-se",
       "alternativas": [
         "A) Mediana = média < moda.",
@@ -1405,7 +1397,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q050_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
       "explicacao": "**Por que a alternativa E está correta:** O gráfico mostra distribuição com assimetria positiva — muitos motoristas com poucas viagens e poucos motoristas com muitas viagens (cauda à direita). Em distribuições desse tipo, vale a relação: moda < mediana < média (a média é puxada para os valores extremos da cauda).\n\n**Conceito-chave:** Distribuições assimétricas — para assimetria positiva (cauda longa à direita), moda < mediana < média; para assimetria negativa (cauda à esquerda), o contrário; em distribuição simétrica as três medidas coincidem.",
@@ -1427,11 +1419,11 @@
         "E)"
       ],
       "imagens_alternativas": [
-        "enem/2023/img/q051_altA.jpg",
-        "enem/2023/img/q051_altB.jpg",
-        "enem/2023/img/q051_altC.jpg",
-        "enem/2023/img/q051_altD.jpg",
-        "enem/2023/img/q051_altE.jpg"
+        "enem/2023/dia2/img/q051_altA.jpg",
+        "enem/2023/dia2/img/q051_altB.jpg",
+        "enem/2023/dia2/img/q051_altC.jpg",
+        "enem/2023/dia2/img/q051_altD.jpg",
+        "enem/2023/dia2/img/q051_altE.jpg"
       ],
       "imagem_principal": "",
       "imagens_extras": [],
@@ -1501,7 +1493,7 @@
       "dia": 2,
       "numero": 54,
       "titulo": "Questão 144 - ENEM 2023",
-      "enunciado": "A foto mostra a construção de uma cisterna destinada ao armazenamento de água. Uma cisterna como essa, na forma de cilindro circular reto com 3 m² de área da base, foi abastecida por um curso-d’água com vazão constante. O seu proprietário registrou a altura do nível da água no interior da cisterna durante o abastecimento em diferentes momentos de um mesmo dia, conforme o quadro.\n\n![](enem/2023/img/q054_inline1.png)\n\n![](enem/2023/img/q054_inline2.png)\n\nDisponível em: www.paraibamix.com. Acesso em: 3 dez. 2012.",
+      "enunciado": "A foto mostra a construção de uma cisterna destinada ao armazenamento de água. Uma cisterna como essa, na forma de cilindro circular reto com 3 m² de área da base, foi abastecida por um curso-d’água com vazão constante. O seu proprietário registrou a altura do nível da água no interior da cisterna durante o abastecimento em diferentes momentos de um mesmo dia, conforme o quadro.\n\n![](enem/2023/dia2/img/q054_inline1.png)\n\n![](enem/2023/dia2/img/q054_inline2.png)\n\nDisponível em: www.paraibamix.com. Acesso em: 3 dez. 2012.",
       "alternativas_introducao": "Qual foi a vazão, em metro cúbico por hora, do curso-d’água que abasteceu a cisterna?",
       "alternativas": [
         "A) 0,3",
@@ -1517,10 +1509,8 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q054_principal.png",
-      "imagens_extras": [
-        "enem/2023/img/q054_extra1.png"
-      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
       "correta": "C",
       "explicacao": "**Por que a alternativa C está correta:** Pelo quadro, a altura cresce de forma constante no tempo. A taxa de variação observada é de 0,3 m/h. Como a base da cisterna tem 3 m², a vazão volumétrica é 0,3 m × 3 m² = 0,9 m³/h.\n\n**Conceito-chave:** Vazão volumétrica = (variação de altura × área da base) / tempo. Em recipientes de seção constante, basta multiplicar a velocidade vertical de subida da água pela área da base.",
       "fonte": "api.enem.dev",
@@ -1531,7 +1521,7 @@
       "dia": 2,
       "numero": 55,
       "titulo": "Questão 145 - ENEM 2023",
-      "enunciado": "Num certo momento de um jogo digital, a tela apresenta a imagem representada na figura. O ponto Q1 representa a posição de um jogador que está com a bola, os pontos Q2, Q3, Q4 , Q5 e Q6  \ntambém indicam posições de jogadores da mesma equipe, e os pontos A e B indicam os dois pés da trave mais próxima deles. No momento da partida retratado, o jogador Q1 tem a posse da bola, que será passada para um dos outros jogadores das posições Qn, n ∈ {2, 3, 4, 5, 6}, cujo ângulo AQnB tenha a mesma medida do ângulo AQ1 B.\n\n![](enem/2023/img/q055_inline1.png)",
+      "enunciado": "Num certo momento de um jogo digital, a tela apresenta a imagem representada na figura. O ponto Q1 representa a posição de um jogador que está com a bola, os pontos Q2, Q3, Q4 , Q5 e Q6  \ntambém indicam posições de jogadores da mesma equipe, e os pontos A e B indicam os dois pés da trave mais próxima deles. No momento da partida retratado, o jogador Q1 tem a posse da bola, que será passada para um dos outros jogadores das posições Qn, n ∈ {2, 3, 4, 5, 6}, cujo ângulo AQnB tenha a mesma medida do ângulo AQ1 B.\n\n![](enem/2023/dia2/img/q055_inline1.png)",
       "alternativas_introducao": "Qual é o jogador que receberá a bola?",
       "alternativas": [
         "A)",
@@ -1541,13 +1531,13 @@
         "E)"
       ],
       "imagens_alternativas": [
-        "enem/2023/img/q055_altA.png",
-        "enem/2023/img/q055_altB.png",
-        "enem/2023/img/q055_altC.png",
-        "enem/2023/img/q055_altD.png",
-        "enem/2023/img/q055_altE.png"
+        "enem/2023/dia2/img/q055_altA.png",
+        "enem/2023/dia2/img/q055_altB.png",
+        "enem/2023/dia2/img/q055_altC.png",
+        "enem/2023/dia2/img/q055_altD.png",
+        "enem/2023/dia2/img/q055_altE.png"
       ],
-      "imagem_principal": "enem/2023/img/q055_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
       "explicacao": "**Por que a alternativa B está correta:** Dois pontos veem um segmento sob o mesmo ângulo se estão sobre o mesmo arco da circunferência que passa pelos extremos do segmento (arco capaz). O jogador Q2 está sobre essa circunferência junto com Q1, então tem a mesma medida de ângulo AQB e receberá a bola.\n\n**Conceito-chave:** Ângulo inscrito e arco capaz — pontos no mesmo arco enxergam a corda sob o mesmo ângulo. Princípio fundamental da geometria do círculo.",
@@ -1559,7 +1549,7 @@
       "dia": 2,
       "numero": 56,
       "titulo": "Questão 146 - ENEM 2023",
-      "enunciado": "![](enem/2023/img/q056_inline1.jpg)",
+      "enunciado": "![](enem/2023/dia2/img/q056_inline1.jpg)",
       "alternativas_introducao": "Considere que os números colocados nos vértices do triângulo estejam em progressão aritmética de razão igual a 2.\nNas condições propostas, quais as possíveis soluções para as somas dos números que formam os lados do triângulo?",
       "alternativas": [
         "A) Há somente uma solução possível, e as somas em cada lado do triângulo são iguais a 7.",
@@ -1575,7 +1565,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q056_principal.jpg",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
       "explicacao": "**Por que a alternativa E está correta:** Os 6 números da PA de razão 2 são 1, 3, 5, 7, 9, 11. Distribuindo-os de modo que os três lados do triângulo tenham mesma soma, as combinações possíveis dão duas soluções: uma em que os lados somam 10 e outra em que somam 11.\n\n**Conceito-chave:** Combinatória com restrição de soma — distribuir números em estruturas geométricas exige testar arranjos sistematicamente, identificando configurações que satisfazem a condição.",
@@ -1615,7 +1605,7 @@
       "dia": 2,
       "numero": 58,
       "titulo": "Questão 148 - ENEM 2023",
-      "enunciado": "O mastro de uma bandeira foi instalado perpendicularmente ao solo em uma região plana. Devido aos fortes ventos, três cabos de aço, de mesmo comprimento, serão instalados para dar sustentação ao mastro. Cada cabo de aço ficará perfeitamente esticado, com uma extremidade num ponto P do mastro, a uma altura h do solo, e a outra extremidade, num ponto no chão, como mostra a figura.\n\n![](enem/2023/img/q058_inline1.png)",
+      "enunciado": "O mastro de uma bandeira foi instalado perpendicularmente ao solo em uma região plana. Devido aos fortes ventos, três cabos de aço, de mesmo comprimento, serão instalados para dar sustentação ao mastro. Cada cabo de aço ficará perfeitamente esticado, com uma extremidade num ponto P do mastro, a uma altura h do solo, e a outra extremidade, num ponto no chão, como mostra a figura.\n\n![](enem/2023/dia2/img/q058_inline1.png)",
       "alternativas_introducao": "Os cabos de aço formam um ângulo a com o plano do chão. Por medida de segurança, há apenas três opções de instalação:\n• opção I: h = 11 m e a = 30°\n• opção II: h = 12 m e a = 45°\n• opção III: h = 18 m e a = 60°\nA opção a ser escolhida é aquela em que a medida dos cabos seja a menor possível.\nQual será a medida, em metro, de cada um dos cabos a serem instalados?",
       "alternativas": [
         "A)",
@@ -1625,13 +1615,13 @@
         "E)"
       ],
       "imagens_alternativas": [
-        "enem/2023/img/q058_altA.png",
-        "enem/2023/img/q058_altB.png",
-        "enem/2023/img/q058_altC.png",
-        "enem/2023/img/q058_altD.png",
-        "enem/2023/img/q058_altE.png"
+        "enem/2023/dia2/img/q058_altA.png",
+        "enem/2023/dia2/img/q058_altB.png",
+        "enem/2023/dia2/img/q058_altC.png",
+        "enem/2023/dia2/img/q058_altD.png",
+        "enem/2023/dia2/img/q058_altE.png"
       ],
-      "imagem_principal": "enem/2023/img/q058_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
       "explicacao": "**Por que a alternativa C está correta:** O comprimento do cabo é a hipotenusa do triângulo retângulo: c = h / sen(α). Para cada opção: I) c = 11/0,5 = 22 m; II) c = 12/(√2/2) ≈ 17 m; III) c = 18/(√3/2) ≈ 20,8 m. A menor medida é a opção II (≈ 17 m).\n\n**Conceito-chave:** Trigonometria no triângulo retângulo — sen(α) = cateto oposto / hipotenusa permite calcular comprimento conhecendo altura e ângulo de inclinação.",
@@ -1643,7 +1633,7 @@
       "dia": 2,
       "numero": 59,
       "titulo": "Questão 149 - ENEM 2023",
-      "enunciado": "Um controlador de voo dispõe de um instrumento que descreve a altitude de uma aeronave em voo, em função da distância em solo. Essa distância em solo é a medida na horizontal entre o ponto de origem do voo até o ponto que representa a projeção ortogonal da posição da aeronave, em voo, no solo. Essas duas grandezas são dadas numa mesma unidade de medida.\n\nA tela do instrumento representa proporcionalmente as dimensões reais das distâncias associadas ao voo. A figura apresenta a tela do instrumento depois de concluída a viagem de um avião, sendo a medida do lado de cada quadradinho da malha igual a 1 cm.\n\n![](enem/2023/img/q059_inline1.png)",
+      "enunciado": "Um controlador de voo dispõe de um instrumento que descreve a altitude de uma aeronave em voo, em função da distância em solo. Essa distância em solo é a medida na horizontal entre o ponto de origem do voo até o ponto que representa a projeção ortogonal da posição da aeronave, em voo, no solo. Essas duas grandezas são dadas numa mesma unidade de medida.\n\nA tela do instrumento representa proporcionalmente as dimensões reais das distâncias associadas ao voo. A figura apresenta a tela do instrumento depois de concluída a viagem de um avião, sendo a medida do lado de cada quadradinho da malha igual a 1 cm.\n\n![](enem/2023/dia2/img/q059_inline1.png)",
       "alternativas_introducao": "Essa tela apresenta os dados de um voo cuja maior altitude alcançada foi de 5 km.\nA escala em que essa tela representa as medidas reais é",
       "alternativas": [
         "A) 1 : 5.",
@@ -1659,7 +1649,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q059_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
       "explicacao": "**Por que a alternativa E está correta:** A maior altitude alcançada é 5 km = 500 000 cm. Na tela, ela é representada por 1 cm. A escala é a razão tela/real = 1 / 500 000.\n\n**Conceito-chave:** Escala numérica — razão entre medida no desenho/mapa e medida real. Para escalas pequenas, é preciso converter para a mesma unidade antes de calcular.",
@@ -1699,7 +1689,7 @@
       "dia": 2,
       "numero": 61,
       "titulo": "Questão 151 - ENEM 2023",
-      "enunciado": "Um investidor iniciante observou o gráfico que apresenta a evolução dos valores de duas criptomoedas A e B em relação ao tempo.\n\n![](enem/2023/img/q061_inline1.png)\n\nDurante horas consecutivas, esses valores foram observados em nove instantes, representados por horas exatas.",
+      "enunciado": "Um investidor iniciante observou o gráfico que apresenta a evolução dos valores de duas criptomoedas A e B em relação ao tempo.\n\n![](enem/2023/dia2/img/q061_inline1.png)\n\nDurante horas consecutivas, esses valores foram observados em nove instantes, representados por horas exatas.",
       "alternativas_introducao": "Em quantos desses instantes a criptomoeda A estava mais valorizada do que a criptomoeda B?",
       "alternativas": [
         "A) 3",
@@ -1715,7 +1705,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q061_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
       "explicacao": "**Por que a alternativa B está correta:** Olhando o gráfico em cada um dos nove instantes, identifica-se quando o ponto de A está acima do ponto de B. Em 4 desses instantes, a curva de A está acima da de B.\n\n**Conceito-chave:** Leitura de gráficos comparativos — em cada instante, comparar verticalmente os valores das duas curvas. Habilidade fundamental de interpretação de dados.",
@@ -1727,7 +1717,7 @@
       "dia": 2,
       "numero": 62,
       "titulo": "Questão 152 - ENEM 2023",
-      "enunciado": "A exposição a alguns níveis sonoros pode causar lesões auditivas. Por isso, em uma indústria, são adotadas medidas preventivas de acordo com a máquina que o funcionário opera e o nível _N_ de intensidade do som, medido em decibel (dB), a que o operário é exposto, sendo ![](enem/2023/img/q062_inline1.png), _I_ a intensidade do som e ![](enem/2023/img/q062_inline2.png).\n\nDisponível em: www.sofisica.com.br. Acesso em: 8 jul. 2015 (adaptado).\n\nQuando o som é considerado baixo, ou seja, _N_ = 48 dB ou menos, deve ser utilizada a medida preventiva I. No caso de o som ser moderado, quando _N_ está no intervalo (48 dB, 55 dB), deve ser utilizada a medida preventiva II. Quando o som é moderado alto, que equivale a _N_ no intervalo (55 dB, 80 dB), a medida preventiva a ser usada é a III. Se _N_ estiver no intervalo (80 dB, 115 dB), quando o som é considerado alto, deve ser utilizada a medida preventiva IV. E se o som é considerado muito alto, com _N_ maior que 115 dB, deve-se utilizar a medida preventiva V.  \nUma nova máquina, com ![](enem/2023/img/q062_inline3.png), foi adquirida e será classificada de acordo com o nível de ruído que produz.  \nConsidere 0,3 como aproximação para ![](enem/2023/img/q062_inline4.png).",
+      "enunciado": "A exposição a alguns níveis sonoros pode causar lesões auditivas. Por isso, em uma indústria, são adotadas medidas preventivas de acordo com a máquina que o funcionário opera e o nível _N_ de intensidade do som, medido em decibel (dB), a que o operário é exposto, sendo ![](enem/2023/dia2/img/q062_inline1.png), _I_ a intensidade do som e ![](enem/2023/dia2/img/q062_inline2.png).\n\nDisponível em: www.sofisica.com.br. Acesso em: 8 jul. 2015 (adaptado).\n\nQuando o som é considerado baixo, ou seja, _N_ = 48 dB ou menos, deve ser utilizada a medida preventiva I. No caso de o som ser moderado, quando _N_ está no intervalo (48 dB, 55 dB), deve ser utilizada a medida preventiva II. Quando o som é moderado alto, que equivale a _N_ no intervalo (55 dB, 80 dB), a medida preventiva a ser usada é a III. Se _N_ estiver no intervalo (80 dB, 115 dB), quando o som é considerado alto, deve ser utilizada a medida preventiva IV. E se o som é considerado muito alto, com _N_ maior que 115 dB, deve-se utilizar a medida preventiva V.  \nUma nova máquina, com ![](enem/2023/dia2/img/q062_inline3.png), foi adquirida e será classificada de acordo com o nível de ruído que produz.  \nConsidere 0,3 como aproximação para ![](enem/2023/dia2/img/q062_inline4.png).",
       "alternativas_introducao": "O funcionário que operará a nova máquina deverá adotar a medida preventiva",
       "alternativas": [
         "A) I.",
@@ -1743,12 +1733,8 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q062_principal.png",
-      "imagens_extras": [
-        "enem/2023/img/q062_extra1.png",
-        "enem/2023/img/q062_extra2.png",
-        "enem/2023/img/q062_extra3.png"
-      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
       "correta": "B",
       "explicacao": "**Por que a alternativa B está correta:** Aplicando a fórmula N = 10·log(I/I₀) na intensidade da nova máquina, o valor de N cai dentro do intervalo (48 dB, 55 dB), classificado como som moderado. Para esse intervalo, a medida preventiva indicada é a II.\n\n**Conceito-chave:** Escala logarítmica de intensidade sonora (dB) — N = 10·log(I/I₀), onde I₀ é o limiar de audição. Cada 10 dB equivale a multiplicar a intensidade por 10.",
       "fonte": "api.enem.dev",
@@ -1787,7 +1773,7 @@
       "dia": 2,
       "numero": 64,
       "titulo": "Questão 154 - ENEM 2023",
-      "enunciado": "As figuras pintadas no quadro da sala de estar de uma residência representam as silhuetas de parte das torres de um castelo e, ao fundo, a de uma lua cheia. A lua foi pintada na forma de um círculo, e o telhado da torre mais alta, na forma de triângulo equilátero, foi pintado sobrepondo parte da lua. O centro da lua coincide com um dos vértices do telhado da torre mais alta.\n\n![](enem/2023/img/q064_inline1.png)",
+      "enunciado": "As figuras pintadas no quadro da sala de estar de uma residência representam as silhuetas de parte das torres de um castelo e, ao fundo, a de uma lua cheia. A lua foi pintada na forma de um círculo, e o telhado da torre mais alta, na forma de triângulo equilátero, foi pintado sobrepondo parte da lua. O centro da lua coincide com um dos vértices do telhado da torre mais alta.\n\n![](enem/2023/dia2/img/q064_inline1.png)",
       "alternativas_introducao": "Nesse quadro, a parte da lua escondida atrás da torre mais alta do castelo pode ser representada por um",
       "alternativas": [
         "A) Cone.",
@@ -1803,7 +1789,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q064_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
       "explicacao": "**Por que a alternativa B está correta:** O telhado é um triângulo equilátero cujo vértice coincide com o centro da lua circular. A região da lua escondida atrás da torre é delimitada por dois raios da circunferência (lados do triângulo) e o arco entre eles, configurando um setor circular.\n\n**Conceito-chave:** Setor circular — região do círculo limitada por dois raios e o arco entre eles (como uma fatia de pizza). Distinguir de segmento circular (corda + arco).",
@@ -1815,7 +1801,7 @@
       "dia": 2,
       "numero": 65,
       "titulo": "Questão 155 - ENEM 2023",
-      "enunciado": "Na planta baixa de um clube, a piscina é representada por um quadrado cuja área real mede 400 m². Ao redor dessa piscina, será construída uma calçada, de largura constante igual a 5 m.\n\n![](enem/2023/img/q065_inline1.png)",
+      "enunciado": "Na planta baixa de um clube, a piscina é representada por um quadrado cuja área real mede 400 m². Ao redor dessa piscina, será construída uma calçada, de largura constante igual a 5 m.\n\n![](enem/2023/dia2/img/q065_inline1.png)",
       "alternativas_introducao": "Qual é a medida da área, em metro quadrado, ocupada pela calçada?",
       "alternativas": [
         "A) 1.000",
@@ -1831,7 +1817,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q065_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
       "explicacao": "**Por que a alternativa D está correta:** Piscina quadrada de 400 m² tem lado 20 m. Adicionando calçada de 5 m em todos os lados, o quadrado externo tem lado 30 m e área 900 m². Área da calçada = 900 - 400 = 500 m².\n\n**Conceito-chave:** Diferença de áreas — para regiões em formato de \"moldura\", calcula-se a área externa total e subtrai-se a área interna. Atenção ao acréscimo igual em todos os lados (lado externo = lado interno + 2·largura).",
@@ -1843,7 +1829,7 @@
       "dia": 2,
       "numero": 66,
       "titulo": "Questão 156 - ENEM 2023",
-      "enunciado": "Uma pessoa caminha por 30 minutos e utiliza um aplicativo instalado em seu celular para monitorar a variação da intensidade do sinal de internet recebido pelo aparelho durante o deslocamento. Chegando ao seu destino, o aplicativo forneceu este gráfico:\n\n![](enem/2023/img/q066_inline1.png)",
+      "enunciado": "Uma pessoa caminha por 30 minutos e utiliza um aplicativo instalado em seu celular para monitorar a variação da intensidade do sinal de internet recebido pelo aparelho durante o deslocamento. Chegando ao seu destino, o aplicativo forneceu este gráfico:\n\n![](enem/2023/dia2/img/q066_inline1.png)",
       "alternativas_introducao": "Por quantos minutos, durante essa caminhada, o celular dessa pessoa ficou sem receber sinal de internet?",
       "alternativas": [
         "A) 6",
@@ -1859,7 +1845,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q066_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
       "explicacao": "**Por que a alternativa A está correta:** No gráfico, os intervalos em que a intensidade do sinal cai a zero correspondem aos momentos sem internet. Somando as durações desses intervalos, totalizam 6 minutos do percurso de 30 minutos.\n\n**Conceito-chave:** Leitura de gráfico de função no tempo — identificar intervalos em que a função vale zero (ou um valor específico) e somar as durações desses intervalos.",
@@ -1871,7 +1857,7 @@
       "dia": 2,
       "numero": 67,
       "titulo": "Questão 157 - ENEM 2023",
-      "enunciado": "Um professor, para promover a aprendizagem dos estudantes em estatística, propôs uma atividade. O objetivo era verificar o percentual de estudantes com massa corporal abaixo da média e altura acima da média de um grupo de estudantes. Para isso, usando uma balança e uma fita métrica, avaliou uma amostra de dez estudantes, anotando as medidas observadas. O gráfico apresenta a massa corporal, em quilograma, e a altura, em metro, obtidas na atividade\n\n![](enem/2023/img/q067_inline1.png)\n\nApós a coleta dos dados, os estudantes calcularam a média dos valores obtidos, referentes à massa corporal e à altura, obtendo, respectivamente, 80 kg e 1,65 m.",
+      "enunciado": "Um professor, para promover a aprendizagem dos estudantes em estatística, propôs uma atividade. O objetivo era verificar o percentual de estudantes com massa corporal abaixo da média e altura acima da média de um grupo de estudantes. Para isso, usando uma balança e uma fita métrica, avaliou uma amostra de dez estudantes, anotando as medidas observadas. O gráfico apresenta a massa corporal, em quilograma, e a altura, em metro, obtidas na atividade\n\n![](enem/2023/dia2/img/q067_inline1.png)\n\nApós a coleta dos dados, os estudantes calcularam a média dos valores obtidos, referentes à massa corporal e à altura, obtendo, respectivamente, 80 kg e 1,65 m.",
       "alternativas_introducao": "Qual é o percentual de estudantes dessa amostra com massa corporal abaixo da média e altura acima da média?",
       "alternativas": [
         "A) 10",
@@ -1887,7 +1873,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q067_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
       "explicacao": "**Por que a alternativa B está correta:** Os 10 alunos são representados como pontos no plano (massa x altura). Conta-se quantos têm massa < 80 kg E altura > 1,65 m simultaneamente — essa é a região no canto superior esquerdo do gráfico (em relação às médias). São 2 estudantes, ou seja, 20% da amostra.\n\n**Conceito-chave:** Análise bidimensional de dados — interseção de duas condições em um diagrama de dispersão. Cada condição define uma região; a interseção é a sobreposição.",
@@ -1955,7 +1941,7 @@
       "dia": 2,
       "numero": 70,
       "titulo": "Questão 160 - ENEM 2023",
-      "enunciado": "Ao realizar o cadastro em um aplicativo de investimentos, foi solicitado ao usuário que criasse uma senha, sendo permitido o uso somente dos seguintes caracteres:\n\n• algarismos de 0 a 9;\n\n• 26 letras minúsculas do alfabeto;\n\n• 26 letras maiúsculas do alfabeto;\n\n• 6 caracteres especiais !, @, #, $, \\*, &.\n\nTrês tipos de estruturas para senha foram apresentadas ao usuário:\n\n• tipo I: formada por quaisquer quatro caracteres distintos, escolhidos dentre os permitidos;\n\n• tipo II: formada por cinco caracteres distintos, iniciando por três letras, seguidas por um algarismo e, ao final, um caractere especial;\n\n• tipo III: formada por seis caracteres distintos, iniciando por duas letras, seguidas por dois algarismos e, ao final, dois caracteres especiais.\n\nConsidere ![](enem/2023/img/q070_inline1.png) as probabilidades de se descobrirem ao acaso, na primeira tentativa, as senhas dos tipos I, II e III, respectivamente.",
+      "enunciado": "Ao realizar o cadastro em um aplicativo de investimentos, foi solicitado ao usuário que criasse uma senha, sendo permitido o uso somente dos seguintes caracteres:\n\n• algarismos de 0 a 9;\n\n• 26 letras minúsculas do alfabeto;\n\n• 26 letras maiúsculas do alfabeto;\n\n• 6 caracteres especiais !, @, #, $, \\*, &.\n\nTrês tipos de estruturas para senha foram apresentadas ao usuário:\n\n• tipo I: formada por quaisquer quatro caracteres distintos, escolhidos dentre os permitidos;\n\n• tipo II: formada por cinco caracteres distintos, iniciando por três letras, seguidas por um algarismo e, ao final, um caractere especial;\n\n• tipo III: formada por seis caracteres distintos, iniciando por duas letras, seguidas por dois algarismos e, ao final, dois caracteres especiais.\n\nConsidere ![](enem/2023/dia2/img/q070_inline1.png) as probabilidades de se descobrirem ao acaso, na primeira tentativa, as senhas dos tipos I, II e III, respectivamente.",
       "alternativas_introducao": "Nessas condições, o tipo de senha que apresenta a menor probabilidade de ser descoberta ao acaso, na primeira tentativa, é o",
       "alternativas": [
         "A) Tipo I, pois p1 < p2 < p3.",
@@ -1971,7 +1957,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q070_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
       "explicacao": "**Por que a alternativa A está correta:** Total de caracteres permitidos: 68. Quantidade de senhas possíveis: tipo I = 68·67·66·65 ≈ 1,95×10⁷; tipo II = 52·51·50·10·6 ≈ 7,96×10⁶; tipo III = 52·51·90·30 ≈ 7,16×10⁶. Quanto MAIS senhas possíveis, MENOR a probabilidade de adivinhar uma. Tipo I tem mais possibilidades, então p1 < p2 < p3.\n\n**Conceito-chave:** Princípio fundamental da contagem — para senhas com restrição, multiplica-se as possibilidades em cada posição. A probabilidade de descobrir é 1 / (total de senhas possíveis).",
@@ -2039,7 +2025,7 @@
       "dia": 2,
       "numero": 73,
       "titulo": "Questão 163 - ENEM 2023",
-      "enunciado": "Uma empresa de segurança domiciliar oferece o serviço de patrulha noturna, no qual vigilantes em motocicletas fazem o monitoramento periódico de residências. A empresa conta com uma base, de onde acompanha o trajeto realizado pelos vigilantes durante as patrulhas e orienta o deslocamento de equipes de reforço quando necessário. Numa patrulha rotineira, sem ocorrências, um vigilante conduziu sua motocicleta a uma velocidade constante durante todo o itinerário estabelecido, levando 30 minutos para conclusão. De acordo com os registros do GPS alocado na motocicleta, a distância da posição do vigilante à base, ao longo do tempo de realização do trajeto, é descrita pelo gráfico.\n\n![](enem/2023/img/q073_inline1.png)",
+      "enunciado": "Uma empresa de segurança domiciliar oferece o serviço de patrulha noturna, no qual vigilantes em motocicletas fazem o monitoramento periódico de residências. A empresa conta com uma base, de onde acompanha o trajeto realizado pelos vigilantes durante as patrulhas e orienta o deslocamento de equipes de reforço quando necessário. Numa patrulha rotineira, sem ocorrências, um vigilante conduziu sua motocicleta a uma velocidade constante durante todo o itinerário estabelecido, levando 30 minutos para conclusão. De acordo com os registros do GPS alocado na motocicleta, a distância da posição do vigilante à base, ao longo do tempo de realização do trajeto, é descrita pelo gráfico.\n\n![](enem/2023/dia2/img/q073_inline1.png)",
       "alternativas_introducao": "A vista superior da trajetória realizada pelo vigilante durante a patrulha registrada no gráfico é descrita pela representação",
       "alternativas": [
         "A)",
@@ -2049,13 +2035,13 @@
         "E)"
       ],
       "imagens_alternativas": [
-        "enem/2023/img/q073_altA.png",
-        "enem/2023/img/q073_altB.png",
-        "enem/2023/img/q073_altC.png",
-        "enem/2023/img/q073_altD.png",
-        "enem/2023/img/q073_altE.png"
+        "enem/2023/dia2/img/q073_altA.png",
+        "enem/2023/dia2/img/q073_altB.png",
+        "enem/2023/dia2/img/q073_altC.png",
+        "enem/2023/dia2/img/q073_altD.png",
+        "enem/2023/dia2/img/q073_altE.png"
       ],
-      "imagem_principal": "enem/2023/img/q073_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
       "explicacao": "**Por que a alternativa A está correta:** O gráfico mostra a distância à base no tempo: cresce, fica constante, decresce, etc. Como velocidade é constante, intervalos com distância variando linearmente correspondem a trajetos retos, e patamares constantes correspondem a movimento perpendicular ao raio (arco). A vista superior compatível é a representada em A.\n\n**Conceito-chave:** Movimento em duas dimensões e variação radial — um trecho com distância constante à base é arco circular; trechos com variação linear são radiais.",
@@ -2067,7 +2053,7 @@
       "dia": 2,
       "numero": 74,
       "titulo": "Questão 164 - ENEM 2023",
-      "enunciado": "O gráfico expõe alguns números da gripe A-H1N1. Entre as categorias que estão em processo de imunização, uma já está completamente imunizada, a dos trabalhadores da saúde.\n\n![](enem/2023/img/q074_inline1.png)\n\nÉpoca, 26 abr. 2010 (adaptado).",
+      "enunciado": "O gráfico expõe alguns números da gripe A-H1N1. Entre as categorias que estão em processo de imunização, uma já está completamente imunizada, a dos trabalhadores da saúde.\n\n![](enem/2023/dia2/img/q074_inline1.png)\n\nÉpoca, 26 abr. 2010 (adaptado).",
       "alternativas_introducao": "De acordo com o gráfico, entre as demais categorias, a que está mais exposta ao vírus da gripe A-H1N1 é a categoria de",
       "alternativas": [
         "A) Indígenas.",
@@ -2083,7 +2069,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q074_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "X",
       "explicacao": "",
@@ -2095,7 +2081,7 @@
       "dia": 2,
       "numero": 75,
       "titulo": "Questão 165 - ENEM 2023",
-      "enunciado": "A figura representa uma escada com três degraus, construída em concreto maciço, com suas medidas especificadas.\n\n![](enem/2023/img/q075_inline1.png)\n\nNessa escada, pisos e espelhos têm formato retangular, e as paredes laterais têm formato de um polígono cujos lados adjacentes são perpendiculares. Pisos, espelhos e paredes laterais serão revestidos em cerâmica.",
+      "enunciado": "A figura representa uma escada com três degraus, construída em concreto maciço, com suas medidas especificadas.\n\n![](enem/2023/dia2/img/q075_inline1.png)\n\nNessa escada, pisos e espelhos têm formato retangular, e as paredes laterais têm formato de um polígono cujos lados adjacentes são perpendiculares. Pisos, espelhos e paredes laterais serão revestidos em cerâmica.",
       "alternativas_introducao": "A área a ser revestida em cerâmica, em metro quadrado, mede",
       "alternativas": [
         "A) 1,20.",
@@ -2111,7 +2097,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q075_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
       "explicacao": "**Por que a alternativa E está correta:** A área a revestir soma os pisos (3 retângulos), os espelhos (3 retângulos) e as duas paredes laterais (polígonos em forma de escada). Calculando cada área conforme as medidas indicadas e somando, obtém-se 1,95 m².\n\n**Conceito-chave:** Áreas de figuras compostas — decompor a forma em retângulos simples, calcular cada um e somar. Atenção a faces ocultas (no chão, parede do fundo) que não são revestidas.",
@@ -2123,7 +2109,7 @@
       "dia": 2,
       "numero": 76,
       "titulo": "Questão 166 - ENEM 2023",
-      "enunciado": "Uma pessoa pratica quatro atividades físicas — caminhar, correr, andar de bicicleta e jogar futebol — como parte de seu programa de emagrecimento. Essas atividades são praticadas semanalmente de acordo com o quadro, que apresenta o número de horas diárias por atividade.\n\n![](enem/2023/img/q076_inline1.png)\n\nEla deseja comemorar seu aniversário e escolhe o dia da semana em que o gasto calórico com as atividades físicas  praticadas for o maior. Para tanto, considera que os valores dos gastos calóricos das atividades por hora (cal/h) são os seguintes:\n\n![](enem/2023/img/q076_inline2.png)",
+      "enunciado": "Uma pessoa pratica quatro atividades físicas — caminhar, correr, andar de bicicleta e jogar futebol — como parte de seu programa de emagrecimento. Essas atividades são praticadas semanalmente de acordo com o quadro, que apresenta o número de horas diárias por atividade.\n\n![](enem/2023/dia2/img/q076_inline1.png)\n\nEla deseja comemorar seu aniversário e escolhe o dia da semana em que o gasto calórico com as atividades físicas  praticadas for o maior. Para tanto, considera que os valores dos gastos calóricos das atividades por hora (cal/h) são os seguintes:\n\n![](enem/2023/dia2/img/q076_inline2.png)",
       "alternativas_introducao": "O dia da semana em que será comemorado o aniversário é",
       "alternativas": [
         "A) Segunda-feira.",
@@ -2139,10 +2125,8 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q076_principal.png",
-      "imagens_extras": [
-        "enem/2023/img/q076_extra1.png"
-      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
       "correta": "C",
       "explicacao": "**Por que a alternativa C está correta:** Para cada dia da semana, multiplicam-se as horas dedicadas a cada atividade pelo gasto calórico/hora correspondente, e somam-se os totais. A quarta-feira é o dia em que esse cálculo gera o maior gasto calórico total.\n\n**Conceito-chave:** Soma ponderada — quando há múltiplos componentes com pesos diferentes, calcular ∑(quantidade × peso) e comparar resultados.",
       "fonte": "api.enem.dev",
@@ -2191,11 +2175,11 @@
         "E)"
       ],
       "imagens_alternativas": [
-        "enem/2023/img/q078_altA.png",
-        "enem/2023/img/q078_altB.png",
-        "enem/2023/img/q078_altC.png",
-        "enem/2023/img/q078_altD.png",
-        "enem/2023/img/q078_altE.png"
+        "enem/2023/dia2/img/q078_altA.png",
+        "enem/2023/dia2/img/q078_altB.png",
+        "enem/2023/dia2/img/q078_altC.png",
+        "enem/2023/dia2/img/q078_altD.png",
+        "enem/2023/dia2/img/q078_altE.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],
@@ -2209,7 +2193,7 @@
       "dia": 2,
       "numero": 79,
       "titulo": "Questão 169 - ENEM 2023",
-      "enunciado": "O esquema mostra como a intensidade luminosa decresce com o aumento da profundidade em um rio, sendo ![](enem/2023/img/q079_inline1.png) a intensidade na sua superfície.\n\n![](enem/2023/img/q079_inline2.png)\n\nConsidere que a intensidade luminosa diminui, a cada metro acrescido na profundidade, segundo o mesmo padrão do esquema.",
+      "enunciado": "O esquema mostra como a intensidade luminosa decresce com o aumento da profundidade em um rio, sendo ![](enem/2023/dia2/img/q079_inline1.png) a intensidade na sua superfície.\n\n![](enem/2023/dia2/img/q079_inline2.png)\n\nConsidere que a intensidade luminosa diminui, a cada metro acrescido na profundidade, segundo o mesmo padrão do esquema.",
       "alternativas_introducao": "A intensidade luminosa correspondente à profundidade de 6 m é igual a",
       "alternativas": [
         "A)",
@@ -2219,16 +2203,14 @@
         "E)"
       ],
       "imagens_alternativas": [
-        "enem/2023/img/q079_altA.png",
-        "enem/2023/img/q079_altB.png",
-        "enem/2023/img/q079_altC.png",
-        "enem/2023/img/q079_altD.png",
-        "enem/2023/img/q079_altE.png"
+        "enem/2023/dia2/img/q079_altA.png",
+        "enem/2023/dia2/img/q079_altB.png",
+        "enem/2023/dia2/img/q079_altC.png",
+        "enem/2023/dia2/img/q079_altD.png",
+        "enem/2023/dia2/img/q079_altE.png"
       ],
-      "imagem_principal": "enem/2023/img/q079_principal.png",
-      "imagens_extras": [
-        "enem/2023/img/q079_extra1.png"
-      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
       "correta": "D",
       "explicacao": "**Por que a alternativa D está correta:** Pelo padrão do esquema, a intensidade luminosa cai por um fator constante a cada metro de profundidade (decaimento exponencial). Se a cada metro a intensidade é multiplicada por 1/2, em 6 m é I₀ × (1/2)⁶ = I₀/64. A alternativa D corresponde a esse valor.\n\n**Conceito-chave:** Atenuação exponencial de luz na água (Lei de Beer-Lambert) — intensidade decai exponencialmente com a profundidade, dependendo do coeficiente de absorção do meio.",
       "fonte": "api.enem.dev",
@@ -2239,7 +2221,7 @@
       "dia": 2,
       "numero": 80,
       "titulo": "Questão 170 - ENEM 2023",
-      "enunciado": "Analisando as vendas de uma empresa, o gerente concluiu que o montante diário arrecadado, em milhar de real, poderia ser calculado pela expressão ![](enem/2023/img/q080_inline1.png) , em que os valores de x representam os dias do mês, variando de 1 a 30.\n\nUm dos fatores para avaliar o desempenho mensal da empresa é verificar qual é o menor montante diário ![](enem/2023/img/q080_inline2.png) arrecadado ao longo do mês e classificar o desempenho conforme as categorias apresentadas a seguir, em que as quantidades estão expressas em milhar de real.\n\n![](enem/2023/img/q080_inline3.png)",
+      "enunciado": "Analisando as vendas de uma empresa, o gerente concluiu que o montante diário arrecadado, em milhar de real, poderia ser calculado pela expressão ![](enem/2023/dia2/img/q080_inline1.png) , em que os valores de x representam os dias do mês, variando de 1 a 30.\n\nUm dos fatores para avaliar o desempenho mensal da empresa é verificar qual é o menor montante diário ![](enem/2023/dia2/img/q080_inline2.png) arrecadado ao longo do mês e classificar o desempenho conforme as categorias apresentadas a seguir, em que as quantidades estão expressas em milhar de real.\n\n![](enem/2023/dia2/img/q080_inline3.png)",
       "alternativas_introducao": "No caso analisado, qual seria a classificação do desempenho da empresa?",
       "alternativas": [
         "A) Ótimo.",
@@ -2255,11 +2237,8 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q080_principal.png",
-      "imagens_extras": [
-        "enem/2023/img/q080_extra1.png",
-        "enem/2023/img/q080_extra2.png"
-      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
       "correta": "D",
       "explicacao": "**Por que a alternativa D está correta:** A expressão fornecida é uma função quadrática f(x) = ax² + bx + c, ou similar. Calcula-se o ponto de mínimo no intervalo [1, 30] (vértice da parábola se a > 0). O valor mínimo encontrado cai na faixa que classifica o desempenho como \"Ruim\".\n\n**Conceito-chave:** Vértice de parábola — para f(x) = ax² + bx + c com a > 0, o mínimo ocorre em x = -b/(2a) e vale f(x_v) = c - b²/(4a).",
       "fonte": "api.enem.dev",
@@ -2298,7 +2277,7 @@
       "dia": 2,
       "numero": 82,
       "titulo": "Questão 172 - ENEM 2023",
-      "enunciado": "Sejam _a_, _b_ e _c_ as medidas dos lados de um triângulo retângulo, tendo a como medida da hipotenusa. Esses valores _a_, _b_ e _c_ são, respectivamente, os diâmetros dos círculos _C1_ , _C2_ e _C3_, como apresentados na figura.\n\n![](enem/2023/img/q082_inline1.png)\n\nObserve que essa construção assegura, pelo teorema de Pitágoras, que área (C1) = área (C2) + área (C3).\n\nUm professor de matemática era conhecedor dessa construção e, confraternizando com dois amigos em uma pizzaria onde são vendidas pizzas somente em formato de círculo, lançou um desafio: mesmo sem usar um instrumento de medição, poderia afirmar com certeza se a área do círculo correspondente à pizza que ele pedisse era maior, igual ou menor do que a soma das áreas das pizzas dos dois amigos. Assim, foram pedidas três pizzas. O professor as dividiu ao meio e formou um triângulo com os diâmetros das pizzas, conforme indicado na figura.\n\n![](enem/2023/img/q082_inline2.png)\n\nA partir da medida do ângulo a, o professor afirmou que a área de sua pizza é maior do que a soma das áreas das outras duas pizzas.",
+      "enunciado": "Sejam _a_, _b_ e _c_ as medidas dos lados de um triângulo retângulo, tendo a como medida da hipotenusa. Esses valores _a_, _b_ e _c_ são, respectivamente, os diâmetros dos círculos _C1_ , _C2_ e _C3_, como apresentados na figura.\n\n![](enem/2023/dia2/img/q082_inline1.png)\n\nObserve que essa construção assegura, pelo teorema de Pitágoras, que área (C1) = área (C2) + área (C3).\n\nUm professor de matemática era conhecedor dessa construção e, confraternizando com dois amigos em uma pizzaria onde são vendidas pizzas somente em formato de círculo, lançou um desafio: mesmo sem usar um instrumento de medição, poderia afirmar com certeza se a área do círculo correspondente à pizza que ele pedisse era maior, igual ou menor do que a soma das áreas das pizzas dos dois amigos. Assim, foram pedidas três pizzas. O professor as dividiu ao meio e formou um triângulo com os diâmetros das pizzas, conforme indicado na figura.\n\n![](enem/2023/dia2/img/q082_inline2.png)\n\nA partir da medida do ângulo a, o professor afirmou que a área de sua pizza é maior do que a soma das áreas das outras duas pizzas.",
       "alternativas_introducao": "A área da pizza do professor de matemática é maior do que a soma das áreas das outras duas pizzas, pois",
       "alternativas": [
         "A) 0° < a < 90°",
@@ -2314,10 +2293,8 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q082_principal.png",
-      "imagens_extras": [
-        "enem/2023/img/q082_extra1.png"
-      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
       "correta": "C",
       "explicacao": "**Por que a alternativa C está correta:** Pelo teorema de Pitágoras, em um triângulo retângulo (α = 90°), a² = b² + c², e as áreas dos círculos dão exatamente igualdade. Se α > 90° (obtuso), pela lei dos cossenos a² > b² + c², e portanto a área da pizza maior supera a soma das outras duas.\n\n**Conceito-chave:** Lei dos cossenos — a² = b² + c² - 2bc·cos(α). Para α > 90°, cos(α) < 0, então a² > b² + c². Generaliza Pitágoras para triângulos quaisquer.",
       "fonte": "api.enem.dev",
@@ -2338,11 +2315,11 @@
         "E)"
       ],
       "imagens_alternativas": [
-        "enem/2023/img/q083_altA.png",
-        "enem/2023/img/q083_altB.png",
-        "enem/2023/img/q083_altC.png",
-        "enem/2023/img/q083_altD.png",
-        "enem/2023/img/q083_altE.png"
+        "enem/2023/dia2/img/q083_altA.png",
+        "enem/2023/dia2/img/q083_altB.png",
+        "enem/2023/dia2/img/q083_altC.png",
+        "enem/2023/dia2/img/q083_altD.png",
+        "enem/2023/dia2/img/q083_altE.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],
@@ -2400,7 +2377,7 @@
       "dia": 2,
       "numero": 86,
       "titulo": "Questão 176 - ENEM 2023",
-      "enunciado": "Os números figurados pentagonais provavelmente foram introduzidos pelos pitagóricos por volta do século V a.C. As figuras ilustram como obter os seis primeiros deles, sendo os demais obtidos seguindo o mesmo padrão geométrico.\n\n![](enem/2023/img/q086_inline1.png)",
+      "enunciado": "Os números figurados pentagonais provavelmente foram introduzidos pelos pitagóricos por volta do século V a.C. As figuras ilustram como obter os seis primeiros deles, sendo os demais obtidos seguindo o mesmo padrão geométrico.\n\n![](enem/2023/dia2/img/q086_inline1.png)",
       "alternativas_introducao": "O oitavo número pentagonal é",
       "alternativas": [
         "A) 59",
@@ -2416,7 +2393,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2023/img/q086_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
       "explicacao": "**Por que a alternativa E está correta:** Os números pentagonais seguem a fórmula P(n) = n(3n-1)/2. Para n = 8: P(8) = 8 × 23 / 2 = 92.\n\n**Conceito-chave:** Sequências figuradas e fórmulas gerais — números pentagonais, triangulares e quadrados têm padrões geométricos com fórmulas fechadas. Identificar o padrão a partir dos primeiros termos é habilidade-chave.",
@@ -2428,7 +2405,7 @@
       "dia": 2,
       "numero": 87,
       "titulo": "Questão 177 - ENEM 2023",
-      "enunciado": "A figura ilustra uma roda-gigante no exato instante em que a cadeira onde se encontra a pessoa P está no ponto mais alto dessa roda-gigante.\n\n![](enem/2023/img/q087_inline1.png)\n\nCom o passar do tempo, à medida que a roda-gigante gira, com velocidade angular constante e no sentido horário, a altura da cadeira onde se encontra a pessoa P, em relação ao solo, vai se alterando.",
+      "enunciado": "A figura ilustra uma roda-gigante no exato instante em que a cadeira onde se encontra a pessoa P está no ponto mais alto dessa roda-gigante.\n\n![](enem/2023/dia2/img/q087_inline1.png)\n\nCom o passar do tempo, à medida que a roda-gigante gira, com velocidade angular constante e no sentido horário, a altura da cadeira onde se encontra a pessoa P, em relação ao solo, vai se alterando.",
       "alternativas_introducao": "O gráfico que melhor representa a variação dessa altura, em função do tempo, contado a partir do instante em que a cadeira da pessoa P se encontra na posição mais alta da roda-gigante, é",
       "alternativas": [
         "A)",
@@ -2438,13 +2415,13 @@
         "E)"
       ],
       "imagens_alternativas": [
-        "enem/2023/img/q087_altA.png",
-        "enem/2023/img/q087_altB.png",
-        "enem/2023/img/q087_altC.png",
-        "enem/2023/img/q087_altD.png",
-        "enem/2023/img/q087_altE.png"
+        "enem/2023/dia2/img/q087_altA.png",
+        "enem/2023/dia2/img/q087_altB.png",
+        "enem/2023/dia2/img/q087_altC.png",
+        "enem/2023/dia2/img/q087_altD.png",
+        "enem/2023/dia2/img/q087_altE.png"
       ],
-      "imagem_principal": "enem/2023/img/q087_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
       "explicacao": "**Por que a alternativa A está correta:** Em uma roda-gigante girando com velocidade angular constante, a altura varia como uma função cossenoidal: h(t) = R·cos(ω·t) + h_0. Iniciando no ponto mais alto (cosseno = 1), a altura cai inicialmente, atinge mínimo, sobe e oscila periodicamente. O gráfico A representa essa cossenoide.\n\n**Conceito-chave:** Movimento circular uniforme e funções trigonométricas — a projeção vertical de um ponto em rotação uniforme é cosseno (ou seno) do tempo.",
@@ -2466,11 +2443,11 @@
         "E)"
       ],
       "imagens_alternativas": [
-        "enem/2023/img/q088_altA.png",
-        "enem/2023/img/q088_altB.png",
-        "enem/2023/img/q088_altC.png",
-        "enem/2023/img/q088_altD.png",
-        "enem/2023/img/q088_altE.png"
+        "enem/2023/dia2/img/q088_altA.png",
+        "enem/2023/dia2/img/q088_altB.png",
+        "enem/2023/dia2/img/q088_altC.png",
+        "enem/2023/dia2/img/q088_altD.png",
+        "enem/2023/dia2/img/q088_altE.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],
@@ -2484,7 +2461,7 @@
       "dia": 2,
       "numero": 89,
       "titulo": "Questao 89 - ENEM 2023",
-      "enunciado": "As características culturais variam de povo para povo. Há notícias de um povo que possuía formas de contar diferentes das nossas, como indicado no quadrinho a seguir.\n\n![](enem/2023/img/q089_inline1.png)",
+      "enunciado": "As características culturais variam de povo para povo. Há notícias de um povo que possuía formas de contar diferentes das nossas, como indicado no quadrinho a seguir.\n\n![](enem/2023/dia2/img/q089_inline1.png)",
       "alternativas_introducao": "Segundo o padrão de contagem indicado na figura, as representações dos numerais cinco e sete, nessa cultura, devem ser, respectivamente,",
       "alternativas": [
         "A) okosa urapum urapum urapum e okosa okosa urapum urapum urapum.",

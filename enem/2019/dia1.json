@@ -149,7 +149,7 @@
       "dia": 1,
       "numero": 6,
       "titulo": "Questão 6 - ENEM 2019",
-      "enunciado": "![](enem/2019/img/q006_inline1.png)\n\n**Disponível em:** http://palavrastempoder.org. Acesso em: 20 abr. 2015",
+      "enunciado": "![](enem/2019/dia1/img/q006_inline1.png)\n\n**Disponível em:** http://palavrastempoder.org. Acesso em: 20 abr. 2015",
       "alternativas_introducao": "Pela análise do conteúdo, constata-se que essa campanha publicitária tem como função social",
       "alternativas": [
         "A) Propagar a imagem positiva do Ministério Público.",
@@ -165,7 +165,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2019/img/q006_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
       "explicacao": "**Por que a alternativa B está correta:** A campanha publicitária mostra que cada direito vem acompanhado de uma responsabilidade. Sua função social é conscientizar a população que direitos implicam deveres — princípio básico de cidadania.\n\n**Conceito-chave:** Cidadania ativa — direitos individuais coexistem com responsabilidades coletivas; equilibrar liberdade e responsabilidade é tema central das democracias.",
@@ -261,7 +261,7 @@
       "dia": 1,
       "numero": 10,
       "titulo": "Questão 10 - ENEM 2019",
-      "enunciado": "![](enem/2019/img/q010_inline1.jpg)",
+      "enunciado": "![](enem/2019/dia1/img/q010_inline1.jpg)",
       "alternativas_introducao": "Essa campanha se destaca pela maneira como utiliza a linguagem para conscientizar a sociedade da necessidade de se acabar com o bullying. Tal estratégia está centrada no(a)",
       "alternativas": [
         "A) Chamamento de diferentes atores sociais pelo uso recorrente de estruturas injuntivas.",
@@ -277,7 +277,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2019/img/q010_principal.jpg",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
       "explicacao": "**Por que a alternativa A está correta:** A campanha contra bullying utiliza imperativos ('passe à história', 'pare', 'denuncie') para mobilizar diferentes atores. Esse chamamento por estruturas injuntivas envolve professores, alunos, pais e gestores na ação contra o bullying.\n\n**Conceito-chave:** Função apelativa/conativa da linguagem — modo imperativo, vocativo e perguntas chamam o interlocutor à ação; típico de campanhas educativas.",
@@ -317,7 +317,7 @@
       "dia": 1,
       "numero": 12,
       "titulo": "Questão 12 - ENEM 2019",
-      "enunciado": "![](enem/2019/img/q012_inline1.png)\n\n**TEXTO II**\n\n**Quadrinista surda faz sucesso na CCXP com narrativas silenciosas**\n\nA área de artistas independentes da Comic Con Experience (CCXP) deste ano é a maior da história do evento geek, são mais de 450 quadrinistas e ilustradores no Artists’ Alley.\n\nE a diversidade vai além do estilo das HQ. Em uma das mesas na fila F, senta a quadrinista com deficiência auditiva Ju Loyola, com suas histórias que classifica como “narrativas silenciosas”. São histórias que podem ser compreendidas por crianças e adultos, e pessoas de qualquer nacionalidade, pelo simples motivo de não terem uma única palavra.\n\nA artista não escreve roteiros convencionais para suas obras. Sua experiência de ter que entender a comunicação pelo que vê faz com que ela se identifique muito mais com o que observa do que com o que as pessoas dizem.\n\nE basta folhear suas obras que fica claro que elas não são histórias em quadrinhos que perderam as palavras, mas sim que ganharam uma nova perspectiva.\n\n**Disponível em:** https://catracalivre.com.br. Acesso em: 8 dez. 2018 (adaptado).",
+      "enunciado": "![](enem/2019/dia1/img/q012_inline1.png)\n\n**TEXTO II**\n\n**Quadrinista surda faz sucesso na CCXP com narrativas silenciosas**\n\nA área de artistas independentes da Comic Con Experience (CCXP) deste ano é a maior da história do evento geek, são mais de 450 quadrinistas e ilustradores no Artists’ Alley.\n\nE a diversidade vai além do estilo das HQ. Em uma das mesas na fila F, senta a quadrinista com deficiência auditiva Ju Loyola, com suas histórias que classifica como “narrativas silenciosas”. São histórias que podem ser compreendidas por crianças e adultos, e pessoas de qualquer nacionalidade, pelo simples motivo de não terem uma única palavra.\n\nA artista não escreve roteiros convencionais para suas obras. Sua experiência de ter que entender a comunicação pelo que vê faz com que ela se identifique muito mais com o que observa do que com o que as pessoas dizem.\n\nE basta folhear suas obras que fica claro que elas não são histórias em quadrinhos que perderam as palavras, mas sim que ganharam uma nova perspectiva.\n\n**Disponível em:** https://catracalivre.com.br. Acesso em: 8 dez. 2018 (adaptado).",
       "alternativas_introducao": "O Texto I exemplifica a obra de uma artista surda, que promove uma experiência de leitura inovadora, divulgada no Texto II. Independentemente de seus objetivos, ambos os textos",
       "alternativas": [
         "A) Incentivam a produção de roteiros compostos por imagens.",
@@ -333,7 +333,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2019/img/q012_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
       "explicacao": "**Por que a alternativa D está correta:** Ju Loyola, quadrinista surda, cria 'narrativas silenciosas' — HQs sem palavras, compreensíveis por surdos, ouvintes, crianças, qualquer nacionalidade. Os textos contribuem com o processo de acessibilidade ao demonstrar como arte pode incluir diversos públicos.\n\n**Conceito-chave:** Acessibilidade cultural — produção artística adaptada para diferentes capacidades; exemplo de arte inclusiva sem perder qualidade estética.",
@@ -457,7 +457,7 @@
       "dia": 1,
       "numero": 17,
       "titulo": "Questão 17 - ENEM 2019",
-      "enunciado": "**Os tipos cheios de si**\n\nO difícil é encontrar quem nunca cruzou com (ou se passou por) um desses on-line.\n\n![](enem/2019/img/q017_inline1.png)\n\nDisponível em: http://epoca.globo.com. Acesso em: 20 mar. 2014.",
+      "enunciado": "**Os tipos cheios de si**\n\nO difícil é encontrar quem nunca cruzou com (ou se passou por) um desses on-line.\n\n![](enem/2019/dia1/img/q017_inline1.png)\n\nDisponível em: http://epoca.globo.com. Acesso em: 20 mar. 2014.",
       "alternativas_introducao": "De acordo com esse infográfico, as redes sociais estimulam diferentes comportamentos dos usuários que revelam",
       "alternativas": [
         "A) Exposição exagerada dos indivíduos.",
@@ -473,7 +473,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2019/img/q017_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
       "explicacao": "**Por que a alternativa A está correta:** O infográfico 'Tipos cheios de si' descreve comportamentos online em que pessoas se exibem — selfies, status de status, ostentação. A ironia revela exposição exagerada dos indivíduos nas redes sociais.\n\n**Conceito-chave:** Narcisismo digital — redes sociais incentivam autopromoção; comportamentos performativos tornam-se dominantes em ambientes que valorizam likes e seguidores.",
@@ -625,7 +625,7 @@
       "dia": 1,
       "numero": 23,
       "titulo": "Questão 23 - ENEM 2019",
-      "enunciado": "![](enem/2019/img/q023_inline1.png)",
+      "enunciado": "![](enem/2019/dia1/img/q023_inline1.png)",
       "alternativas_introducao": "Nesse cartaz, o uso da imagem do calçado aliada ao texto verbal tem o objetivo de",
       "alternativas": [
         "A) Criticar as difíceis condições de vida dos refugiados.",
@@ -641,7 +641,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2019/img/q023_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
       "explicacao": "**Por que a alternativa E está correta:** O cartaz mostra calçados associados a refugiados em fuga. A imagem combinada ao texto verbal simboliza a necessidade de adesão à causa dos refugiados — calçar 'os sapatos' do outro como metáfora de empatia e solidariedade.\n\n**Conceito-chave:** Simbolismo em campanhas humanitárias — objetos cotidianos (calçado, mala) representam jornadas e sofrimento; convite à empatia pela transposição imaginativa.",
@@ -709,7 +709,7 @@
       "dia": 1,
       "numero": 26,
       "titulo": "Questão 26 - ENEM 2019",
-      "enunciado": "**TEXTO I**\n\nO Estatuto do Idoso completou 15 anos em 2018 e 56 no primeiro semestre o Disque 100 recebeu 16 mil denúncias de violacão de direitos dos idosos em todo o País.\n\nPara especialistas da área, o aumento no número de denúncias pode ser consequência do encorajamento dos mais velhos na busca pelos direitos. Mas também pode refletir uma onda crescente de violência na sociedade e dentro das próprias famílias.\n\nPolíticas públicas mais eficazes no atendimento ao idoso são o mínimo que um país deve estabelecer. O Brasil está ficando para trás e é preciso levar em consideração que o País envelhece (tendência mundial) sem estar preparado para arcar com os desafios, como criar uma rede de proteção, preparar os serviços de saúde pública e dar suporte às famílias que precisam cuidar de seus idosos dependentes,\n\nDisponível em: www.folhadelondrina.com.br. Acesso em: 9 dez. 2018 (adaptado).\n\n**TEXTO II**\n\n![](enem/2019/img/q026_inline1.png)\n\nDisponível em: www.brasil.gov.br. Acesso em: 9 dez. 2018.",
+      "enunciado": "**TEXTO I**\n\nO Estatuto do Idoso completou 15 anos em 2018 e 56 no primeiro semestre o Disque 100 recebeu 16 mil denúncias de violacão de direitos dos idosos em todo o País.\n\nPara especialistas da área, o aumento no número de denúncias pode ser consequência do encorajamento dos mais velhos na busca pelos direitos. Mas também pode refletir uma onda crescente de violência na sociedade e dentro das próprias famílias.\n\nPolíticas públicas mais eficazes no atendimento ao idoso são o mínimo que um país deve estabelecer. O Brasil está ficando para trás e é preciso levar em consideração que o País envelhece (tendência mundial) sem estar preparado para arcar com os desafios, como criar uma rede de proteção, preparar os serviços de saúde pública e dar suporte às famílias que precisam cuidar de seus idosos dependentes,\n\nDisponível em: www.folhadelondrina.com.br. Acesso em: 9 dez. 2018 (adaptado).\n\n**TEXTO II**\n\n![](enem/2019/dia1/img/q026_inline1.png)\n\nDisponível em: www.brasil.gov.br. Acesso em: 9 dez. 2018.",
       "alternativas_introducao": "Na comparação entre os textos, conclui-se que as regras do Estatuto do Idoso",
       "alternativas": [
         "A) Apresentam vantagens em relação às de outros países.",
@@ -725,7 +725,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2019/img/q026_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
       "explicacao": "**Por que a alternativa E está correta:** O texto contrapõe os direitos garantidos pelo Estatuto do Idoso (15 anos de existência) com 16 mil denúncias de violação só no primeiro semestre. As regras contrastam com as condições de vida proporcionadas pelo país — a lei existe mas não se efetiva na prática.\n\n**Conceito-chave:** Lacuna entre lei formal e realidade — leis existem mas dependem de fiscalização, estrutura e cultura para se efetivarem; tema recorrente em políticas públicas brasileiras.",
@@ -849,7 +849,7 @@
       "dia": 1,
       "numero": 31,
       "titulo": "Questão 31 - ENEM 2019",
-      "enunciado": "![](enem/2019/img/q031_inline1.png)",
+      "enunciado": "![](enem/2019/dia1/img/q031_inline1.png)",
       "alternativas_introducao": "Na obra Cabeça de touro, o material descartado torna-se objeto de arte por meio da",
       "alternativas": [
         "A) Reciclagem da matéria-prima original.",
@@ -865,7 +865,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2019/img/q031_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
       "explicacao": "**Por que a alternativa D está correta:** 'Cabeça de touro' (Picasso, 1942) é feita com selim e guidão de bicicleta. O selim vira a face do touro, o guidão vira os chifres. A obra é arte pela mudança da funcionalidade pela integração dos objetos — ressignificação do cotidiano.\n\n**Conceito-chave:** Assemblage e ready-made — vanguardas do XX que ressignificam objetos comuns como arte, questionando o conceito de obra original.",
@@ -989,7 +989,7 @@
       "dia": 1,
       "numero": 36,
       "titulo": "Questão 36 - ENEM 2019",
-      "enunciado": "![](enem/2019/img/q036_inline1.png)\n\nFotografia de Jackson Pollock pintando em seu ateliê, realizada por Hans Namuth em 1951.\n\n**CHIPP, H. Teorias da arte moderna. São Paulo: Martins Fontes, 1988.**\n\n![](enem/2019/img/q036_inline2.png)\n\n**MUNIZ, V. Action Photo (segundo Hans Namuth em Pictures in Chocolate). Impressão fotográfica. The Museum of Modern Art, Nova Iorque, 1977.**\n\n**_NEVES, A_. História da Arte 4. Vitória: Ufes – Nead, 2011.**",
+      "enunciado": "![](enem/2019/dia1/img/q036_inline1.png)\n\nFotografia de Jackson Pollock pintando em seu ateliê, realizada por Hans Namuth em 1951.\n\n**CHIPP, H. Teorias da arte moderna. São Paulo: Martins Fontes, 1988.**\n\n![](enem/2019/dia1/img/q036_inline2.png)\n\n**MUNIZ, V. Action Photo (segundo Hans Namuth em Pictures in Chocolate). Impressão fotográfica. The Museum of Modern Art, Nova Iorque, 1977.**\n\n**_NEVES, A_. História da Arte 4. Vitória: Ufes – Nead, 2011.**",
       "alternativas_introducao": "Utilizando chocolate derretido como matéria-prima, essa obra de Vick Muniz reproduz a célebre fotografia do processo de criação de Jackson Pollock. A originalidade dessa releitura reside na",
       "alternativas": [
         "A) Apropriação parodística das técnicas e materiais utilizados.",
@@ -1005,10 +1005,8 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2019/img/q036_principal.png",
-      "imagens_extras": [
-        "enem/2019/img/q036_extra1.png"
-      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
       "correta": "A",
       "explicacao": "**Por que a alternativa A está correta:** Vik Muniz reproduz a célebre fotografia de Pollock pintando — mas usando chocolate derretido como matéria-prima. Essa apropriação parodística das técnicas e materiais utilizados ironiza o processo do action painting (a tinta vira chocolate) sem perder a referência.\n\n**Conceito-chave:** Apropriação na arte contemporânea — releituras irônicas de obras canônicas questionam autoria, originalidade e meio; Vik Muniz é referência brasileira nessa linha.",
       "fonte": "api.enem.dev",
@@ -1163,7 +1161,7 @@
       "dia": 1,
       "numero": 43,
       "titulo": "Questão 43 - ENEM 2019",
-      "enunciado": "![](enem/2019/img/q043_inline1.png)",
+      "enunciado": "![](enem/2019/dia1/img/q043_inline1.png)",
       "alternativas_introducao": "O texto tem o formato de uma carta de jogo e apresenta dados a respeito de Marcelo Gleiser, premiado pesquisador brasileiro da atualidade. Essa apresentação subverte um gênero textual ao",
       "alternativas": [
         "A) Vincular áreas distintas do conhecimento.",
@@ -1179,7 +1177,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2019/img/q043_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
       "explicacao": "**Por que a alternativa C está correta:** O formato de 'carta de jogo' (típico de Pokémon, Magic) é tradicionalmente usado para personagens fictícios. Aplicado a Marcelo Gleiser (cientista real), o texto subverte o gênero ao relacionar o universo lúdico a informações biográficas — mistura referência pop-cultural com biografia acadêmica.\n\n**Conceito-chave:** Subversão de gênero textual — usar forma típica de uma situação em outra cria efeito surpresa e novo significado; recurso comum em divulgação científica criativa.",
@@ -1275,7 +1273,7 @@
       "dia": 1,
       "numero": 47,
       "titulo": "Questão 47 - ENEM 2019",
-      "enunciado": "![](enem/2019/img/q047_inline1.jpg)\n\nDisponível em: www.ibge.gov.br.\n\nAcesso em: 11 dez. 2018 (adaptado).",
+      "enunciado": "![](enem/2019/dia1/img/q047_inline1.jpg)\n\nDisponível em: www.ibge.gov.br.\n\nAcesso em: 11 dez. 2018 (adaptado).",
       "alternativas_introducao": "A geração de imagens por meio da tecnologia ilustrada depende da variação do(a):",
       "alternativas": [
         "A) Albedo dos corpos físicos.",
@@ -1291,7 +1289,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2019/img/q047_principal.jpg",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
       "explicacao": "**Por que a alternativa A está correta:** O sensoriamento remoto por satélites mede a refletância (albedo) das superfícies — quanto cada material reflete da radiação solar. Diferenças de albedo entre vegetação, água, solo e construções permitem gerar imagens identificáveis.\n\n**Conceito-chave:** Sensoriamento remoto e albedo — base de dados de satélites como Landsat, MODIS, CBERS; aplicação em monitoramento ambiental e mapeamento.",
@@ -1555,7 +1553,7 @@
       "dia": 1,
       "numero": 57,
       "titulo": "Questão 57 - ENEM 2019",
-      "enunciado": "![](enem/2019/img/q057_inline1.jpg)\n\nSALGADO-LABOURIAL, M.L., História ecológica da Terra. São Paulo: Edgard Blucher, 1994 (adaptado).",
+      "enunciado": "![](enem/2019/dia1/img/q057_inline1.jpg)\n\nSALGADO-LABOURIAL, M.L., História ecológica da Terra. São Paulo: Edgard Blucher, 1994 (adaptado).",
       "alternativas_introducao": "No Hemisfério Sul, a sequência latitudinal dos desertos representada na imagem sofre uma interrupção no Brasil devido à seguinte razão:",
       "alternativas": [
         "A) Existência de superfícies de intensa refletividade.",
@@ -1571,7 +1569,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2019/img/q057_principal.jpg",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
       "explicacao": "**Por que a alternativa C está correta:** Na latitude dos desertos do hemisfério sul (Atacama, Kalahari, deserto australiano), o Brasil deveria ter deserto também. Mas a Amazônia exerce influência de umidade das áreas florestais — evapotranspiração massiva mantém atmosfera úmida, impedindo formação desértica.\n\n**Conceito-chave:** Floresta tropical e clima — Amazônia é fábrica de chuva; rios voadores transportam umidade para o continente; sua destruição pode alterar regime hídrico.",
@@ -1611,7 +1609,7 @@
       "dia": 1,
       "numero": 59,
       "titulo": "Questão 59 - ENEM 2019",
-      "enunciado": "![](enem/2019/img/q059_inline1.png)",
+      "enunciado": "![](enem/2019/dia1/img/q059_inline1.png)",
       "alternativas_introducao": "A divisão política do mundo como apresentada na imagem seria possível caso o planeta fosse marcado pela estabilidade do(a)",
       "alternativas": [
         "A) Ciclo hidrológico.",
@@ -1627,7 +1625,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2019/img/q059_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
       "explicacao": "**Por que a alternativa C está correta:** Mapas políticos pressupõem fronteiras estáveis. Mas estas dependem da estabilidade geológica — placas tectônicas em movimento, terremotos e atividades vulcânicas alteram contornos. Sem essa estabilidade da estrutura geológica, fronteiras políticas perderiam consistência.\n\n**Conceito-chave:** Geologia e cartografia política — o mapa-múndi atual é instantâneo; em escala geológica, continentes deslocam-se constantemente (deriva continental).",
@@ -2115,7 +2113,7 @@
       "dia": 1,
       "numero": 77,
       "titulo": "Questão 77 - ENEM 2019",
-      "enunciado": "![](enem/2019/img/q077_inline1.jpg)\n\nFala-se aqui de uma arte criada nas ruas e para as ruas, marcadas antes de tudo pela vida cotidiana, seus conflitos e suas possibilidades, que poderiam envolver técnicas, agentes e temas que não fossem encontrados nas instituições mais tradicionais e formais.\n\n**VALVERDE, R. R. H. F. Os limites da inversão: a heterotopia do Beco do Batman. Boletim Goiano de Geografia (Online). Goiânia, v. 37, n. 2, maio/ago. 2017 (adaptado).**",
+      "enunciado": "![](enem/2019/dia1/img/q077_inline1.jpg)\n\nFala-se aqui de uma arte criada nas ruas e para as ruas, marcadas antes de tudo pela vida cotidiana, seus conflitos e suas possibilidades, que poderiam envolver técnicas, agentes e temas que não fossem encontrados nas instituições mais tradicionais e formais.\n\n**VALVERDE, R. R. H. F. Os limites da inversão: a heterotopia do Beco do Batman. Boletim Goiano de Geografia (Online). Goiânia, v. 37, n. 2, maio/ago. 2017 (adaptado).**",
       "alternativas_introducao": "A manifestação artística expressa na imagem e apresentada no texto integra um movimento contemporâneo de:",
       "alternativas": [
         "A) Regulação das relações sociais.",
@@ -2131,7 +2129,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2019/img/q077_principal.jpg",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
       "explicacao": "**Por que a alternativa B está correta:** Arte de rua (grafite, lambe-lambe) é criada no espaço público, fora dos museus. Esse movimento contemporâneo configura apropriação dos espaços públicos como territórios estéticos — democratização do acesso à arte e à expressão.\n\n**Conceito-chave:** Arte urbana — graffiti, intervenções, lambe-lambes; questiona instituição artística tradicional; transforma cidade em galeria a céu aberto.",
@@ -2339,7 +2337,7 @@
       "dia": 1,
       "numero": 85,
       "titulo": "Questão 85 - ENEM 2019",
-      "enunciado": "![](enem/2019/img/q085_inline1.png)\n\n“Nossa cultura não cabe nos seus museus”.\n\n**TOLENTINO, A. B. Patrimônio cultural e discursos museológicos. Midas, n. 6, 2016.**",
+      "enunciado": "![](enem/2019/dia1/img/q085_inline1.png)\n\n“Nossa cultura não cabe nos seus museus”.\n\n**TOLENTINO, A. B. Patrimônio cultural e discursos museológicos. Midas, n. 6, 2016.**",
       "alternativas_introducao": "Produzida no Chile, no final da década de 1970, a imagem expressa um conflito entre culturas e sua presença em museus decorrente da:",
       "alternativas": [
         "A) Valorização do mercado das obras de arte.",
@@ -2355,7 +2353,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2019/img/q085_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
       "explicacao": "**Por que a alternativa B está correta:** A frase 'nossa cultura não cabe nos museus' critica como museus selecionam o que é digno de exposição, excluindo culturas indígenas e populares. O conflito decorre da definição dos critérios de criação de acervos — museus europeizados excluem outras tradições.\n\n**Conceito-chave:** Museologia descolonial — repensar critérios de seleção, exibição e narrativa; movimentos pela representatividade de culturas marginalizadas em instituições culturais.",

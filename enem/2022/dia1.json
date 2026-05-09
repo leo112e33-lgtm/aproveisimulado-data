@@ -9,7 +9,7 @@
       "dia": 1,
       "numero": 1,
       "titulo": "Questão 1 - ENEM 2022",
-      "enunciado": "![](enem/2022/img/q001_inline1.jpg)\n\nDisponível em: www.inali.gob.mx. Acesso em: 2 dez. 2018.",
+      "enunciado": "![](enem/2022/dia1/img/q001_inline1.jpg)\n\nDisponível em: www.inali.gob.mx. Acesso em: 2 dez. 2018.",
       "alternativas_introducao": "Esse cartaz tem a função social de",
       "alternativas": [
         "A) Difundi a arte iconográfica indígena mexicana.",
@@ -25,7 +25,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2022/img/q001_principal.jpg",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
       "explicacao": "**Por que a alternativa E está correta:** O cartaz, vinculado ao Instituto Nacional de Línguas Indígenas (INALI), tem foco em valorizar e preservar as línguas originárias do México como elemento da diversidade linguística. A função social é defender a preservação dessas línguas e da pluralidade cultural por trás delas.\n\n**Conceito-chave:** Função social do gênero cartaz — peças institucionais com finalidade conscientizadora. Identificar a função exige cruzar produtor, público e tema do texto.",
@@ -121,7 +121,7 @@
       "dia": 1,
       "numero": 5,
       "titulo": "Questão 5 - ENEM 2022",
-      "enunciado": "![](enem/2022/img/q005_inline1.jpg)\n\nMURIG. Disponível em: https://murigcolectivafeminista.wordpress.com.\n\nAcesso em: 26 out. 2021(adaptado)",
+      "enunciado": "![](enem/2022/dia1/img/q005_inline1.jpg)\n\nMURIG. Disponível em: https://murigcolectivafeminista.wordpress.com.\n\nAcesso em: 26 out. 2021(adaptado)",
       "alternativas_introducao": "No texto, as palavras “crianzas” e “tribu” são usadas para",
       "alternativas": [
         "A) Evidenciar a importância de uma rede de apoio para as mães na criação dos seus filhos",
@@ -137,7 +137,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2022/img/q005_principal.jpg",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
       "explicacao": "**Por que a alternativa A está correta:** As palavras \"crianzas\" (criação coletiva) e \"tribu\" remetem ao provérbio \"é preciso uma tribo para criar uma criança\". O texto evidencia a importância de uma rede de apoio para as mães na criação dos seus filhos, contra a ideia da maternidade solitária e isolada.\n\n**Conceito-chave:** Maternidade compartilhada — perspectiva feminista que questiona o ideal de mãe solitária e celebra responsabilidade coletiva no cuidado infantil.",
@@ -177,7 +177,7 @@
       "dia": 1,
       "numero": 7,
       "titulo": "Questão 7 - ENEM 2022",
-      "enunciado": "**TEXTO I**\n\n![](enem/2022/img/q007_inline1.png)\n\nDisponível em: https://amigodobicho.wordpress.com/. Acesso em: 10 dez. 2017.\n\n**TEXTO II**\n\n**Nas ruas, na cidade e no parque**\n\nNinguém nunca prendeu o Delegado. O vaivém de rua em rua e sua longa vida são relembrados e recontados. Exemplo de sobrevivência, liderança, inteligência canina, desde pequenininho seu focinho negro e seus olhos delineados desenharam um mapa mental olfativo-visual de Lavras. Corria de quem precisava correr e se aproximava de quem não lhe faria mal, distinguia este daquele. Assim, tornou-se um cão comunitário. Nunca se soube por que escolheu a rua, talvez lhe tenham feito mal dentro de quatro paredes. Idoso, teve câncer e desapareceu. O querido foi procurado pela cidade inteira por duas protetoras, mas nunca encontrado.\n\n**COSTA, A. R. N. Viver o amor aos cães: Parque Francisco de Assis. Carmo do Cachoeira: Irdin, 2014 (adaptado).**",
+      "enunciado": "**TEXTO I**\n\n![](enem/2022/dia1/img/q007_inline1.png)\n\nDisponível em: https://amigodobicho.wordpress.com/. Acesso em: 10 dez. 2017.\n\n**TEXTO II**\n\n**Nas ruas, na cidade e no parque**\n\nNinguém nunca prendeu o Delegado. O vaivém de rua em rua e sua longa vida são relembrados e recontados. Exemplo de sobrevivência, liderança, inteligência canina, desde pequenininho seu focinho negro e seus olhos delineados desenharam um mapa mental olfativo-visual de Lavras. Corria de quem precisava correr e se aproximava de quem não lhe faria mal, distinguia este daquele. Assim, tornou-se um cão comunitário. Nunca se soube por que escolheu a rua, talvez lhe tenham feito mal dentro de quatro paredes. Idoso, teve câncer e desapareceu. O querido foi procurado pela cidade inteira por duas protetoras, mas nunca encontrado.\n\n**COSTA, A. R. N. Viver o amor aos cães: Parque Francisco de Assis. Carmo do Cachoeira: Irdin, 2014 (adaptado).**",
       "alternativas_introducao": "Os dois textos abordam a temática de animais de rua, porém, em relação ao Texto I, o Texto II",
       "alternativas": [
         "A) Problematiza a necessidade de adoção de animais sem lar.",
@@ -193,7 +193,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2022/img/q007_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
       "explicacao": "**Por que a alternativa A está correta:** O Texto I (cartaz de campanha) busca incentivar a adoção de animais. O Texto II conta a história do Delegado, cão comunitário que viveu nas ruas porque \"talvez lhe tenham feito mal dentro de quatro paredes\" — tom que problematiza a adoção, mostrando que nem todos animais se ajustam ao ambiente doméstico.\n\n**Conceito-chave:** Comparação entre textos com tema comum — mesmo assunto pode ser abordado por ângulos opostos. Diferenças aparecem nas escolhas lexicais e nos enquadramentos.",
@@ -233,7 +233,7 @@
       "dia": 1,
       "numero": 9,
       "titulo": "Questão 9 - ENEM 2022",
-      "enunciado": "![](enem/2022/img/q009_inline1.png)\n\n**Disponível em: : www.portaldapropaganda.com.br. Acesso em: 29 out. 2013 (adaptado).**",
+      "enunciado": "![](enem/2022/dia1/img/q009_inline1.png)\n\n**Disponível em: : www.portaldapropaganda.com.br. Acesso em: 29 out. 2013 (adaptado).**",
       "alternativas_introducao": "Para convencer o público-alvo sobre a necessidade de um trânsito mais seguro, essa peça publicitária apela para o(a)",
       "alternativas": [
         "A) Sentimento de culpa provocado no condutor causador de acidentes.",
@@ -249,7 +249,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2022/img/q009_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
       "explicacao": "**Por que a alternativa A está correta:** A peça publicitária expõe situações em que motoristas causam acidentes, mostrando consequências para os outros. O apelo central é despertar o sentimento de culpa no condutor causador, levando-o a refletir sobre suas atitudes e dirigir com mais responsabilidade.\n\n**Conceito-chave:** Apelos persuasivos em peças publicitárias — campanhas de conscientização frequentemente usam medo, culpa ou identificação para alterar comportamento, em vez de só informar.",
@@ -401,7 +401,7 @@
       "dia": 1,
       "numero": 15,
       "titulo": "Questão 15 - ENEM 2022",
-      "enunciado": "![](enem/2022/img/q015_inline1.png)\n\nDisponível em: www.facebook.com/senadofederal. Acesso em: 9 dez. 2017.",
+      "enunciado": "![](enem/2022/dia1/img/q015_inline1.png)\n\nDisponível em: www.facebook.com/senadofederal. Acesso em: 9 dez. 2017.",
       "alternativas_introducao": "Considerando-se a função social dos posts, essa imagem evidencia a apropriação de outro gênero com o objetivo de",
       "alternativas": [
         "A) Promover o uso adequado de campanhas publicitárias do governo.",
@@ -417,7 +417,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2022/img/q015_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
       "explicacao": "**Por que a alternativa B está correta:** O post do Senado se apropria de elementos visuais de outro gênero (provavelmente publicitário ou meme) para divulgar o projeto sobre transparência da administração pública. A função é tornar o tema acessível e atrativo nas redes sociais.\n\n**Conceito-chave:** Hibridização de gêneros — instituições oficiais adotam estéticas de redes sociais (memes, infográficos) para alcançar públicos mais amplos. Mistura de gêneros redefine o tom e o alcance da comunicação institucional.",
@@ -737,7 +737,7 @@
       "dia": 1,
       "numero": 27,
       "titulo": "Questão 27 - ENEM 2022",
-      "enunciado": "![](enem/2022/img/q027_inline1.png)\n\nDisponível em: http://viva-porto.pt. Acesso em: 24 nov. 2021 (adaptado).",
+      "enunciado": "![](enem/2022/dia1/img/q027_inline1.png)\n\nDisponível em: http://viva-porto.pt. Acesso em: 24 nov. 2021 (adaptado).",
       "alternativas_introducao": "A articulação entre os elementos verbais e os não verbais do texto tem como propósito desencadear a",
       "alternativas": [
         "A) Identificação de distinções entre mulheres e homens.",
@@ -753,7 +753,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2022/img/q027_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
       "explicacao": "**Por que a alternativa B está correta:** A articulação entre verbal e visual da peça mostra estereótipos de gênero (mulher = doméstica, homem = trabalho) como construções a serem questionadas. O propósito é desencadear a revisão dessas representações estereotipadas.\n\n**Conceito-chave:** Multimodalidade em peças críticas — combinação de imagem e texto verbal cria efeito persuasivo; ironia visual desnaturaliza papéis sociais que parecem óbvios.",
@@ -877,7 +877,7 @@
       "dia": 1,
       "numero": 32,
       "titulo": "Questão 32 - ENEM 2022",
-      "enunciado": "![](enem/2022/img/q032_inline1.jpg)\n\n**Disponível em: https://tab.uol.com.br/. Acesso em: 25 ago. 2017 (adaptado).**",
+      "enunciado": "![](enem/2022/dia1/img/q032_inline1.jpg)\n\n**Disponível em: https://tab.uol.com.br/. Acesso em: 25 ago. 2017 (adaptado).**",
       "alternativas_introducao": "O texto sobre os chamados nativos digitais traz informações com a função de",
       "alternativas": [
         "A) Propor ações específicas para cada etapa da infância.",
@@ -893,7 +893,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2022/img/q032_principal.jpg",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
       "explicacao": "**Por que a alternativa A está correta:** O texto sobre nativos digitais discute como crianças interagem com tecnologia em diferentes idades, apontando ações específicas para cada etapa da infância (limites de tela, tipos de interação adequada, etc.).\n\n**Conceito-chave:** Educação digital por faixa etária — recomendações pedagógicas modernas levam em conta desenvolvimento cognitivo, emocional e social em cada estágio.",
@@ -1045,7 +1045,7 @@
       "dia": 1,
       "numero": 38,
       "titulo": "Questão 38 - ENEM 2022",
-      "enunciado": "**TEXTO I**\n\n![](enem/2022/img/q038_inline1.jpg)\n\nEL GRECO. **Laocoonte**. Óleo sobre tela, 1,37cm x 1,72cm.\n\nNational Gallery of Art, Washington, Estados Unidos, circa 1610-  \n1614\\. Disponível em: https://images.nga.gov. Acesso em: 28 jun  \n2019 (adaptado).\n\n**TEXTO II**\n\nEssa impressionante obra apresenta o sacerdote Laocoonte sendo punido pelos deuses por tentar alertar os troianos da ameaça do Cavalo de Troia, que escondia um grupo de soldados gregos. Enviadas pelos deuses, serpentes marinhas são vistas matando Laocoonte e seus dois filhos como forma de punição.\n\nKAY, A. In: FARTHING, S. (Org.). **Tudo sobre arte**.  \nRio de Janeiro: Sextante, 2011 (adaptado).",
+      "enunciado": "**TEXTO I**\n\n![](enem/2022/dia1/img/q038_inline1.jpg)\n\nEL GRECO. **Laocoonte**. Óleo sobre tela, 1,37cm x 1,72cm.\n\nNational Gallery of Art, Washington, Estados Unidos, circa 1610-  \n1614\\. Disponível em: https://images.nga.gov. Acesso em: 28 jun  \n2019 (adaptado).\n\n**TEXTO II**\n\nEssa impressionante obra apresenta o sacerdote Laocoonte sendo punido pelos deuses por tentar alertar os troianos da ameaça do Cavalo de Troia, que escondia um grupo de soldados gregos. Enviadas pelos deuses, serpentes marinhas são vistas matando Laocoonte e seus dois filhos como forma de punição.\n\nKAY, A. In: FARTHING, S. (Org.). **Tudo sobre arte**.  \nRio de Janeiro: Sextante, 2011 (adaptado).",
       "alternativas_introducao": "Produzida no início do século XVII, a obra maneirista distingue-se pela",
       "alternativas": [
         "A) Representação da nudez masculina.",
@@ -1061,7 +1061,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2022/img/q038_principal.jpg",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
       "explicacao": "**Por que a alternativa B está correta:** O Maneirismo (séc. XVI-XVII), do qual El Greco é referência, caracteriza-se por figuras alongadas, posturas torcidas, anatomia distorcida e tons dramáticos — afastando-se do equilíbrio renascentista. A obra mostra exatamente essa distorção ao representar a figura humana.\n\n**Conceito-chave:** Maneirismo — escola de transição entre Renascimento e Barroco; busca expressividade pela distorção, perspectiva incomum e cores intensas, em vez do ideal clássico de proporção.",
@@ -1073,7 +1073,7 @@
       "dia": 1,
       "numero": 39,
       "titulo": "Questão 39 - ENEM 2022",
-      "enunciado": "![](enem/2022/img/q039_inline1.jpg)\n\nJUDD, D. **Sem título**. 1969.\n\nDisponível em: https://dasartes.com.br. Acesso em: 16 jun. 2022.\n\nEmbora não fosse um grupo ou um movimento organizado, o Minimalismo foi um dos muitos rótulos (incluindo estruturas primárias, objetos unitários, arte ABC e Cool Art) aplicados pelos críticos para descrever estruturas aparentemente simples que alguns artistas estavam criando. Quando a arte minimalista começou a surgir, muitos críticos e um público opinativo julgaram-na fria, anônima e imperdoável. Os materiais industriais pré-fabricados frequentemente usados não pareciam “arte”.\n\nDEMPSEY, A. **Estilos, escolhas e movimentos**. São Paulo: Cosac & Naify, 2003 (adaptado).",
+      "enunciado": "![](enem/2022/dia1/img/q039_inline1.jpg)\n\nJUDD, D. **Sem título**. 1969.\n\nDisponível em: https://dasartes.com.br. Acesso em: 16 jun. 2022.\n\nEmbora não fosse um grupo ou um movimento organizado, o Minimalismo foi um dos muitos rótulos (incluindo estruturas primárias, objetos unitários, arte ABC e Cool Art) aplicados pelos críticos para descrever estruturas aparentemente simples que alguns artistas estavam criando. Quando a arte minimalista começou a surgir, muitos críticos e um público opinativo julgaram-na fria, anônima e imperdoável. Os materiais industriais pré-fabricados frequentemente usados não pareciam “arte”.\n\nDEMPSEY, A. **Estilos, escolhas e movimentos**. São Paulo: Cosac & Naify, 2003 (adaptado).",
       "alternativas_introducao": "De acordo com os textos I e II, compreende-se que a obra minimalista é uma",
       "alternativas": [
         "A) Representação da simplicidade pelo artista.",
@@ -1089,7 +1089,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2022/img/q039_principal.jpg",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
       "explicacao": "**Por que a alternativa E está correta:** A obra de Donald Judd combina formas geométricas simples — caixas, cubos, retângulos — em arranjos que ocupam o espaço de modo deliberado. O minimalismo se define por essa combinação de formas sintéticas distribuídas em um ambiente, sem narrativa nem representação.\n\n**Conceito-chave:** Minimalismo (anos 1960) — reduziu a arte a elementos formais essenciais; o objeto e seu lugar no espaço são a obra, sem simbolismo ou referência externa.",
@@ -1213,7 +1213,7 @@
       "dia": 1,
       "numero": 44,
       "titulo": "Questão 44 - ENEM 2022",
-      "enunciado": "**TEXTO I**\n\n![](enem/2022/img/q044_inline1.jpg)\n\nSILVEIRA, R. **In absentia**, 1983. Instalação, 17ª Bienal de São Paulo. Disponível em: www.bienal.org.br. Acesso em: set. 2016 (adaptado).\n\n**TEXTO II**\n\nO termo ready-made foi criado por Marcel Duchamp (1887-1968) para designar um tipo de objeto, por ele inventado, que consiste em um ou mais artigos de uso cotidiano, produzidos em massa, selecionados sem critérios estéticos e expostos como obras de arte em espaços especializados (museus e galerias). Seu primeiro ready-made, de 1912, é uma roda de bicicleta montada sobre um banquinho  (Roda de bicicleta). Ao transformar qualquer objeto em obra de arte, o artista realiza uma crítica radical ao sistema da arte.\n\nDisponível em: www.bienal.org.br. Acesso em: 1 set. 2016 (adaptado)",
+      "enunciado": "**TEXTO I**\n\n![](enem/2022/dia1/img/q044_inline1.jpg)\n\nSILVEIRA, R. **In absentia**, 1983. Instalação, 17ª Bienal de São Paulo. Disponível em: www.bienal.org.br. Acesso em: set. 2016 (adaptado).\n\n**TEXTO II**\n\nO termo ready-made foi criado por Marcel Duchamp (1887-1968) para designar um tipo de objeto, por ele inventado, que consiste em um ou mais artigos de uso cotidiano, produzidos em massa, selecionados sem critérios estéticos e expostos como obras de arte em espaços especializados (museus e galerias). Seu primeiro ready-made, de 1912, é uma roda de bicicleta montada sobre um banquinho  (Roda de bicicleta). Ao transformar qualquer objeto em obra de arte, o artista realiza uma crítica radical ao sistema da arte.\n\nDisponível em: www.bienal.org.br. Acesso em: 1 set. 2016 (adaptado)",
       "alternativas_introducao": "A instalação In absentia propõe um diálogo com o ready-made Roda de bicicleta, demonstrando que",
       "alternativas": [
         "A) As formas de criticar obras do passado se repetem.",
@@ -1229,7 +1229,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2022/img/q044_principal.jpg",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
       "explicacao": "**Por que a alternativa C está correta:** O ready-made de Duchamp transformou objeto cotidiano em arte, criticando o sistema artístico. A instalação In absentia (1983) mantém esse gesto de desafio aos critérios estéticos tradicionais — as criações desmistificam os valores estéticos estabelecidos pelo cânone museológico.\n\n**Conceito-chave:** Arte conceitual e ready-made — questionamento institucional sobre o que é arte; o gesto e o contexto importam mais que a habilidade técnica ou a beleza.",
@@ -1353,7 +1353,7 @@
       "dia": 1,
       "numero": 49,
       "titulo": "Questão 49 - ENEM 2022",
-      "enunciado": "![](enem/2022/img/q049_inline1.png)\n\n**PAZ, A. D. Disponível em: www.ct.ufpb.br. Acesso em: 15 out. 2021. (adaptado.)**",
+      "enunciado": "![](enem/2022/dia1/img/q049_inline1.png)\n\n**PAZ, A. D. Disponível em: www.ct.ufpb.br. Acesso em: 15 out. 2021. (adaptado.)**",
       "alternativas_introducao": "A intensificação da ocupação urbana demonstrada afeta de forma imediata o(a)",
       "alternativas": [
         "A) Nível altimétrico.",
@@ -1369,7 +1369,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2022/img/q049_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
       "explicacao": "**Por que a alternativa B está correta:** A urbanização impermeabiliza o solo (asfalto, concreto), reduz infiltração e aumenta o escoamento superficial. Isso afeta diretamente o ciclo hidrológico — menos infiltração para o lençol freático, mais escoamento, alteração de evapotranspiração e maior risco de enchentes.\n\n**Conceito-chave:** Ciclo da água em meio urbano — impermeabilização altera o equilíbrio entre infiltração, escoamento e evaporação, gerando enchentes e estresse hídrico em cidades.",
@@ -1549,7 +1549,7 @@
       "dia": 1,
       "numero": 56,
       "titulo": "Questão 56 - ENEM 2022",
-      "enunciado": "![](enem/2022/img/q056_inline1.png)\n\n**CAZO. Disponível em: www.humorpolitico.com.br. Acesso em: 21 nov. 2021 (adaptado).**\n\n**TEXTO II**  \nÉ como se os problemas fossem criados pela pandemia quando, em verdade, isso só demonstra o quanto eles sofrem uma tentativa de serem naturalizados. Eles estavam lá, empurrados para debaixo de vários tapetes. Diversos levantamentos realizados indicam que parcela significativa dos estudantes não têm acesso à internet em suas casas, não têm computadores; têm celulares, mas com pacotes baratos que não permitem assistir a todas as aulas. E, caso tenham celulares e dados, pergunta-se: É possível elaborar um texto no celular? É possível interagir na aula remota pelo celular?\n\n**ASSIS. A. E. S. Q. Educação e pandemia. Educação em Revista, n. 37, 2021 (adaptado).**",
+      "enunciado": "![](enem/2022/dia1/img/q056_inline1.png)\n\n**CAZO. Disponível em: www.humorpolitico.com.br. Acesso em: 21 nov. 2021 (adaptado).**\n\n**TEXTO II**  \nÉ como se os problemas fossem criados pela pandemia quando, em verdade, isso só demonstra o quanto eles sofrem uma tentativa de serem naturalizados. Eles estavam lá, empurrados para debaixo de vários tapetes. Diversos levantamentos realizados indicam que parcela significativa dos estudantes não têm acesso à internet em suas casas, não têm computadores; têm celulares, mas com pacotes baratos que não permitem assistir a todas as aulas. E, caso tenham celulares e dados, pergunta-se: É possível elaborar um texto no celular? É possível interagir na aula remota pelo celular?\n\n**ASSIS. A. E. S. Q. Educação e pandemia. Educação em Revista, n. 37, 2021 (adaptado).**",
       "alternativas_introducao": "A crítica contida no texto e na figura evidencia o seguinte aspecto da sociedade contemporárea:",
       "alternativas": [
         "A) Exclusão social.",
@@ -1565,7 +1565,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2022/img/q056_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
       "explicacao": "**Por que a alternativa A está correta:** A pandemia escancarou que muitos estudantes não tinham internet, computador ou pacote de dados adequado para acompanhar aulas remotas. A crítica visual e textual aponta para a exclusão social — a desigualdade preexistente foi amplificada e tornada visível pela crise.\n\n**Conceito-chave:** Exclusão digital como exclusão social — falta de acesso a tecnologia reproduz desigualdades de classe; pandemia transformou desigualdade silenciosa em crise educacional explícita.",
@@ -1801,7 +1801,7 @@
       "dia": 1,
       "numero": 65,
       "titulo": "Questão 65 - ENEM 2022",
-      "enunciado": "![](enem/2022/img/q065_inline1.png)\n\n**Disponível em:https://hdmais.com.br. Acesso em: 8 out. 2021.**",
+      "enunciado": "![](enem/2022/dia1/img/q065_inline1.png)\n\n**Disponível em:https://hdmais.com.br. Acesso em: 8 out. 2021.**",
       "alternativas_introducao": "O ápice da ilustração se traduz por uma conduta social caracterizada pela",
       "alternativas": [
         "A) Cultura do cancelamento.",
@@ -1817,7 +1817,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2022/img/q065_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
       "explicacao": "**Por que a alternativa B está correta:** A ilustração mostra a escalada da violência contra a mulher culminando no homicídio. O ápice dessa conduta social — assassinato de uma mulher por ser mulher — é tipificado como feminicídio, crime previsto na lei brasileira desde 2015.\n\n**Conceito-chave:** Feminicídio — homicídio motivado por gênero (violência doméstica, menosprezo à condição feminina); reconhecer essa especificidade é essencial para políticas de prevenção.",
@@ -1885,7 +1885,7 @@
       "dia": 1,
       "numero": 68,
       "titulo": "Questão 68 - ENEM 2022",
-      "enunciado": "**TEXTO I**  \nA Marinha identifica, na voz de Thomas Barnett, uma ampla região potencialmente insubmissa ou simplesmente irredutível às normas gerais de funcionamento promovidas pelos Estados Unidos e sancionadas pelo Fundo Monetário Internacional, pela Organização Mundial do Comércio e pelo Banco Mundial. E não necessariamente por sua consciência rebelde, mas sim, em muitos casos, pela insubstancialidade de suas instituições estatais.\n\n**TEXTO II**\n\n![](enem/2022/img/q068_inline1.png)\n\nCECEÑA. A. E. Hegemonias e emancipações no século XXI.  \nBuenos Aires: Clacso. 2005.",
+      "enunciado": "**TEXTO I**  \nA Marinha identifica, na voz de Thomas Barnett, uma ampla região potencialmente insubmissa ou simplesmente irredutível às normas gerais de funcionamento promovidas pelos Estados Unidos e sancionadas pelo Fundo Monetário Internacional, pela Organização Mundial do Comércio e pelo Banco Mundial. E não necessariamente por sua consciência rebelde, mas sim, em muitos casos, pela insubstancialidade de suas instituições estatais.\n\n**TEXTO II**\n\n![](enem/2022/dia1/img/q068_inline1.png)\n\nCECEÑA. A. E. Hegemonias e emancipações no século XXI.  \nBuenos Aires: Clacso. 2005.",
       "alternativas_introducao": "As preocupações do governo estadunidense expressas no texto e no mapa evidenciam uma estratégia para",
       "alternativas": [
         "A) Compartilhamento de inovações tecnológicas.",
@@ -1901,7 +1901,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2022/img/q068_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
       "explicacao": "**Por que a alternativa D está correta:** O texto identifica regiões \"insubmissas\" às normas dos EUA, FMI, OMC e Banco Mundial. A preocupação não é militar nem cultural, mas econômica — assegurar a expansão da economia neoliberal global. A estratégia é, portanto, de ampliação da influência econômica.\n\n**Conceito-chave:** Hegemonia econômica — controle pelo capital de instituições financeiras internacionais (Banco Mundial, FMI) impõe regras que beneficiam países centrais e mantêm dependência periférica.",
@@ -1941,7 +1941,7 @@
       "dia": 1,
       "numero": 70,
       "titulo": "Questão 70 - ENEM 2022",
-      "enunciado": "**TEXTO I**\n\n**Interseccionalidade:** intercruzamento de desigualdades que gera padrões complexos de discriminação\n\n![](enem/2022/img/q070_inline1.png)\n\n**Disponível em: www.agenciadenoticias.ibge.gov.br. Acesso em: 2 dez. 2018.**",
+      "enunciado": "**TEXTO I**\n\n**Interseccionalidade:** intercruzamento de desigualdades que gera padrões complexos de discriminação\n\n![](enem/2022/dia1/img/q070_inline1.png)\n\n**Disponível em: www.agenciadenoticias.ibge.gov.br. Acesso em: 2 dez. 2018.**",
       "alternativas_introducao": "Considerando o conceito apresentando no Texto I e os dados apresentados no Texto II, no Brasil, são fatores que intensificam o fenômeno da discriminação:",
       "alternativas": [
         "A) Raça e gênero.",
@@ -1957,7 +1957,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2022/img/q070_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
       "explicacao": "**Por que a alternativa A está correta:** Interseccionalidade analisa como diferentes desigualdades se cruzam, gerando padrões complexos de discriminação. Os dados mostram que mulheres negras são as mais penalizadas — combinação de raça e gênero como fatores que se intensificam mutuamente.\n\n**Conceito-chave:** Interseccionalidade (Kimberlé Crenshaw) — discriminações não são aditivas, são multiplicativas; mulher negra enfrenta combinação específica que não é só \"mulher + negra\" mas algo qualitativamente distinto.",
@@ -2053,7 +2053,7 @@
       "dia": 1,
       "numero": 74,
       "titulo": "Questão 74 - ENEM 2022",
-      "enunciado": "![](enem/2022/img/q074_inline1.png)\n\n**PEREIRA, E. B. et al. Atlas brasileiro de energia solar. São José dos Campos: Inpe, 2006**",
+      "enunciado": "![](enem/2022/dia1/img/q074_inline1.png)\n\n**PEREIRA, E. B. et al. Atlas brasileiro de energia solar. São José dos Campos: Inpe, 2006**",
       "alternativas_introducao": "Uma característica regional que justifica o maior potencial anual médio para o aproveitamento da energia solar é a reduzida",
       "alternativas": [
         "A) Declividade do relevo.",
@@ -2069,7 +2069,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2022/img/q074_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
       "explicacao": "**Por que a alternativa C está correta:** O potencial de aproveitamento solar é maior em regiões com baixa nebulosidade atmosférica (poucas nuvens), pois mais radiação solar atinge a superfície. O Nordeste brasileiro, com clima semiárido e céus limpos a maior parte do ano, é ideal por essa razão.\n\n**Conceito-chave:** Energia solar e clima — radiação solar disponível depende de latitude, nebulosidade e umidade; semiárido tem condições ideais por baixa nebulosidade média anual.",
@@ -2165,7 +2165,7 @@
       "dia": 1,
       "numero": 78,
       "titulo": "Questão 78 - ENEM 2022",
-      "enunciado": "![](enem/2022/img/q078_inline1.png)\n\n**Disponível em: http://imguol.com. Acesso em: 30 mar. 2014 (adaptado).**",
+      "enunciado": "![](enem/2022/dia1/img/q078_inline1.png)\n\n**Disponível em: http://imguol.com. Acesso em: 30 mar. 2014 (adaptado).**",
       "alternativas_introducao": "Considerando-se que a distância entre o local onde os destroços do avião foram avistados e a cidade de Perth é de 2 cm, a escala aproximada dessa representação cartográfica é:",
       "alternativas": [
         "A) 1 : 12 500.",
@@ -2181,7 +2181,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2022/img/q078_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
       "explicacao": "**Por que a alternativa E está correta:** Avistamento de destroços do avião MH370 ocorreu a cerca de 2 500 km de Perth (~250 000 000 cm). Como na imagem essa distância é representada por 2 cm, a escala é 2 / 250 000 000 = 1 / 125 000 000.\n\n**Conceito-chave:** Cálculo de escala — escala = (medida no mapa) / (medida real). Para mapas globais, escalas pequenas como 1:100M são típicas.",
@@ -2277,7 +2277,7 @@
       "dia": 1,
       "numero": 82,
       "titulo": "Questão 82 - ENEM 2022",
-      "enunciado": "![](enem/2022/img/q082_inline1.png)\n\n**Geoestatísticas de recursos naturais da Amazônia Legal. Rio de Janeiro: IBGE, 2011 (adaptado).**",
+      "enunciado": "![](enem/2022/dia1/img/q082_inline1.png)\n\n**Geoestatísticas de recursos naturais da Amazônia Legal. Rio de Janeiro: IBGE, 2011 (adaptado).**",
       "alternativas_introducao": "O mapa espacializa um recurso natural com alto potencial para ocorrência de:",
       "alternativas": [
         "A) Abalos sísmicos periódicos.",
@@ -2293,7 +2293,7 @@
         null,
         null
       ],
-      "imagem_principal": "enem/2022/img/q082_principal.png",
+      "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
       "explicacao": "**Por que a alternativa B está correta:** A Amazônia abriga uma das maiores províncias minerais do mundo (Serra dos Carajás), com altas concentrações de ferro, manganês, cobre, ouro, níquel. O recurso espacializado no mapa indica esse alto potencial para jazidas de minerais metálicos.\n\n**Conceito-chave:** Geologia da Amazônia — escudo cristalino antigo é base de grandes jazidas minerais; mineração é vetor econômico forte mas também causa de desmatamento e conflitos socioambientais.",
