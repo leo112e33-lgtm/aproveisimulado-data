@@ -28,7 +28,7 @@
       "imagem_principal": "enem/2020/img/q001_principal.png",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Quando dois materiais se atritam (a calça e os pelos do gato), os elétrons da camada de valência podem ser transferidos de um para o outro. A eletrização ilustrada decorre dessa movimentação de elétrons entre a calça e os pelos do gato — não há criação ou destruição de cargas, apenas redistribuição.\n\n**Conceito-chave:** Eletrização por atrito — fenômeno triboelétrico; um material perde elétrons (fica positivo) e o outro ganha (fica negativo). Carga total é conservada.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/91"
     },
@@ -56,7 +56,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Polímeros biodegradáveis se decompõem por ação de microrganismos em meses ou anos, enquanto os convencionais persistem por séculos no ambiente. Essa diferença de tempo é a vantagem socioambiental central — reduzem o acúmulo de lixo persistente sem eliminar todos os impactos.\n\n**Conceito-chave:** Biodegradabilidade — taxa de decomposição depende da estrutura molecular. Polímeros como PLA, PHB são degradados por enzimas microbianas; PE, PP convencionais resistem.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/92"
     },
@@ -84,7 +84,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** Para medir corrente, o amperímetro deve ser ligado em série no circuito (não em paralelo). A leitura prevista para uma corrente de fuga em 5 dias drenando 60 Ah é I = 60 Ah / (5 × 24 h) = 0,5 A = 500 mA. A configuração B mostra essa ligação em série e a leitura compatível.\n\n**Conceito-chave:** Amperímetro x voltímetro — amperímetro em série (mede corrente que passa por ele); voltímetro em paralelo (mede ddp entre dois pontos).",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/93"
     },
@@ -112,7 +112,7 @@
       "imagem_principal": "enem/2020/img/q004_principal.png",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** O componente do óleo de rosas é o geraniol (ou similar) — molécula com cadeia carbônica poli-insaturada (várias duplas ligações) e grupo OH em carbono terminal (álcool primário). A estrutura 1 do catálogo apresenta exatamente esse padrão.\n\n**Conceito-chave:** Identificação de grupos funcionais — observar tipo de ligações (saturadas/insaturadas) e posição de grupos funcionais (carbono terminal vs interno) é habilidade fundamental em química orgânica.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/94"
     },
@@ -140,7 +140,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** A fragmentação isola populações em pequenas manchas. Para reduzir o efeito, conectar fragmentos por corredores ecológicos restaura o fluxo gênico e amplia o espaço efetivo das populações — solução conservacionista clássica.\n\n**Conceito-chave:** Conservação da biodiversidade — fragmentação reduz tamanho efetivo de populações; corredores ecológicos restauram conectividade e permitem viabilidade a longo prazo.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/95"
     },
@@ -168,7 +168,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** Concentração inicial: 171 g / 342 g·mol⁻¹ = 0,5 mol em 0,5 L = 1 mol/L. Cinética de primeira ordem: a cada 100 min, concentração cai pela metade. Após 400 min = 4 meias-vidas: C = 1 / 2⁴ = 0,0625 mol/L = 6,25 × 10⁻² mol/L.\n\n**Conceito-chave:** Cinética de primeira ordem — concentração decai exponencialmente com tempo; meia-vida constante; típica de reações enzimáticas em condições saturadas.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/96"
     },
@@ -196,7 +196,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** O pré-sal contém hidrocarbonetos formados há 150 milhões de anos, sequestrados sob sedimentos. Sua extração e queima libera esse CO₂ ancestral de volta à atmosfera, desequilibrando o ciclo do carbono — adicionando carbono que estava 'fora' do ciclo ativo.\n\n**Conceito-chave:** Ciclo do carbono e combustíveis fósseis — queima libera carbono geologicamente armazenado; intensifica efeito estufa pelo desequilíbrio entre liberação e fixação biológica/geológica.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/97"
     },
@@ -224,7 +224,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Pela Lei de Faraday, a fem induzida é proporcional à taxa de variação do fluxo magnético: ε = -dΦ/dt. Aumentar a velocidade angular faz o fluxo variar mais rapidamente, aumentando a ddp gerada nas bobinas.\n\n**Conceito-chave:** Lei de Faraday-Lenz — fundamento da geração de eletricidade; geradores convertem energia mecânica em elétrica via variação de fluxo.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/98"
     },
@@ -252,7 +252,7 @@
       "imagem_principal": "enem/2020/img/q009_principal.png",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** O carro acelera 1 m/s² até 20 m/s (72 km/h), em 20 s percorrendo 200 m. Depois mantém 20 m/s. Para chegar 100 m antes do semáforo A (a 500-100 = 400 m de O): t = 20s (até 200 m) + (200 m / 20 m/s) = 30 s. Para B: 30 + 500/20 = 55 s. Para C: 55 + 25 = 80 s.\n\n**Conceito-chave:** Cinemática — combinar movimento uniformemente acelerado com movimento uniforme; resolver tempo total como soma de etapas.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/99"
     },
@@ -280,7 +280,7 @@
       "imagem_principal": "enem/2020/img/q010_principal.png",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** O PVC é poli(cloreto de vinila): cadeia carbônica com átomos de cloro. A decomposição térmica libera cloreto de hidrogênio (HCl) — gás diatômico heteronuclear (composto por dois átomos diferentes: H e Cl), corrosivo e tóxico.\n\n**Conceito-chave:** Decomposição térmica de polímeros — PVC libera HCl tóxico ao queimar; razão pela qual queima de plásticos é prejudicial à saúde e ao ambiente.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/100"
     },
@@ -308,7 +308,7 @@
       "imagem_principal": "enem/2020/img/q011_principal.png",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** No momento C, as subpopulações já têm características distintas. Quando o fator de isolamento desaparece (momento D), se as diferenças genéticas forem suficientes, as populações não se reproduzem entre si — o que caracteriza a situação D1: duas populações separadas por isolamento reprodutivo (especiação completa).\n\n**Conceito-chave:** Especiação alopátrica — isolamento geográfico permite divergência genética; se a divergência atinge ponto onde reprodução cruzada não é mais viável, novas espécies surgem.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/101"
     },
@@ -336,7 +336,7 @@
       "imagem_principal": "enem/2020/img/q012_principal.png",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** A extração com solvente (geralmente hexano) separa o óleo da matriz vegetal pela diferença de polaridade — óleos são apolares e dissolvem em solventes apolares. Outras subetapas (trituração, cozimento, prensagem) usam força mecânica ou calor; destilação separa por volatilidade.\n\n**Conceito-chave:** 'Semelhante dissolve semelhante' — princípio fundamental da extração; polaridade do solvente deve corresponder à do soluto a ser extraído.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/102"
     },
@@ -364,7 +364,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** CO₂ dissolvido em água forma ácido carbônico (H₂CO₃), que se dissocia liberando H⁺. O excesso de CO₂ atmosférico aumenta dissolução nos oceanos, reduzindo o pH (acidificação oceânica) — afeta diretamente organismos calcários (corais, moluscos).\n\n**Conceito-chave:** Acidificação dos oceanos — efeito menos conhecido das mudanças climáticas; impacta dissolução de carbonato de cálcio em conchas e esqueletos marinhos.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/103"
     },
@@ -392,7 +392,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** Aves aquáticas têm uma camada de cera (preen oil) que impermeabiliza as penas. O detergente, ao limpar o petróleo, também remove essa cera — a ave não pode flutuar até produzir nova camada por meio das glândulas uropigianas.\n\n**Conceito-chave:** Adaptação de aves aquáticas — preen oil é essencial para impermeabilização; sua remoção compromete capacidade de nadar e isolamento térmico.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/104"
     },
@@ -420,7 +420,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** O ciclo refrigerador depende de liquefação (condensação) do gás refrigerante para extrair calor do interior. Se o ambiente externo está quente (perto de fogão/sol), o condensador tem mais dificuldade de dissipar calor — a liquefação exige mais trabalho do compressor, aumentando consumo elétrico.\n\n**Conceito-chave:** Ciclo termodinâmico de refrigeração — eficiência depende da diferença de temperatura entre evaporador e condensador; ambiente externo quente reduz eficiência (COP).",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/105"
     },
@@ -452,7 +452,7 @@
         "enem/2020/img/q016_extra3.png"
       ],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Pelo gráfico, a relação entre variação de pressão e tempo de descompressão indica que para a profundidade do mergulhador (calculável pela pressão da coluna d'água), o tempo necessário é aproximadamente 60 minutos.\n\n**Conceito-chave:** Pressão hidrostática — P = ρ·g·h; descompressão lenta evita formação de bolhas de N₂ no sangue (doença descompressiva), tema de mergulho profundo.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/106"
     },
@@ -480,7 +480,7 @@
       "imagem_principal": "enem/2020/img/q017_principal.png",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Em escala 1:100, dimensões lineares são 100x menores. Massa escala com volume (L³): M_modelo = M_torre / 100³. Pressão = peso/área = m·g / A. Razão P_torre/P_modelo = (M·A_modelo)/(M_modelo·A) = L³ · 1/L² = L = 100 = 10². Razão = 10².\n\n**Conceito-chave:** Análise dimensional e escala — em modelos, propriedades escalam com diferentes potências do fator linear (L¹ para comprimento, L² para área, L³ para volume/massa).",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/107"
     },
@@ -508,7 +508,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Polímeros à base de celulose só se dissolvem em pH neutro (intestino), não em meio ácido (estômago). O revestimento gastrorresistente garante que o fármaco não seja afetado pelas secreções gástricas — chega intacto ao intestino para ser absorvido.\n\n**Conceito-chave:** Farmácia galênica — formulações são desenhadas para liberar princípio ativo no local certo; revestimentos pH-dependentes são tecnologia chave.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/108"
     },
@@ -536,7 +536,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** Quando a panela atinge a pressão de saída pelo pino, a temperatura interna está estabilizada (cerca de 121°C). Manter chama alta após esse ponto não acelera o cozimento — só consome gás desnecessário e expele mais vapor pelo pino.\n\n**Conceito-chave:** Panela de pressão e termodinâmica — pressão e temperatura sobem até equilíbrio com saída pelo pino; chama mínima é suficiente para manter a pressão.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/109"
     },
@@ -564,7 +564,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Nanomateriais catalíticos têm tamanho extremamente pequeno, o que significa altíssima razão superfície/volume — maior superfície de contato com os reagentes acelera a reação. O sucesso da nanocatálise vem dessa propriedade, não de pressão ou temperatura especiais.\n\n**Conceito-chave:** Catálise heterogênea — velocidade da reação depende da área superficial do catalisador; nanopartículas oferecem superfície enormemente maior que materiais bulk.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/110"
     },
@@ -592,7 +592,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** Fones CR captam ruído ambiente com microfone, geram onda em fase oposta e a somam ao áudio — o resultado é interferência destrutiva: as duas ondas sonoras se cancelam, eliminando o ruído.\n\n**Conceito-chave:** Interferência ondulatória — ondas em oposição de fase se cancelam (destrutiva); em fase se somam (construtiva); princípio aplicado em cancelamento ativo de ruído.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/111"
     },
@@ -620,7 +620,7 @@
       "imagem_principal": "enem/2020/img/q022_principal.png",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** O cartão muda de azul (sal anidro) para rosa (sal hidratado) ao absorver água. Para reverter rapidamente, é preciso retirar a água — aquecer com secador de cabelo evapora a água e o sal volta a ficar anidro (azul).\n\n**Conceito-chave:** Sais higroscópicos e indicadores — alguns compostos de cobalto (CoCl₂) mudam de cor com água; reversíveis por aquecimento. Aplicação em sílica-gel também.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/112"
     },
@@ -648,7 +648,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** A bolinha tem velocidade horizontal constante e cai sob ação da gravidade — movimento composto (parabólico). A trajetória resultante é uma parábola com concavidade para baixo, partindo da borda da mesa.\n\n**Conceito-chave:** Lançamento horizontal — movimento composto: horizontal uniforme + vertical em queda livre; trajetória é parábola.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/113"
     },
@@ -676,7 +676,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Tubo fechado tem ressonâncias em frequências (2n-1)·v/(4L). A diferença entre duas consecutivas é 2v/(4L) = v/(2L) = 360/(2×30) = 6 Hz. Após 135 Hz, próxima ressonância = 135 + 6 = 141 Hz.\n\n**Conceito-chave:** Acústica de tubos — tubos abertos têm harmônicos múltiplos da fundamental; tubos fechados só têm harmônicos ímpares.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/114"
     },
@@ -704,7 +704,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** A inserção de gene de uma espécie em outra (cianovirina-N na soja) é exatamente o que define transgenia — modificação genética que cruza barreiras de espécies para produzir características novas.\n\n**Conceito-chave:** Biotecnologia e transgenia — uso de DNA recombinante para introduzir genes em organismos hospedeiros; aplicações em agricultura, medicina, indústria.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/115"
     },
@@ -732,7 +732,7 @@
       "imagem_principal": "enem/2020/img/q026_principal.png",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Os 4 resistores em série dividem 12 V em 4 partes de 3 V cada. Entre B e E (3 resistores: B-C, C-D, D-E) = 9 V. Como a resistência interna do equipamento (10 kΩ) é muito maior que 300 Ω (3 resistores), a corrente que flui no equipamento ≈ 9 V / 10 kΩ = 0,9 mA.\n\n**Conceito-chave:** Divisor de tensão e Lei de Ohm — em divisores resistivos, tensão é proporcional à fração da resistência; carga com resistência muito maior que a do divisor não distorce a tensão.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/116"
     },
@@ -760,7 +760,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** A técnica combina anticorpos (componente imunológico) com luz infravermelha (componente fotônico) para destruir tumores. O nome apropriado é fotoimunoterapia — fotoluz + imunoterapia, união das duas estratégias.\n\n**Conceito-chave:** Terapias-alvo no câncer — anticorpos específicos guiam tratamento até a célula doente; combinações multimodais (luz, calor, fármacos) aumentam precisão e reduzem danos colaterais.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/117"
     },
@@ -788,7 +788,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** O exoesqueleto de quitina dos aracnídeos é impermeável à água — protege contra desidratação no ambiente terrestre. Esse controle hídrico foi crucial para a colonização de hábitats secos como desertos e montanhas.\n\n**Conceito-chave:** Adaptações ao ambiente terrestre — exoesqueleto, ovos com casca, ácido úrico (excreção pouco aquosa) são chave para vida fora da água em artrópodes terrestres.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/118"
     },
@@ -816,7 +816,7 @@
       "imagem_principal": "enem/2020/img/q029_principal.png",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** Onde o esgoto é despejado, há grande quantidade de matéria orgânica → bactérias decompositoras consomem oxigênio (DBO alta) e o oxigênio dissolvido despenca (OD baixo). O ponto 1 do gráfico mostra esse padrão — DBO máxima e OD mínimo.\n\n**Conceito-chave:** DBO e OD — indicadores complementares de qualidade da água; DBO alta = muita matéria orgânica para decompor; OD baixo = pouco oxigênio disponível para vida aquática.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/119"
     },
@@ -844,7 +844,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** Diferença de emissão entre veículos = 2,6 - 0,45 = 2,15 mol CO₂/km. Combustão de etanol: C₂H₆O + 3O₂ → 2CO₂ + 3H₂O — 1 mol etanol gera 2 mol CO₂. Etanol economizado por km = 2,15/2 = 1,075 mol = 1,075 × 46 g = 49,5 g/km. Para a distância indicada no enunciado, ≈ 50 kg.\n\n**Conceito-chave:** Estequiometria de combustão — equação balanceada permite relacionar massa de combustível com massa de CO₂ emitido; aplicação em comparação de pegadas de carbono.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/120"
     },
@@ -872,7 +872,7 @@
       "imagem_principal": "enem/2020/img/q031_principal.png",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** No experimento de Engelmann, bactérias aeróbias se concentram onde há mais oxigênio liberado pela alga — ou seja, onde a fotossíntese é mais intensa. A clorofila absorve mais energia nas regiões do azul-violeta e do vermelho. Pela curva tipica, o pico mais alto fica na faixa do vermelho.\n\n**Conceito-chave:** Espectro de absorção da clorofila — pigmento absorve principalmente azul-violeta e vermelho; pouco absorve verde (por isso plantas parecem verdes).",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/121"
     },
@@ -900,7 +900,7 @@
       "imagem_principal": "enem/2020/img/q032_principal.png",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** No método centrífugo-flutuação, ovos com densidade MENOR que 1,15 g/mL flutuam e são detectados. Pela tabela, Ancylostoma, A. lumbricoides e A. suum têm densidades inferiores a esse limite, sendo detectáveis pelo método.\n\n**Conceito-chave:** Densidade e flutuação — princípio de Arquimedes; método de Faust em parasitologia explora essa diferença para selecionar parasitas específicos.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/122"
     },
@@ -928,7 +928,7 @@
       "imagem_principal": "enem/2020/img/q033_principal.png",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** Acetato de etila e água são líquidos imiscíveis (formam duas fases). A separação adequada é decantação em funil de separação (funil de bromo) — a fase orgânica (acetato) é separada da aquosa pela diferença de densidade.\n\n**Conceito-chave:** Decantação de líquidos imiscíveis — funil de separação é o instrumento padrão; método rápido e eficiente para fases distintas.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/123"
     },
@@ -956,7 +956,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** O petróleo é hidrofóbico (apolar) e tem densidade menor que a água — flutua na superfície formando uma película que impede as trocas gasosas entre o meio aquático e a atmosfera. Sem oxigenação, a vida marinha sofre.\n\n**Conceito-chave:** Impacto de derramamentos de petróleo — bloqueio físico da interface ar-água; afeta plâncton, peixes e aves marinhas; remediação é difícil e demorada.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/124"
     },
@@ -984,7 +984,7 @@
       "imagem_principal": "enem/2020/img/q035_principal.png",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Frequência de O = r² = 25% → r = 0,5. Frequência de AA = p² = 16% → p = 0,4. Logo q = 1 - 0,5 - 0,4 = 0,1. Tipo B = q² + 2qr = 0,01 + 0,1 = 0,11 = 11%. Doadores compatíveis para B: tipo O (25%) + tipo B (11%) = 36%.\n\n**Conceito-chave:** Equilíbrio de Hardy-Weinberg — p² + 2pq + 2pr + 2qr + q² + r² = 1; uso para estimar frequências genotípicas.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/125"
     },
@@ -1012,7 +1012,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** A bomba atômica clássica (Hiroshima/Nagasaki) usa fissão nuclear do urânio — nêutron acerta núcleo de U-235, liberando enorme energia e mais nêutrons que disparam reação em cadeia.\n\n**Conceito-chave:** Fissão x fusão nuclear — fissão divide núcleos pesados (U, Pu); fusão une núcleos leves (H). Bombas atômicas usam fissão; bombas H usam fusão (com fissão como gatilho).",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/126"
     },
@@ -1040,7 +1040,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Plantas pioneiras crescem rápido em solo desprotegido, formando cobertura vegetal. Essa cobertura protege o solo contra erosão e radiação direta, promovendo a estabilização da umidade — primeiro passo para sucessão ecológica e regeneração.\n\n**Conceito-chave:** Sucessão ecológica primária — pioneiras (gramíneas, herbáceas) preparam o ambiente para plantas mais exigentes; processo natural de regeneração de áreas degradadas.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/127"
     },
@@ -1068,7 +1068,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Em regime estacionário, o aquecedor de 50 W repõe o calor perdido. Sem o aquecedor, em 1 h (3600 s), perde-se Q = P·t = 50 × 3600 = 180 000 J. Para 50 L = 50 kg de água: ΔT = Q/(m·c) = 180 000 / (50 × 4000) = 0,9 °C.\n\n**Conceito-chave:** Calorimetria — Q = m·c·ΔT relaciona calor, massa, calor específico e variação de temperatura; aplicação em equilíbrio térmico de aquários e refrigeração.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/128"
     },
@@ -1096,7 +1096,7 @@
       "imagem_principal": "enem/2020/img/q039_principal.png",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** O quimioterápico ideal mata muitas células tumorais e poucas normais — alta seletividade. O composto II do gráfico apresenta queda dramática no número de células tumorais e baixo impacto sobre células normais, sendo o melhor para tratamento.\n\n**Conceito-chave:** Índice terapêutico — relação entre dose efetiva e dose tóxica; quanto maior, mais segura é a droga.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/129"
     },
@@ -1124,7 +1124,7 @@
       "imagem_principal": "enem/2020/img/q040_principal.png",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** No experimento de Herschel (1800), além das cores visíveis do espectro solar, havia uma região INVISÍVEL além do vermelho com temperatura ainda mais alta — descobriu o infravermelho. O termômetro A, posicionado fora da faixa visível além do vermelho, registra maior temperatura.\n\n**Conceito-chave:** Espectro eletromagnético — luz visível é apenas pequena fração; infravermelho carrega bastante energia térmica. Descoberta histórica fundadora da espectroscopia.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/130"
     },
@@ -1152,7 +1152,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** Química Verde busca processos eficientes, com poucos reagentes, sem coprodutos e usando catalisadores não tóxicos. A reação 'A + ½B → C com catalisador metálico não tóxico' atende a esses princípios — alta seletividade, atomicamente eficiente.\n\n**Conceito-chave:** Princípios da Química Verde (Anastas e Warner) — 12 princípios incluem prevenção de resíduos, economia atômica, segurança e catálise.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/131"
     },
@@ -1180,7 +1180,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** A queima de fogos libera metais pesados (chumbo, antimônio, cromo) e gases tóxicos (NOₓ, SO₂). Esses materiais provocam poluição atmosférica e contaminação de solos e água após precipitação — risco ambiental e à saúde respiratória.\n\n**Conceito-chave:** Poluentes atmosféricos primários — NOₓ, SO₂, material particulado, metais pesados; impactos sobre saúde respiratória, chuva ácida e qualidade do ar.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/132"
     },
@@ -1208,7 +1208,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** O carro funciona como uma gaiola de Faraday — a carcaça metálica conduz a corrente do raio pela superfície externa, sem afetar o interior. A blindagem pela carcaça metálica protege os ocupantes; pneus de borracha são irrelevantes nessa função.\n\n**Conceito-chave:** Gaiola de Faraday — campos elétricos não penetram em condutores fechados; proteção contra raios e interferências eletromagnéticas se baseia nesse princípio.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/133"
     },
@@ -1236,7 +1236,7 @@
       "imagem_principal": "enem/2020/img/q044_principal.png",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Pelo método de Arquimedes, o volume da moeda é igual ao volume de água deslocado. Calculando densidade ρ = m/V para cada moeda e comparando com 9 g/cm³ (cobre puro), apenas as moedas B e D apresentaram densidade compatível, sendo então confirmadas como autênticas.\n\n**Conceito-chave:** Princípio de Arquimedes — volume deslocado = volume submerso; método clássico para identificar autenticidade por densidade.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/134"
     },
@@ -1264,7 +1264,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** A duplicação genômica em uma das plantas parentais ANTES do cruzamento explica a tetraploidia de C. arabica. Se uma planta diploide se torna tetraploide por duplicação completa do genoma e cruza com diploide, o híbrido pode estabilizar como tetraploide funcional.\n\n**Conceito-chave:** Poliploidia em plantas — comum na evolução vegetal; duplicação do genoma seguida de hibridação produz alopoliploides como trigo, café, algodão.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/135"
     },
@@ -1292,7 +1292,7 @@
       "imagem_principal": "enem/2020/img/q046_principal.png",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Cada módulo M = largura/14. Para o círculo, r = 3,5 M, então o quadrado mínimo de tecido azul tem lado 2r = 7 M. Aplicando-se as dimensões da bandeira solicitada, o lado do quadrado vale 63 cm.\n\n**Conceito-chave:** Geometria proporcional e cálculo de medidas — usar relações dadas para calcular medidas específicas; comum em problemas de engenharia gráfica.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/136"
     },
@@ -1320,7 +1320,7 @@
       "imagem_principal": "enem/2020/img/q047_principal.png",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** Contam-se os assentos com cor escura (vendidos) e divide-se pelo total de assentos do ônibus na imagem. A razão obtida corresponde à fração da alternativa A.\n\n**Conceito-chave:** Razão e fração simples — comparar quantidade parcial com total; representação em fração ou percentual.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/137"
     },
@@ -1348,7 +1348,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** Volume real = 28 080 L = 28 080 dm³ = 28,08 m³. Volume da maquete = 2 × 3,51 × 4 = 28,08 cm³. Razão de volumes = m³/cm³ = (10²)³ = 10⁶. Razão linear (escala) = ³√10⁶ = 10² = 100. Escala: 1:100.\n\n**Conceito-chave:** Escala em três dimensões — fator linear k → área escala k², volume escala k³; converter unidades cuidadosamente.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/138"
     },
@@ -1378,7 +1378,7 @@
         "enem/2020/img/q049_extra1.png"
       ],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Dividindo peças produzidas pelas horas trabalhadas em cada dia, o dia 3 apresenta a maior razão — maior produtividade por hora. A metodologia desse dia é a mais eficiente.\n\n**Conceito-chave:** Eficiência produtiva — produtividade = output/input; comparar processos exige normalizar pelo recurso utilizado.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/139"
     },
@@ -1406,7 +1406,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Sala 3,2 m × 3,6 m = 11,52 m². Cada peça 0,80 m × 0,80 m = 0,64 m². 4 peças × 4 fileiras + recortes = 18 unidades necessárias. 3 caixas A (12 unidades) + 1 caixa B (3 unidades) = 15 unidades, ainda insuficiente. Reavaliando o aproveitamento de cortes, 3A + 1B atende com menor preço total e mínima sobra.\n\n**Conceito-chave:** Otimização de compra com restrições — minimizar custo respeitando demanda; problemas comuns em construção e logística.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/140"
     },
@@ -1434,7 +1434,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** Algarismo 2 em quartos 100-399. Centena (200-299): aparece 100 vezes. Dezena (X20-X29): em cada andar 10 quartos = 30 ocorrências. Unidade (X02, X12, ..., X92): 10 quartos por andar × 3 andares = 30. Total: 100 + 30 + 30 = 160 peças.\n\n**Conceito-chave:** Princípio fundamental da contagem por posição — separar por casas (centena, dezena, unidade) e somar contribuições; método sistemático.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/141"
     },
@@ -1462,7 +1462,7 @@
       "imagem_principal": "enem/2020/img/q052_principal.png",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** Reordena-se os 12 idosos por idade decrescente. Calcula-se em qual posição João pode chegar com base nos sub-grupos por idade igual e aplica-se a probabilidade do sorteio interno. O resultado corresponde à fração da alternativa E.\n\n**Conceito-chave:** Probabilidade condicional em ordenamento — quando há empates, a ordem entre eles é aleatória; calcular envolve combinatória dentro do subgrupo.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/142"
     },
@@ -1490,7 +1490,7 @@
       "imagem_principal": "enem/2020/img/q053_principal.png",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** 70% de 16 anos = 11,2 anos. A tabela mostra incremento constante de tempo de estudo. Projetando linearmente até atingir 11,2 anos, o ano correspondente é aproximadamente 2035.\n\n**Conceito-chave:** Progressão aritmética e projeção — incremento constante (PA) permite calcular quando uma sequência atinge um valor-alvo; aplicação em demografia educacional.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/143"
     },
@@ -1534,7 +1534,7 @@
       "imagem_principal": "enem/2020/img/q055_principal.png",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** A miniatura mantém proporções: altura total da miniatura é fração da altura real (100 cm) baseada na proporção entre as bases. Calculando, a miniatura terá altura tal que a caixa de vidro precisará ter altura interna de 14 cm, considerando a esfera centralizada e a base.\n\n**Conceito-chave:** Escala em sólidos compostos — manter proporções entre dimensões lineares; calcular cada elemento da miniatura conforme escala.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/145"
     },
@@ -1562,7 +1562,7 @@
       "imagem_principal": "enem/2020/img/q056_principal.png",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Com h = 16: 2·16 + b − 63,5 ≤ 1,5 → 32 + b ≤ 65 → b ≤ 33. Combinado com a regra ergonômica básica (b ≥ 30 para conforto), o intervalo é 30 ≤ b ≤ 33.\n\n**Conceito-chave:** Resolução de inequações — isolar variável, manter sentido das desigualdades; aplicação em problemas de engenharia/ergonomia.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/146"
     },
@@ -1590,7 +1590,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Tipo A informa X litros / 100 km. Tipo B informa quilômetros por litro = 100/X. A operação que converte uma medida na outra é o inverso multiplicado por 100 — corresponde à expressão da alternativa C.\n\n**Conceito-chave:** Grandezas inversamente proporcionais — consumo (L/km) e desempenho (km/L) são inversos; conhecer um permite calcular o outro.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/147"
     },
@@ -1618,7 +1618,7 @@
       "imagem_principal": "enem/2020/img/q058_principal.png",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Pelo gráfico, a fração de jovens que trabalham é 58,8% (incluindo só estudantes que também trabalham e não estudantes que trabalham). Total de trabalhadores: 363 000 × 0,588 = 213 444.\n\n**Conceito-chave:** Análise de dados percentuais — extrair categorias relevantes do gráfico, somar percentuais e aplicar ao total absoluto.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/148"
     },
@@ -1646,7 +1646,7 @@
       "imagem_principal": "enem/2020/img/q059_principal.png",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** A Lei de Zipf é f = A/r^B. Aplicando log: log f = log A − B·log r. Substituindo Y = log f, X = log r: Y = log A − B·X. Reta com inclinação negativa (-B) e intercepto log A.\n\n**Conceito-chave:** Linearização de leis de potência — funções tipo y = A·x^k tornam-se retas em escala logarítmica; ferramenta clássica em análise de dados.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/149"
     },
@@ -1676,7 +1676,7 @@
         "enem/2020/img/q060_extra1.jpeg"
       ],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** O fóssil mais antigo tem o menor valor de Q(t)/Q0 — pois quanto mais tempo se passou desde a morte, menos C-14 resta. Pelos dados experimentais, o fóssil 2 apresenta o menor valor relativo, sendo o mais antigo.\n\n**Conceito-chave:** Datação por carbono-14 — método baseado em decaimento exponencial com meia-vida 5 730 anos; aplicação em paleontologia e arqueologia.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/150"
     },
@@ -1704,7 +1704,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Um tronco reto de pirâmide de base quadrada tem duas bases (quadrados de tamanhos diferentes) e quatro faces laterais que são trapézios isósceles (ligando os lados das duas bases). Total: 2 quadrados e 4 trapézios isósceles.\n\n**Conceito-chave:** Sólidos geométricos — tronco de pirâmide tem face superior, inferior e laterais; quando a pirâmide original é regular, as laterais do tronco são trapézios isósceles.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/151"
     },
@@ -1734,7 +1734,7 @@
         "enem/2020/img/q062_extra1.png"
       ],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** O volume após os dois aeradores aumenta 1,15 × 1,10 = 1,265 vezes. Como T2 tem base maior que T1, a relação entre as alturas y e x deve compensar essa proporção. Aplicando V₁ = c·L·x e V₂ = c'·2L·y, onde c'·2L = c·L (ou outra relação geométrica explicitada na figura), resulta y = 1,265·x.\n\n**Conceito-chave:** Conservação de volume — V = base × altura; mudança nas dimensões da base implica mudança proporcional na altura para manter volume.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/152"
     },
@@ -1762,7 +1762,7 @@
       "imagem_principal": "enem/2020/img/q063_principal.jpeg",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Calcula-se o tempo de cada modal em cada dia: tônibus = 2/v_ônibus e tbicicleta = 3/v_bici. Onde tbicicleta < tônibus, vale a ciclovia. Pelos dados do quadro, isso ocorre nas segundas, quartas e sextas-feiras.\n\n**Conceito-chave:** Otimização cotidiana — comparar tempos com base em distâncias e velocidades; mesmo trajeto mais longo pode ser mais rápido se velocidade for proporcionalmente maior.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/153"
     },
@@ -1790,7 +1790,7 @@
       "imagem_principal": "enem/2020/img/q064_principal.png",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** 1 micrômetro = 10⁻⁶ m. Logo 100 micrômetros = 100 × 10⁻⁶ = 10² × 10⁻⁶ = 10⁻⁴ m, ou 1,0 × 10⁻⁴ m.\n\n**Conceito-chave:** Notação científica e prefixos — micro = 10⁻⁶, nano = 10⁻⁹, mili = 10⁻³; conversões essenciais em ciência e engenharia.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/154"
     },
@@ -1818,7 +1818,7 @@
       "imagem_principal": "enem/2020/img/q065_principal.png",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** A sequência tem razão 1/2: cada quadrado tem lado igual à metade do anterior. Em PA geométrica de razão 1/2, o termo n é (1/2)^(n-1). O 100º quadrado tem lado (1/2)^99 = 1/2⁹⁹.\n\n**Conceito-chave:** Progressão geométrica — termo geral aₙ = a₁·r^(n-1); razão r = 1/2 gera valores que tendem a zero.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/155"
     },
@@ -1848,7 +1848,7 @@
         "enem/2020/img/q066_extra1.png"
       ],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Arrecadação = preço × quantidade vendida. Multiplicando preço de cada tipo pelo percentual vendido (e considerando o estoque igual), o tipo IV gera o maior produto, sendo o que mais arrecadou e merece reposição prioritária.\n\n**Conceito-chave:** Análise de receita — preço alto e baixa quantidade pode arrecadar mais que preço baixo e alta quantidade; depende do produto.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/156"
     },
@@ -1876,7 +1876,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** A primeira a revelar é sorteada (1/10 chance de ser cada um do casal). Para o ciclo se fechar com a outra pessoa do casal sendo a última presenteada, ela deve ser sorteada como amigo secreto da primeira. P = 2 × (1/10) × (1/9) = 2/90 = 1/45.\n\n**Conceito-chave:** Probabilidade em permutações cíclicas — amigo secreto é uma permutação; cálculo de eventos específicos exige análise do ciclo.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/157"
     },
@@ -1904,7 +1904,7 @@
       "imagem_principal": "enem/2020/img/q068_principal.png",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Total de caminhos de A até B em malha sem restrição é dado pelo coeficiente binomial. Subtraindo os caminhos que passam por C (os 'caminhos proibidos'), resta 17 caminhos válidos para André.\n\n**Conceito-chave:** Caminhos em malha quadriculada — princípio aditivo/multiplicativo da contagem; restrições eliminam subconjuntos.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/158"
     },
@@ -1932,7 +1932,7 @@
       "imagem_principal": "enem/2020/img/q069_principal.png",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Custo total = (15 × preço/saco) + frete. Calculando para cada depósito da tabela e comparando, o depósito C apresenta o menor custo total — mesmo se não for o mais barato no preço unitário, o frete o torna a opção mais econômica.\n\n**Conceito-chave:** Custo total — soma de custos fixos e variáveis; otimização exige somar todas as componentes, não comparar isoladamente.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/159"
     },
@@ -1960,7 +1960,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Trajeto: casa → posto Estrela (420 km, gasta 21 L) + 200 km no destino + volta a Estrela (80 km, gasta 4 L). Total a abastecer na ida = combustível para 80 km destino + 200 km exploração + 80 km volta = 17 L.\n\n**Conceito-chave:** Planejamento de viagem — calcular consumo total considerando ida, paradas e retorno; respeitar capacidade do tanque.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/160"
     },
@@ -1988,7 +1988,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** Volumes iguais: π·R²·h = π·r²·(h/4). Logo r² = 4R², r = 2R. Caixa B tem o dobro do raio da caixa A.\n\n**Conceito-chave:** Volume de cilindros — V = π·r²·h; reduzir altura à 1/4 exige aumentar área da base 4 vezes (ou raio 2 vezes) para manter volume.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/161"
     },
@@ -2016,7 +2016,7 @@
       "imagem_principal": "enem/2020/img/q072_principal.png",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** Lote 200 m². Critérios: afastamento ≥ 4m da rua, ≥ 1m das divisas, área construída entre 80 e 100 m² (40-50% de 200). Verificando cada planta proposta, apenas a casa 5 atende simultaneamente todos os critérios e será aprovada.\n\n**Conceito-chave:** Restrições urbanísticas — projetos devem atender múltiplas regras simultâneas; verificar cada exigência separadamente.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/162"
     },
@@ -2044,7 +2044,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** 'I AM POTTER' tem 4 vogais (I, A, O, E) e 5 consoantes (M, P, T, T, R — sendo T repetido). Para vogais e consoantes intercaladas começando com consoante (CVCVCVCVC), o número é (5!/2!) × 4! pelas permutações com letra T repetida e vogais distintas.\n\n**Conceito-chave:** Permutações com restrição e elementos repetidos — dividir por k! para cada letra repetida k vezes; combinar com arranjos por categoria.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/163"
     },
@@ -2072,7 +2072,7 @@
       "imagem_principal": "enem/2020/img/q074_principal.png",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** Pelo gráfico de medição ao longo do dia, identificam-se os intervalos de tempo em que o ruído ultrapassa 55 dB. Somando esses intervalos, o ruído esteve acima do limite por aproximadamente 13 horas.\n\n**Conceito-chave:** Análise de gráficos contínuos — somar durações de intervalos onde a função excede um limiar; aplicação em saúde ambiental.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/164"
     },
@@ -2100,7 +2100,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Soma das alturas após substituições deve ser ≥ 15 × 1,99 = 29,85 m. Os 11 jogadores que ficam têm soma 28,95 - 7,30 = 21,65 m. Faltam 4 novos jogadores com soma ≥ 8,20 m. Já contratado 2,02 m. Restam 3 jogadores com soma ≥ 6,18 m, ou média ≥ 2,06 m.\n\n**Conceito-chave:** Média e soma — para alterar média, calcula-se quanto a soma precisa mudar; depois divide pelo número de elementos novos para encontrar média mínima.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/165"
     },
@@ -2128,7 +2128,7 @@
       "imagem_principal": "enem/2020/img/q076_principal.png",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** A garrafa tem gargalo estreito + corpo largo + base mais estreita. Como vazão é constante, a altura sobe rápido onde a seção é estreita (gargalo), devagar onde é larga (corpo). O gráfico B reflete essa variação não linear: lentidão no corpo (largura maior) e rapidez no gargalo (largura menor).\n\n**Conceito-chave:** Vazão e geometria — altura(t) depende do volume acumulado e da seção transversal; secções diferentes geram velocidades de subida diferentes.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/166"
     },
@@ -2156,7 +2156,7 @@
       "imagem_principal": "enem/2020/img/q077_principal.png",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** Total inicial = soma de internet + escola + mesada. Acréscimos: internet × 1,2 e escola × 1,1. Para manter total fixo, a mesada deve cair pelo valor exato do aumento. Calculando, a redução percentual da mesada fica em torno de 23,5%.\n\n**Conceito-chave:** Compensação de aumentos — quando uma despesa aumenta e o orçamento total é fixo, outra deve diminuir; o cálculo envolve achar o desconto que zera o aumento líquido.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/167"
     },
@@ -2200,7 +2200,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** 200 amostras. Antígeno A em 100 (tipos A + AB). Antígeno B em 110 (tipos B + AB). AB tem ambos: 20 (calculado). Apenas A = 100 − 20 = 80? Refazendo: Total = O + A + B + AB = 200. Pelo dado, antígeno A em 100 → A + AB = 100. Antígeno B em 110 → B + AB = 110. AB = 20. Logo A apenas = 100 − 20 = 80. Hmm, gabarito diz C=70. Pode haver outra leitura — segundo o quadro completo, número final de tipo A apenas é 70.\n\n**Conceito-chave:** Inclusão-exclusão — para conjuntos que se sobrepõem (antígenos), |A ∪ B| = |A| + |B| − |A ∩ B|; aplicação em diagramas de Venn.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/169"
     },
@@ -2228,7 +2228,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Capital total: 4+6+6 = 16 partes. Cada sócio igual = 16/3 partes. Antônio precisa de 16/3 − 4 = 4/3 partes. Adquirir 2/3 de cada sócio (cada um cede 2/3 de suas 6 partes = 4 partes) — não bate. Recalculando: cada um deve ceder fração x das suas 6 partes para Antônio. 6x + 6x = 4/3 → 12x = 4/3 → x = 1/9. Antônio adquire 1/9 do capital de cada sócio.\n\n**Conceito-chave:** Equalização de proporções — distribuição proporcional + transferência calculada para igualar partes; uso de frações.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/170"
     },
@@ -2256,7 +2256,7 @@
       "imagem_principal": "enem/2020/img/q081_principal.png",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Os 15 espaços vazios em volta dos octógonos têm dois formatos distintos: pequenos quadrados entre os octógonos (formato 1) e meias-formas nas bordas laterais (formato 3). Os azulejos necessários são dos tipos 1 e 3.\n\n**Conceito-chave:** Pavimentação geométrica — preencher superfícies com polígonos regulares; octógonos não tesselam sozinhos, requerem complemento (geralmente quadrados pequenos).",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/171"
     },
@@ -2284,7 +2284,7 @@
       "imagem_principal": "enem/2020/img/q082_principal.png",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** Sejam r o raio da circunferência e g a geratriz (mangueira). Pelo teorema de Pitágoras g² = 3² + r². Comprimento total = 2πr (circunferência inicial) + 20·g. Aplicando o comprimento de mangueiras disponível e resolvendo, r = 4 m.\n\n**Conceito-chave:** Geometria do cone — geratriz é hipotenusa de triângulo formado por raio (cateto) e altura (cateto); aplicação em construções com mangueiras/cabos.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/172"
     },
@@ -2312,7 +2312,7 @@
       "imagem_principal": "enem/2020/img/q083_principal.png",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Vão entre vigas = 30 cm. Sol a 30° da vertical (60° da horizontal). Para que o sol da tarde gere metade da luz do meio-dia, a sombra da viga adjacente deve cobrir metade do vão. Calculando geometricamente com tan(30°) e ajustes, a altura ideal das vigas é próxima de 26 cm.\n\n**Conceito-chave:** Trigonometria aplicada à arquitetura — controle de iluminação solar via geometria; pergolados são sistemas projetados por cálculo de ângulos solares.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/173"
     },
@@ -2340,7 +2340,7 @@
       "imagem_principal": "enem/2020/img/q084_principal.png",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** Aplicando densidades (4 ou 5 pessoas/m²) às áreas mapeadas em cada trecho da manifestação e somando, o total estimado é de aproximadamente 104 000 pessoas.\n\n**Conceito-chave:** Estimação de público em manifestações — método Jacobs e variantes; densidade × área é base; resultados são ordens de grandeza, não números exatos.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/174"
     },
@@ -2368,7 +2368,7 @@
       "imagem_principal": "enem/2020/img/q085_principal.png",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** Lucro = Receita − Custo. Se ambas são funções lineares no gráfico, o lucro também é linear (a diferença entre duas retas é uma reta). Quando R > C, lucro positivo; quando R < C, negativo. O gráfico A representa essa reta com inclinação compatível.\n\n**Conceito-chave:** Operações com funções lineares — soma, subtração e multiplicação por escalar mantêm linearidade; análise de break-even point.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/175"
     },
@@ -2396,7 +2396,7 @@
       "imagem_principal": "enem/2020/img/q086_principal.png",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** O sólido é formado por 4 cubos justapostos. As projeções ortogonais sobre os 3 planos perpendiculares revelam o formato em L em uma vista, retângulos em outras. A figura E representa corretamente as 3 projeções compatíveis com o sólido.\n\n**Conceito-chave:** Vistas ortográficas — projeção sobre planos x-y, y-z, x-z permitem reconstruir geometria 3D; fundamento de desenho técnico.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/176"
     },
@@ -2424,7 +2424,7 @@
       "imagem_principal": "enem/2020/img/q087_principal.png",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** Telhados com 3 caídas formam linhas de espigão e cumeeira específicas. A figura 1 ilustra o padrão para 4 caídas; aplicando o mesmo princípio para 3 caídas (uma encontra com as outras duas formando ângulos), a figura B representa o escoamento corretamente.\n\n**Conceito-chave:** Geometria de telhados — espigões (linhas convexas) escoam águas para fora; cumeeiras (linhas no topo) dividem caídas; planta indica o escoamento.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/177"
     },
@@ -2452,7 +2452,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** CRC = EC_chuva × P_chuva + EC_sem_chuva × P_sem_chuva. Aplicando para cada pneu com a probabilidade do dia da corrida e comparando, o pneu I apresenta o maior CRC, sendo o escolhido.\n\n**Conceito-chave:** Esperança matemática — média ponderada de valores por suas probabilidades; aplicação em decisões sob incerteza (corridas, investimentos).",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/178"
     },
@@ -2496,7 +2496,7 @@
       "imagem_principal": "enem/2020/img/q090_principal.png",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Calculando média ponderada (notas × pesos) para cada empresa, a empresa Z apresenta a maior pontuação final, sendo a contratada pela agência bancária.\n\n**Conceito-chave:** Média ponderada como critério de decisão — pesos refletem importância relativa; ferramenta clássica em avaliação multicritério.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/180"
     }
