@@ -28,7 +28,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** As bombas de sementes germinam plantas nativas — fonte direta de néctar e pólen para as abelhas. O declínio das colônias é fortemente associado à perda de cobertura vegetal e escassez de recursos florais; ampliar a vegetação aumenta a oferta de alimento e ajuda a recuperar populações de polinizadores.\n\n**Conceito-chave:** Polinização e ecologia das abelhas — abelhas dependem do néctar/pólen de flores para alimentação e reprodução; conservar e restaurar plantas é estratégia direta de conservação.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/91"
     },
@@ -56,7 +56,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** Cozinhar feijão em panela de ferro (ou com prego enferrujado) libera íons Fe²⁺/Fe³⁺ no alimento, suplementando ferro na dieta. A anemia ferropriva é causada pela deficiência desse mineral, e a prática popular tinha justamente esse efeito preventivo, percebido pela palidez das crianças.\n\n**Conceito-chave:** Anemia ferropriva — falta de ferro reduz hemoglobina, provocando palidez e cansaço. Ferro pode ser absorvido tanto da forma metálica (panelas de ferro) quanto iônica (alimentos como carne, feijão).",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/92"
     },
@@ -84,7 +84,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** A energia nuclear é gerada por fissão, processo que libera calor sem queima de combustíveis fósseis. Isso significa que não há emissão direta de CO₂, SO₂ ou outros gases poluentes característicos das termoelétricas a carvão, gás ou petróleo.\n\n**Conceito-chave:** Matriz energética — energia nuclear é classificada como de baixa emissão de carbono (apesar de ter outros riscos: resíduos radioativos, acidentes), por isso entra em discussões sobre transição energética.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/93"
     },
@@ -112,7 +112,7 @@
       "imagem_principal": "enem/2023/img/q004_principal.png",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** A dureza da água — relacionada à presença de íons Ca²⁺ e Mg²⁺ que formam sulfatos e carbonatos pouco solúveis — é justamente o que provoca a obstrução de tubulações em caldeiras. O teste 1, que mede dureza ou íons cálcio/magnésio, é o adequado para esse controle.\n\n**Conceito-chave:** Dureza da água — concentração de cátions divalentes (Ca²⁺, Mg²⁺) que formam incrustações em superfícies aquecidas (caldeiras, chuveiros, panelas). Tratamento envolve abrandadores.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/94"
     },
@@ -140,7 +140,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** Os músculos vermelhos das aves migratórias são ricos em mioglobina, mitocôndrias e capilares sanguíneos — adaptações que sustentam metabolismo aeróbio prolongado. Para voos longos, a manutenção de um metabolismo corpóreo elevado e contínuo é essencial.\n\n**Conceito-chave:** Tipos de fibras musculares — fibras vermelhas (lentas, oxidativas) sustentam atividade prolongada; fibras brancas (rápidas, glicolíticas) servem para esforços curtos e explosivos.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/95"
     },
@@ -168,7 +168,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** O CaCl₂ anidro absorve 2 moléculas de H₂O, formando CaCl₂·2H₂O. O ganho de massa em percentual é (massa de água absorvida) / (massa inicial) = (2 × 18) / 111 = 36 / 111 ≈ 32,4%. A alternativa D (32%) é a mais próxima.\n\n**Conceito-chave:** Hidratação de sais e cálculo estequiométrico de massas molares — saber transformar coeficientes de uma fórmula química em proporções de massa.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/96"
     },
@@ -196,7 +196,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** Frutos como o abacate produzem etileno, hormônio gasoso que dispara o amadurecimento. Em recipiente fechado, esse gás se acumula em torno do fruto, intensificando o efeito e acelerando o processo. Por isso o experimento do garoto deu certo.\n\n**Conceito-chave:** Etileno como hormônio vegetal — gás que regula maturação de frutos. Aplicação prática: armazenar frutas verdes com bananas (que liberam muito etileno) acelera o amadurecimento.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/97"
     },
@@ -224,7 +224,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** Os cloroplastos fagocitados pelas lesmas continuam realizando fotossíntese, produzindo carboidratos (açúcares) a partir de CO₂, água e luz. Esses carboidratos passam a alimentar a própria lesma — fenômeno chamado de cleptoplastia.\n\n**Conceito-chave:** Fotossíntese — cloroplastos são organelas que sintetizam carboidratos via fotossíntese. Sua manutenção em outras células (cleptoplastia) é caso raro de aquisição funcional de organela em metazoários.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/98"
     },
@@ -252,7 +252,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** O protozoário Leishmania circula nos tecidos hospedeiros principalmente pelo sangue, infectando macrófagos e órgãos como fígado e baço. Para detectar a presença em cães em campanhas de zoonoses, a coleta de sangue é o método de eleição (sorologia, PCR).\n\n**Conceito-chave:** Diagnóstico de zoonoses parasitárias — local de detecção depende da biologia do parasita. Leishmania é parasita intracelular sanguíneo, daí a escolha do sangue como amostra.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/99"
     },
@@ -280,7 +280,7 @@
       "imagem_principal": "enem/2023/img/q010_principal.jpg",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** No ponto mais alto da trajetória vertical, a esfera está momentaneamente parada (V = 0), mas a aceleração da gravidade continua atuando para baixo (a = g ≈ 9,8 m/s², sentido para baixo). Por isso a velocidade pode ser nula e a aceleração não nula — não confundir os dois conceitos.\n\n**Conceito-chave:** Lançamento vertical — velocidade e aceleração são grandezas independentes. A aceleração da gravidade é constante e sempre apontada para o centro da Terra; a velocidade muda continuamente, podendo passar por zero.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/100"
     },
@@ -308,7 +308,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** Na segunda metade do ciclo menstrual, após a ovulação, o corpo lúteo é responsável pela produção de progesterona e estrógeno. Quando não há fecundação, o corpo lúteo regride e essa produção hormonal cai abruptamente — é essa queda que desencadeia a TPM via efeito sobre serotonina.\n\n**Conceito-chave:** Ciclo menstrual e corpo lúteo — formado a partir do folículo após a ovulação, sustenta os hormônios da fase lútea; sua regressão é o gatilho neuro-hormonal da TPM e da menstruação.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/101"
     },
@@ -336,7 +336,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** A oxidação de um álcool secundário (com OH em carbono ligado a outros 2 carbonos) gera uma cetona. O hexan-3-ol tem o grupo OH no carbono 3, sendo álcool secundário; sua oxidação por permanganato em meio ácido produz exatamente hexan-3-ona.\n\n**Conceito-chave:** Oxidação de álcoois — primários geram aldeídos e depois ácidos carboxílicos; secundários geram cetonas; terciários não oxidam facilmente. Reação clássica de química orgânica.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/102"
     },
@@ -364,7 +364,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** O tubo polínico, presente em gimnospermas e angiospermas, transporta o gameta masculino (núcleo espermático) até o óvulo sem necessidade de meio aquoso externo. Antes dele, em briófitas e pteridófitas, a fecundação dependia de água para o anterozoide nadar até a oosfera.\n\n**Conceito-chave:** Evolução das plantas — conquista do ambiente terrestre exigiu independência da água: vasos condutores (xilema/floema) deram suporte e transporte; o tubo polínico libertou a fecundação da exigência de meio líquido.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/103"
     },
@@ -392,7 +392,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** A dissolução do alumínio depende do equilíbrio entre o íon imobilizado no vidro e a espécie em solução. Pelo princípio de Le Chatelier, quanto maior a concentração de gluconato (que liga fortemente ao Al³⁺), mais o equilíbrio é deslocado no sentido da liberação do alumínio do vidro para a solução.\n\n**Conceito-chave:** Princípio de Le Chatelier — sistemas em equilíbrio respondem a perturbações deslocando-se para minimizá-las. Aumentar concentração de produto que sequestra Al³⁺ desloca o equilíbrio liberando mais alumínio.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/104"
     },
@@ -420,7 +420,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** O floema, presente na casca, transporta a seiva elaborada (rica em açúcares produzidos pelas folhas) das partes aéreas para as raízes. Retirar um anel completo da casca interrompe esse transporte — as raízes deixam de receber nutrientes orgânicos e a planta morre.\n\n**Conceito-chave:** Anelamento (girdling) — técnica que demonstra a função do floema no transporte descendente. Distinguir floema (seiva elaborada) de xilema (água e sais minerais, transporte ascendente).",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/105"
     },
@@ -448,7 +448,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** A vacina de RNAm entra na célula e usa os ribossomos do hospedeiro para traduzir o RNA viral em proteína (a spike do SARS-CoV-2). Essa proteína funciona como antígeno, sendo reconhecida pelo sistema imune que produz anticorpos e ativa células de memória.\n\n**Conceito-chave:** Tradução proteica e resposta imune — RNAm + ribossomos = proteína. A vacina não modifica DNA do hospedeiro; apenas usa o maquinário celular para produzir transitoriamente uma proteína viral inofensiva.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/106"
     },
@@ -476,7 +476,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** As enzimas do acrossomo (cabeça do espermatozoide) digerem a corona radiata (camada de células foliculares) e a zona pelúcida (camada glicoproteica) que envolvem o ovócito. Sem essas enzimas, o espermatozoide não consegue atravessar essas barreiras e nem chega à membrana plasmática do ovócito.\n\n**Conceito-chave:** Reação acrossômica — etapa essencial da fecundação; o acrossomo libera enzimas hidrolíticas (hialuronidase, acrosina) que abrem caminho para o espermatozoide alcançar a oosfera.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/107"
     },
@@ -504,7 +504,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** O fogão de indução funciona pela Lei de Faraday: uma bobina sob a placa cria um campo magnético variável (alternado) que induz correntes elétricas (correntes de Foucault) no fundo da panela ferromagnética. Essas correntes aquecem a panela por efeito Joule.\n\n**Conceito-chave:** Indução eletromagnética (Lei de Faraday-Lenz) — variação de fluxo magnético gera força eletromotriz e corrente elétrica em condutores próximos. Princípio também usado em transformadores e geradores.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/108"
     },
@@ -532,7 +532,7 @@
       "imagem_principal": "enem/2023/img/q019_principal.png",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** No aparelho 2 a polia móvel divide a força necessária pela metade — para erguer M2 com velocidade constante, o usuário aplica F = M2·g/2. No aparelho 1, sem polia móvel, F = M1·g. Igualando para mesma F: M1·g = M2·g/2 → M2 = 2·M1, logo a razão M2/M1 = 2.\n\n**Conceito-chave:** Vantagem mecânica de polias móveis — cada polia móvel divide o esforço necessário pela metade, em troca do dobro do deslocamento da corda. Aplicação prática de máquinas simples.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/109"
     },
@@ -562,7 +562,7 @@
         "enem/2023/img/q020_extra1.png"
       ],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** Cada 525 g de Hg₂(NO₃)₂ reagem com 2 × 58,5 = 117 g de NaCl produzindo 472 g de Hg₂Cl₂. Em 5,25 g de Hg₂(NO₃)₂ a massa máxima de Hg₂Cl₂ é 4,72 g, atingida quando se adiciona 1,17 g de NaCl. O gráfico correto cresce linearmente até esse ponto e depois fica constante (saturação).\n\n**Conceito-chave:** Reagente limitante — em estequiometria, ao aumentar um reagente, o produto cresce até o outro reagente acabar; depois disso, excessos não geram mais produto. O patamar do gráfico revela a saturação.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/110"
     },
@@ -590,7 +590,7 @@
       "imagem_principal": "enem/2023/img/q021_principal.png",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Quando o som se propaga pelo barbante, parte da energia mecânica é dissipada por atrito interno. Quanto mais longo o barbante, mais energia se perde no caminho — o resultado é a redução da amplitude da onda (volume mais baixo na lata receptora). Frequência (altura) e comprimento de onda dependem da fonte, não do meio.\n\n**Conceito-chave:** Atenuação de ondas — propagação real envolve perda de energia. Frequência e período permanecem constantes ao longo do meio; amplitude diminui com a distância em meios dissipativos.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/111"
     },
@@ -618,7 +618,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** A difração limita a leitura quando o comprimento de onda do laser se aproxima do tamanho das cavidades. Para gravar dados em cavidades menores (mais densidade de informação), são necessários lasers de menor comprimento de onda. Entre as opções dadas, o violeta tem o menor comprimento de onda do espectro visível.\n\n**Conceito-chave:** Espectro eletromagnético — comprimento de onda diminui de vermelho → violeta (visível). Tecnologia Blu-ray usa laser azul-violeta justamente para superar limites do DVD vermelho.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/112"
     },
@@ -646,7 +646,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** Para fonte puntiforme, a intensidade é I = P / (4πr²). Substituindo: I = 2,4 × 10⁻³ W / (4 × 3 × 10²) m² = 2,4 × 10⁻³ / 1200 = 2 × 10⁻⁶ W/m² = 2 µW/m². A alternativa A corresponde a esse valor.\n\n**Conceito-chave:** Lei do inverso do quadrado — intensidade de uma fonte puntiforme decai com r². Aplicação em ondas eletromagnéticas, sonoras e luz.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/113"
     },
@@ -674,7 +674,7 @@
       "imagem_principal": "enem/2023/img/q024_principal.png",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** A força máxima de atrito estático é f = μ·M·g = 0,2 × 200 × 10 = 400 N. Na aceleração (3 m/s²): força necessária 600 N > 400 N, falta 200 N → corda 2 supre, T₂ = 200 N e T₁ = 0. Na frenagem (5 m/s²): força 1000 N > 400 N, falta 600 N → corda 1 supre, T₁ = 600 N e T₂ = 0.\n\n**Conceito-chave:** Atrito estático e segunda lei de Newton em referencial não-inercial — quando a força inercial supera o atrito máximo, a tração da corda completa o que falta para manter a carga acompanhando o veículo.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/114"
     },
@@ -702,7 +702,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** O aguapé absorve metais tóxicos do ambiente, mas não consegue degradá-los (metais são elementos químicos, não substâncias orgânicas). Os metais ficam acumulados nos tecidos vegetais — processo chamado fitoextração. A planta acumuladora é depois retirada do ambiente e descartada adequadamente.\n\n**Conceito-chave:** Biorremediação por fitoextração — plantas hiperacumuladoras retiram contaminantes inorgânicos da água ou solo, concentrando-os em seus tecidos sem metabolizá-los.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/115"
     },
@@ -730,7 +730,7 @@
       "imagem_principal": "enem/2023/img/q026_principal.png",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** Os decompositores (bactérias e fungos) realizam a amonificação — etapa em que matéria orgânica nitrogenada (proteínas, ureia, ácidos nucleicos) é transformada em amônia (NH₃) ou íon amônio (NH₄⁺). Sem decompositores, essa etapa do ciclo do nitrogênio não ocorre, bloqueando o retorno do N ao solo.\n\n**Conceito-chave:** Ciclo do nitrogênio — etapas: fixação (N₂ → NH₃), amonificação (matéria orgânica → NH₃), nitrificação (NH₃ → NO₂⁻ → NO₃⁻), assimilação e desnitrificação (NO₃⁻ → N₂).",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/116"
     },
@@ -758,7 +758,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** As medidas mostram que durante a fase de cruzeiro (alta altitude, próxima a 10-12 km) a dose de radiação cósmica recebida é da ordem de microsieverts por hora. O valor médio em rotas longas como Rio-Roma é de aproximadamente 8 µSv/h, compatível com a alternativa A.\n\n**Conceito-chave:** Radiação ionizante e altitude — atmosfera atua como blindagem natural; em altitudes maiores essa proteção é menor, expondo tripulações e passageiros a doses superiores ao nível do mar.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/117"
     },
@@ -786,7 +786,7 @@
       "imagem_principal": "enem/2023/img/q028_principal.png",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** O texto destaca que gasolinas de alto desempenho devem conter elevados teores de hidrocarbonetos de cadeias ramificadas (alta octanagem) para resistir à compressão. Entre os compostos avaliados, o III é o que apresenta a estrutura mais ramificada, sendo o melhor combustível.\n\n**Conceito-chave:** Octanagem — medida da resistência à autoignição por compressão. Hidrocarbonetos ramificados (como isoctano, padrão 100) têm octanagem mais alta que os lineares; cadeias compactas reduzem detonação prematura.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/118"
     },
@@ -814,7 +814,7 @@
       "imagem_principal": "enem/2023/img/q029_principal.png",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Aplicando a equação dos gases ideais P·V = n·R·T: P = (n·R·T) / V = (0,1 × 0,082 × 923) / 0,1 ≈ 76 atm. Onde T = 650 + 273 = 923 K e V = 0,1 L. A alternativa C (76 atm) é o resultado direto.\n\n**Conceito-chave:** Equação geral dos gases ideais (P·V = n·R·T) — relaciona pressão, volume, temperatura absoluta e mols. Atenção: temperatura sempre em Kelvin e volume em litros quando R = 0,082 atm·L/(mol·K).",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/119"
     },
@@ -842,7 +842,7 @@
       "imagem_principal": "enem/2023/img/q030_principal.png",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** No circuito original, cada conjunto tem lâmpada paralela a resistor R, e os três conjuntos estão em série. Quando L₂ queima, o conjunto 2 passa a ter apenas R (resistência maior que antes, pois antes havia o paralelo lâmpada-R com resistência menor). Resistência total aumenta → corrente total diminui → L₁ e L₃ recebem menos corrente e brilham menos.\n\n**Conceito-chave:** Associação mista de resistores — em série, a corrente é a mesma; remover um caminho paralelo aumenta a resistência local. Como tudo está em série, mais resistência = menos corrente em todo o circuito.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/120"
     },
@@ -872,7 +872,7 @@
         "enem/2023/img/q031_extra1.png"
       ],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** Quanto maior a diferença de eletronegatividade entre dois átomos ligados, mais iônico o caráter da ligação. O potássio (K, eletronegatividade ≈ 0,82) tem a menor eletronegatividade entre os cinco metais listados. Sua diferença em relação ao oxigênio (3,44) é a maior, gerando a interação de maior caráter iônico com o ânion carboxilato.\n\n**Conceito-chave:** Caráter iônico das ligações (escala de Pauling) — quanto maior |Δχ|, mais iônica é a ligação. Metais alcalinos (K, Na) formam ligações mais iônicas com não-metais que metais de transição.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/121"
     },
@@ -900,7 +900,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** O vapor que entra a 120 °C precisa primeiro esfriar até 100 °C (calor sensível, sem mudança de fase) e depois condensar a 100 °C, liberando calor latente de condensação. Toda essa energia é transferida pela parede para o doce de leite. Não ocorre vaporização da água (a saída é água líquida em equilíbrio com vapor a 100 °C).\n\n**Conceito-chave:** Calor sensível (muda temperatura, mesma fase) x calor latente (muda fase, mesma temperatura). Em trocadores de calor a vapor, a maior parte da energia transferida vem do calor latente de condensação.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/122"
     },
@@ -930,7 +930,7 @@
         "enem/2023/img/q033_extra1.jpg"
       ],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** O ibuprofeno apresenta isomeria óptica (quiralidade) por possuir carbono assimétrico — átomo ligado a quatro grupos diferentes. Entre os princípios ativos listados, o butilbrometo de escopolamina também possui carbono assimétrico em sua estrutura, apresentando o mesmo tipo de isomeria espacial.\n\n**Conceito-chave:** Isomeria óptica — surge quando há carbono assimétrico (quiral). Moléculas quirais têm enantiômeros (imagens especulares não sobreponíveis), com efeitos farmacológicos potencialmente diferentes.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/123"
     },
@@ -958,7 +958,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** O veículo leve, a 100 km/h, percorre 480 km em 288 min, e ao passar por 10 cabines (3 min cada) gasta mais 30 min, totalizando 318 min. O veículo de grande porte, a 80 km/h com serviço automático, gasta 360 min. Diferença: 360 - 318 = 42 min.\n\n**Conceito-chave:** Resolução de problema com unidades de tempo e velocidade — o aluno precisa montar a equação t = d/v separadamente para cada veículo, somar os tempos de espera das cabines onde aplicável e comparar.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/124"
     },
@@ -986,7 +986,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** Cada pai com Down produz gametas com 1 ou 2 cromossomos 21 (a meiose distribui aleatoriamente). Combinações zigóticas possíveis: 1+1=2 (normal), 1+2=3 (trissômico/Down), 2+1=3 (Down), 2+2=4 (tetrassômico). Portanto os zigotos podem ser normais, trissômicos ou tetrassômicos.\n\n**Conceito-chave:** Não disjunção meiótica e aneuploidia — quando um indivíduo já tem cromossomos extras, sua meiose distribui esse cromossomo extra entre gametas, gerando combinações com diferentes números cromossômicos no zigoto.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/125"
     },
@@ -1014,7 +1014,7 @@
       "imagem_principal": "enem/2023/img/q036_principal.png",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Ao converter o grupo amino (-NH₂) em cloridrato (R-NH₃⁺Cl⁻), o fármaco passa a existir como sal (íon). O caráter iônico aumenta drasticamente sua solubilidade em água e no plasma sanguíneo, melhorando a circulação. A neutralização da amina via reação ácido-base é o ajuste-chave.\n\n**Conceito-chave:** Salificação de fármacos — converter molécula em sal melhora solubilidade aquosa. Por isso muitos fármacos comerciais aparecem como cloridratos, sulfatos ou maleatos.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/126"
     },
@@ -1042,7 +1042,7 @@
       "imagem_principal": "enem/2023/img/q037_principal.png",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** O cianeto bloqueia a citocromo c oxidase, impedindo que os elétrons da cadeia respiratória cheguem ao oxigênio. Sem regeneração de NAD⁺, o NADH se acumula nas células. Como consequência, ATP cai (não é gerado), água também não é formada (sem aceptor final), e o ciclo do ácido cítrico para por falta de NAD⁺.\n\n**Conceito-chave:** Cadeia respiratória mitocondrial — NADH só é reoxidado a NAD⁺ se elétrons fluírem até o O₂. Bloqueio em qualquer etapa para todo o sistema, com NADH acumulando como sintoma.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/127"
     },
@@ -1070,7 +1070,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Para haver interferência destrutiva ou desejada entre dois sinais, eles precisam ocupar a mesma frequência (ou banda muito próxima). Sinais em frequências diferentes se propagam sem interagir. Por isso o problema potencial entre celulares e rádios da torre só ocorre se ambos operarem na mesma faixa.\n\n**Conceito-chave:** Interferência de ondas eletromagnéticas — só ocorre entre ondas coerentes (mesma frequência ou faixa próxima). Por isso telecomunicações alocam bandas separadas para evitar conflitos.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/128"
     },
@@ -1098,7 +1098,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** O Aldrin é um composto apolar e altamente lipossolúvel (organoclorado de baixa polaridade). Substâncias com essa característica se acumulam em tecidos ricos em gordura. Entre os fluidos analisados, o leite materno é o mais rico em lipídios, sendo onde se concentra a maior quantidade do inseticida.\n\n**Conceept-chave:** Bioacumulação de poluentes lipofílicos — semelhante dissolve semelhante; substâncias apolares se concentram em compartimentos lipídicos do corpo (tecido adiposo, leite, fígado), atingindo bebês via amamentação.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/129"
     },
@@ -1126,7 +1126,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** O copo reutilizável tem baixa condutividade térmica (\"não esquenta na parte externa\") — vantagem em relação ao copo descartável de plástico, que esquenta com o líquido quente. Além disso, reduz o resíduo não biodegradável na natureza, pois substitui copos plásticos descartáveis por uma unidade reutilizável.\n\n**Conceito-chave:** Sustentabilidade material — escolha de materiais combina propriedades físicas (condutividade, durabilidade) com impacto ambiental (reutilização, biodegradabilidade) para reduzir resíduos.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/130"
     },
@@ -1154,7 +1154,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** O refrigerante comum traz grande quantidade de açúcar dissolvido (sacarose, da ordem de 100 g por litro). A massa adicional de soluto, sem alteração significativa de volume, eleva a massa por unidade de volume — ou seja, sua densidade. Como o diet usa adoçantes em massa muito menor, sua densidade fica próxima à da água carbonatada pura.\n\n**Conceito-chave:** Densidade de soluções — quanto mais soluto dissolvido por unidade de volume, maior a densidade. É o princípio que diferencia também ovos frescos (afundam) de velhos (boiam).",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/131"
     },
@@ -1184,7 +1184,7 @@
         "enem/2023/img/q042_extra1.jpg"
       ],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** Para um gás ideal com volume e quantidade de matéria constantes (V e n fixos), a Lei de Gay-Lussac diz que P/T = constante. Em um gráfico P × T (com T em kelvin), isso é uma reta que passa pela origem. A alternativa E representa essa relação linear de proporcionalidade direta entre pressão e temperatura.\n\n**Conceito-chave:** Lei de Gay-Lussac — em transformação isovolumétrica de gás ideal, pressão e temperatura absoluta são diretamente proporcionais. Cuidado: T em Kelvin é essencial para o gráfico passar pela origem.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/132"
     },
@@ -1212,7 +1212,7 @@
       "imagem_principal": "enem/2023/img/q043_principal.png",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** O texto explica que microrganismos não conseguem quebrar moléculas ramificadas. A solução é alterar a estrutura para uma cadeia carbônica normal (linear, sem ramificações), que pode ser metabolizada pelas bactérias presentes em estações de tratamento e no meio ambiente, tornando o detergente biodegradável.\n\n**Conceito-chave:** Biodegradabilidade de tensoativos — sulfonados de cadeia linear (LAS) substituíram os ramificados (ABS) justamente por serem degradáveis por bactérias. Critério ambiental fundamental para detergentes domésticos.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/133"
     },
@@ -1240,7 +1240,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** Os micronúcleos são fragmentos de DNA encapsulados, originados a partir de erros na divisão celular — cromossomos inteiros ou pedaços de cromossomos que se perdem do fuso mitótico e não chegam aos núcleos das células-filhas. Sua presença indica dano genético (genotoxicidade).\n\n**Conceito-chave:** Mitose e fuso mitótico — durante a divisão, cromossomos se segregam pelos microtúbulos do fuso; falhas geram aneuploidia ou fragmentação cromossômica, detectáveis pelo ensaio de micronúcleos.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/134"
     },
@@ -1268,7 +1268,7 @@
       "imagem_principal": "enem/2023/img/q045_principal.png",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** O primeiro eco (0,5 s) corresponde à reflexão na superfície superior do líquido — não passa por ele. O segundo eco (1,1 s) inclui ida e volta na camada líquida (900 m no total). Tempo dentro do líquido = 1,1 - 0,5 = 0,6 s. Velocidade = 900 m / 0,6 s = 1500 m/s.\n\n**Conceito-chave:** Reflexão de ondas em interfaces e cálculo de velocidade — quando uma onda atravessa uma camada e volta, percorre o dobro da espessura; o tempo de trânsito permite calcular a velocidade no meio.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/135"
     },
@@ -1296,7 +1296,7 @@
       "imagem_principal": "enem/2023/img/q046_principal.png",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** Volume do cone original: V = π·r²·h/3 = 3·9²·36/3 = 2916 cm³. Cone semelhante removido (r=3, h=12 por proporcionalidade): 3·9·12/3 = 108 cm³. Tronco resultante = 2916 - 108 = 2808 cm³. Furo cilíndrico (r=3, altura do tronco = 24 cm): 3·9·24 = 648 cm³. Volume final = 2808 - 648 = 2160 cm³. Massa = 2160 × 0,6 = 1296 g.\n\n**Conceito-chave:** Volumes de sólidos geométricos e semelhança de cones — V_cone = πr²h/3, V_cilindro = πr²h. Em cones semelhantes, razão de raios = razão de alturas; o cone retirado tem 1/3 das medidas lineares.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/136"
     },
@@ -1324,7 +1324,7 @@
       "imagem_principal": "enem/2023/img/q047_principal.png",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** A média ponderada dos 100 funcionários é calculada multiplicando a quantidade de cada setor pelo respectivo salário, somando e dividindo por 100. Aplicando os valores do quadro (Produção com mais funcionários e salário menor; Administração com menos funcionários e salário maior), o resultado é R$ 3.250,00.\n\n**Conceito-chave:** Média ponderada — quando há grupos de tamanhos diferentes, cada salário é \"pesado\" pela quantidade de pessoas que o recebe. Difere da média simples (que daria o ponto médio entre os dois salários).",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/137"
     },
@@ -1352,7 +1352,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** P(A preta) = 20%, então P(combinada) = 0,2 × P(B preta). Para que a probabilidade combinada seja ≤ 1%, precisamos P(B) ≤ 0,05. Como há 4 pretas em B, a equação 4/(4+x) ≤ 0,05 dá x ≥ 76 brancas. A urna B já tinha 12 brancas (pois P inicial = 25% → 4/16). Faltam adicionar 76 - 12 = 64 brancas.\n\n**Conceito-chave:** Probabilidade da intersecção de eventos independentes — multiplica-se as probabilidades. Para diminuir a probabilidade conjunta, basta diminuir a de um dos fatores.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/138"
     },
@@ -1380,7 +1380,7 @@
       "imagem_principal": "enem/2023/img/q049_principal.png",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Mantida a mesma variação mensal observada de abril a junho (produto I crescendo e produto II decrescendo na mesma taxa), a primeira coincidência em que I supera II ocorre em agosto. A regra do gerente determina cessar a produção do II no mês seguinte — setembro.\n\n**Conceito-chave:** Progressão aritmética — quando a variação por unidade de tempo é constante, é possível extrapolar valores futuros somando ou subtraindo a razão; a interseção entre duas PA's encontra o ponto de cruzamento.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/139"
     },
@@ -1408,7 +1408,7 @@
       "imagem_principal": "enem/2023/img/q050_principal.png",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** O gráfico mostra distribuição com assimetria positiva — muitos motoristas com poucas viagens e poucos motoristas com muitas viagens (cauda à direita). Em distribuições desse tipo, vale a relação: moda < mediana < média (a média é puxada para os valores extremos da cauda).\n\n**Conceito-chave:** Distribuições assimétricas — para assimetria positiva (cauda longa à direita), moda < mediana < média; para assimetria negativa (cauda à esquerda), o contrário; em distribuição simétrica as três medidas coincidem.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/140"
     },
