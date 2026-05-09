@@ -1236,7 +1236,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** Dalton Trevisan retrata Curitiba pelo seu avesso — soldados que nunca chegam ao incêndio, ponte sem rio, conferências positivistas. A descrição é marcada pela negatividade, que busca desconstruir perspectivas habituais de representação da cidade — em vez do clichê turístico, ele expõe o estranho cotidiano.\n\n**Conceito-chave:** Realismo prosaico (Dalton Trevisan) — explora o lado mundano e desencantado da cidade; subverte imaginário oficial.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/45"
     },
@@ -1264,7 +1264,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** A assimetria comercial Brasil-China decorre de exportarmos produtos básicos e importarmos industrializados. Para reduzir essa dependência, é preciso desenvolver tecnologia própria — fortalecer a pesquisa científica é caminho de longo prazo para agregar valor à pauta exportadora.\n\n**Conceito-chave:** Industrialização tardia e dependência tecnológica — economias que não investem em ciência ficam presas em armadilha de baixo valor agregado.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/46"
     },
@@ -1292,7 +1292,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** O texto mostra que no campo brasileiro coexistem agricultores, trabalhadores não-agrícolas, desempregados, aposentados — quadro plural. Isso reflete a heterogeneidade do modo de vida agrário — espaço rural não é mais sinônimo de agricultura.\n\n**Conceito-chave:** Novo rural brasileiro — pluriatividade, turismo rural, prestação de serviços e industrialização do interior diversificam a vida no campo.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/47"
     },
@@ -1320,7 +1320,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** Mulheres entram no mercado mas em postos precários porque persiste o status quo gerencial (homens nas decisões) e os padrões de socialização familiar (mulher é responsável pelo lar, então aceita jornadas mais flexíveis e mal pagas).\n\n**Conceito-chave:** Divisão sexual do trabalho — desigualdade salarial e ocupacional reflete estruturas de poder na esfera privada e pública; reforma exige mudança em ambas.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/48"
     },
@@ -1348,7 +1348,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Função social da propriedade implica uso produtivo. Movimentos pela reforma agrária invocam esse princípio para defender a desapropriação dos espaços improdutivos — terras que não cumprem função social devem ser redistribuídas.\n\n**Conceito-chave:** Função social da propriedade (CF/88, art. 5º) — propriedade não é absoluta; sua manutenção exige cumprir critérios de uso produtivo, ambiental e laboral.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/49"
     },
@@ -1376,7 +1376,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** A industrialização concentrou empregos nas metrópoles, atraindo migração massiva. Sem moradia formal, esses migrantes se instalaram nas bordas — gerando crescimento das áreas periféricas, com infraestrutura precária e ocupações irregulares.\n\n**Conceito-chave:** Periferização brasileira — modelo de urbanização gerou cidades-polvo, com centro adensado e periferia precária; padrão típico de países em desenvolvimento.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/50"
     },
@@ -1404,7 +1404,7 @@
       "imagem_principal": "enem/2020/img/q051_principal.jpg",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** A imagem do agreste mostra alternância entre pastoreio (estação seca) e cultivo de algodão/cereais (estação chuvosa). Essa estratégia central é adequação ao tempo da natureza — calendário agrícola dialoga com regime climático.\n\n**Conceito-chave:** Agroecologia regional — agricultura sertaneja tradicional respeita ciclos naturais; sistemas agropecuários integrados otimizam recursos limitados.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/51"
     },
@@ -1432,7 +1432,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Imprensa permitiu acesso direto a textos bíblicos, e a Reforma Protestante valorizou interpretação pessoal das Escrituras (princípio do livre exame). Juntos, esses fatores possibilitaram a interpretação autônoma dos textos bíblicos — minando o monopólio interpretativo da Igreja Católica.\n\n**Conceito-chave:** Reforma e cultura escrita — alfabetização e Bíblia em vernáculo são ações conjugadas que minam autoridade clerical; impacto cultural além do teológico.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/52"
     },
@@ -1460,7 +1460,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Alice tenta calcular sua posição usando latitude e longitude sem entender o que esses conceitos significam. A confusão é com os referenciais de posição relativa — sem sistema de referência claro, números geográficos perdem significado.\n\n**Conceito-chave:** Coordenadas geográficas — latitude e longitude exigem sistema de referência (Equador, Greenwich); confundir conceitos geográficos é parte do humor do absurdo em Carroll.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/53"
     },
@@ -1488,7 +1488,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** Os San afirmam que as galerias rupestres são livro de imagens onde antepassados explicaram sua visão de mundo. A arte cumpre função de transmissão dos saberes acumulados — em sociedades sem escrita, a imagem é tecnologia mnemônica essencial.\n\n**Conceito-chave:** Tradições orais e visuais — sociedades ágrafas usam memória coletiva, narrativa e imagem para preservar conhecimento; ricamente complexas mesmo sem escrita.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/54"
     },
@@ -1516,7 +1516,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** Nagel descreve a hipótese de que tudo seja sonho/alucinação — não haveria 'mundo real' externo. Essa doutrina é o solipsismo, que reconhece limitações cognitivas para compreender uma experiência supostamente compartilhada — só se pode ter certeza da própria existência mental.\n\n**Conceito-chave:** Solipsismo — posição filosófica radical: 'só sei que existo'; surgiu no racionalismo cartesiano e ainda gera debates em filosofia da mente.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/55"
     },
@@ -1544,7 +1544,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Como 70% da água é usada na agricultura, melhorias na eficiência das técnicas de irrigação reduzem dramaticamente o consumo total. Métodos como gotejamento e microaspersão usam fração da água que irrigação por inundação consome.\n\n**Conceito-chave:** Sustentabilidade hídrica e agricultura — eficiência irrigacional é tema-chave em país com semiárido; tecnologia tem grande potencial de economia de água.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/56"
     },
@@ -1572,7 +1572,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** O texto fala em 'inimigo difuso', alerta a 'mínima dissidência'. A estratégia abrangente americana responde à propagação de organizações em redes — terrorismo descentralizado, guerrilhas, hacktivismo desafiam estratégias militares convencionais.\n\n**Conceito-chave:** Geopolítica pós-Guerra Fria — guerra ao terror, ciberguerra e ameaças não-estatais exigem doutrinas militares novas; foco preventivo e amplo.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/57"
     },
@@ -1600,7 +1600,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** O planejamento urbano descrito serve a 'azeitar a máquina' de produção de riquezas — ou seja, está subordinado a lógica empresarial. Isso caracteriza a ampliação da participação empresarial no processo de planejamento, em detrimento de interesses coletivos.\n\n**Conceito-chave:** Empresariamento da gestão urbana — modelo neoliberal de cidade trata espaço urbano como ativo empresarial; PPPs, marketing urbano e privatização tomam o lugar de políticas públicas.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/58"
     },
@@ -1628,7 +1628,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Escudos cristalinos pré-cambrianos formaram-se com magmatismo profundo e metamorfismo intenso, condições ideais para concentração de minerais metálicos. Brasil tem grandes reservas (Carajás, Quadrilátero Ferrífero) justamente em escudos.\n\n**Conceito-chave:** Geologia econômica — escudos são fonte de ferro, manganês, ouro, urânio, nióbio; bacias sedimentares são fonte de combustíveis fósseis.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/59"
     },
@@ -1656,7 +1656,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** A reflexão sobre como o ser humano confronta sua finitude (Ivan Ilitch percebe que está morrendo mas não consegue compreender) é central no existencialismo — Heidegger, Sartre, Camus pensam o ser-para-a-morte como questão fundamental do reconhecimento de si.\n\n**Conceito-chave:** Existencialismo — corrente filosófica do XX que toma como ponto de partida a existência concreta; finitude, angústia e liberdade são temas centrais.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/60"
     },
@@ -1684,7 +1684,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Galeano escreve que a América Latina 'especializou-se em perder' desde o Renascimento europeu. Essa metáfora descreve apropriação imperialista dos recursos territoriais — colonialismo extraiu riqueza durante séculos, deixando a região subordinada à economia central.\n\n**Conceito-chave:** Teoria da dependência — corrente latino-americana que explica subdesenvolvimento via relações estruturais de dominação; Galeano popularizou tese para grande público.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/61"
     },
@@ -1712,7 +1712,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** O Código de Hamurabi é coletânea de leis que consolida tradição jurídica babilônica — define crimes (roubo, agressão) e respectivas punições. Sua função é tipificar regras referentes aos atos dignos de punição, padronizando justiça.\n\n**Conceito-chave:** Direito antigo — códigos como o de Hamurabi, Lei das XII Tábuas e legislação hebraica representam formalização do direito pelo Estado; substituem vingança privada por justiça pública.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/62"
     },
@@ -1740,7 +1740,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** A Reforma Protestante (especialmente o calvinismo) atribuiu valor religioso ao trabalho — sucesso material era sinal de eleição divina. Essa nova ética secular deu sentido positivo ao trabalho na modernidade, processo analisado por Weber em 'A ética protestante e o espírito do capitalismo'.\n\n**Conceito-chave:** Ética protestante e capitalismo (Weber) — valorização religiosa do trabalho e da poupança contribuiu para o desenvolvimento do capitalismo nas regiões protestantes europeias.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/63"
     },
@@ -1768,7 +1768,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** Nos anos 1990 (governos Collor, FHC), o Brasil priorizou reforma das políticas macroeconômicas e dos mecanismos de controle inflacionário (Plano Real, abertura comercial, privatizações), em detrimento de programas sociais robustos — daí a crítica do texto.\n\n**Conceito-chave:** Neoliberalismo nos anos 1990 — Consenso de Washington defendia austeridade, abertura e privatização; modelo aplicado em vários países latino-americanos.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/64"
     },
@@ -1796,7 +1796,7 @@
       "imagem_principal": "enem/2020/img/q065_principal.png",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** O agronegócio brasileiro cresceu massivamente, e o transporte é gargalo logístico. A expansão das rodovias responde à projeção do escoamento produtivo — escoar safras crescentes (soja, milho) dos centros produtores até portos de exportação.\n\n**Conceito-chave:** Logística do agronegócio — Brasil ainda depende excessivamente de rodovias para escoamento de commodities; modais ferroviário e hidroviário são subutilizados.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/65"
     },
@@ -1824,7 +1824,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** A quadrilha brasileira adaptou comandos franceses (anarriê, anavã, saruê) — esses termos foram apropriados e aportuguesados. Essa apropriação de práticas estrangeiras caracteriza a formação cultural brasileira, que mescla múltiplas heranças.\n\n**Conceito-chave:** Aculturação e mestiçagem cultural — Brasil incorpora elementos europeus, africanos e indígenas em manifestações populares; cada elemento sofre ressignificação local.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/66"
     },
@@ -1852,7 +1852,7 @@
       "imagem_principal": "enem/2020/img/q067_principal.png",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** O rifteamento ocorre quando a crosta continental é estirada e fendida, formando vales (rifts). Esse processo origina aspectos físicos como vales escarpados, lagos alongados, vulcanismo associado — característico de zonas como o Rift Africano.\n\n**Conceito-chave:** Tectônica de placas — limites divergentes sobre continentes geram rifteamento; ao longo de milhões de anos, podem evoluir para novos oceanos.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/67"
     },
@@ -1880,7 +1880,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** A nova história biográfica não busca celebrar grandes nomes em formato hagiográfico, mas examinar atores comuns como reveladores de uma época. Isso permite acesso ao cotidiano das comunidades através de trajetórias individuais.\n\n**Conceito-chave:** Micro-história — campo da história que estuda indivíduos e grupos pequenos para iluminar padrões mais amplos; oposição à grande narrativa estrutural.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/68"
     },
@@ -1908,7 +1908,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** A ideia de sociedade como cooperação regida por regras 'que todos podem razoavelmente aceitar' é fundamento do contratualismo moderno — desde Hobbes, Locke e Rousseau até Rawls (justiça como equidade), o consenso voluntário sobre regras é base da legitimidade.\n\n**Conceito-chave:** Contratualismo — tradição filosófica que justifica a autoridade política por acordo entre indivíduos; ainda viva na filosofia política contemporânea (Rawls).",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/69"
     },
@@ -1936,7 +1936,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** Salústio descreve como a destruição de Cartago (146 a.C.) eliminou o medo do inimigo externo, levando à degradação interna. Esse evento marca a expansão das fronteiras extrapeninsulares — Roma deixou de ser ameaçada e tornou-se potência mediterrânea.\n\n**Conceito-chave:** Crise da República Romana — expansão territorial gerou desigualdade, escravização em massa e crise política, abrindo caminho para o Império.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/70"
     },
@@ -1964,7 +1964,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Cora Coralina personifica a terra como 'mãe' que provê tudo ao 'lavrador' (arado, foice, machado, pão). A relação celebrada é entre camponeses e uso da natureza — trabalho rural sustentável, no qual o ser humano dialoga com a terra em vez de explorá-la.\n\n**Conceito-chave:** Lirismo telúrico — poesia que celebra vínculo entre homem e terra; comum em literatura regional brasileira (Cora Coralina, Manoel de Barros).",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/71"
     },
@@ -1992,7 +1992,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** Montaigne criou o ensaio — gênero que expõe concepções subjetivas de um tema, mostrando hesitações e correções do próprio autor. 'Ensaio' (essai = tentativa) reflete o método: testar pensamentos por escrito, sem pretensão de verdade definitiva.\n\n**Conceito-chave:** Ensaio como gênero literário — Montaigne (Essais, 1580) inaugura forma livre, pessoal, reflexiva; influencia desde então a literatura ocidental moderna.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/72"
     },
@@ -2020,7 +2020,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** A Declaração de Salamanca (1994) reconhece que cada criança tem características únicas e os sistemas educacionais devem 'levar em conta a vasta diversidade'. O Brasil, signatário, comprometeu-se com políticas que contemplem a pluralidade dos sujeitos — educação inclusiva.\n\n**Conceito-chave:** Educação inclusiva — paradigma que valoriza a diversidade (deficiências, etnias, culturas) e adapta a escola aos alunos, em oposição ao modelo padronizado.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/73"
     },
@@ -2048,7 +2048,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Os versos de Alberto Caeiro (heterônimo de Pessoa) afirmam que o pensamento é sensorial — pensa com olhos, ouvidos, mãos, pés. Essa concepção sensualista da linguagem expressa a abolição da dicotomia entre razão e sensação, central na poética caeiriana.\n\n**Conceito-chave:** Heterônimo Caeiro (Pessoa) — poeta da natureza, defensor de pensamento direto, sensorial; oposição a abstração racionalista; fundamenta a poética sensacionista pessoana.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/74"
     },
@@ -2076,7 +2076,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** A cartografia europeia da América ignorou conhecimentos territoriais dos ameríndios e impôs a representação do colonizador. Esse procedimento configura afirmação das formas de dominação — o mapa é instrumento de poder, não apenas registro neutro do espaço.\n\n**Conceito-chave:** Cartografia como dispositivo de poder — Brian Harley e outros mostram que mapas refletem interesses políticos; nomear, dividir e demarcar territórios é exercício de soberania.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/75"
     },
@@ -2104,7 +2104,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** Tocqueville observa que as leis de sucessão americanas dispersavam propriedade e poder, criando ambiente igualitário entre proprietários. Essa estrutura legal favoreceu a consolidação dos valores burgueses — propriedade privada distribuída, mobilidade social, igualdade jurídica.\n\n**Conceito-chave:** Igualdade burguesa — não é igualdade material, mas formal/jurídica; democracia americana se assenta sobre dispersão da propriedade, sustentada pelas leis de herança.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/76"
     },
@@ -2132,7 +2132,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** Aristóteles afirma que toda comunidade visa um bem, e que a polis (cidade) visa o maior bem. Essa associação entre vida comunitária e busca da virtude liga ética e política — duas dimensões inseparáveis no caminho para a eudaimonia (vida bem-vivida).\n\n**Conceito-chave:** Aristóteles e a polis — política não é mero exercício de poder, mas espaço onde se realiza a virtude humana; eudaimonia (felicidade/florescimento) é o fim último.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/77"
     },
@@ -2160,7 +2160,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** O toyotismo nasceu em resposta à crise do fordismo. Sua característica central é a adequação da produção à demanda — produção 'puxada' pelo cliente (just-in-time), estoques mínimos, flexibilidade. Modelo enxuto, oposto à produção em massa estocada do fordismo.\n\n**Conceito-chave:** Toyotismo (Sistema Toyota de Produção) — desenvolvido no Japão pós-guerra; just-in-time, kanban, kaizen; influenciou organização produtiva mundial nos anos 1980-90.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/78"
     },
@@ -2188,7 +2188,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** O 'tráfico de coolies' transportava chineses para Cuba e Peru sob controle coercitivo das suas vidas — recrutamento fraudulento, condições análogas à escravidão. Esse controle opressivo das vidas dos indivíduos justifica a comparação com o tráfico de africanos.\n\n**Conceito-chave:** Trabalho semi-livre no século XIX — após abolição formal da escravidão em várias regiões, formas coercitivas como contratos de servidão e tráfico de coolies preencheram a demanda por mão de obra.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/79"
     },
@@ -2216,7 +2216,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Os seringueiros lutaram pelo direito à terra (reservas extrativistas) combinado com preservação da floresta. A relação entre reivindicação de terra e preservação de mata nativa é a inovação que tornou esses povos paradigma de desenvolvimento sustentável.\n\n**Conceito-chave:** Reservas extrativistas — modelo brasileiro criado nos anos 1990 que reconhece direito territorial de povos tradicionais condicionado ao uso sustentável da floresta; legado de Chico Mendes.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/80"
     },
@@ -2244,7 +2244,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** O texto justifica que jesuítas precisam de escravos para tarefas básicas (lenha, água, pão). Essa argumentação explicita a adoção do cativeiro na Colônia mesmo por instituições religiosas — a Companhia de Jesus, apesar do discurso evangelizador, defendia trabalho escravizado.\n\n**Conceito-chave:** Igreja e escravidão colonial — instituições religiosas justificaram e participaram do sistema escravista; contradição com o discurso oficial cristão de fraternidade.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/81"
     },
@@ -2272,7 +2272,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** Solos vulcânicos são extraordinariamente férteis devido aos minerais liberados pela atividade vulcânica. Apesar do risco, populações se fixam perto de vulcões pela alta produtividade agrícola — solo fértil é a vantagem que compensa o perigo.\n\n**Conceito-chave:** Solos vulcânicos — riqueza mineral atrai atividade humana; tradeoff entre fertilidade e risco geológico. Itália, Indonésia, México têm padrão similar.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/82"
     },
@@ -2300,7 +2300,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Os primeiros cristãos reuniam-se em casas porque o cristianismo era ilegal no Império Romano. A decisão política romana censurava manifestações públicas da doutrina dissidente (perseguições, mártires), forçando os cultos para a esfera doméstica.\n\n**Conceito-chave:** Cristianismo primitivo — religião perseguida durante 2 séculos antes da legalização (Edito de Milão, 313 d.C.); domus-igrejas precederam basílicas.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/83"
     },
@@ -2328,7 +2328,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** Subducção de placa oceânica sob continental gera arcos magmáticos com deformações e metamorfismo. Essa pressão tectônica dobra rochas sedimentares, formando dobramentos modernos — montanhas como Andes e Himalaia são exemplos clássicos.\n\n**Conceito-chave:** Tectônica e relevo — limites convergentes geram dobramentos; relevos jovens (cenozoicos) são altos e tectonicamente ativos; relevos antigos (escudos) são baixos e estáveis.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/84"
     },
@@ -2356,7 +2356,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** O Correio Braziliense (sediado em Londres) viu a Revolução Pernambucana como descontentamento geral. A Gazeta do Rio (oficial portuguesa) viu como desvio de norma. Os dois jornais expressam dissensões entre grupos regionais acerca da configuração político-territorial — Pernambuco contra a centralização lusa.\n\n**Conceito-chave:** Revolução Pernambucana (1817) — movimento separatista contra a Coroa portuguesa; expressa tensões regionais que continuariam no processo de Independência (1822) e Confederação do Equador (1824).",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/85"
     },
@@ -2384,7 +2384,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** A Declaração de 1789 afirma direitos 'naturais, inalienáveis e sagrados do homem' — válidos para todos. Esse princípio estabelece a paridade do tratamento jurídico — fim dos privilégios de nascimento da nobreza, todos sob mesma lei.\n\n**Conceito-chave:** Direitos do homem (1789) — marco da modernidade política; igualdade jurídica formal substitui privilégios estamentais do Antigo Regime; base do constitucionalismo liberal.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/86"
     },
@@ -2412,7 +2412,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** A democracia ateniense era direta — cidadãos (limitados a homens livres atenienses) participavam das decisões na Assembleia, exercendo o poder pessoalmente. Promoveu a participação no exercício do poder, ainda que para uma elite restrita.\n\n**Conceito-chave:** Democracia direta na Grécia — diferente da democracia representativa moderna; cidadania restrita (excluía mulheres, escravos, estrangeiros) mas participação intensa dos qualificados.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/87"
     },
@@ -2440,7 +2440,7 @@
       "imagem_principal": "enem/2020/img/q088_principal.jpg",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** O Tietê morto na Região Metropolitana de São Paulo é resultado direto de receber dejetos urbanos e industriais sem tratamento adequado por décadas. A recepção de densa carga de dejetos esgota o oxigênio dissolvido e mata a vida aquática.\n\n**Conceito-chave:** Eutrofização e mortandade fluvial — excesso de matéria orgânica leva ao consumo de oxigênio por bactérias decompositoras; rios urbanos sem saneamento agonizam por esse processo.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/88"
     },
@@ -2468,7 +2468,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Hume argumenta que mesmo Adão (com razão perfeita) não poderia inferir efeitos de coisas só pelas qualidades sensíveis — precisaria experimentá-las. Para o filósofo, o conhecimento humano nasce da vivência dos fenômenos do mundo: pilar do empirismo.\n\n**Conceito-chave:** Empirismo (Hume, Locke, Berkeley) — toda ideia deriva da experiência sensível; razão sozinha não gera conhecimento substantivo; oposição ao racionalismo cartesiano.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/89"
     },
@@ -2496,7 +2496,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Os textos divergem sobre a relação entre a tragédia de Mariana e o surto de febre amarela. A bióloga Márcia Chame vê conexão; Servio Ribeiro descarta. A divergência é sobre o aparecimento de enfermidade endêmica — se a barragem influenciou ou não o surto.\n\n**Conceito-chave:** Saúde ambiental e desastres — relação entre intervenção humana no meio ambiente e emergência/expansão de doenças é tema controverso, exigindo dados epidemiológicos e ecológicos.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/90"
     }
