@@ -1263,9 +1263,9 @@
       ],
       "imagem_principal": "",
       "imagens_extras": [],
-      "correta": "A",
-      "explicacao": "**Por que a alternativa A está correta:** A duplicação genômica em uma das plantas parentais ANTES do cruzamento explica a tetraploidia de C. arabica. Se uma planta diploide se torna tetraploide por duplicação completa do genoma e cruza com diploide, o híbrido pode estabilizar como tetraploide funcional.\n\n**Conceito-chave:** Poliploidia em plantas — comum na evolução vegetal; duplicação do genoma seguida de hibridação produz alopoliploides como trigo, café, algodão.",
-      "fonte": "api.enem.dev",
+      "correta": "X",
+      "explicacao": "",
+      "fonte": "anulada_inep",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/135"
     },
     {
@@ -1875,9 +1875,9 @@
       ],
       "imagem_principal": "",
       "imagens_extras": [],
-      "correta": "B",
-      "explicacao": "**Por que a alternativa B está correta:** A primeira a revelar é sorteada (1/10 chance de ser cada um do casal). Para o ciclo se fechar com a outra pessoa do casal sendo a última presenteada, ela deve ser sorteada como amigo secreto da primeira. P = 2 × (1/10) × (1/9) = 2/90 = 1/45.\n\n**Conceito-chave:** Probabilidade em permutações cíclicas — amigo secreto é uma permutação; cálculo de eventos específicos exige análise do ciclo.",
-      "fonte": "api.enem.dev",
+      "correta": "X",
+      "explicacao": "",
+      "fonte": "anulada_inep",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/157"
     },
     {

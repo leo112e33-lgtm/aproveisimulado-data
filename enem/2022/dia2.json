@@ -1499,8 +1499,8 @@
       "imagens_extras": [
         "enem/2022/img/q053_extra1.jpg"
       ],
-      "correta": "A",
-      "explicacao": "**Por que a alternativa A está correta:** Os três quadrados pintados na figura compartilham um vértice e estão em três faces adjacentes. Ao planificar o cubo, esses quadrados aparecem em faces que compartilhavam aquele vértice no original. A planificação A representa corretamente essa configuração.\n\n**Conceito-chave:** Planificação de sólidos — projetar faces 3D em 2D; pintar regiões e identificar como ficam após desdobramento exige visualização espacial.",
+      "correta": "D",
+      "explicacao": "**Por que a alternativa D esta correta:** Os tres quadrados cinza tem um vertice em comum no cubo — cada quadrado ocupa um quarto da face e fica no canto adjacente ao vertice compartilhado. Na planificacao, esses quadrados aparecem nas posicoes correspondentes do canto comum, formando o padrao da alternativa D.\n\n**Conceito-chave:** Planificacao de poliedros — cada planificacao do cubo preserva relacoes de adjacencia; reconhecer faces vizinhas e essencial para visualizacao espacial.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/143"
     },
@@ -1905,9 +1905,9 @@
       ],
       "imagem_principal": "",
       "imagens_extras": [],
-      "correta": "E",
-      "explicacao": "**Por que a alternativa E está correta:** Para q ≤ 50: S(q) = 675 + 5q. Para q > 50: S(q) = 675 + 5·50 + 7·(q - 50) = 675 + 250 + 7q - 350 = 575 + 7q. A alternativa E expressa essa função por partes corretamente.\n\n**Conceito-chave:** Função definida por partes — comissão progressiva exige expressão diferente em cada faixa de quantidade; somar a parcela acumulada da faixa anterior é essencial.",
-      "fonte": "api.enem.dev",
+      "correta": "X",
+      "explicacao": "",
+      "fonte": "anulada_inep",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/157"
     },
     {

@@ -1360,9 +1360,9 @@
       ],
       "imagem_principal": "enem/2021/img/q048_principal.png",
       "imagens_extras": [],
-      "correta": "A",
-      "explicacao": "**Por que a alternativa A está correta:** Aplicando o princípio fundamental da contagem com restrições por linha: linha 1 (3 gaúchos, 5 placas) = 3⁵ ou ordenamentos com repetição; linha 2 (3 cariocas) = 3⁵; linha 3 (2 mineiros) = 2⁵; linha 4 (5 paulistas) = 5⁵; linhas 5 e 6 (sem restrição) = 15⁵ × 15⁵. A alternativa A traduz esse produto.\n\n**Conceito-chave:** Princípio multiplicativo da contagem — em problemas com restrições por categoria, multiplicar opções de cada categoria.",
-      "fonte": "api.enem.dev",
+      "correta": "X",
+      "explicacao": "",
+      "fonte": "anulada_inep",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/138"
     },
     {
@@ -1388,8 +1388,8 @@
       ],
       "imagem_principal": "enem/2021/img/q049_principal.png",
       "imagens_extras": [],
-      "correta": "A",
-      "explicacao": "**Por que a alternativa A está correta:** Calcula-se a média das vendas de cada lanche dividindo o total nas três franquias por 3. O lanche tipo I apresenta a maior média entre os cinco — sendo escolhido para inclusão no cardápio definitivo.\n\n**Conceito-chave:** Média aritmética em decisão — soma de valores dividida pela quantidade; comparação entre categorias usa a média como critério de seleção.",
+      "correta": "E",
+      "explicacao": "**Por que a alternativa E esta correta:** Calculando a media de vendas por franquia para cada tipo de lanche, o tipo V apresenta a maior media nas tres franquias. Por isso a gerencia o inclui no cardapio.\n\n**Conceito-chave:** Media aritmetica simples — soma dos valores dividida pelo numero de elementos; usada em decisoes baseadas em desempenho medio.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/139"
     },
@@ -1558,8 +1558,8 @@
       ],
       "imagem_principal": "enem/2021/img/q055_principal.png",
       "imagens_extras": [],
-      "correta": "A",
-      "explicacao": "**Por que a alternativa A está correta:** A média global é 6 minutos. Aplicando média ponderada com x e y como percentuais das faixas etárias, e sabendo que x + y + (faixa intermediária) = 100: resolve-se o sistema obtendo x = 10 e y = 80.\n\n**Conceito-chave:** Média ponderada e sistema de equações — pesos somam 100%; equação da média total + restrição de soma resolvem o sistema.",
+      "correta": "C",
+      "explicacao": "**Por que a alternativa C esta correta:** Sistema com media ponderada total = 6 min usando os percentuais x, y e o restante. Resolvendo as equacoes (3x + 5y + 12·resto)/100 = 6 e x+y+resto=100, obtem-se x=20% e y=60%.\n\n**Conceito-chave:** Media ponderada — Σ(xi·fi)/Σfi; sistemas de equacoes lineares para descobrir distribuicoes percentuais.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/145"
     },
@@ -1760,8 +1760,8 @@
         "enem/2021/img/q062_extra2.png",
         "enem/2021/img/q062_extra3.png"
       ],
-      "correta": "D",
-      "explicacao": "**Por que a alternativa D está correta:** Aplicando as definições x△y = x² + xy - y² e x*y = xy + x à equação (a△b)*(b△a) = 0, obtém-se uma equação polinomial em a. As duas maiores soluções são somadas, gerando o valor de saída — coincidente com a alternativa D.\n\n**Conceito-chave:** Operações binárias e equações — substituir definições e simplificar até polinômio resolúvel; aplicar Vieta para soma de raízes ou resolver explicitamente.",
+      "correta": "E",
+      "explicacao": "**Por que a alternativa E esta correta:** A equacao (a△b)*(b△a)=0 fatora-se de modo que (a△b)=0 ou (b△a)=0. Resolvendo as duas quadraticas e somando as duas maiores raizes, obtem-se o valor da alternativa E.\n\n**Conceito-chave:** Operacoes algebricas definidas e equacoes do segundo grau — composicao de operacoes nao-padrao; aplicacoes em sistemas de codificacao.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/152"
     },

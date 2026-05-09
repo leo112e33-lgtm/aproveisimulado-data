@@ -2085,9 +2085,9 @@
       ],
       "imagem_principal": "enem/2023/img/q074_principal.png",
       "imagens_extras": [],
-      "correta": "D",
-      "explicacao": "**Por que a alternativa D está correta:** O gráfico relaciona casos confirmados e cobertura vacinal. Os adultos entre 20 e 29 anos, embora não estejam entre os grupos prioritários da imunização, apresentam alto número de casos — sendo a categoria mais exposta ao vírus.\n\n**Conceito-chave:** Análise comparativa de gráficos de saúde pública — exposição não depende só de ser grupo prioritário; depende também da circulação social do agente etiológico.",
-      "fonte": "api.enem.dev",
+      "correta": "X",
+      "explicacao": "",
+      "fonte": "anulada_inep",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/164"
     },
     {
@@ -2502,8 +2502,8 @@
       ],
       "imagem_principal": "enem/2023/img/q089_principal.png",
       "imagens_extras": [],
-      "correta": "D",
-      "explicacao": "**Por que a alternativa D está correta:** Os mapas IPCC simulam o efeito de um aquecimento de 4 °C. Eles mostram que o efeito não é uniforme: regiões já secas ficam mais secas, polos aquecem mais que trópicos, e algumas áreas ganham mais chuva enquanto outras perdem. Isso intensifica os contrastes climáticos entre regiões do planeta.\n\n**Conceito-chave:** Mudanças climáticas e variabilidade regional — aquecimento global é heterogêneo. Modelos climáticos mostram amplificação de contrastes (regiões frias aquecem mais; secas se intensificam em umas, chuvas em outras).",
+      "correta": "C",
+      "explicacao": "**Por que a alternativa C esta correta:** Aquecimento global tem efeito amplificado nos polos (amplificacao artica): o inverno polar se aquece mais que o verao polar, reduzindo a amplitude termica anual. Por isso ocorre diminuicao da variacao de temperatura nas regioes polares.\n\n**Conceito-chave:** Amplificacao artica — efeito-albedo do gelo, intercambio oceanico e atmosferico fazem polos se aquecerem 2-4x mais rapido que media global.",
       "fonte": "correcao_manual",
       "fonte_url": ""
     },

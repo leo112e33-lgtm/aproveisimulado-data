@@ -2087,9 +2087,9 @@
       ],
       "imagem_principal": "",
       "imagens_extras": [],
-      "correta": "A",
-      "explicacao": "**Por que a alternativa A está correta:** Pena: 5-15 anos. Redução: 1/6 a 2/3. Mínimo: 5 - 5×(2/3) = 5/3 anos = 1 ano e 8 meses. Máximo: 15 - 15×(1/6) = 12,5 anos = 12 anos e 6 meses.\n\n**Conceito-chave:** Frações em legislação — cálculo de penas reduzidas; aplicação de frações em casos reais.",
-      "fonte": "api.enem.dev",
+      "correta": "X",
+      "explicacao": "",
+      "fonte": "anulada_inep",
       "fonte_url": "https://api.enem.dev/v1/exams/2018/questions/163"
     },
     {

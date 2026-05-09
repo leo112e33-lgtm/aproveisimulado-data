@@ -419,8 +419,8 @@
       ],
       "imagem_principal": "",
       "imagens_extras": [],
-      "correta": "E",
-      "explicacao": "**Por que a alternativa D está correta:** Pestana sofre por compor maxixes (gênero popular) quando aspira à imortalidade da música clássica. Esse conflito interno representa a tensa relação entre o erudito e o popular na constituição da música brasileira — disputa central na cultura nacional.\n\n**Conceito-chave:** Erudito x popular na cultura brasileira — música, literatura e arte brasileiras se constroem nesse diálogo (e tensão) entre tradições eruditas europeias e formas populares afro-brasileiras.",
+      "correta": "D",
+      "explicacao": "**Por que a alternativa D esta correta:** Machado descreve compositor erudito (referencias a Mozart) que se rende ao maxixe popular. A obra explicita a tensa relacao entre o erudito e o popular na constituicao da musica brasileira — choque entre a formacao classica e os generos urbanos populares no fim do seculo XIX.\n\n**Conceito-chave:** Modernismo musical brasileiro — maxixe, polca, samba; Machado de Assis ja antecipava o dialogo entre alta cultura e cultura popular na configuracao da identidade musical do pais.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/15"
     },
@@ -699,8 +699,8 @@
       ],
       "imagem_principal": "",
       "imagens_extras": [],
-      "correta": "E",
-      "explicacao": "**Por que a alternativa E está correta:** O delegado intimida o vizinho do general usando linguagem autoritária estereotipada — 'Eu ensino o senhor', 'autoridades constituídas', 'sei tratar gringos feito o senhor'. A representação acentua a hostilidade e exalta relações de poder estereotipadas no contexto brasileiro entre policiais e cidadãos.\n\n**Conceito-chave:** Estereotipia no discurso — autoritarismo se revela em fórmulas linguísticas previsíveis; literatura aciona esses estereótipos para criticá-los.",
+      "correta": "B",
+      "explicacao": "**Por que a alternativa B esta correta:** O delegado usa expressoes pomposas misturadas a giria ('dura lex', 'morou?', 'em cana'), tratando os 'gringos' com autoritarismo caricato. Esse contraste linguistico confere a narrativa um tom anedotico — situacao comica que ridiculariza a propria figura do agente da autoridade.\n\n**Conceito-chave:** Anedota literaria — narrativa breve e comica que ironiza autoridades por meio do exagero e do contraste de registros; recurso classico da literatura brasileira de costumes.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/25"
     },
@@ -1063,8 +1063,8 @@
       ],
       "imagem_principal": "",
       "imagens_extras": [],
-      "correta": "A",
-      "explicacao": "**Por que a alternativa A está correta:** O eu lírico recorre à condicional 'Se for possível, manda-me dizer' — sugerindo dúvida sobre se o reencontro é viável. As perguntas e condições acumulam-se, indicando ceticismo quanto à possibilidade do reencontro com o ser amado.\n\n**Conceito-chave:** Lirismo amoroso e modalização — uso de orações condicionais ('se') exprime hesitação, esperança hesitante, ceticismo; constrói o eu lírico atravessado pela dúvida.",
+      "correta": "C",
+      "explicacao": "**Por que a alternativa C esta correta:** O eu lirico recorda 'brilho das mares', 'peixes rosados', 'meus pes molhados' — imagens da memoria afetiva. O desejo expresso remete ao sonho de autorrealizacao desenhado pela memoria — o reencontro projetado a partir das lembrancas.\n\n**Conceito-chave:** Lirica amorosa contemporanea (Hilda Hilst) — memoria afetiva como motor do desejo; reencontro e plenitude buscados via reconstrucao do passado.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/38"
     },
@@ -1483,8 +1483,8 @@
       ],
       "imagem_principal": "",
       "imagens_extras": [],
-      "correta": "A",
-      "explicacao": "**Por que a alternativa A está correta:** A história de Zé de Sila e da avó que rezava para a chuva durar associa práticas místicas (oração, pratos emborcados) ao patrimônio cultural sertanejo. Esses saberes preservam memórias coletivas e modos de viver característicos da diversidade regional.\n\n**Conceito-chave:** Saberes populares e patrimônio imaterial — práticas religiosas, ditados, rituais cotidianos compõem riqueza cultural reconhecida pelo IPHAN como patrimônio imaterial.",
+      "correta": "B",
+      "explicacao": "**Por que a alternativa B esta correta:** Ze de Sila relata pratica da avo (rezar e emborcar pratos para sustentar a chuva) — costume tradicional regional. O texto destaca praticas misticas associadas a patrimonio cultural — religiosidade popular como heranca cultural do sertao.\n\n**Conceito-chave:** Patrimonio imaterial — saberes, ritos e tradicoes populares constituem cultura brasileira; valorizados pelo IPHAN como patrimonio.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/53"
     },
