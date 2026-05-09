@@ -76,6 +76,12 @@ def copiar_local(nome_arquivo: str, destino: Path) -> bool:
     return True
 
 
+import re
+
+# Captura URLs inline no markdown do enunciado
+_MD_IMAGE_RE = re.compile(r"!\[(?:[^\]]*)?\]\((https://[^)\s]+)\)")
+
+
 def processar_questao(q: dict, dir_img: Path) -> bool:
     """Baixa as imagens da questao e atualiza os caminhos in-place. Retorna True se mudou algo."""
     mudou = False
@@ -144,6 +150,25 @@ def processar_questao(q: dict, dir_img: Path) -> bool:
                 mudou = True
     if novas_alts != alts:
         q["imagens_alternativas"] = novas_alts
+
+    # imagens INLINE no enunciado (markdown). Baixa e substitui a URL pelo
+    # caminho local. Permite manter a ordem texto-imagem-texto-imagem do
+    # enunciado original sem duplicacao.
+    enunciado = q.get("enunciado") or ""
+    if enunciado:
+        urls_inline = _MD_IMAGE_RE.findall(enunciado)
+        for i, url in enumerate(urls_inline):
+            if "broken-image" in url:
+                continue
+            ext = detectar_extensao(url)
+            nome = f"q{n:03d}_inline{i + 1}{ext}"
+            destino = dir_img / nome
+            if baixar_url(url, destino):
+                novo_path = f"{rel_img}/{nome}"
+                enunciado = enunciado.replace(url, novo_path)
+                mudou = True
+        if enunciado != q["enunciado"]:
+            q["enunciado"] = enunciado
 
     return mudou
 

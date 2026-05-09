@@ -2,7 +2,7 @@
   "ano": 2020,
   "dia": 1,
   "total": 90,
-  "geradoEm": "2026-05-09T12:48:20Z",
+  "geradoEm": "2026-05-09T13:15:49Z",
   "questoes": [
     {
       "ano": 2020,
@@ -28,7 +28,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** A canção retrata Pablo Pueblo, trabalhador cansado em um bairro deteriorado, observando paredes com promessas eleitorais antigas. O texto contrapõe a individualidade do sujeito à estrutura social marcada pela decepção na atuação política — promessas vazias que não se cumprem.\n\n**Conceito-chave:** Crítica social engajada na MPLA — Rubén Blades usa narrativa pessoal para denunciar problemas estruturais; sujeito individual encarna desencanto coletivo.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/1"
     },
@@ -56,7 +56,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** O autor recorda como Sartre e MacLeish defendiam o engajamento intelectual, e como artistas latino-americanos abraçaram o compromisso ideológico contra a opressão. A reflexão central é que esse compromisso ideológico de alguns intelectuais está refletido em suas obras — não há separação entre arte e posição política.\n\n**Conceito-chave:** Engajamento intelectual — tradição que vê o artista como sujeito político responsável; oposição ao 'arte pela arte' que defende neutralidade.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/2"
     },
@@ -84,7 +84,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** A resenha destaca a 'sensação de reconhecimento' — o público se vê nos personagens violentos. O filme expõe o autorreconhecimento diante dos diversos tipos de comportamento humano frente à violência, gerando incômodo por mostrar facetas que estão em todos.\n\n**Conceito-chave:** Identificação no cinema — força do filme está em revelar o espectador para si mesmo; recurso clássico da arte crítica.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/3"
     },
@@ -112,7 +112,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** O eu lírico afirma 'hoje já não soy mejicano ni hispano ni tampoco americano' — está entre identidades, sem pertencer plenamente a nenhuma. Esse sentimento de conflito de identidades é típico de povos que viveram expropriação cultural e territorial.\n\n**Conceito-chave:** Identidade fronteiriça (chicano) — cultura mexicano-americana resulta de dupla expropriação; literatura chicana explora essa condição limítrofe.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/4"
     },
@@ -140,7 +140,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** 'Entrar con pies de plomo' é expressão idiomática que significa 'agir com cuidado'. No contexto, a personagem evita tocar em assuntos íntimos da visitante — mostra cuidado para tratar de temas sensíveis e privados.\n\n**Conceito-chave:** Expressões idiomáticas em espanhol — significado não literal exige conhecimento cultural; comum em narrativas literárias.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/5"
     },
@@ -168,7 +168,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Manuel Bandeira reflete sobre como concebeu 'Vou-me embora pra Pasárgada' — gênese do nome, sentimentos que originaram o poema, processo de criação. Essa fala do poeta sobre sua própria poesia é função metalinguística da linguagem.\n\n**Conceito-chave:** Função metalinguística (Jakobson) — linguagem que fala sobre si própria; característica de prefácios, ensaios sobre a obra do autor, definições.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/6"
     },
@@ -177,7 +177,7 @@
       "dia": 1,
       "numero": 7,
       "titulo": "Questão 7 - ENEM 2020",
-      "enunciado": "Disponível em: www.globofilmes.globo.com. Acesso em: 13 dez. 2017 (adaptado).",
+      "enunciado": "![](enem/2020/img/q007_inline1.png)\n\nDisponível em: www.globofilmes.globo.com. Acesso em: 13 dez. 2017 (adaptado).",
       "alternativas_introducao": "A frase, título do filme, reproduz uma variedade linguística recorrente na fala de muitos brasileiros. Essa estrutura caracteriza-se pelo(a)",
       "alternativas": [
         "A) Uso de uma marcação temporal.",
@@ -196,7 +196,7 @@
       "imagem_principal": "enem/2020/img/q007_principal.png",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** A fala popular brasileira frequentemente apaga preposições obrigatórias na norma culta — 'vou no mercado' (em vez de 'vou ao mercado'), 'comuniquei o fato' (em vez de 'comuniquei do fato'). Essa estrutura caracteriza-se pelo apagamento de uma preposição.\n\n**Conceito-chave:** Variação morfossintática — fala popular simplifica regências preposicionais; fenômeno gramatical típico do português brasileiro.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/7"
     },
@@ -224,7 +224,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** O Slam do Corpo combina poesia falada, Libras e expressão corporal. A combinação dessas linguagens imprime ritmo e visibilidade à expressão poética — torna a palavra 'visível' através do corpo, ampliando o alcance da poesia.\n\n**Conceito-chave:** Multilinguagem na poesia contemporânea — palavra escrita, oral, visual e gestual coexistem; democratiza acesso à arte para públicos diversos (ouvintes e surdos).",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/8"
     },
@@ -252,7 +252,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** O texto descreve origens históricas de expressões como 'cabra da peste' e 'nhenhe-nhém'. Essas explicações são registros do inventário do português brasileiro — patrimônio linguístico construído ao longo dos séculos por contatos culturais variados.\n\n**Conceito-chave:** Etimologia popular e patrimônio linguístico — expressões idiomáticas carregam história; preservar e estudar suas origens é parte da memória cultural.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/9"
     },
@@ -280,7 +280,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Termos como 'ouro do século 21', 'elementos do futuro', 'vitaminas da indústria' são metáforas valorizadoras — atribuem maior valor aos metais (objeto da reportagem), enfatizando sua importância estratégica e econômica.\n\n**Conceito-chave:** Aspas como recurso retórico — destacam expressões metafóricas, citações ou ironias; contexto define a função.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/10"
     },
@@ -308,7 +308,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** O narrador descreve Maria angustiada e a natureza tornando-se hostil — 'sombras', 'monstros', 'serpentes infinitas', 'agouros com pios fúnebres'. Há confluência entre o estado emocional da personagem e a configuração da paisagem — o mundo externo reflete o interior.\n\n**Conceito-chave:** Pathos romântico/realista — paisagem como projeção do estado emocional; recurso muito explorado em literatura do XIX (José de Alencar, Machado, Aluísio).",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/11"
     },
@@ -336,7 +336,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** O Texto II revela que 'Águas de Março' dialoga com Olavo Bilac (poeta parnasiano) e com pontos de macumba (cultura popular afro-brasileira). A canção estabelece diálogo com diferentes tradições da cultura nacional — alta e baixa, erudita e popular.\n\n**Conceito-chave:** Intertextualidade na MPB — composições brasileiras frequentemente retomam tradições diversas, criando obras que sintetizam o vasto repertório nacional.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/12"
     },
@@ -364,7 +364,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** O aplicativo descrito reúne pessoas para jogar futebol, organiza grupos, convida participantes. Isso caracteriza a formação de grupos em comunidades virtuais para a prática esportiva — tecnologia conectando praticantes que sem ela teriam dificuldade de se organizar.\n\n**Conceito-chave:** Sociabilidade digital no esporte amador — tecnologia muda dinâmica social; aplicativos preenchem demanda por encontros que antes dependiam de redes pessoais.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/13"
     },
@@ -373,7 +373,7 @@
       "dia": 1,
       "numero": 14,
       "titulo": "Questão 14 - ENEM 2020",
-      "enunciado": "HIRST, O. **Mother and Child**. Bezerro dividido em duas partes: 1029 x 1689 x 625mm, 1993(detalhe). Vidro, aço pintado, silicone, acrílico, monofilamento, aço inoxidável, bezerro e solução de formaldeído.\n\n**TEXTO II**  \nO grupo Jovens Artistas Britânicos (YABs), que surgiu no final da década de 1980, possui obras diversificadas que incluem fotografias, instalações, pinturas e carcaças desmembradas. O trabalho desses artistas chamou a atenção no final do período da recessão, por utilizar materiais incomuns, como esterco de elefantes, sangue e legumes, o que expressava os detritos da vida e uma  \natmosfera de niilismo, temperada por um humor mordaz.\n\nDisponível em: http://damienhirsti.com:Acesso em: 15 jul. 2015. FARTHING, S. **Tudo sobre arte**. Rio de Janeiro: Sextante, 2011 (adaptado).",
+      "enunciado": "![](enem/2020/img/q014_inline1.png)\n\nHIRST, O. **Mother and Child**. Bezerro dividido em duas partes: 1029 x 1689 x 625mm, 1993(detalhe). Vidro, aço pintado, silicone, acrílico, monofilamento, aço inoxidável, bezerro e solução de formaldeído.\n\n**TEXTO II**  \nO grupo Jovens Artistas Britânicos (YABs), que surgiu no final da década de 1980, possui obras diversificadas que incluem fotografias, instalações, pinturas e carcaças desmembradas. O trabalho desses artistas chamou a atenção no final do período da recessão, por utilizar materiais incomuns, como esterco de elefantes, sangue e legumes, o que expressava os detritos da vida e uma  \natmosfera de niilismo, temperada por um humor mordaz.\n\nDisponível em: http://damienhirsti.com:Acesso em: 15 jul. 2015. FARTHING, S. **Tudo sobre arte**. Rio de Janeiro: Sextante, 2011 (adaptado).",
       "alternativas_introducao": "A provocação desse grupo gera um debate em torno da obra de arte pelo(a)",
       "alternativas": [
         "A) Recusa a crenças, convicções, valores morais, estéticos e políticos na história moderna.",
@@ -392,7 +392,7 @@
       "imagem_principal": "enem/2020/img/q014_principal.png",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** Os YBAs (incluindo Damien Hirst) usam materiais incomuns — esterco de elefante, sangue, carcaças — para gerar arte. A provocação reside no frutífero arsenal de materiais e formas que se relacionam com os objetos construídos, expandindo limites do que pode ser arte.\n\n**Conceito-chave:** Arte conceitual contemporânea — escolha de materiais e formas tem peso semântico; obra desafia categorias tradicionais (escultura, pintura) e provoca reação.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/14"
     },
@@ -401,7 +401,7 @@
       "dia": 1,
       "numero": 15,
       "titulo": "Questão 15 - ENEM 2020",
-      "enunciado": "O suor para estar em competições nacionais e internacionais de alto nível é o mesmo para homens e mulheres, mas não raramente as remunerações são menores para elas. Se no tênis, um dos esportes mais equânimes em termos de gênero, todos os principais torneiros oferecem prêmios idênticos nas disputas femininas e masculinas, no futebol a desigualdade atinge seu ápice. Neymar e Marta são dois expoentes dessa paixão nacional. Ela já foi eleita cinco vezes a melhor jogadora do mundo pela Fifa. Ele conquistou o terceiro lugar na última votação para melhor do mundo. Mas é na conta bancária que a diferença entre os dois se sobressai.\n\nDisponível em: http://apublica.org. Acesso em: 9 ago. 2017 (adaptado).",
+      "enunciado": "O suor para estar em competições nacionais e internacionais de alto nível é o mesmo para homens e mulheres, mas não raramente as remunerações são menores para elas. Se no tênis, um dos esportes mais equânimes em termos de gênero, todos os principais torneiros oferecem prêmios idênticos nas disputas femininas e masculinas, no futebol a desigualdade atinge seu ápice. Neymar e Marta são dois expoentes dessa paixão nacional. Ela já foi eleita cinco vezes a melhor jogadora do mundo pela Fifa. Ele conquistou o terceiro lugar na última votação para melhor do mundo. Mas é na conta bancária que a diferença entre os dois se sobressai.\n\n![](enem/2020/img/q015_inline1.png)\n\nDisponível em: http://apublica.org. Acesso em: 9 ago. 2017 (adaptado).",
       "alternativas_introducao": "O esporte é uma manifestação cultural na qual se estabelecem relações sociais. Considerando o texto, o futebol é uma mobilidade que",
       "alternativas": [
         "A) Apresenta proximidades com o tênis, no que tange às relações de gênero entre homens e mulheres.",
@@ -420,7 +420,7 @@
       "imagem_principal": "enem/2020/img/q015_principal.png",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** O texto compara remunerações de Marta e Neymar — Marta, melhor jogadora 5 vezes, ganha bem menos que Neymar. Isso revela que o futebol no Brasil se caracteriza por uma identidade masculina, conferindo maior remuneração aos jogadores em detrimento das jogadoras.\n\n**Conceito-chave:** Desigualdade de gênero no esporte — esportes historicamente associados ao masculino reproduzem disparidades; equidade exige ação consciente sobre estrutura.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/15"
     },
@@ -448,7 +448,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** Para neutralizar reivindicações dos operários, o engenheiro apela: 'A companhia está empenhada nessa ponte'. Essa fala usa o apelo pela identificação com a empresa, estendido ao amor patriótico (a obra como interesse coletivo) — recurso para silenciar críticas individuais.\n\n**Conceito-chave:** Estratégias discursivas de poder — empresas e Estados fazem apelos a 'coletividade', 'pátria', 'missão' para diluir reivindicações concretas dos trabalhadores.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/16"
     },
@@ -476,7 +476,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** O texto critica o discurso da aptidão física que individualiza a saúde, ignorando que 'nem todas as pessoas têm condições econômicas' para adotar estilos saudáveis. Problematiza a organização social e seu impacto na mudança de hábitos dos indivíduos — saúde é também questão estrutural.\n\n**Conceito-chave:** Determinantes sociais da saúde — condições econômicas, escolaridade, moradia influenciam saúde tanto quanto comportamento individual; abordagem holística necessária.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/17"
     },
@@ -504,7 +504,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** O poema 'Retrato de homem' descreve uma figura masculina rígida, com 'paisagem estrita ao apuro do muro', 'diques de sombra', 'lodo de ira'. O olhar do eu lírico desvela sentimentos de vazio e angústia sob a aparente austeridade da figura — fragilidade escondida pela rigidez.\n\n**Conceito-chave:** Lirismo introspectivo na poesia moderna — interesse pela subjetividade oculta sob aparências; recurso comum em retratos poéticos.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/18"
     },
@@ -532,7 +532,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** A petição é redigida em forma de cordel, com versos rimados que humanizam o 'criminoso' — 'desgraçado derramando nas praças suas dores'. Esse jogo de linguagem proposto atenua a gravidade do delito ao humanizar e poetizar a infração.\n\n**Conceito-chave:** Linguagem persuasiva e gênero — afastamento da linguagem jurídica seca por meio de cordel cria empatia; estratégia retórica eficaz embora não convencional.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/19"
     },
@@ -560,7 +560,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** O texto crítica a 'indústria do empreendedorismo de palco' — palestrantes que vendem fórmulas mágicas. A reflexão central denuncia esse mercado que explora desejo de sucesso e gera frustração, ilustrando como o discurso aparentemente motivacional pode ter efeito contrário sobre quem o consome.\n\n**Conceito-chave:** Crítica ao mercado da motivação — coaching e palestras de sucesso comerciais frequentemente prometem resultados sem base; mercado lucrativo que cria expectativas irrealistas.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/20"
     },
@@ -588,7 +588,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** Lenine cita lugares pernambucanos (Itamaracá, Caruaru, Casa Forte, Nova Jerusalém, Pernambuco) e manifestações como bumba meu boi, ciranda, mamulengos, frevo, maracatu, e heróis locais (Frei Caneca, Luiz Gonzaga). A canção identifica esses elementos numa síntese da cultura nordestina.\n\n**Conceito-chave:** Identidade cultural regional — a MPB contemporânea celebra a riqueza local através da nomeação de seus elementos; estratégia de afirmação identitária.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/21"
     },
@@ -596,56 +596,32 @@
       "ano": 2020,
       "dia": 1,
       "numero": 22,
-      "titulo": "Questão 22 - ENEM 2020",
-      "enunciado": "Disponível em: www.facebook.com/ministeriodoesporte. Acesso em: 7 dez. 2017",
-      "alternativas_introducao": "Esse anúncio publicitário propõe soluções para um problema social recorrente, ao",
-      "alternativas": [
-        "A) Promover ações de conscientização para reduzir a violência de gênero em eventos esportivos.",
-        "B) Estimular o compartilhamento de políticas públicas sobre a igualdade de gênero no esporte.",
-        "C) Divulgar para a população as novas regras complementares para as torcidas de futebol.",
-        "D) Informar ao público masculino as consequências de condutas ofensivas.",
-        "E) Regulamentar normas de boa convivência nos estádios."
-      ],
-      "imagens_alternativas": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
-      "imagem_principal": "enem/2020/img/q022_principal.png",
+      "titulo": "Questao 22 - ENEM 2020",
+      "enunciado": "",
+      "alternativas_introducao": "",
+      "alternativas": [],
+      "imagens_alternativas": [],
+      "imagem_principal": "",
       "imagens_extras": [],
-      "correta": "A",
-      "explicacao": "",
-      "fonte": "api.enem.dev",
+      "correta": "X",
+      "explicacao": "**Por que a alternativa A está correta:** O anúncio do Ministério do Esporte aborda a violência de gênero em eventos esportivos — assédio e agressão contra mulheres em estádios. A peça promove ações de conscientização para reduzir essa violência, alertando o público masculino sobre suas atitudes.\n\n**Conceito-chave:** Campanhas governamentais de conscientização — usam mídia massiva para induzir mudança comportamental em problemas sociais estruturais.",
+      "fonte": "erro",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/22"
     },
     {
       "ano": 2020,
       "dia": 1,
       "numero": 23,
-      "titulo": "Questão 23 - ENEM 2020",
-      "enunciado": "Eu tenho empresas e sou digno do visto para ir a Nova York. O dinheiro que chove em Nova York é para pessoas com poder de compra. Pessoas que tenham um visto do consulado americano. O dinheiro que chove em Nova  \nYork também é para os nova-iorquinos. São milhares de dólares. \\[…\\] Estou indo para Nova York, onde está chovendo dinheiro. Sou um grande administrador. Sim, está chovendo dinheiro em Nova York. Deu no rádio. Vejo que há pedestres invadindo a via onde trafega o meu carro vermelho, importado da Alemanha. Vejo que há carros nacionais trafegando pela via onde trafega o meu carro vermelho, importado da Alemanha. Ao chegar em Nova York, tomarei providências.\n\nSANTANNA, A. O importado vermelho de Noé. In: MORICONI. I. (Org.). _Os cem melhores contos_. Rio de Janeiro: Objetiva. 2001.",
-      "alternativas_introducao": "As repetições e as frases curtas constituem procedimentos linguísticos importantes para a compreensão da temática do texto, pois",
-      "alternativas": [
-        "A) Expressam a futilidade do discurso de poder e de distinção do narrador.",
-        "B) Disfarçam a falta de densidade das angústias existenciais narradas.",
-        "C) Ironizam a valorização da cultura norte-americana pelos brasileiros.",
-        "D) Explicitam a ganância financeira do capitalismo contemporâneo.",
-        "E) Criticam os estereótipos sociais das visões de mundo elitistas."
-      ],
-      "imagens_alternativas": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
+      "titulo": "Questao 23 - ENEM 2020",
+      "enunciado": "",
+      "alternativas_introducao": "",
+      "alternativas": [],
+      "imagens_alternativas": [],
       "imagem_principal": "",
       "imagens_extras": [],
-      "correta": "A",
-      "explicacao": "",
-      "fonte": "api.enem.dev",
+      "correta": "X",
+      "explicacao": "**Por que a alternativa A está correta:** A repetição obsessiva de 'meu carro vermelho importado da Alemanha', 'estou indo para Nova York', 'sou um grande administrador' constrói um narrador que afirma freneticamente seu status. Essas marcas linguísticas expressam a futilidade do discurso de poder e de distinção do narrador — superficial e vazio.\n\n**Conceito-chave:** Repetição como recurso crítico — reiteração obsessiva expõe vacuidade do discurso narcísico/elitista; comum em ficção crítica do consumismo.",
+      "fonte": "erro",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/23"
     },
     {
@@ -672,7 +648,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** O gerúndio (forma 'estarei fazendo', 'vou estar enviando') indica continuidade de um processo. A crítica do decreto está em que essa forma é usada para protelar entregas — ineficiência camuflada como ação contínua sem fim definido.\n\n**Conceito-chave:** Aspecto verbal — gerúndio expressa ação em curso sem foco no término; uso excessivo no atendimento corporativo gerou crítica linguística e satirizada no decreto.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/24"
     },
@@ -681,7 +657,7 @@
       "dia": 1,
       "numero": 25,
       "titulo": "Questão 25 - ENEM 2020",
-      "enunciado": "A obra de Joseph Kosuth data de 1965 e se constitui por uma fotografia de cadeira, uma cadeira exposta e um quadro com o verbete “Cadeira”. Trata-se de um exemplo de arte conceitual que revela o paradoxo entre verdade e imitação, já que a arte\n\nKOSUTH J. _One and Three Chairs_. Museu Reina Sofia, Espanha, 1965.  \nDisponível em: www.museoreinasofia.es. Acesso em: 4 jun. 2018  \n(adaptado).",
+      "enunciado": "![](enem/2020/img/q025_inline1.png)\n\nA obra de Joseph Kosuth data de 1965 e se constitui por uma fotografia de cadeira, uma cadeira exposta e um quadro com o verbete “Cadeira”. Trata-se de um exemplo de arte conceitual que revela o paradoxo entre verdade e imitação, já que a arte\n\nKOSUTH J. _One and Three Chairs_. Museu Reina Sofia, Espanha, 1965.  \nDisponível em: www.museoreinasofia.es. Acesso em: 4 jun. 2018  \n(adaptado).",
       "alternativas_introducao": "A obra de Joseph Kosuth data de 1965 e se constitui por uma fotografia de cadeira, uma cadeira exposta e um quadro com o verbete “Cadeira”. Trata-se de um exemplo\nde arte conceitual que revela o paradoxo entre verdade e imitação, já que a arte",
       "alternativas": [
         "A) Não é a realidade, mas uma representação dela.",
@@ -700,7 +676,7 @@
       "imagem_principal": "enem/2020/img/q025_principal.png",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** A obra de Kosuth justapõe três 'cadeiras': fotografia, objeto real e definição verbal. O gesto questiona o que é arte e revela que a arte não é a realidade, mas uma representação dela — cada uma das três 'cadeiras' é mediação de um conceito.\n\n**Conceito-chave:** Arte conceitual — arte como reflexão sobre seus próprios meios e linguagens; obra é o conceito, não o objeto.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/25"
     },
@@ -709,7 +685,7 @@
       "dia": 1,
       "numero": 26,
       "titulo": "Questão 26 - ENEM 2020",
-      "enunciado": "A realidade virtual é uma tecnologia de informação que, conforme sugere a imagem, tem como uma de suas principais funções\n\nDisponível em: www.iotforall.com. Acesso em: 22 jun. 2018.",
+      "enunciado": "![](enem/2020/img/q026_inline1.png)\n\nA realidade virtual é uma tecnologia de informação que, conforme sugere a imagem, tem como uma de suas principais funções\n\nDisponível em: www.iotforall.com. Acesso em: 22 jun. 2018.",
       "alternativas_introducao": "A realidade virtual é uma tecnologia de informação que, conforme sugere a imagem, tem como uma de suas principais funções",
       "alternativas": [
         "A) Promover a manipulação eficiente de conhecimentos e informações de difícil compreensão no mundo físico.",
@@ -728,7 +704,7 @@
       "imagem_principal": "enem/2020/img/q026_principal.png",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** A realidade virtual cria ambientes simulados imersivos — o usuário experimenta mentalmente outra realidade enquanto está fisicamente em seu lugar. Aplicações em treinamento, terapia, jogos, educação aproveitam essa transposição mental.\n\n**Conceito-chave:** Realidade virtual — tecnologia que simula experiência sensorial completa; limites entre virtual e real se diluem com avanço de hardware (visores, hápticos).",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/26"
     },
@@ -756,7 +732,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Caetano 'caminha contra o vento' (narrativo, conta o trajeto) e descreve o que vê (sol, crimes, espaçonaves, presidentes). A combinação de tipos textuais — narrativo (eu vou) e descritivo (descreve a paisagem urbana) — organiza o fragmento.\n\n**Conceito-chave:** Tipos textuais e gêneros — narração (eventos no tempo) e descrição (características de objetos/cenas) coexistem em letras de canção, crônicas, contos.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/27"
     },
@@ -784,7 +760,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** MC Fioti, jovem do funk brasileiro, sample uma flauta de Bach (música clássica europeia do séc. XVIII) sem saber quem era. O resultado mistura realidades culturais distintas — funk de favela e barroco alemão — criando uma nova proposta musical.\n\n**Conceito-chave:** Hibridismo cultural na era digital — internet democratizou acesso a repertórios diversos; novos artistas combinam fontes que antes seriam inacessíveis.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/28"
     },
@@ -812,7 +788,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** A canção descreve uma genealogia confusa em que sogra casa com filho do narrador, e finaliza dizendo 'esse garoto sendo meu avô'. A última frase reforça o humor da situação representada — exagera o absurdo das relações para fazer rir.\n\n**Conceito-chave:** Humor por meio do absurdo — embaralhar relações de parentesco gera estranheza cômica; recurso clássico em forró, chiste e literatura popular.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/29"
     },
@@ -821,7 +797,7 @@
       "dia": 1,
       "numero": 30,
       "titulo": "Questão 30 - ENEM 2020",
-      "enunciado": "Disponível em: www.bhaz.com.br. Acesso em: 14 jun. 2018.",
+      "enunciado": "![](enem/2020/img/q030_inline1.png)\n\nDisponível em: www.bhaz.com.br. Acesso em: 14 jun. 2018.",
       "alternativas_introducao": "Essa campanha de conscientização sobre o assédio sofrido pelas mulheres nas ruas constrói-se pela combinação da linguagem verbal e não verbal. A imagem da mulher com o nariz e a boca cobertos por um lenço é a representação não verbal do(a)",
       "alternativas": [
         "A) Silêncio imposto às mulheres, que não podem denunciar o assédio sofrido.",
@@ -840,7 +816,7 @@
       "imagem_principal": "enem/2020/img/q030_principal.png",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** A imagem da mulher com nariz e boca cobertos por lenço pode ser lida como ato de combate ou autoproteção. No contexto da campanha contra assédio, a imagem é metáfora de que as mulheres precisam defender-se do assédio masculino — sinaliza a necessidade de proteção ativa.\n\n**Conceito-chave:** Linguagem visual em campanhas — imagens carregam metáforas que reforçam mensagem verbal; combinar verbal e não-verbal amplifica impacto.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/30"
     },
@@ -868,7 +844,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** O texto narra um caso e cita estudos científicos sobre síndrome de Takotsubo. A combinação de fato cotidiano (mulher cuja saúde foi afetada após perda do cão) com explicação técnica é típica de notícia — divulga fatos sobre a síndrome do coração partido para o público leigo.\n\n**Conceito-chave:** Gênero notícia — comunica fatos com objetividade aparente; pode incorporar dados técnicos sem virar artigo científico.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/31"
     },
@@ -896,7 +872,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** Dona Aparecida usa 'quem herda, não rouba' para justificar o gênio difícil de Chiquito ao marido — o filho herdou a personalidade dele. O ditado serve como argumento de naturalização: as características do filho vêm do pai, então não há motivo para crítica.\n\n**Conceito-chave:** Função argumentativa de provérbios — ditados populares cristalizam saberes que servem como autoridade na argumentação; recurso comum em narrativas regionais.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/32"
     },
@@ -905,7 +881,7 @@
       "dia": 1,
       "numero": 33,
       "titulo": "Questão 33 - ENEM 2020",
-      "enunciado": "**TEXTO I**\n\nO caminho habitual para o trabalho, aquele em que a gente já nem repara direito, pode ficar mais belo com um poema. O projeto #UmLambePorDia nasceu desta intenção: trazer mais cor e alegria para a cidade por meio de cartazes coloridos ao estilo lambe-lambe. Quem teve a ideia foi o escritor Leonardo Beltrão, em Belo Horizonte. “Em meio a olhares cada vez mais viciados, acabamos nos esquecendo da beleza envolvida em cada esquina e no próprio poder transformador da palavra”. Assim, a cada dia um cartaz é colocado por aí, para nos lembrar de reparar na cidade, na vida que corre ao redor e também em nós mesmos.\n\n**TEXTO II**\n\nDisponível em: www.vidasimples.uol.com.br. Acesso em: 6 dez. 2017 (adaptado).",
+      "enunciado": "**TEXTO I**\n\nO caminho habitual para o trabalho, aquele em que a gente já nem repara direito, pode ficar mais belo com um poema. O projeto #UmLambePorDia nasceu desta intenção: trazer mais cor e alegria para a cidade por meio de cartazes coloridos ao estilo lambe-lambe. Quem teve a ideia foi o escritor Leonardo Beltrão, em Belo Horizonte. “Em meio a olhares cada vez mais viciados, acabamos nos esquecendo da beleza envolvida em cada esquina e no próprio poder transformador da palavra”. Assim, a cada dia um cartaz é colocado por aí, para nos lembrar de reparar na cidade, na vida que corre ao redor e também em nós mesmos.\n\n**TEXTO II**\n\n![](enem/2020/img/q033_inline1.png)\n\nDisponível em: www.vidasimples.uol.com.br. Acesso em: 6 dez. 2017 (adaptado).",
       "alternativas_introducao": "Considerando-se a função que os cartazes colados em postes normalmente exercem nas ruas das cidades grandes, esse texto evidencia a",
       "alternativas": [
         "A) Disseminação da arte poética em um veículo não convencional.",
@@ -924,7 +900,7 @@
       "imagem_principal": "enem/2020/img/q033_principal.png",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** O projeto #UmLambePorDia coloca poemas em cartazes lambe-lambe nas ruas — local típico de propagandas comerciais e avisos. Isso configura a disseminação da arte poética em um veículo não convencional, ampliando seu alcance para além de livros e revistas literárias.\n\n**Conceito-chave:** Arte urbana e democratização — usar suportes não-convencionais (ruas, muros, redes sociais) leva arte a públicos que não frequentam museus ou livrarias.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/33"
     },
@@ -952,7 +928,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** O narrador descreve o tempo da infância como 'fora do tempo, sem nunca sabermos dos calendários de verdade', com referência à 'avó Nhé'. A perspectiva infantil assumida pela voz narrativa é o que confere ao texto sua densidade afetiva — vemos com olhos de criança, no presente do passado.\n\n**Conceito-chave:** Narrador infantil — recurso literário que recupera memórias com a percepção sensorial e afetiva da criança; muito explorado em literatura africana lusófona (Mia Couto, Ondjaki).",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/34"
     },
@@ -980,7 +956,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** A inclusão do futebol feminino no Fifa 16 — após petições e mobilização — disseminou a modalidade entre milhões de jogadores de videogame. Esse processo contribui para a popularização do esporte feminino e luta pela igualdade de gênero, levando crianças a verem normalizada a presença de mulheres no futebol.\n\n**Conceito-chave:** Cultura digital e representação — videogames moldam imaginário juvenil; representação adequada de gêneros e raças em jogos é parte da luta por igualdade.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/35"
     },
@@ -1008,7 +984,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** A definição enfatiza 'enfrentamentos numa constante troca de ações ofensivas e/ou defensivas, regidas por regras'. Aulas de educação física que abordem lutas devem propor combate corporal intencional com ações regulamentadas entre os oponentes — não brigas nem agressão livre.\n\n**Conceito-chave:** Lutas em educação física — diferentes de violência ou briga; envolvem regras, respeito ao oponente, controle corporal e intenção pedagógica.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/36"
     },
@@ -1017,7 +993,7 @@
       "dia": 1,
       "numero": 37,
       "titulo": "Questão 37 - ENEM 2020",
-      "enunciado": "O conceito de saúde formulado na histórica VIII Conferência Nacional de Saúde, no ano de 1986, ficou conhecido como um “conceito ampliado” de saúde, conforme ilustrado na figura. Esse conceito foi fruto de intensa mobilização em diversos países da América Latina nas décadas de 1970 e 1980, como resposta à crise dos sistemas públicos de saúde.\n\nBATISTELLA, C. **Abordagens contemporâneas do conceito de saúde**.\n\nDisponível em: www.dihs.ensp.fiocruz.br. Acesso em: 23 set. 2020.",
+      "enunciado": "O conceito de saúde formulado na histórica VIII Conferência Nacional de Saúde, no ano de 1986, ficou conhecido como um “conceito ampliado” de saúde, conforme ilustrado na figura. Esse conceito foi fruto de intensa mobilização em diversos países da América Latina nas décadas de 1970 e 1980, como resposta à crise dos sistemas públicos de saúde.\n\nBATISTELLA, C. **Abordagens contemporâneas do conceito de saúde**.\n\nDisponível em: www.dihs.ensp.fiocruz.br. Acesso em: 23 set. 2020.\n\n![](enem/2020/img/q037_inline1.png)",
       "alternativas_introducao": "Com base no conceito apresentado no texto, a saúde é consequência direta do(a)",
       "alternativas": [
         "A) Adoção de um estilo de vida ativo por parte dos indivíduos.",
@@ -1036,7 +1012,7 @@
       "imagem_principal": "enem/2020/img/q037_principal.png",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** O conceito ampliado de saúde da VIII Conferência (1986) entende saúde como decorrência de moradia, alimentação, educação, trabalho, lazer, ambiente — ou seja, da forma de organização social. Saúde não é só ausência de doença, mas resultado de um modo coletivo de vida.\n\n**Conceito-chave:** Saúde como direito coletivo — formulação que fundamentou o SUS; saúde pública depende de condições estruturais, não só de comportamento individual.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/37"
     },
@@ -1064,7 +1040,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** A frase '\"antiga, muy nobre, sempre leal e invicta\" cidade do Porto' usa expressão histórica externa (atribuída a um documento real medieval) para construir credibilidade. Esse procedimento argumentativo evidencia uma voz externa sobre a identidade histórica do povo português — empresta autoridade ao discurso pessoal.\n\n**Conceito-chave:** Citação como recurso argumentativo — apelar a fontes externas (documentos, autoridades) reforça a tese do enunciador; típico de relatos de viagem persuasivos.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/38"
     },
@@ -1092,7 +1068,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** O Hino à Bandeira lista os elementos visuais e simbólicos da bandeira — 'puríssimo azul', 'verdura sem par', 'Cruzeiro do Sul'. A descrição valoriza os seus elementos — exalta o símbolo nacional pela enumeração positiva de suas partes.\n\n**Conceito-chave:** Função descritiva em texto laudatório — descrição detalhada cria efeito de exaltação; recurso clássico em hinos, panegíricos, odes.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/39"
     },
@@ -1120,7 +1096,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** Naziazeno (personagem pobre) suporta humilhações do diretor para receber ajuda. O conflito revela a sujeição moral amplificada pela pobreza — quem precisa do dinheiro alheio é forçado a tolerar humilhações, perdendo dignidade pela necessidade material.\n\n**Conceito-chave:** Romance social modernista (segunda fase) — 'Os Ratos' de Dyonélio Machado é exemplar: explora como condições materiais determinam relações morais; literatura como denúncia social.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/40"
     },
@@ -1148,7 +1124,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** Policarpo Quaresma escreve uma petição formal — gênero que exige norma-padrão. O uso da norma culta justifica-se pela situação social de enunciação representada (documento oficial dirigido ao Congresso Nacional). Mesmo o conteúdo absurdo (decretar tupi como língua oficial) é veiculado em forma legítima.\n\n**Conceito-chave:** Adequação ao gênero — gêneros formais (petições, ofícios) exigem registro culto; norma-padrão como convenção contextual, não como superioridade absoluta.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/41"
     },
@@ -1176,7 +1152,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** Exergames combinam jogo e movimento corporal, levando jogadores a se exercitarem sem perceber. Por essa interatividade, eles podem estimular a exercitação física, promovendo a saúde — alternativa para vida sedentária.\n\n**Conceito-chave:** Tecnologia e saúde — gamificação aplicada ao exercício pode quebrar barreiras motivacionais; eficácia depende de uso continuado e qualidade dos jogos.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/42"
     },
@@ -1204,7 +1180,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** O texto mostra que softwares de seleção excluíram candidatos por sexo e origem racial, e que algoritmos do Google associam nomes de negros a anúncios criminais. Tecnologia incorpora preconceitos da sociedade que a programa — não é neutra.\n\n**Conceito-chave:** Viés algorítmico — algoritmos aprendem com dados que refletem desigualdades históricas; reproduzem e amplificam preconceitos sem intenção explícita dos programadores.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/43"
     },
@@ -1213,7 +1189,7 @@
       "dia": 1,
       "numero": 44,
       "titulo": "Questão 44 - ENEM 2020",
-      "enunciado": "",
+      "enunciado": "![](enem/2020/img/q044_inline1.png)",
       "alternativas_introducao": "Nessa campanha publicitária, a imagem da família e o texto verbal unem-se para reforçar a ideia de que",
       "alternativas": [
         "A) A família que adota é mais feliz.",
@@ -1232,7 +1208,7 @@
       "imagem_principal": "enem/2020/img/q044_principal.png",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** A campanha publicitária de adoção mostra família com filhos adotivos mais velhos, demonstrando alegria e integração. A combinação visual+verbal reforça que a adoção tardia é muito positiva — combate o estereótipo de que crianças mais velhas não 'dão certo' em adoção.\n\n**Conceito-chave:** Adoção tardia no Brasil — campanhas combatem preferência cultural por bebês; crianças e adolescentes na fila representam grande parte das que aguardam família.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/44"
     },
@@ -1409,7 +1385,7 @@
       "dia": 1,
       "numero": 51,
       "titulo": "Questão 51 - ENEM 2020",
-      "enunciado": "**Zona de pastoreio e cultura do algodão e cereais do agreste (1963)**\n\nANDRADE, M. C. **A terra e o homem no Nordeste**. São Paulo: Brasiliense, 1963.",
+      "enunciado": "**Zona de pastoreio e cultura do algodão e cereais do agreste (1963)**\n\n![](enem/2020/img/q051_inline1.jpg)\n\nANDRADE, M. C. **A terra e o homem no Nordeste**. São Paulo: Brasiliense, 1963.",
       "alternativas_introducao": "A dinâmica produtiva apresentada na imagem tem como estratégia central a",
       "alternativas": [
         "A) Separação pelo tipo de solo.",
@@ -1801,7 +1777,7 @@
       "dia": 1,
       "numero": 65,
       "titulo": "Questão 65 - ENEM 2020",
-      "enunciado": "O conjunto representado pelo agronegócio demanda condições específicas que passam a ser exigidas dos territórios. Como há uma elevação da formação de fluxos, materiais e imateriais, a crescente articulação com as escalas que vão do local ao global terminam por pressionar o Estado a agir visando uma instalação no território de fixos diversos, bem como uma regulação específica.\n\nLIMA, R. C.; PENHA, N. A. A logística de transportes do agronegócio em Mato Grosso (Brasil). **Confins**, n.26, fev. 2016.",
+      "enunciado": "![](enem/2020/img/q065_inline1.png)\n\nO conjunto representado pelo agronegócio demanda condições específicas que passam a ser exigidas dos territórios. Como há uma elevação da formação de fluxos, materiais e imateriais, a crescente articulação com as escalas que vão do local ao global terminam por pressionar o Estado a agir visando uma instalação no território de fixos diversos, bem como uma regulação específica.\n\nLIMA, R. C.; PENHA, N. A. A logística de transportes do agronegócio em Mato Grosso (Brasil). **Confins**, n.26, fev. 2016.",
       "alternativas_introducao": "O mapa e o texto se complementam indicando que a expansão das rodovias se deu como resposta ao(à)",
       "alternativas": [
         "A) Alteração da matriz econômica.",
@@ -1857,7 +1833,7 @@
       "dia": 1,
       "numero": 67,
       "titulo": "Questão 67 - ENEM 2020",
-      "enunciado": "Disponível em: https://noticias.uol.com.br. Acesso em: l3 jun. 2018  \n(adaptado).",
+      "enunciado": "![](enem/2020/img/q067_inline1.png)\n\nDisponível em: https://noticias.uol.com.br. Acesso em: l3 jun. 2018  \n(adaptado).",
       "alternativas_introducao": "Os aspectos físicos apresentados originam-se da atuação da força natural de",
       "alternativas": [
         "A) Colisão de placas tectônicas.",
@@ -2445,7 +2421,7 @@
       "dia": 1,
       "numero": 88,
       "titulo": "Questão 88 - ENEM 2020",
-      "enunciado": "**TEXTO I**\n\nRio Tietê, São Paulo (SP). Foto: Delfim Martins/Pulsar.\n\n**TEXTO II**\n\nO Rio Tietê está morto. Ao menos uma parte dele: 137 quilômetros, para ser mais preciso. Uma pesquisa da Fundação SOS Mata Atlântica mostra que, em 2016, o trecho do rio com qualidade de água classificada como ruim ou péssima começa em Itaquaquecetuba, passa por toda a Região Metropolitana de São Paulo e chega até Cabreúva, já no interior de São Paulo. Nesse trecho, a água não tem oxigênio suficiente para abrigar vida.\n\nDisponível em: http://epoca.globo.com. Acesso em: 7 dez. 2017 (adaptado).",
+      "enunciado": "**TEXTO I**\n\n![](enem/2020/img/q088_inline1.jpg)\n\nRio Tietê, São Paulo (SP). Foto: Delfim Martins/Pulsar.\n\n**TEXTO II**\n\nO Rio Tietê está morto. Ao menos uma parte dele: 137 quilômetros, para ser mais preciso. Uma pesquisa da Fundação SOS Mata Atlântica mostra que, em 2016, o trecho do rio com qualidade de água classificada como ruim ou péssima começa em Itaquaquecetuba, passa por toda a Região Metropolitana de São Paulo e chega até Cabreúva, já no interior de São Paulo. Nesse trecho, a água não tem oxigênio suficiente para abrigar vida.\n\nDisponível em: http://epoca.globo.com. Acesso em: 7 dez. 2017 (adaptado).",
       "alternativas_introducao": "Considerando a análise dos textos, a condição atual desse rio tem como origem a",
       "alternativas": [
         "A) Valorização do sítio urbano.",

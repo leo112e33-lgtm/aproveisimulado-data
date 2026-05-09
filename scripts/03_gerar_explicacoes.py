@@ -82,11 +82,11 @@ def montar_prompt(q: dict) -> str:
         + (enunciado + "\n\n" if enunciado else "")
         + (intro + "\n\n" if intro else "")
         + ("Alternativas:\n" + alts + "\n\n" if alts else "")
-        + "Explique em portugues do Brasil, de forma didatica, clara e direta:\n"
-        + f"1. Por que a alternativa {correta} esta correta.\n"
-        + "2. Por que cada uma das outras alternativas esta errada.\n"
-        + "3. Qual conceito o aluno precisa dominar para acertar essa questao.\n\n"
-        + "Use no maximo 6 paragrafos. Seja preciso e nao invente fatos."
+        + "Explique de forma didatica em portugues do Brasil, em ate 4 paragrafos curtos:\n"
+        + f"1. Por que a alternativa {correta} esta correta (1-2 paragrafos).\n"
+        + "2. Por que as outras alternativas estao erradas (de forma sucinta, junte tudo em 1 paragrafo).\n"
+        + "3. O conceito-chave que o aluno precisa dominar (1 paragrafo).\n\n"
+        + "Seja conciso, preciso e nao invente fatos."
     )
 
 
@@ -97,7 +97,7 @@ def chamar_gemini(api_key: str, prompt: str, modelo: str) -> str:
     )
     body = json.dumps({
         "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {"temperature": 0.4, "maxOutputTokens": 2048},
+        "generationConfig": {"temperature": 0.3, "maxOutputTokens": 1200},
     }).encode("utf-8")
 
     req = Request(url, data=body, headers={"Content-Type": "application/json"}, method="POST")
@@ -125,20 +125,26 @@ def gerar_para_questao(q: dict, api_key: str, modelos: list[str], rate: RateLimi
 
     prompt = montar_prompt(q)
     ultimo_erro = ""
+    # Para cada modelo, retry interno com backoff em caso de 429.
     for modelo in modelos:
-        rate.wait()
-        try:
-            texto = chamar_gemini(api_key, prompt, modelo)
-            if texto:
-                return q["numero"], texto, None
-        except RuntimeError as e:
-            ultimo_erro = str(e)
-            # 401/403 = chave invalida, nao adianta tentar outro modelo
-            if "401" in ultimo_erro or "403" in ultimo_erro:
-                break
-            # 429 = rate limit, espera mais antes de tentar proximo modelo
-            if "429" in ultimo_erro:
-                time.sleep(5)
+        for tentativa in range(3):
+            rate.wait()
+            try:
+                texto = chamar_gemini(api_key, prompt, modelo)
+                if texto:
+                    return q["numero"], texto, None
+            except RuntimeError as e:
+                ultimo_erro = str(e)
+                # 401/403 = chave invalida, abandona tudo
+                if "401" in ultimo_erro or "403" in ultimo_erro:
+                    return q["numero"], None, ultimo_erro
+                # 429 = rate limit: espera progressivamente mais (15s, 45s, 90s)
+                if "429" in ultimo_erro or "RESOURCE_EXHAUSTED" in ultimo_erro:
+                    espera = [15, 45, 90][tentativa]
+                    time.sleep(espera)
+                    continue
+                # Outros erros transientes: backoff curto
+                time.sleep(3)
     return q["numero"], None, ultimo_erro or "falhou"
 
 
@@ -207,8 +213,8 @@ def main() -> int:
     p.add_argument("--dias", nargs="*", type=int, default=[1, 2])
     p.add_argument("--api-key", default=os.environ.get("GEMINI_API_KEY", ""))
     p.add_argument("--modelo", default="")
-    p.add_argument("--paralelo", type=int, default=4)
-    p.add_argument("--rpm", type=int, default=20)
+    p.add_argument("--paralelo", type=int, default=1)
+    p.add_argument("--rpm", type=int, default=10)
     p.add_argument("--forcar", action="store_true")
     args = p.parse_args()
 

@@ -2,14 +2,14 @@
   "ano": 2019,
   "dia": 2,
   "total": 90,
-  "geradoEm": "2026-05-09T12:48:20Z",
+  "geradoEm": "2026-05-09T13:12:47Z",
   "questoes": [
     {
       "ano": 2019,
       "dia": 2,
       "numero": 1,
       "titulo": "Questão 91 - ENEM 2019",
-      "enunciado": "Para realizar o desentupimento de tubulações de esgotos residenciais, é utilizada uma mistura sólida comercial que contém hidróxido de sódio (NaOH) e outra espécie química pulverizada. Quando é adicionada água a essa mistura, ocorre uma reação que libera gás hidrogênio e energia na forma de calor, aumentando a eficiência do processo de desentupimento. Considere os potenciais padrão de redução (E0) da água e de outras espécies em meio básico, expresso no quadro.",
+      "enunciado": "Para realizar o desentupimento de tubulações de esgotos residenciais, é utilizada uma mistura sólida comercial que contém hidróxido de sódio (NaOH) e outra espécie química pulverizada. Quando é adicionada água a essa mistura, ocorre uma reação que libera gás hidrogênio e energia na forma de calor, aumentando a eficiência do processo de desentupimento. Considere os potenciais padrão de redução (E0) da água e de outras espécies em meio básico, expresso no quadro.\n\n![](enem/2019/img/q001_inline1.png)",
       "alternativas_introducao": "Qual é a outra espécie que está presente na composição da mistura sólida comercial para aumentar sua eficiência?",
       "alternativas": [
         "A) Al",
@@ -121,7 +121,7 @@
       "dia": 2,
       "numero": 5,
       "titulo": "Questão 95 - ENEM 2019",
-      "enunciado": "Glicólise é um processo que ocorre nas células, convertendo glicose em piruvato. Durante a prática de exercícios físicos que demandam grande quantidade de esforço, a glicose é completamente oxidada na presença de O2. Entretanto, em alguns casos, as células musculares podem sofrer um déficit de O2 e a glicose ser convertida em duas moléculas de ácido lático. As equações termoquí micas para a combustão dá glicose e do ácido lático são, respectivamente, mostradas a seguir:",
+      "enunciado": "Glicólise é um processo que ocorre nas células, convertendo glicose em piruvato. Durante a prática de exercícios físicos que demandam grande quantidade de esforço, a glicose é completamente oxidada na presença de O2. Entretanto, em alguns casos, as células musculares podem sofrer um déficit de O2 e a glicose ser convertida em duas moléculas de ácido lático. As equações termoquí micas para a combustão dá glicose e do ácido lático são, respectivamente, mostradas a seguir:\n\n![](enem/2019/img/q005_inline1.png)",
       "alternativas_introducao": "O processo anaeróbico é menos vantajoso energeticamente porque",
       "alternativas": [
         "A) Libera 112 kJ por mol de glicose.",
@@ -149,7 +149,7 @@
       "dia": 2,
       "numero": 6,
       "titulo": "Questão 96 - ENEM 2019",
-      "enunciado": "No quadro estão apresentadas informações sobre duas estratégias de sobrevivência que podem ser adotadas por algumas espécies de seres vivos.",
+      "enunciado": "No quadro estão apresentadas informações sobre duas estratégias de sobrevivência que podem ser adotadas por algumas espécies de seres vivos.\n\n![](enem/2019/img/q006_inline1.png)",
       "alternativas_introducao": "Na recuperação de uma área desmatada deveriam ser reintroduzidas primeiramente as espécies que adotam qual estratégia?",
       "alternativas": [
         "A) Estratégia 1, pois essas espécies produzem descendentes pequenos, o que diminui a competição com outras espécies.",
@@ -321,7 +321,7 @@
       "dia": 2,
       "numero": 13,
       "titulo": "Questão 103 - ENEM 2019",
-      "enunciado": "Estudos mostram o desenvolvimento de biochips utilizados para auxiliar o diagnóstico de diabetes melito, doença evidenciada pelo excesso de glicose no organismo. O teste é simples e consiste em duas reações sequenciais na superfície do biochip, entre a amostra de soro sanguíneo do paciente, enzimas específicas e reagente (iodeto de potássio, KI), conforme mostrado na imagem.\n\n  Após a adição de soro sanguíneo, o fluxo desloca-se espontaneamente da esquerda para a direita (ii) promovendo reações sequenciais, conforme as equações 1 e 2. Na primeira, há conversão de glicose do sangue em ácido glucônico, gerando peróxido de hidrogênio:\n\n![](https://enem.dev/2019/questions/103/bb8d09e7-3c0d-4835-a4b4-92726af93cfc.png)",
+      "enunciado": "Estudos mostram o desenvolvimento de biochips utilizados para auxiliar o diagnóstico de diabetes melito, doença evidenciada pelo excesso de glicose no organismo. O teste é simples e consiste em duas reações sequenciais na superfície do biochip, entre a amostra de soro sanguíneo do paciente, enzimas específicas e reagente (iodeto de potássio, KI), conforme mostrado na imagem.\n\n![](enem/2019/img/q013_inline1.png)\n\n  Após a adição de soro sanguíneo, o fluxo desloca-se espontaneamente da esquerda para a direita (ii) promovendo reações sequenciais, conforme as equações 1 e 2. Na primeira, há conversão de glicose do sangue em ácido glucônico, gerando peróxido de hidrogênio:\n\n![](enem/2019/img/q013_inline2.png)",
       "alternativas_introducao": "O tipo de reação que ocorre na superfície do biochip, nas duas reações do processo, é",
       "alternativas": [
         "A) Análise.",
@@ -407,7 +407,7 @@
       "dia": 2,
       "numero": 16,
       "titulo": "Questão 106 - ENEM 2019",
-      "enunciado": "_Slackline_ é um esporte no qual o atleta deve se equilibrar e executar manobras estando sobre uma fita esticada. Para a prática do esporte, as duas extremidades da fita são fixadas de forma que ela fique a alguns centímetros do solo. Quando uma atleta de massa igual a 80 kg está exata mente no meio da fita, essa se desloca verticalmente, formando um ângulo de 10º com a horizontal, como es que matizado na figura. Sabe-se que a aceleração da gravidade é igual a 10 m s–2, cos (10º) = 0,98 e sen(10º) = 0,17.",
+      "enunciado": "_Slackline_ é um esporte no qual o atleta deve se equilibrar e executar manobras estando sobre uma fita esticada. Para a prática do esporte, as duas extremidades da fita são fixadas de forma que ela fique a alguns centímetros do solo. Quando uma atleta de massa igual a 80 kg está exata mente no meio da fita, essa se desloca verticalmente, formando um ângulo de 10º com a horizontal, como es que matizado na figura. Sabe-se que a aceleração da gravidade é igual a 10 m s–2, cos (10º) = 0,98 e sen(10º) = 0,17.\n\n![](enem/2019/img/q016_inline1.png)",
       "alternativas_introducao": "Qual é a força que a fita exerce em cada uma das árvores por causa da presença da atleta?",
       "alternativas": [
         "A) 4,0 × 10² N",
@@ -491,7 +491,7 @@
       "dia": 2,
       "numero": 19,
       "titulo": "Questão 109 - ENEM 2019",
-      "enunciado": "Na madrugada de 11 de março de 1978, partes de um foguete soviético reentraram na atmosfera acima da cidade do Rio de Janeiro e caíram no Oceano Atlântico. Foi um belo espetáculo, os inúmeros fragmentos entrando em ignição devido ao atrito com a atmosfera brilharam intensamente, enquanto “cortavam o céu”. Mas se a reentrada tivesse acontecido alguns minutos depois, teríamos uma tragédia, pois a queda seria na área urbana do Rio de Janeiro e não no oceano.",
+      "enunciado": "Na madrugada de 11 de março de 1978, partes de um foguete soviético reentraram na atmosfera acima da cidade do Rio de Janeiro e caíram no Oceano Atlântico. Foi um belo espetáculo, os inúmeros fragmentos entrando em ignição devido ao atrito com a atmosfera brilharam intensamente, enquanto “cortavam o céu”. Mas se a reentrada tivesse acontecido alguns minutos depois, teríamos uma tragédia, pois a queda seria na área urbana do Rio de Janeiro e não no oceano.\n\n![](enem/2019/img/q019_inline1.png)",
       "alternativas_introducao": "De acordo com os fatos relatados, a velocidade angular do foguete em relação à Terra no ponto de reentrada era",
       "alternativas": [
         "A) Igual à da Terra e no mesmo sentido.",
@@ -575,7 +575,7 @@
       "dia": 2,
       "numero": 22,
       "titulo": "Questão 112 - ENEM 2019",
-      "enunciado": "Os hidrocarbonetos são moléculas orgânicas com uma série de aplicações industriais. Por exemplo, eles estão presentes em grande quantidade nas diversas frações do petróleo e normalmente são separados por destilação fracionada, com base em suas temperaturas de ebulição. O quadro apresenta as principais frações obtidas na destilação do petróleo em diferentes faixas de temperaturas.",
+      "enunciado": "Os hidrocarbonetos são moléculas orgânicas com uma série de aplicações industriais. Por exemplo, eles estão presentes em grande quantidade nas diversas frações do petróleo e normalmente são separados por destilação fracionada, com base em suas temperaturas de ebulição. O quadro apresenta as principais frações obtidas na destilação do petróleo em diferentes faixas de temperaturas.\n\n![](enem/2019/img/q022_inline1.png)",
       "alternativas_introducao": "Na fração 4, a separação dos compostos ocorre em temperaturas mais elevadas porque",
       "alternativas": [
         "A) Suas densidades são maiores.",
@@ -603,7 +603,7 @@
       "dia": 2,
       "numero": 23,
       "titulo": "Questão 113 - ENEM 2019",
-      "enunciado": "O espectrômetro de massa de tempo de voo é um dispositivo utilizado para medir a massa de íons. Nele, um íon de carga elétrica q é lançado em uma região de campo magnético constante B, descrevendo uma trajetória helicoidal, conforme a figura. Essa trajetória é formada pela composição de um movimento circular uniforme no plano yz e uma translação ao longo do eixo x. A vantagem desse dispositivo é que a velocidade angular do movimento helicoidal do íon é independente de sua velocidade inicial. O dispositivo então mede o tempo t de voo para N voltas do íon. Logo, com base nos valores q, B, N e t, pode-se determinar a massa do íon.",
+      "enunciado": "O espectrômetro de massa de tempo de voo é um dispositivo utilizado para medir a massa de íons. Nele, um íon de carga elétrica q é lançado em uma região de campo magnético constante B, descrevendo uma trajetória helicoidal, conforme a figura. Essa trajetória é formada pela composição de um movimento circular uniforme no plano yz e uma translação ao longo do eixo x. A vantagem desse dispositivo é que a velocidade angular do movimento helicoidal do íon é independente de sua velocidade inicial. O dispositivo então mede o tempo t de voo para N voltas do íon. Logo, com base nos valores q, B, N e t, pode-se determinar a massa do íon.\n\n![](enem/2019/img/q023_inline1.png)",
       "alternativas_introducao": "A massa do íon medida por esse dispositivo será",
       "alternativas": [
         "A)",
@@ -687,7 +687,7 @@
       "dia": 2,
       "numero": 26,
       "titulo": "Questão 116 - ENEM 2019",
-      "enunciado": "A fluidez da membrana celular é caracterizada pela capacidade de movimento das moléculas componentes dessa estrutura. Os seres vivos mantêm essa propriedade de duas formas: controlando a temperatura e/ou alterando a composição lipídica da membrana. Neste último aspecto, o tamanho e o grau de insaturação das caudas hidrocarbônicas dos fosfolipídios, conforme representados na figura, influenciam significativamente a fluidez. Isso porque quanto maior for a magnitude das interações entre os fosfolipídios, menor será a fluidez da membrana.",
+      "enunciado": "A fluidez da membrana celular é caracterizada pela capacidade de movimento das moléculas componentes dessa estrutura. Os seres vivos mantêm essa propriedade de duas formas: controlando a temperatura e/ou alterando a composição lipídica da membrana. Neste último aspecto, o tamanho e o grau de insaturação das caudas hidrocarbônicas dos fosfolipídios, conforme representados na figura, influenciam significativamente a fluidez. Isso porque quanto maior for a magnitude das interações entre os fosfolipídios, menor será a fluidez da membrana.\n\n![](enem/2019/img/q026_inline1.png)",
       "alternativas_introducao": "Qual das bicamadas lipídicas apresentadas possui maior fluidez?",
       "alternativas": [
         "A) I",
@@ -715,7 +715,7 @@
       "dia": 2,
       "numero": 27,
       "titulo": "Questão 117 - ENEM 2019",
-      "enunciado": "Em uma aula experimental de calorimetria, uma professora queimou 2,5 g de castanha-de-caju crua para aquecer 350 g de água, em um recipiente apropriado para diminuir as perdas de calor. Com base na leitura da tabela nutricional a seguir e da medida da temperatura da água, após a queima total do combustível, ela concluiu que 50% da energia disponível foi aproveitada. O calor específico da água é 1 cal g−1 °C−1, e sua temperatura inicial era de 20 °C.",
+      "enunciado": "Em uma aula experimental de calorimetria, uma professora queimou 2,5 g de castanha-de-caju crua para aquecer 350 g de água, em um recipiente apropriado para diminuir as perdas de calor. Com base na leitura da tabela nutricional a seguir e da medida da temperatura da água, após a queima total do combustível, ela concluiu que 50% da energia disponível foi aproveitada. O calor específico da água é 1 cal g−1 °C−1, e sua temperatura inicial era de 20 °C.\n\n![](enem/2019/img/q027_inline1.png)",
       "alternativas_introducao": "Qual foi a temperatura da água, em grau Celsius, medida ao final do experimento?",
       "alternativas": [
         "A) 25",
@@ -743,7 +743,7 @@
       "dia": 2,
       "numero": 28,
       "titulo": "Questão 118 - ENEM 2019",
-      "enunciado": "Grupos de pesquisa em todo o mundo vêm buscando soluções inovadoras, visando à produção de dispositivos para a geração de energia elétrica. Dentre eles, pode-se destacar as baterias de zinco-ar, que combinam o oxigênio atmosférico e o metal zinco em um eletrólito aquoso de caráter alcalino. O esquema de funcionamento da bateria zinco-ar está apresentado na figura.",
+      "enunciado": "Grupos de pesquisa em todo o mundo vêm buscando soluções inovadoras, visando à produção de dispositivos para a geração de energia elétrica. Dentre eles, pode-se destacar as baterias de zinco-ar, que combinam o oxigênio atmosférico e o metal zinco em um eletrólito aquoso de caráter alcalino. O esquema de funcionamento da bateria zinco-ar está apresentado na figura.\n\n![](enem/2019/img/q028_inline1.png)",
       "alternativas_introducao": "No funcionamento da bateria, a espécie química formada no ânodo é:",
       "alternativas": [
         "A) H2 (g).",
@@ -799,7 +799,7 @@
       "dia": 2,
       "numero": 30,
       "titulo": "Questão 120 - ENEM 2019",
-      "enunciado": "A utilização de corantes na indústria de alimentos é bastante difundida e a escolha por corantes naturais vem sendo mais explorada por diversas razões. A seguir são mostradas três estruturas de corantes naturais.",
+      "enunciado": "A utilização de corantes na indústria de alimentos é bastante difundida e a escolha por corantes naturais vem sendo mais explorada por diversas razões. A seguir são mostradas três estruturas de corantes naturais.\n\n![](enem/2019/img/q030_inline1.png)",
       "alternativas_introducao": "A propriedade comum às estruturas que confere cor a esses compostos é a presença de",
       "alternativas": [
         "A) Cadeia conjugada.",
@@ -827,7 +827,7 @@
       "dia": 2,
       "numero": 31,
       "titulo": "Questão 121 - ENEM 2019",
-      "enunciado": "Numa feira de ciências, um estudante utilizará o disco de Maxwell (ioiô) para demonstrar o princípio da conservação da energia. A apresentação consistirá em duas etapas.\n\nEtapa 1 – a explicação de que, à medida que o disco desce, parte de sua energia potencial gravitacional é transformada em energia cinética de translação e energia cinética de rotação;\n\nEtapa 2 – o cálculo da energia cinética de rotação do disco no ponto mais baixo de sua trajetória, supondo o sistema conservativo.\n\nAo preparar a segunda etapa, ele considera a aceleração da gravidade igual a 10 ms–2 e a velocidade linear do centro de massa do disco desprezível em comparação com a velocidade angular. Em seguida, mede a altura do topo do disco em relação ao chão no ponto mais baixo de sua trajetória, obtendo da altura da haste do brinquedo. As especificações de tamanho do brinquedo, isto é, de comprimento ( C ), largura (L) e altura (A), assim como da massa de seu disco de metal, foram encontradas pelo estudante no recorte de manual ilustrado a seguir.",
+      "enunciado": "Numa feira de ciências, um estudante utilizará o disco de Maxwell (ioiô) para demonstrar o princípio da conservação da energia. A apresentação consistirá em duas etapas.\n\nEtapa 1 – a explicação de que, à medida que o disco desce, parte de sua energia potencial gravitacional é transformada em energia cinética de translação e energia cinética de rotação;\n\nEtapa 2 – o cálculo da energia cinética de rotação do disco no ponto mais baixo de sua trajetória, supondo o sistema conservativo.\n\nAo preparar a segunda etapa, ele considera a aceleração da gravidade igual a 10 ms–2 e a velocidade linear do centro de massa do disco desprezível em comparação com a velocidade angular. Em seguida, mede a altura do topo do disco em relação ao chão no ponto mais baixo de sua trajetória, obtendo da altura da haste do brinquedo. As especificações de tamanho do brinquedo, isto é, de comprimento ( C ), largura (L) e altura (A), assim como da massa de seu disco de metal, foram encontradas pelo estudante no recorte de manual ilustrado a seguir.\n\n![](enem/2019/img/q031_inline1.png)",
       "alternativas_introducao": "O resultado do cálculo da etapa 2, em joule, é:",
       "alternativas": [
         "A) 4,10 x 10^{ -2}​−2​​",
@@ -855,7 +855,7 @@
       "dia": 2,
       "numero": 32,
       "titulo": "Questão 122 - ENEM 2019",
-      "enunciado": "O odor que permanece nas mãos após o contato com alho pode ser eliminado pela utilização de um “sabonete de aço inoxidável”, constituído de aço inox (74%), cromo e níquel. A principal vantagem desse “sabonete” é que ele não se desgasta com o uso. Considere que a principal substância responsável pelo odor de alho é a alicina (estrutura I) e que, para que o odor seja eliminado, ela seja transformada na estrutura II.",
+      "enunciado": "O odor que permanece nas mãos após o contato com alho pode ser eliminado pela utilização de um “sabonete de aço inoxidável”, constituído de aço inox (74%), cromo e níquel. A principal vantagem desse “sabonete” é que ele não se desgasta com o uso. Considere que a principal substância responsável pelo odor de alho é a alicina (estrutura I) e que, para que o odor seja eliminado, ela seja transformada na estrutura II.\n\n![](enem/2019/img/q032_inline1.png)",
       "alternativas_introducao": "Na conversão de I em II, o “sabonete” atuará como um:",
       "alternativas": [
         "A) Ácido.",
@@ -911,7 +911,7 @@
       "dia": 2,
       "numero": 34,
       "titulo": "Questão 124 - ENEM 2019",
-      "enunciado": "Uma das técnicas de reciclagem química do polímero PET \\[poli(tereftalato de etileno)\\] gera o tereftalato de metila e o etanodiol, conforme o esquema de reação, e ocorre por meio de uma reação de transesterificação.",
+      "enunciado": "Uma das técnicas de reciclagem química do polímero PET \\[poli(tereftalato de etileno)\\] gera o tereftalato de metila e o etanodiol, conforme o esquema de reação, e ocorre por meio de uma reação de transesterificação.\n\n![](enem/2019/img/q034_inline1.png)",
       "alternativas_introducao": "O composto A, representado no esquema de reação, é o:",
       "alternativas": [
         "A) Metano.",
@@ -939,7 +939,7 @@
       "dia": 2,
       "numero": 35,
       "titulo": "Questão 125 - ENEM 2019",
-      "enunciado": "Durante sua evolução, as plantas apresentaram grande diversidade de características, as quais permitiram sua sobrevivência em diferentes ambientes. Na imagem, cinco dessas características estão indicadas por números.",
+      "enunciado": "Durante sua evolução, as plantas apresentaram grande diversidade de características, as quais permitiram sua sobrevivência em diferentes ambientes. Na imagem, cinco dessas características estão indicadas por números.\n\n![](enem/2019/img/q035_inline1.png)",
       "alternativas_introducao": "A aquisição evolutiva que permitiu a conquista definitiva do ambiente terrestre pelas plantas está indicada pelo número:",
       "alternativas": [
         "A) 1",
@@ -967,7 +967,7 @@
       "dia": 2,
       "numero": 36,
       "titulo": "Questão 126 - ENEM 2019",
-      "enunciado": "Uma casa tem um cabo elétrico mal dimensionado, de resistência igual a 10, que a conecta à rede elétrica de 120V. Nessa casa, cinco lâmpadas, de resistência igual a 200, estão conectadas ao mesmo circuito que uma televisão de resistência igual a 50, conforme ilustrado no esquema. A televisão funciona apenas com tensão entre 90V e 130V.",
+      "enunciado": "Uma casa tem um cabo elétrico mal dimensionado, de resistência igual a 10, que a conecta à rede elétrica de 120V. Nessa casa, cinco lâmpadas, de resistência igual a 200, estão conectadas ao mesmo circuito que uma televisão de resistência igual a 50, conforme ilustrado no esquema. A televisão funciona apenas com tensão entre 90V e 130V.\n\n![](enem/2019/img/q036_inline1.png)",
       "alternativas_introducao": "O número máximo de lâmpadas que podem ser ligadas sem que a televisão pare de funcionar é:",
       "alternativas": [
         "A) 1",
@@ -1039,7 +1039,7 @@
       "dia": 2,
       "numero": 39,
       "titulo": "Questão 129 - ENEM 2019",
-      "enunciado": "Um dos parâmetros de controle de qualidade de polpas de frutas destinadas ao consumo como bebida é a acidez total expressa em ácido cítrico, que corresponde à massa dessa substância em 100 gramas de polpa de fruta. O ácido cítrico é uma molécula orgânica que apresenta três hidrogênios ionizáveis (ácido triprótico) e massa molar 192 g mol^{-1 }​−1​​. O quadro indica o valor mínimo desse parâmetro de qualidade para polpas comerciais de algumas frutas.\n\nA acidez total expressa em ácido cítrico de uma amostra comercial de polpa de fruta foi determinada. No procedimento, adicionou-se água destilada a 2,2 g da amostra e, após a solubilização do ácido cítrico, o sólido remanescente foi filtrado. A solução obtida foi titulada com solução de hidróxido de sódio 0,01 mol L–1, em que se consumiram 24 mL da solução básica (titulante).\n\n**BRASIL. Ministério da Agricultura e do Abastecimento. Instrução normativa n. 1, de 7 de janeiro de 2000. Disponível em: [www.agricultura.gov.br](http://www.agricultura.gov.br/). Acesso em: 9 maio 2019 (adaptado).**",
+      "enunciado": "Um dos parâmetros de controle de qualidade de polpas de frutas destinadas ao consumo como bebida é a acidez total expressa em ácido cítrico, que corresponde à massa dessa substância em 100 gramas de polpa de fruta. O ácido cítrico é uma molécula orgânica que apresenta três hidrogênios ionizáveis (ácido triprótico) e massa molar 192 g mol^{-1 }​−1​​. O quadro indica o valor mínimo desse parâmetro de qualidade para polpas comerciais de algumas frutas.\n\nA acidez total expressa em ácido cítrico de uma amostra comercial de polpa de fruta foi determinada. No procedimento, adicionou-se água destilada a 2,2 g da amostra e, após a solubilização do ácido cítrico, o sólido remanescente foi filtrado. A solução obtida foi titulada com solução de hidróxido de sódio 0,01 mol L–1, em que se consumiram 24 mL da solução básica (titulante).\n\n**BRASIL. Ministério da Agricultura e do Abastecimento. Instrução normativa n. 1, de 7 de janeiro de 2000. Disponível em: [www.agricultura.gov.br](http://www.agricultura.gov.br/). Acesso em: 9 maio 2019 (adaptado).**\n\n![](enem/2019/img/q039_inline1.png)",
       "alternativas_introducao": "Entre as listadas, a amostra analisada pode ser de qual polpa de fruta?",
       "alternativas": [
         "A) Apenas caju.",
@@ -1095,7 +1095,7 @@
       "dia": 2,
       "numero": 41,
       "titulo": "Questão 131 - ENEM 2019",
-      "enunciado": "A agricultura de precisão reúne técnicas agrícolas que consideram particularidades locais do solo ou lavoura a fim de otimizar o uso de recursos. Uma das formas de adquirir informações sobre essas particularidades é a fotografia aérea de baixa altitude realizada por um veículo aéreo não tripulado (vant). Na fase de aquisição é importante determinar o nível de sobreposição entre as fotografias. A figura ilustra como uma sequência de imagens é coletada por um vant e como são formadas as sobreposições frontais.\n\nO operador do vant recebe uma encomenda na qual as imagens devem ter uma sobreposição frontal de 20% em um terreno plano. Para realizar a aquisição das imagens, seleciona uma altitude H fixa de voo de 1 000 m, a uma velocidade constante de 50 m s–1. A abertura da câmera fotográfica do vant é de 90º. Considere tg (45°) = 1.\n\n**Natural Resources Canada. Concepts of Aerial Photography. Disponível em: [www.nrcan.gc.ca](http://www.nrcan.gc.ca/). Acesso em: 26 abr. 2019 (adaptado).**",
+      "enunciado": "A agricultura de precisão reúne técnicas agrícolas que consideram particularidades locais do solo ou lavoura a fim de otimizar o uso de recursos. Uma das formas de adquirir informações sobre essas particularidades é a fotografia aérea de baixa altitude realizada por um veículo aéreo não tripulado (vant). Na fase de aquisição é importante determinar o nível de sobreposição entre as fotografias. A figura ilustra como uma sequência de imagens é coletada por um vant e como são formadas as sobreposições frontais.\n\nO operador do vant recebe uma encomenda na qual as imagens devem ter uma sobreposição frontal de 20% em um terreno plano. Para realizar a aquisição das imagens, seleciona uma altitude H fixa de voo de 1 000 m, a uma velocidade constante de 50 m s–1. A abertura da câmera fotográfica do vant é de 90º. Considere tg (45°) = 1.\n\n**Natural Resources Canada. Concepts of Aerial Photography. Disponível em: [www.nrcan.gc.ca](http://www.nrcan.gc.ca/). Acesso em: 26 abr. 2019 (adaptado).**\n\n![](enem/2019/img/q041_inline1.png)",
       "alternativas_introducao": "Com que intervalo de tempo o operador deve adquirir duas imagens consecutivas?",
       "alternativas": [
         "A) 40 segundos",
@@ -1179,7 +1179,7 @@
       "dia": 2,
       "numero": 44,
       "titulo": "Questão 134 - ENEM 2019",
-      "enunciado": "Um experimento simples, que pode ser realizado com materiais encontrados em casa, é realizado da seguinte forma: adiciona-se um volume de etanol em um copo de vidro e, em seguida, uma folha de papel. Com o passar do tempo, observa-se um comportamento peculiar: o etanol se desloca sobre a superfície do papel, superando a gravidade que o atrai no sentido oposto, como mostra a imagem. Para parte dos estudantes, isso ocorre por causa da absorção do líquido pelo papel.",
+      "enunciado": "Um experimento simples, que pode ser realizado com materiais encontrados em casa, é realizado da seguinte forma: adiciona-se um volume de etanol em um copo de vidro e, em seguida, uma folha de papel. Com o passar do tempo, observa-se um comportamento peculiar: o etanol se desloca sobre a superfície do papel, superando a gravidade que o atrai no sentido oposto, como mostra a imagem. Para parte dos estudantes, isso ocorre por causa da absorção do líquido pelo papel.\n\n![](enem/2019/img/q044_inline1.png)",
       "alternativas_introducao": "Do ponto de vista científico, o que explica o movimento do líquido é a",
       "alternativas": [
         "A) Evaporação do líquido.",
@@ -1235,7 +1235,7 @@
       "dia": 2,
       "numero": 46,
       "titulo": "Questão 136 - ENEM 2019",
-      "enunciado": "Um grupo de países criou uma instituição responsável por organizar o Programa Internacional de Nivelamento de Estudos (PINE) com o objetivo de melhorar os índices mundiais de educação. Em sua sede foi construída uma escultura suspensa, com a logomarca oficial do programa, em três dimensões, que é formada por suas iniciais, conforme mostrada na figura.\n\nEssa escultura está suspensa por cabos de aço, de maneira que o espaçamento entre letras adjacentes é o mesmo, todas têm igual espessura e ficam dispostas em posição ortogonal ao solo, como ilustrado a seguir.\n\n![](https://enem.dev/2019/questions/136/42ff3b17-ad26-4814-9e64-2eca3a162056.png)\n\nAo meio-dia, com o sol a pino, as letras que formam essa escultura projetam ortogonalmente suas sombras sobre o solo.",
+      "enunciado": "Um grupo de países criou uma instituição responsável por organizar o Programa Internacional de Nivelamento de Estudos (PINE) com o objetivo de melhorar os índices mundiais de educação. Em sua sede foi construída uma escultura suspensa, com a logomarca oficial do programa, em três dimensões, que é formada por suas iniciais, conforme mostrada na figura.\n\n![](enem/2019/img/q046_inline1.png)\n\nEssa escultura está suspensa por cabos de aço, de maneira que o espaçamento entre letras adjacentes é o mesmo, todas têm igual espessura e ficam dispostas em posição ortogonal ao solo, como ilustrado a seguir.\n\n![](enem/2019/img/q046_inline2.png)\n\nAo meio-dia, com o sol a pino, as letras que formam essa escultura projetam ortogonalmente suas sombras sobre o solo.",
       "alternativas_introducao": "A sombra projetada no solo é",
       "alternativas": [
         "A)",
@@ -1433,7 +1433,7 @@
       "dia": 2,
       "numero": 53,
       "titulo": "Questão 143 - ENEM 2019",
-      "enunciado": "Os exercícios físicos são recomendados para o bom funcionamento do organismo, pois aceleram o metabolismo e, em consequência, elevam o consumo de calorias. No gráfico, estão registrados os valores calóricos, em kcal, gastos em cinco diferentes atividades físicas, em função do tempo dedicado às atividades, contado em minuto.",
+      "enunciado": "Os exercícios físicos são recomendados para o bom funcionamento do organismo, pois aceleram o metabolismo e, em consequência, elevam o consumo de calorias. No gráfico, estão registrados os valores calóricos, em kcal, gastos em cinco diferentes atividades físicas, em função do tempo dedicado às atividades, contado em minuto.\n\n![](enem/2019/img/q053_inline1.png)",
       "alternativas_introducao": "Qual dessas atividades físicas proporciona o maior consumo de quilocalorias por minuto?",
       "alternativas": [
         "A) I",
@@ -1461,7 +1461,7 @@
       "dia": 2,
       "numero": 54,
       "titulo": "Questão 144 - ENEM 2019",
-      "enunciado": "Um professor aplica, durante os cinco dias úteis de uma semana, testes com quatro questões de múltipla escolha a cinco alunos. Os resultados foram representados na matriz.\n\nNessa matriz os elementos das linhas de 1 a 5 representam as quantidades de questões acertadas pelos alunos Ana, Bruno, Carlos, Denis e Érica, respectivamente, enquanto que as colunas de 1 a 5 indicam os dias da semana, de segunda-feira a sexta-feira, respectivamente, em que os testes foram aplicados.",
+      "enunciado": "Um professor aplica, durante os cinco dias úteis de uma semana, testes com quatro questões de múltipla escolha a cinco alunos. Os resultados foram representados na matriz.\n\nNessa matriz os elementos das linhas de 1 a 5 representam as quantidades de questões acertadas pelos alunos Ana, Bruno, Carlos, Denis e Érica, respectivamente, enquanto que as colunas de 1 a 5 indicam os dias da semana, de segunda-feira a sexta-feira, respectivamente, em que os testes foram aplicados.\n\n![](enem/2019/img/q054_inline1.png)",
       "alternativas_introducao": "O teste que apresentou maior quantidade de acertos foi o aplicado na",
       "alternativas": [
         "A) Segunda-feira.",
@@ -1489,7 +1489,7 @@
       "dia": 2,
       "numero": 55,
       "titulo": "Questão 145 - ENEM 2019",
-      "enunciado": "Um ciclista quer montar um sistema de marchas usando dois discos dentados na parte traseira de sua bicicleta, chamados catracas. A coroa é o disco dentado que é movimentado pelos pedais da bicicleta, sendo que a corrente transmite esse movimento às catracas, que ficam posicionadas na roda traseira da bicicleta.\n\nAs diferentes marchas ficam definidas pelos diferentes diâmetros das catracas, que são medidos conforme indicação na figura.\n\nO ciclista já dispõe de uma catraca com 7 cm de diâmetro e pretende incluir uma segunda catraca, de modo que, à medida em que a corrente passe por ela, a bicicleta avance 50% a mais do que avançaria se a corrente passasse pela primeira catraca, a cada volta completa dos pedais.",
+      "enunciado": "Um ciclista quer montar um sistema de marchas usando dois discos dentados na parte traseira de sua bicicleta, chamados catracas. A coroa é o disco dentado que é movimentado pelos pedais da bicicleta, sendo que a corrente transmite esse movimento às catracas, que ficam posicionadas na roda traseira da bicicleta.\n\nAs diferentes marchas ficam definidas pelos diferentes diâmetros das catracas, que são medidos conforme indicação na figura.\n\n![](enem/2019/img/q055_inline1.png)\n\nO ciclista já dispõe de uma catraca com 7 cm de diâmetro e pretende incluir uma segunda catraca, de modo que, à medida em que a corrente passe por ela, a bicicleta avance 50% a mais do que avançaria se a corrente passasse pela primeira catraca, a cada volta completa dos pedais.",
       "alternativas_introducao": "O valor mais próximo da medida do diâmetro da segunda catraca, em centímetro e com uma casa decimal, é",
       "alternativas": [
         "A) 2,3.",
@@ -1545,7 +1545,7 @@
       "dia": 2,
       "numero": 57,
       "titulo": "Questão 147 - ENEM 2019",
-      "enunciado": "Uma administração municipal encomendou a pintura de dez placas de sinalização para colocar em seu patio de estacionamento.\n\nO profissional contratado para o serviço inicial pintará o fundo de dez placas e cobrará um valor de acordo com a área total dessas placas. O formato de cada placa é um círculo de diâmetro d = 40 cm, que tangencia lados de um retângulo, sendo que o comprimento total da placa é h = 60 cm, conforme lustrado na figura. Use 3,14 como aproximação para π.",
+      "enunciado": "Uma administração municipal encomendou a pintura de dez placas de sinalização para colocar em seu patio de estacionamento.\n\nO profissional contratado para o serviço inicial pintará o fundo de dez placas e cobrará um valor de acordo com a área total dessas placas. O formato de cada placa é um círculo de diâmetro d = 40 cm, que tangencia lados de um retângulo, sendo que o comprimento total da placa é h = 60 cm, conforme lustrado na figura. Use 3,14 como aproximação para π.\n\n![](enem/2019/img/q057_inline1.png)",
       "alternativas_introducao": "Qual é a soma das medidas das áreas, em centímetros quadrados, das dez placas?",
       "alternativas": [
         "A) 16 628",
@@ -1601,7 +1601,7 @@
       "dia": 2,
       "numero": 59,
       "titulo": "Questão 149 - ENEM 2019",
-      "enunciado": "O _slogan_ “Se beber não dirija”, muito utilizado em campanhas publicitárias no Brasil, chama a atenção para o grave problema da ingestão de bebida alcoólica por motoristas e suas consequências para o trânsito. A gravidade desse problema pode ser percebida observando como o assunto é tratado pelo Código de Trânsito Brasileiro. Em 2013, a quantidade máxima de álcool permitida no sangue do condutor de um veículo, que já era pequena, foi reduzida, e o valor da multa para motoristas alcoolizados foi aumentado. Em consequência dessas mudanças, observou-se queda no número de acidentes registrados em uma suposta rodovia nos anos que se seguiram às mudanças implantadas em 2013, conforme dados no quadro.\n\nSuponha que a tendência de redução no número de acidentes nessa rodovia para os anos subsequentes seja igual à redução absoluta observada de 2014 para 2015.",
+      "enunciado": "O _slogan_ “Se beber não dirija”, muito utilizado em campanhas publicitárias no Brasil, chama a atenção para o grave problema da ingestão de bebida alcoólica por motoristas e suas consequências para o trânsito. A gravidade desse problema pode ser percebida observando como o assunto é tratado pelo Código de Trânsito Brasileiro. Em 2013, a quantidade máxima de álcool permitida no sangue do condutor de um veículo, que já era pequena, foi reduzida, e o valor da multa para motoristas alcoolizados foi aumentado. Em consequência dessas mudanças, observou-se queda no número de acidentes registrados em uma suposta rodovia nos anos que se seguiram às mudanças implantadas em 2013, conforme dados no quadro.\n\n![](enem/2019/img/q059_inline1.png)\n\nSuponha que a tendência de redução no número de acidentes nessa rodovia para os anos subsequentes seja igual à redução absoluta observada de 2014 para 2015.",
       "alternativas_introducao": "Com base na situação apresentada, o número de acidentes esperados nessa rodovia em 2018 foi de",
       "alternativas": [
         "A) 150",
@@ -1741,7 +1741,7 @@
       "dia": 2,
       "numero": 64,
       "titulo": "Questão 154 - ENEM 2019",
-      "enunciado": "Charles Richter e Beno Gutenberg desenvolveram a escala Richter, que mede a magnitude de um terremoto.  \nEssa escala pode variar de 0 a 10, com possibilidades de valores maiores.\n\nO quadro mostra a escala de magnitude local (Ms) de um terremoto que é utilizada para descrevê-lo.\n\nPara se calcular a magnitude local, usa-se a fórmula Ms = 3,30 + log(A.f), em que A representa a amplitude máxima da onda registrada por um sismógrafo em micrômetro (um) e f representa a frequência da onda, em hertz (Hz).\n\nOcorreu um terremoto com amplitude máxima de 2 000 μm e frequência de 0,2 Hz.\n\n**Disponivel em:** http://cejarj.cecierj.edu.br. Acesso em: 1 fev. 2015 (adaptado).",
+      "enunciado": "Charles Richter e Beno Gutenberg desenvolveram a escala Richter, que mede a magnitude de um terremoto.  \nEssa escala pode variar de 0 a 10, com possibilidades de valores maiores.\n\nO quadro mostra a escala de magnitude local (Ms) de um terremoto que é utilizada para descrevê-lo.\n\n![](enem/2019/img/q064_inline1.jpg)\n\nPara se calcular a magnitude local, usa-se a fórmula Ms = 3,30 + log(A.f), em que A representa a amplitude máxima da onda registrada por um sismógrafo em micrômetro (um) e f representa a frequência da onda, em hertz (Hz).\n\nOcorreu um terremoto com amplitude máxima de 2 000 μm e frequência de 0,2 Hz.\n\n**Disponivel em:** http://cejarj.cecierj.edu.br. Acesso em: 1 fev. 2015 (adaptado).",
       "alternativas_introducao": "Utilize 0,3 como aproximação para log 2. De acordo com os dados fornecidos, o terremoto ocorrido pode ser descrito como",
       "alternativas": [
         "A) Pequeno.",
@@ -1825,7 +1825,7 @@
       "dia": 2,
       "numero": 67,
       "titulo": "Questão 157 - ENEM 2019",
-      "enunciado": "As luminárias para um laboratório de matemática serão fabricadas em forma de sólidos geométricos.  \nUma delas terá a forma de um tetraedro truncado. Esse sólido é gerado a partir de secções paralelas a cada uma das faces de um tetraedro regular. Para essa luminária, as secções serão feitas de maneira que, em cada corte, um terço das arestas seccionadas serão removidas. Uma dessas secções está indicada na figura.",
+      "enunciado": "As luminárias para um laboratório de matemática serão fabricadas em forma de sólidos geométricos.  \nUma delas terá a forma de um tetraedro truncado. Esse sólido é gerado a partir de secções paralelas a cada uma das faces de um tetraedro regular. Para essa luminária, as secções serão feitas de maneira que, em cada corte, um terço das arestas seccionadas serão removidas. Uma dessas secções está indicada na figura.\n\n![](enem/2019/img/q067_inline1.jpg)",
       "alternativas_introducao": "Essa luminária terá por faces",
       "alternativas": [
         "A) 4 hexágonos regulares e 4 triângulos equiláteros.",
@@ -1937,7 +1937,7 @@
       "dia": 2,
       "numero": 71,
       "titulo": "Questão 161 - ENEM 2019",
-      "enunciado": "Em uma fábrica de refrigerantes, é necessário que se faça periodicamente o controle no processo de engarrafamento para evitar que sejam envasadas garrafas fora da especificação do volume escrito no rótulo.\n\nDiariamente, durante 60 dias, foram anotadas as quantidades de garrafas fora dessas especificações. O resultado está apresentado no quadro.",
+      "enunciado": "Em uma fábrica de refrigerantes, é necessário que se faça periodicamente o controle no processo de engarrafamento para evitar que sejam envasadas garrafas fora da especificação do volume escrito no rótulo.\n\nDiariamente, durante 60 dias, foram anotadas as quantidades de garrafas fora dessas especificações. O resultado está apresentado no quadro.\n\n![](enem/2019/img/q071_inline1.jpg)",
       "alternativas_introducao": "A média diária de garrafas fora das especificações no período considerado é",
       "alternativas": [
         "A) 0,1",
@@ -1965,7 +1965,7 @@
       "dia": 2,
       "numero": 72,
       "titulo": "Questão 162 - ENEM 2019",
-      "enunciado": "O Sistema Métrico Decimal é o mais utilizado atualmente para medir comprimentos e distâncias. Em algumas atividades, porém, é possível observar a utilização de diferentes unidades de medida.  \nUm exemplo disso pode ser observado no quadro.",
+      "enunciado": "O Sistema Métrico Decimal é o mais utilizado atualmente para medir comprimentos e distâncias. Em algumas atividades, porém, é possível observar a utilização de diferentes unidades de medida.  \nUm exemplo disso pode ser observado no quadro.\n\n![](enem/2019/img/q072_inline1.png)",
       "alternativas_introducao": "Assim, um pé, em polegada, equivale a",
       "alternativas": [
         "A) 0,1200.",
@@ -1993,7 +1993,7 @@
       "dia": 2,
       "numero": 73,
       "titulo": "Questão 163 - ENEM 2019",
-      "enunciado": "O Índice de Desenvolvimento Humano (IDH) é uma medida usada para classificar os países pelo seu grau de desenvolvimento.  \nPara seu cálculo, são levados em consideração a expectativa de vida ao nascer, tempo de escolaridade e renda per capita, entre outros.\n\nO menor valor deste índice é zero e o maior é um. Cinco países foram avaliados e obtiveram os seguintes índices de desenvolvimento humano: o primeiro país recebeu um valor X, o segundo ​​​, o terceiro ​​​​![](https://enem.dev/2019/questions/163/a47ac92d-ef25-4d00-a920-4e6be1bddae8.jpg), o quarto X² e o último X³. Nenhum desses países zerou ou atingiu o índice máximo.",
+      "enunciado": "O Índice de Desenvolvimento Humano (IDH) é uma medida usada para classificar os países pelo seu grau de desenvolvimento.  \nPara seu cálculo, são levados em consideração a expectativa de vida ao nascer, tempo de escolaridade e renda per capita, entre outros.\n\nO menor valor deste índice é zero e o maior é um. Cinco países foram avaliados e obtiveram os seguintes índices de desenvolvimento humano: o primeiro país recebeu um valor X, o segundo ![](enem/2019/img/q073_inline1.jpg)​​​, o terceiro ​​​​![](enem/2019/img/q073_inline2.jpg), o quarto X² e o último X³. Nenhum desses países zerou ou atingiu o índice máximo.",
       "alternativas_introducao": "Qual desses países obteve o maior IDH?",
       "alternativas": [
         "A) O primeiro.",
@@ -2023,7 +2023,7 @@
       "dia": 2,
       "numero": 74,
       "titulo": "Questão 164 - ENEM 2019",
-      "enunciado": "Um mestre de obras deseja fazer uma laje com espessura de 5 cm utilizando concreto usinado, conforme as dimensões do projeto dadas na figura. O concreto para fazer a laje será fornecido por uma usina que utiliza caminhões com capacidades máximas de 2m³, 5m³ e 10m³ de concreto.",
+      "enunciado": "Um mestre de obras deseja fazer uma laje com espessura de 5 cm utilizando concreto usinado, conforme as dimensões do projeto dadas na figura. O concreto para fazer a laje será fornecido por uma usina que utiliza caminhões com capacidades máximas de 2m³, 5m³ e 10m³ de concreto.\n\n![](enem/2019/img/q074_inline1.jpg)",
       "alternativas_introducao": "Qual a menor quantidade de caminhões, utilizando suas capacidades máximas, que o mestre de obras deverá pedir à usina de concreto para fazer a laje?",
       "alternativas": [
         "A) Dez caminhões com capacidade máxima de 10 m³.",
@@ -2079,7 +2079,7 @@
       "dia": 2,
       "numero": 76,
       "titulo": "Questão 166 - ENEM 2019",
-      "enunciado": "Construir figuras de diversos tipos, apenas dobrando e cortando papel, sem cola e sem tesoura, é a arte do _origami_ (_ori_ = dobrar; _kami_ = papel), que tem um significado altamente simbólico no Japão.\n\nA base do _origami_ é o conhecimento do mundo por base do tato. Uma jovem resolveu construir um cisne usando técnica do _origami_, utilizando uma folha de papel de 18 cm por 12 cm.\n\nAssim, começou por dobrar a folha conforme a figura.",
+      "enunciado": "Construir figuras de diversos tipos, apenas dobrando e cortando papel, sem cola e sem tesoura, é a arte do _origami_ (_ori_ = dobrar; _kami_ = papel), que tem um significado altamente simbólico no Japão.\n\nA base do _origami_ é o conhecimento do mundo por base do tato. Uma jovem resolveu construir um cisne usando técnica do _origami_, utilizando uma folha de papel de 18 cm por 12 cm.\n\nAssim, começou por dobrar a folha conforme a figura.\n\n![](enem/2019/img/q076_inline1.png)",
       "alternativas_introducao": "Após essa primeira dobradura, a medida do segmento AE é",
       "alternativas": [
         "A) 2√22 ​cm",
@@ -2107,7 +2107,7 @@
       "dia": 2,
       "numero": 77,
       "titulo": "Questão 167 - ENEM 2019",
-      "enunciado": "Os alunos de uma turma escolar foram divididos em dois grupos. Um grupo jogaria basquete, enquanto o outro jogaria futebol.\n\nSabe-se que o grupo de basquete é formado pelos alunos mais altos da classe e tem uma pessoa a mais do que o grupo de futebol.\n\nA tabela seguinte apresenta informações sobre as alturas dos alunos da turma.\n\nOs alunos P, J, F e M medem, respectivamente, 1,65m, 1,66m, 1,67m e 1,68m, e as suas alturas não são iguais a de nenhum outro colega da sala.",
+      "enunciado": "Os alunos de uma turma escolar foram divididos em dois grupos. Um grupo jogaria basquete, enquanto o outro jogaria futebol.\n\nSabe-se que o grupo de basquete é formado pelos alunos mais altos da classe e tem uma pessoa a mais do que o grupo de futebol.\n\nA tabela seguinte apresenta informações sobre as alturas dos alunos da turma.\n\nOs alunos P, J, F e M medem, respectivamente, 1,65m, 1,66m, 1,67m e 1,68m, e as suas alturas não são iguais a de nenhum outro colega da sala.\n\n![](enem/2019/img/q077_inline1.png)",
       "alternativas_introducao": "Segundo essas informações, argumenta-se que os alunos P, J, F e M jogaram, respectivamente,",
       "alternativas": [
         "A) Basquete, basquete, basquete, basquete.",
@@ -2163,7 +2163,7 @@
       "dia": 2,
       "numero": 79,
       "titulo": "Questão 169 - ENEM 2019",
-      "enunciado": "Um aplicativo de relacionamentos funciona da seguinte forma: o usuário cria um perfil com foto e informações pessoais, indica as características dos usuários com quem deseja estabelecer contato e determina um raio de abrangência a partir da sua localização. O aplicativo identifica as pessoas que se encaixam no perfil desejado e que estão a uma distância do usuário menor ou igual ao raio de abrangência. Caso dois usuários tenham perfis compatíveis e estejam numa região de abrangência comum a ambos, o aplicativo promove o contato entre os usuários, o que é chamado de _match_.\n\nO usuário P define um raio de abrangência com medida de 3 km e busca ampliar a possibilidade de obter um _match_ se deslocando para a região central da cidade, que concentra um maior número de usuários. O gráfico ilustra alguns bares que o usuário P costuma frequentar para ativar o aplicativo, indicados por I, II, III, IV e V.\n\nSabe-se que os usuários Q, R e S, cujas posições estão descritas pelo gráfico, são compatíveis com o usuário P, e que estes definiram raios de abrangência respectivamente iguais a 3 km, 2 km e 5 km.",
+      "enunciado": "Um aplicativo de relacionamentos funciona da seguinte forma: o usuário cria um perfil com foto e informações pessoais, indica as características dos usuários com quem deseja estabelecer contato e determina um raio de abrangência a partir da sua localização. O aplicativo identifica as pessoas que se encaixam no perfil desejado e que estão a uma distância do usuário menor ou igual ao raio de abrangência. Caso dois usuários tenham perfis compatíveis e estejam numa região de abrangência comum a ambos, o aplicativo promove o contato entre os usuários, o que é chamado de _match_.\n\nO usuário P define um raio de abrangência com medida de 3 km e busca ampliar a possibilidade de obter um _match_ se deslocando para a região central da cidade, que concentra um maior número de usuários. O gráfico ilustra alguns bares que o usuário P costuma frequentar para ativar o aplicativo, indicados por I, II, III, IV e V.\n\nSabe-se que os usuários Q, R e S, cujas posições estão descritas pelo gráfico, são compatíveis com o usuário P, e que estes definiram raios de abrangência respectivamente iguais a 3 km, 2 km e 5 km.\n\n![](enem/2019/img/q079_inline1.jpg)",
       "alternativas_introducao": "Com base no gráfico e nas afirmações anteriores, em qual bar o usuário P teria a possibilidade de um match com os usuários R, R e S, simultaneamente?",
       "alternativas": [
         "A) I.",
@@ -2219,7 +2219,7 @@
       "dia": 2,
       "numero": 81,
       "titulo": "Questão 171 - ENEM 2019",
-      "enunciado": "Uma empresa confecciona e comercializa um brinquedo formado por uma locomotiva, pintada na cor preta, mais 12 vagões de iguais formato e tamanho, numerados de 1 a 12. Dos 12 vagões, 4 são pintados na cor vermelha, 3 na cor azul, 3 na cor verde e 2 na cor amarela. O trem é montado utilizando-se uma locomotiva e 12 vagões, ordenados crescentemente segundo suas  numerações, conforme ilustrado na figura.",
+      "enunciado": "Uma empresa confecciona e comercializa um brinquedo formado por uma locomotiva, pintada na cor preta, mais 12 vagões de iguais formato e tamanho, numerados de 1 a 12. Dos 12 vagões, 4 são pintados na cor vermelha, 3 na cor azul, 3 na cor verde e 2 na cor amarela. O trem é montado utilizando-se uma locomotiva e 12 vagões, ordenados crescentemente segundo suas  numerações, conforme ilustrado na figura.\n\n![](enem/2019/img/q081_inline1.png)",
       "alternativas_introducao": "De acordo com as possíveis variações nas colorações dos vagões, a quantidade de trens que podem ser montados, expressa por meio de combinações, é dada por",
       "alternativas": [
         "A) C412 x C312 x C312 x C212",
@@ -2247,7 +2247,7 @@
       "dia": 2,
       "numero": 82,
       "titulo": "Questão 172 - ENEM 2019",
-      "enunciado": "O gráfico a seguir mostra a evolução mensal das vendas de certo produto de julho a novembro de 2011.\n\nSabe-se que o mês de julho foi o pior momento da empresa em 2011 e que o número de unidades vendidas desse produto em dezembro de 2011 foi igual à média aritmética do número de unidades vendidas nos meses de julho a novembro do mesmo ano.\n\nO gerente de vendas disse, em uma reunião da diretoria, que, se essa redução no número de unidades vendidas de novembro para dezembro de 2011 se mantivesse constante nos meses subsequentes, as vendas só voltariam a ficar piores que julho de 2011 apenas no final de 2012.",
+      "enunciado": "O gráfico a seguir mostra a evolução mensal das vendas de certo produto de julho a novembro de 2011.\n\n![](enem/2019/img/q082_inline1.png)\n\nSabe-se que o mês de julho foi o pior momento da empresa em 2011 e que o número de unidades vendidas desse produto em dezembro de 2011 foi igual à média aritmética do número de unidades vendidas nos meses de julho a novembro do mesmo ano.\n\nO gerente de vendas disse, em uma reunião da diretoria, que, se essa redução no número de unidades vendidas de novembro para dezembro de 2011 se mantivesse constante nos meses subsequentes, as vendas só voltariam a ficar piores que julho de 2011 apenas no final de 2012.",
       "alternativas_introducao": "O diretor financeiro rebateu imediatamente esse argumento mostrando que, mantida a tendência, isso aconteceria já em",
       "alternativas": [
         "A) Janeiro.",
@@ -2303,7 +2303,7 @@
       "dia": 2,
       "numero": 84,
       "titulo": "Questão 174 - ENEM 2019",
-      "enunciado": "A taxa de urbanização de um município é dada pela razão entre a população urbana e a população total do município (isto é, a soma das populações rural e urbana).\n\nOs gráficos apresentam, respectivamente, a população urbana e a população rural de cinco municípios (I, II, III, IV, V) de uma mesma região estadual. Em reunião entre o governo do estado e os prefeitos desses municípios, ficou acordado que o município com maior taxa de urbanização receberá um investimento extra em infraestrutura.",
+      "enunciado": "A taxa de urbanização de um município é dada pela razão entre a população urbana e a população total do município (isto é, a soma das populações rural e urbana).\n\nOs gráficos apresentam, respectivamente, a população urbana e a população rural de cinco municípios (I, II, III, IV, V) de uma mesma região estadual. Em reunião entre o governo do estado e os prefeitos desses municípios, ficou acordado que o município com maior taxa de urbanização receberá um investimento extra em infraestrutura.\n\n![](enem/2019/img/q084_inline1.png)",
       "alternativas_introducao": "Segundo o acordo, qual município receberá o investimento extra?",
       "alternativas": [
         "A) I.",
@@ -2331,7 +2331,7 @@
       "dia": 2,
       "numero": 85,
       "titulo": "Questão 175 - ENEM 2019",
-      "enunciado": "Uma construtora pretende conectar um reservatório central (Rc) em formato de um cilindro, com raio interno igual a 2 m e altura interna igual a 3,30 m, a quatro reservatórios cilíndricos auxiliares (R1, R2, R3 e R4), os quais possuem raios internos e alturas internas medindo 1,5 m.\n\nAs ligações entre o reservatório central e os auxiliares são feitas por canos cilíndricos com 0,10 m de diâmetro interno e 20 m de comprimento, conectados próximos às bases de cada reservatório.  \nNa conexão de cada um desses canos com o reservatório central ha registros que liberam ou interrompem o fluxo de água.\n\nNo momento em que o reservatório central está cheio e os auxiliares estão vazios, abrem-se os quatro registros e, após algum tempo, as alturas das colunas de água nos reservatórios se igualam, assim que cessa o fluxo de água entre eles, pelo princípio dos vasos comunicantes.",
+      "enunciado": "Uma construtora pretende conectar um reservatório central (Rc) em formato de um cilindro, com raio interno igual a 2 m e altura interna igual a 3,30 m, a quatro reservatórios cilíndricos auxiliares (R1, R2, R3 e R4), os quais possuem raios internos e alturas internas medindo 1,5 m.\n\n![](enem/2019/img/q085_inline1.png)\n\nAs ligações entre o reservatório central e os auxiliares são feitas por canos cilíndricos com 0,10 m de diâmetro interno e 20 m de comprimento, conectados próximos às bases de cada reservatório.  \nNa conexão de cada um desses canos com o reservatório central ha registros que liberam ou interrompem o fluxo de água.\n\nNo momento em que o reservatório central está cheio e os auxiliares estão vazios, abrem-se os quatro registros e, após algum tempo, as alturas das colunas de água nos reservatórios se igualam, assim que cessa o fluxo de água entre eles, pelo princípio dos vasos comunicantes.",
       "alternativas_introducao": "A medida, em metro, das alturas das colunas de água nos reservatórios auxiliares, após cessar o fluxo de água entre eles, é",
       "alternativas": [
         "A) 1,44.",
@@ -2387,7 +2387,7 @@
       "dia": 2,
       "numero": 87,
       "titulo": "Questão 177 - ENEM 2019",
-      "enunciado": "Um grupo de engenheiros está projetando um motor cujo esquema de deslocamento vertical do pistão dentro da câmara de combustão esta representado na figura.\n\ndescreve como varia a altura h, medida em centímetro, da parte superior do pistão dentro da câmara de combustão, em função do tempo t, medido em segundo. Nas figuras estão indicadas as alturas do pistão em dois instantes distintos.\n\nO valor do parâmetro β, que é dado por um número inteiro positivo, está relacionado com a velocidade de deslocamento do pistão. Para que o motor tenha uma boa potência, é necessário e suficiente que, em menos de 4 segundos após o início do funcionamento (instante t = 0), a altura da base do pistão alcance por três vezes o valor de 6 cm.\n\nPara os cálculos, utilize 3 como aproximação para π.",
+      "enunciado": "Um grupo de engenheiros está projetando um motor cujo esquema de deslocamento vertical do pistão dentro da câmara de combustão esta representado na figura.\n\ndescreve como varia a altura h, medida em centímetro, da parte superior do pistão dentro da câmara de combustão, em função do tempo t, medido em segundo. Nas figuras estão indicadas as alturas do pistão em dois instantes distintos.\n\nO valor do parâmetro β, que é dado por um número inteiro positivo, está relacionado com a velocidade de deslocamento do pistão. Para que o motor tenha uma boa potência, é necessário e suficiente que, em menos de 4 segundos após o início do funcionamento (instante t = 0), a altura da base do pistão alcance por três vezes o valor de 6 cm.\n\nPara os cálculos, utilize 3 como aproximação para π.\n\n![](enem/2019/img/q087_inline1.png)",
       "alternativas_introducao": "O menor valor inteiro a ser atribuído ao parâmetro β, de forma que o motor a ser construído tenha boa potência, é",
       "alternativas": [
         "A) 1.",
@@ -2415,7 +2415,7 @@
       "dia": 2,
       "numero": 88,
       "titulo": "Questão 178 - ENEM 2019",
-      "enunciado": "Um comerciante, que vende somente pastel, refrigerante em lata e caldo de cana em copos, fez um levantamento das vendas realizadas durante a semana. O resultado desse levantamento está apresentado no gráfico.\n\nEle estima que venderá, em cada dia da próxima semana, uma quantidade de refrigerante em lata igual à soma das quantidades de refrigerante em lata e caldo de cana em copos vendidas no respectivo dia da ultima semana.\n\nQuanto aos pastéis, estima vender, a cada dia da próxima semana, uma quantidade igual à quantidade de refrigerante em lata que prevê vender em tal dia. Já para o número de caldo de cana em copos, estima que as vendas diárias serão iguais às da ultima semana.",
+      "enunciado": "Um comerciante, que vende somente pastel, refrigerante em lata e caldo de cana em copos, fez um levantamento das vendas realizadas durante a semana. O resultado desse levantamento está apresentado no gráfico.\n\n![](enem/2019/img/q088_inline1.png)\n\nEle estima que venderá, em cada dia da próxima semana, uma quantidade de refrigerante em lata igual à soma das quantidades de refrigerante em lata e caldo de cana em copos vendidas no respectivo dia da ultima semana.\n\nQuanto aos pastéis, estima vender, a cada dia da próxima semana, uma quantidade igual à quantidade de refrigerante em lata que prevê vender em tal dia. Já para o número de caldo de cana em copos, estima que as vendas diárias serão iguais às da ultima semana.",
       "alternativas_introducao": "Segundo essas estimativas, a quantidade a mais de pastéis que esse comerciante deve vender na próxima semana é",
       "alternativas": [
         "A) 20.",
@@ -2443,7 +2443,7 @@
       "dia": 2,
       "numero": 89,
       "titulo": "Questão 179 - ENEM 2019",
-      "enunciado": "Nos seis cômodos de uma casa há sensores de presença posicionados de forma que a luz de cada cômodo acende assim que uma pessoa nele adentra, e apaga assim que a pessoa se retira desse cômodo. Suponha que o acendimento e o desligamento sejam instantâneos.\n\nO morador dessa casa visitou alguns desses cômodos, ficando exatamente um minuto em cada um deles. O gráfico descreve o consumo acumulado de energia, em watt x minuto, em função do tempo t, em minuto, das lâmpadas de LED dessa casa, enquanto a figura apresenta a planta baixa da casa, na qual os cômodos estão numerados de 1 a 6, com as potências das respectivas lâmpadas indicadas.",
+      "enunciado": "Nos seis cômodos de uma casa há sensores de presença posicionados de forma que a luz de cada cômodo acende assim que uma pessoa nele adentra, e apaga assim que a pessoa se retira desse cômodo. Suponha que o acendimento e o desligamento sejam instantâneos.\n\nO morador dessa casa visitou alguns desses cômodos, ficando exatamente um minuto em cada um deles. O gráfico descreve o consumo acumulado de energia, em watt x minuto, em função do tempo t, em minuto, das lâmpadas de LED dessa casa, enquanto a figura apresenta a planta baixa da casa, na qual os cômodos estão numerados de 1 a 6, com as potências das respectivas lâmpadas indicadas.\n\n![](enem/2019/img/q089_inline1.png)",
       "alternativas_introducao": "A sequência de deslocamento pelos cômodos, conforme o consumo de energia apresentado no gráfico, é",
       "alternativas": [
         "A) 1 → 4 → 5 → 4 → 1 → 6 → 1 → 4",
@@ -2471,7 +2471,7 @@
       "dia": 2,
       "numero": 90,
       "titulo": "Questão 180 - ENEM 2019",
-      "enunciado": "Um casal planejou uma viagem e definiu como teto para o gasto diário um valor de até R$ 1 000,00. Antes de decidir o destino da viagem, fizeram uma pesquisa sobre a taxa de câmbio vigente para as moedas de cinco países que desejavam visitar e também sobre as estimativas de gasto diário em cada um, com o objetivo de escolher o destino que apresentasse o menor custo diário em real.\n\nO quadro mostra os resultados obtidos com a pesquisa realizada.",
+      "enunciado": "Um casal planejou uma viagem e definiu como teto para o gasto diário um valor de até R$ 1 000,00. Antes de decidir o destino da viagem, fizeram uma pesquisa sobre a taxa de câmbio vigente para as moedas de cinco países que desejavam visitar e também sobre as estimativas de gasto diário em cada um, com o objetivo de escolher o destino que apresentasse o menor custo diário em real.\n\nO quadro mostra os resultados obtidos com a pesquisa realizada.\n\n![](enem/2019/img/q090_inline1.png)",
       "alternativas_introducao": "Nessas condições, qual será o destino escolhido para a viagem?",
       "alternativas": [
         "A) Austrália.",
