@@ -2,7 +2,7 @@
   "ano": 2023,
   "dia": 2,
   "total": 90,
-  "geradoEm": "2026-05-09T05:54:42Z",
+  "geradoEm": "2026-05-09T12:48:20Z",
   "questoes": [
     {
       "ano": 2023,
@@ -93,7 +93,7 @@
       "dia": 2,
       "numero": 4,
       "titulo": "Questão 94 - ENEM 2023",
-      "enunciado": "Em uma indústria, o controle da dureza da água é importante quando ela é utilizada em caldeiras, uma vez que sais pouco solúveis, formados a partir de sulfatos e carbonatos, podem acumular-se no interior das tubulações, causando obstruções. Para avaliar a água utilizada nessa indústria, foram realizados testes de qualidade que consideraram os seauintes parâmetros:\n\n![](https://enem.dev/2023/questions/94/429989c0-d615-4e19-a5e6-838e81a6039c.png)",
+      "enunciado": "Em uma indústria, o controle da dureza da água é importante quando ela é utilizada em caldeiras, uma vez que sais pouco solúveis, formados a partir de sulfatos e carbonatos, podem acumular-se no interior das tubulações, causando obstruções. Para avaliar a água utilizada nessa indústria, foram realizados testes de qualidade que consideraram os seauintes parâmetros:",
       "alternativas_introducao": "Qual teste deve ser considerado para controlar a formação desse tipo de obstrução de tubulações?",
       "alternativas": [
         "A) 1",
@@ -261,7 +261,7 @@
       "dia": 2,
       "numero": 10,
       "titulo": "Questão 100 - ENEM 2023",
-      "enunciado": "Um professor lança uma esfera verticalmente para cima, a qual retorna, depois de alguns segundos, ao ponto de lançamento. Em seguida, lista em um quadro todas as possibilidades para as grandezas cinemáticas.\n\n![](https://enem.dev/2023/questions/100/92848aa5-da82-4c66-9945-7051120a42c9.jpg)",
+      "enunciado": "Um professor lança uma esfera verticalmente para cima, a qual retorna, depois de alguns segundos, ao ponto de lançamento. Em seguida, lista em um quadro todas as possibilidades para as grandezas cinemáticas.",
       "alternativas_introducao": "Ele solicita aos alunos que analisem as grandezas cinemáticas no instante em que a esfera atinge a altura máxima, escolhendo uma combinação para os módulos e sentidos da velocidade e da aceleração. A escolha que corresponde à combinação correta é",
       "alternativas": [
         "A) V = 0 e a ≠ 0 para cima.",
@@ -513,7 +513,7 @@
       "dia": 2,
       "numero": 19,
       "titulo": "Questão 109 - ENEM 2023",
-      "enunciado": "Uma academia decide trocar gradualmente seus aparelhos de musculação. Agora, os frequentadores que utilizam os aparelhos do tipo 1 podem também utilizar os aparelhos do tipo 2, representados na figura, para elevar cargas correspondentes às massas M1 e M2 com velocidade constante. A fim de que o exercício seja realizado com a mesma força F, os usuários devem ser orientados a respeito da relação entre as cargas nos dois tipos de aparelhos, já que as polias fixas apenas mudam a direção das forças, enquanto a polia móvel divide as forças.\n\nEm ambos os aparelhos, considere as cordas inextensíveis, as massas das polias e das cordas desprezíveis e que não há dissipação de energia.\n\n![](https://enem.dev/2023/questions/109/e083688b-cc00-4c8b-9de6-01f07a7a6a5c.png)",
+      "enunciado": "Uma academia decide trocar gradualmente seus aparelhos de musculação. Agora, os frequentadores que utilizam os aparelhos do tipo 1 podem também utilizar os aparelhos do tipo 2, representados na figura, para elevar cargas correspondentes às massas M1 e M2 com velocidade constante. A fim de que o exercício seja realizado com a mesma força F, os usuários devem ser orientados a respeito da relação entre as cargas nos dois tipos de aparelhos, já que as polias fixas apenas mudam a direção das forças, enquanto a polia móvel divide as forças.\n\nEm ambos os aparelhos, considere as cordas inextensíveis, as massas das polias e das cordas desprezíveis e que não há dissipação de energia.",
       "alternativas_introducao": "Para essa academia, qual deve ser a razão M2/M1 informada aos usuários?",
       "alternativas": [
         "A) 1/4",
@@ -541,7 +541,7 @@
       "dia": 2,
       "numero": 20,
       "titulo": "Questão 110 - ENEM 2023",
-      "enunciado": "Um assistente de laboratório precisou descartar sete frascos contendo solução de nitrato de mercúrio(l) que não foram utilizados em uma aula prática. Cada frasco continha 5,25 g de Hg2(NO3)2 dissolvidos em água. Temendo a toxidez do mercúrio e sabendo que o Hg2Cl2 tem solubilidade muito baixa, o assistente optou por retirar o mercúrio da solução por precipitação com cloreto de sódio (NaCl), conforme a equação química:\n\n![](https://enem.dev/2023/questions/110/9874e4c1-d246-4697-8798-52f1577c2542.png)\n\nNa dúvida sobre a massa de NaCl a ser utilizada, o assistente aumentou gradativamente a quantidade adicionada em cada frasco, como apresentado no quadro.\n\n![](https://enem.dev/2023/questions/110/f0ce2b28-d6bf-456a-945d-64bc0518a241.png)\n\nO produto obtido em cada experimento foi filtrado, secado e teve sua massa aferida. O assistente organizou os resultados na forma de um gráfico que correlaciona a massa de NaCl adicionada com a massa de Hg2Cl2 obtida em cada frasco. A massa molar do Hg2(NO3)2 é 525 g mol\\-1, a do NaCl é 58 g mol\\-1 e a do Hg2Cl2 é 472 g mol\\-1.",
+      "enunciado": "Um assistente de laboratório precisou descartar sete frascos contendo solução de nitrato de mercúrio(l) que não foram utilizados em uma aula prática. Cada frasco continha 5,25 g de Hg2(NO3)2 dissolvidos em água. Temendo a toxidez do mercúrio e sabendo que o Hg2Cl2 tem solubilidade muito baixa, o assistente optou por retirar o mercúrio da solução por precipitação com cloreto de sódio (NaCl), conforme a equação química:\n\nNa dúvida sobre a massa de NaCl a ser utilizada, o assistente aumentou gradativamente a quantidade adicionada em cada frasco, como apresentado no quadro.\n\n![](https://enem.dev/2023/questions/110/f0ce2b28-d6bf-456a-945d-64bc0518a241.png)\n\nO produto obtido em cada experimento foi filtrado, secado e teve sua massa aferida. O assistente organizou os resultados na forma de um gráfico que correlaciona a massa de NaCl adicionada com a massa de Hg2Cl2 obtida em cada frasco. A massa molar do Hg2(NO3)2 é 525 g mol\\-1, a do NaCl é 58 g mol\\-1 e a do Hg2Cl2 é 472 g mol\\-1.",
       "alternativas_introducao": "Qual foi o gráfico obtido pelo assistente de laboratório?",
       "alternativas": [
         "A)",
@@ -571,7 +571,7 @@
       "dia": 2,
       "numero": 21,
       "titulo": "Questão 111 - ENEM 2023",
-      "enunciado": "![](https://enem.dev/2023/questions/111/9ae85aec-1b17-4ee7-afd9-e9cf17101aca.png)\n\nSOUSA. M. Disponível em: www.monica.com.br. Acesso em: 2 out. 2012 (adaptado)",
+      "enunciado": "SOUSA. M. Disponível em: www.monica.com.br. Acesso em: 2 out. 2012 (adaptado)",
       "alternativas_introducao": "Na tirinha de Mauricio de Sousa, os personagens Cebolinha e Cascão fazem uma brincadeira utilizando duas latas e um barbante. Ao perceberem que o som pode ser transmitido através do barbante, resolvem alterar o comprimento do barbante para ficar cada vez mais extenso. As demais condições permaneceram inalteradas durante a brincadeira.\nNa prática, à medida que se aumenta o comprimento do barbante, ocorre a redução de qual característica da onda sonora?",
       "alternativas": [
         "A) Altura.",
@@ -655,7 +655,7 @@
       "dia": 2,
       "numero": 24,
       "titulo": "Questão 114 - ENEM 2023",
-      "enunciado": "Uma equipe de segurança do transporte de uma empresa avalia o comportamento das tensões que aparecem em duas cordas, 1 e 2, usadas para prender uma carga de massa M = 200 kg na carroceria, conforme a ilustração. Quando o caminhão parte do repouso, sua aceleração é constante e igual a 3 m/s2 e, quando ele é freado bruscamente, sua frenagem é constante e igual a 5 m/s2. Em ambas as situações, a carga encontra-se na iminência de movimento, e o sentido do movimento do caminhão está indicado na figura. O coeficiente de atrito estático entre a caixa e c assoalho da carroceria é igual a 0,2. Considere a aceleração da gravidade igual a 10 m/s2, as tensões iniciais nas cordas iguais a zero e as duas cordas ideais.\n\n![](https://enem.dev/2023/questions/114/e245e16d-8a95-4b2e-ab33-6dd299ff9474.png)",
+      "enunciado": "Uma equipe de segurança do transporte de uma empresa avalia o comportamento das tensões que aparecem em duas cordas, 1 e 2, usadas para prender uma carga de massa M = 200 kg na carroceria, conforme a ilustração. Quando o caminhão parte do repouso, sua aceleração é constante e igual a 3 m/s2 e, quando ele é freado bruscamente, sua frenagem é constante e igual a 5 m/s2. Em ambas as situações, a carga encontra-se na iminência de movimento, e o sentido do movimento do caminhão está indicado na figura. O coeficiente de atrito estático entre a caixa e c assoalho da carroceria é igual a 0,2. Considere a aceleração da gravidade igual a 10 m/s2, as tensões iniciais nas cordas iguais a zero e as duas cordas ideais.",
       "alternativas_introducao": "Nas situações de aceleração e frenagem do caminhão, as tensões nas cordas 1 e 2, em newton, serão",
       "alternativas": [
         "A) Aceleração: T1 = 0 e T2 = 200; frenagem: T1 = 600 e T2 = 0.",
@@ -711,7 +711,7 @@
       "dia": 2,
       "numero": 26,
       "titulo": "Questão 116 - ENEM 2023",
-      "enunciado": "O ciclo do nitrogênio é composto por várias etapas, conforme a figura, sendo cada uma desempenhada por um grupo específico de microrganismos.\n\n![](https://enem.dev/2023/questions/116/aab4b4fe-505c-4eda-a772-42a363f6ba8a.png)",
+      "enunciado": "O ciclo do nitrogênio é composto por várias etapas, conforme a figura, sendo cada uma desempenhada por um grupo específico de microrganismos.",
       "alternativas_introducao": "Se o grupo dos microrganismos decompositores fosse exterminado, qual etapa não ocorreria?",
       "alternativas": [
         "A) 1",
@@ -767,7 +767,7 @@
       "dia": 2,
       "numero": 28,
       "titulo": "Questão 118 - ENEM 2023",
-      "enunciado": "A gasolina é uma mistura de hidrocarbonetos de cadeias saturadas contendo de 8 a 12 átomos de carbono. Além disso, a gasolina de alto desempenho deve conter elevados teores de hidrocarbonetos de cadeias ramificadas, de forma a resistir à compressão e entrar em ignição apenas quando a vela aciona uma centelha elétrica no motor. No quadro, estão apresentados compostos que podem ser utilizados como combustíveis.\n\n![](https://enem.dev/2023/questions/118/5d656ef9-cabd-499e-bd98-51993ccb6c1c.png)",
+      "enunciado": "A gasolina é uma mistura de hidrocarbonetos de cadeias saturadas contendo de 8 a 12 átomos de carbono. Além disso, a gasolina de alto desempenho deve conter elevados teores de hidrocarbonetos de cadeias ramificadas, de forma a resistir à compressão e entrar em ignição apenas quando a vela aciona uma centelha elétrica no motor. No quadro, estão apresentados compostos que podem ser utilizados como combustíveis.",
       "alternativas_introducao": "Entre esses compostos, aquele que conferirá maior desempenho como combustível é o",
       "alternativas": [
         "A) I.",
@@ -795,7 +795,7 @@
       "dia": 2,
       "numero": 29,
       "titulo": "Questão 119 - ENEM 2023",
-      "enunciado": "De acordo com a Constituição Federal, é competencia dos municípios o gerenciamento dos serviços de limpeza e coleta dos resíduos urbanos (lixo). No entanto, há relatos de que parte desse lixo acaba sendo incinerado, liberando substâncias tóxicas para o ambiente e causando acidentes por explosões, principalmente quando ocorre a incineração de frascos de aerossóis (por exemplo: desodorantes, inseticidas e repelentes). A temperatura elevada provoca a vaporização de todo o conteúdo dentro desse tipo de frasco, aumentando a pressão em seu interior até culminar na explosão da embalagem.\n\nZVEIBIL, V. Z. et al. **Cartilha de limpeza urbana**. Disponível em: www.lbam.org.br. Acesso em: 6 jul. 2015 (adaptado).\n\nSuponha um frasco metálico de um aerossol de capacidade igual a 100 mL, contendo 0,1 mol de produtos gasosos à temperatura de 650 °C, no momento da explosão.\n\n![](https://enem.dev/2023/questions/119/47913cea-fd78-4f5d-af82-f3494e353a85.png)",
+      "enunciado": "De acordo com a Constituição Federal, é competencia dos municípios o gerenciamento dos serviços de limpeza e coleta dos resíduos urbanos (lixo). No entanto, há relatos de que parte desse lixo acaba sendo incinerado, liberando substâncias tóxicas para o ambiente e causando acidentes por explosões, principalmente quando ocorre a incineração de frascos de aerossóis (por exemplo: desodorantes, inseticidas e repelentes). A temperatura elevada provoca a vaporização de todo o conteúdo dentro desse tipo de frasco, aumentando a pressão em seu interior até culminar na explosão da embalagem.\n\nZVEIBIL, V. Z. et al. **Cartilha de limpeza urbana**. Disponível em: www.lbam.org.br. Acesso em: 6 jul. 2015 (adaptado).\n\nSuponha um frasco metálico de um aerossol de capacidade igual a 100 mL, contendo 0,1 mol de produtos gasosos à temperatura de 650 °C, no momento da explosão.",
       "alternativas_introducao": "A pressão, em atm, dentro do frasco, no momento da explosão, é mais próxima de",
       "alternativas": [
         "A) 756.",
@@ -823,7 +823,7 @@
       "dia": 2,
       "numero": 30,
       "titulo": "Questão 120 - ENEM 2023",
-      "enunciado": "O circuito com três lâmpadas incandescentes idênticas, representado na figura, consiste em uma associação mista de resistores. Cada lâmpada (L1, L2, e L3) é associada, em paralelo, a um resistor de resistência R, formando um conjunto. Esses conjuntos são associados em série, tendo todas as lâmpadas o mesmo brilho quando ligadas à fonte de energia. Após vários dias em uso, apenas a lâmpada L2 queima, enquanto as demais permanecem acesas.\n\n![](https://enem.dev/2023/questions/120/80ceec42-52be-4ea5-8cf1-c75004d0f166.png)",
+      "enunciado": "O circuito com três lâmpadas incandescentes idênticas, representado na figura, consiste em uma associação mista de resistores. Cada lâmpada (L1, L2, e L3) é associada, em paralelo, a um resistor de resistência R, formando um conjunto. Esses conjuntos são associados em série, tendo todas as lâmpadas o mesmo brilho quando ligadas à fonte de energia. Após vários dias em uso, apenas a lâmpada L2 queima, enquanto as demais permanecem acesas.",
       "alternativas_introducao": "Em relação à situação em que todas as lâmpadas funcionam, após a queima de L2, os brilhos das lâmpadas serão",
       "alternativas": [
         "A) Os mesmos.",
@@ -851,7 +851,7 @@
       "dia": 2,
       "numero": 31,
       "titulo": "Questão 121 - ENEM 2023",
-      "enunciado": "Os solos amazônicos, ricos em silicato, não são apropriados para o cultivo por serem incapazes de reter nutrientes. Contudo, descobertas arqueológicas têm demonstrado que os antigos habitantes da Amazônia dominavam a técnica de preparo de um insumo agrícola natural, denominado terra preta. Esse insumo era constituído principalmente de uma espécie de biocarvão (biochar) obtido da queima de matéria orgânica, como troncos de árvores, pedaços de ossos e esterco, capaz de manter um solo fértil por anos.\n\nAdmite-se que o efeito do biocarvão na fertilização do solo estava, em parte, relacionado à presença de grupos orgânicos do tipo carboxilato em sua superfície, carregados negativamente (—COO–). Esses grupos atraem íons positivos necessários como nutrientes, tais quais os provenientes do potássio (K), do cálcio (Ca) e do magnésio (Mg), além de micronutrientes, como zinco (Zn) e ferro (Fe). Essa ligação no solo fertilizado é predominantemente iônica, conforme ilustra a figura, em que M\\* representa os cátions metálicos. De acordo com a escala de Pauling, a eletronegatividade do elemento oxigênio é igual a 3,44\n\n![](https://enem.dev/2023/questions/121/7814f78a-9417-4651-bec1-eb30fe7fd046.png)\n\nO quadro apresenta os valores de eletronegatividade desses cinco elementos metálicos.\n\n![](https://enem.dev/2023/questions/121/1913a73f-35d7-4367-a68e-949fa743bf7c.png)\n\nMICHALOVIC, M. Ancient Soil Chemists of the Amazon. **ChemMatters**, fev. 2009 (adaptado).",
+      "enunciado": "Os solos amazônicos, ricos em silicato, não são apropriados para o cultivo por serem incapazes de reter nutrientes. Contudo, descobertas arqueológicas têm demonstrado que os antigos habitantes da Amazônia dominavam a técnica de preparo de um insumo agrícola natural, denominado terra preta. Esse insumo era constituído principalmente de uma espécie de biocarvão (biochar) obtido da queima de matéria orgânica, como troncos de árvores, pedaços de ossos e esterco, capaz de manter um solo fértil por anos.\n\nAdmite-se que o efeito do biocarvão na fertilização do solo estava, em parte, relacionado à presença de grupos orgânicos do tipo carboxilato em sua superfície, carregados negativamente (—COO–). Esses grupos atraem íons positivos necessários como nutrientes, tais quais os provenientes do potássio (K), do cálcio (Ca) e do magnésio (Mg), além de micronutrientes, como zinco (Zn) e ferro (Fe). Essa ligação no solo fertilizado é predominantemente iônica, conforme ilustra a figura, em que M\\* representa os cátions metálicos. De acordo com a escala de Pauling, a eletronegatividade do elemento oxigênio é igual a 3,44\n\nO quadro apresenta os valores de eletronegatividade desses cinco elementos metálicos.\n\n![](https://enem.dev/2023/questions/121/1913a73f-35d7-4367-a68e-949fa743bf7c.png)\n\nMICHALOVIC, M. Ancient Soil Chemists of the Amazon. **ChemMatters**, fev. 2009 (adaptado).",
       "alternativas_introducao": "O cátion que resultará em uma interação de maior caráter iônico com o ânion carboxilato será aquele proveniente do elemento",
       "alternativas": [
         "A) Potássio.",
@@ -909,7 +909,7 @@
       "dia": 2,
       "numero": 33,
       "titulo": "Questão 123 - ENEM 2023",
-      "enunciado": "Entre os medicamentos mais comuns consumidos para o alívio da dor está o ibuprofeno, um composto quiral com ação anti-inflamatória e efeito analgésico, que é comercializado como fármaco opticamente puro, ou seja, sem a mistura com outro isômero óptico. A fórmula estrutural plana do ibuprofeno é:\n\n![](https://enem.dev/2023/questions/123/045ed5ac-600f-4d71-bc55-63a2f2804c13.png)\n\nAlém do ibuprofeno, destacam-se também os princípios ativos a seguir, presentes em outros medicamentos para o alívio da dor:\n\n![](https://enem.dev/2023/questions/123/5b164bb7-d865-44cf-820a-1dc266d8effe.jpg)",
+      "enunciado": "Entre os medicamentos mais comuns consumidos para o alívio da dor está o ibuprofeno, um composto quiral com ação anti-inflamatória e efeito analgésico, que é comercializado como fármaco opticamente puro, ou seja, sem a mistura com outro isômero óptico. A fórmula estrutural plana do ibuprofeno é:\n\nAlém do ibuprofeno, destacam-se também os princípios ativos a seguir, presentes em outros medicamentos para o alívio da dor:\n\n![](https://enem.dev/2023/questions/123/5b164bb7-d865-44cf-820a-1dc266d8effe.jpg)",
       "alternativas_introducao": "O princípio ativo que apresenta o mesmo tipo de isomeria espacial que o ibuprofeno é o(a)",
       "alternativas": [
         "A) Fenacetina.",
@@ -995,7 +995,7 @@
       "dia": 2,
       "numero": 36,
       "titulo": "Questão 126 - ENEM 2023",
-      "enunciado": "Para que uma molécula dê origem a um medicamento de administração oral, além de apresentar atividade farmacológica, deve ser capaz de atingir o local de ação. Para tanto, essa molécula não deve se degradar no estômago (onde o meio é fortemente ácido e há várias enzimas que reagem mediante catálise ácida), deve ser capaz de atravessar as membranas celulares e ser solúvel no plasma sanguíneo (sistema aquoso). Para os fármacos cujas estruturas são formadas por cadeias carbônicas longas contendo pelo menos um grupamento amino, um recurso tecnológico empregado é sua conversão no cloridrato correspondente. Essa conversão é representada, de forma genérica, pela equação química:\n\n![](https://enem.dev/2023/questions/126/b0c226d9-5944-4f6d-8b81-0fa0f9f7d511.png)",
+      "enunciado": "Para que uma molécula dê origem a um medicamento de administração oral, além de apresentar atividade farmacológica, deve ser capaz de atingir o local de ação. Para tanto, essa molécula não deve se degradar no estômago (onde o meio é fortemente ácido e há várias enzimas que reagem mediante catálise ácida), deve ser capaz de atravessar as membranas celulares e ser solúvel no plasma sanguíneo (sistema aquoso). Para os fármacos cujas estruturas são formadas por cadeias carbônicas longas contendo pelo menos um grupamento amino, um recurso tecnológico empregado é sua conversão no cloridrato correspondente. Essa conversão é representada, de forma genérica, pela equação química:",
       "alternativas_introducao": "O aumento da eficiência de circulação do fármaco no sangue, promovido por essa conversão, deve-se ao incremento de seu(sua)",
       "alternativas": [
         "A) Basicidade.",
@@ -1023,7 +1023,7 @@
       "dia": 2,
       "numero": 37,
       "titulo": "Questão 127 - ENEM 2023",
-      "enunciado": "**Toxicidade do cianeto**\n\nA produção de ATP depende do gradiente de prótons gerado pela cadeia respiratória. Nessas reações, os elétrons  \nprovenientes da oxidação do NADH em NAD+ percorrem a cadeia até chegarem à citocromo c oxidase reduzindo o  \nFe3+ a Fe2+. O oxigênio atua como aceptor final desses elétrons formando água. O cianeto é uma espécie química  \naltamente tóxica que tem grande afinidade pelo Fe3+. Quando células são expostas ao cianeto, ele se liga ao sítio de  \nFe3+ da citocromo c oxidase, impedindo a sua conversão em Fe2+ e bloqueando a cadeia respiratória.\n\n![](https://enem.dev/2023/questions/127/97828514-9c7c-491c-9146-e4d8bf25778a.png)\n\nALBERTS, B. et al. **Biologia molecular da célula**. Porto Alegre: Artmed, 2010 (adaptado).",
+      "enunciado": "**Toxicidade do cianeto**\n\nA produção de ATP depende do gradiente de prótons gerado pela cadeia respiratória. Nessas reações, os elétrons  \nprovenientes da oxidação do NADH em NAD+ percorrem a cadeia até chegarem à citocromo c oxidase reduzindo o  \nFe3+ a Fe2+. O oxigênio atua como aceptor final desses elétrons formando água. O cianeto é uma espécie química  \naltamente tóxica que tem grande afinidade pelo Fe3+. Quando células são expostas ao cianeto, ele se liga ao sítio de  \nFe3+ da citocromo c oxidase, impedindo a sua conversão em Fe2+ e bloqueando a cadeia respiratória.\n\nALBERTS, B. et al. **Biologia molecular da célula**. Porto Alegre: Artmed, 2010 (adaptado).",
       "alternativas_introducao": "Esse bloqueio aumenta a concentração celular de",
       "alternativas": [
         "A) ATP.",
@@ -1079,7 +1079,7 @@
       "dia": 2,
       "numero": 39,
       "titulo": "Questão 129 - ENEM 2023",
-      "enunciado": "O Aldrin é um inseticida agrícola organoclorado sintético de baixa polaridade, cuja estrutura molecular simétrica, de fórmula , está representada na figura. Introduzido na agricultura a partir da década de 1950, esse composto apresenta alta persistência no meio ambiente e acumulação nos organismos, sendo danoso para a saúde.\n\n\n\nVIEGAS JÚNIOR, C. Terpenos com atividade inseticida: uma alternativa para o controle químico de insetos. **Química Nova**, v. 26, n. 3, 2003 (adaptado).\n\nUm pesquisador coletou fluidos biológicos de indivíduos de uma população contaminada por esse inseticida agrícola. Ele analisou amostras de saliva, sangue, lágrima, urina e leite quanto à presença dessa substância.",
+      "enunciado": "O Aldrin é um inseticida agrícola organoclorado sintético de baixa polaridade, cuja estrutura molecular simétrica, de fórmula , está representada na figura. Introduzido na agricultura a partir da década de 1950, esse composto apresenta alta persistência no meio ambiente e acumulação nos organismos, sendo danoso para a saúde.\n\nVIEGAS JÚNIOR, C. Terpenos com atividade inseticida: uma alternativa para o controle químico de insetos. **Química Nova**, v. 26, n. 3, 2003 (adaptado).\n\nUm pesquisador coletou fluidos biológicos de indivíduos de uma população contaminada por esse inseticida agrícola. Ele analisou amostras de saliva, sangue, lágrima, urina e leite quanto à presença dessa substância.",
       "alternativas_introducao": "Em qual dos fluidos o pesquisador provavelmente encontrou a maior concentração dessa substância?",
       "alternativas": [
         "A) Saliva, por consequência da atividade de enzimas.",
@@ -1163,7 +1163,7 @@
       "dia": 2,
       "numero": 42,
       "titulo": "Questão 132 - ENEM 2023",
-      "enunciado": "O manual de um automóvel alerta sobre os cuidados em relação à pressão do ar no interior dos pneus. Recomenda-se que a pressão seja verificada com os pneus frios (à temperatura ambiente). Um motorista, desatento a essa informação, realizou uma viagem longa sobre o asfalto quente e, em seguida, verificou que a pressão![](https://enem.dev/2023/questions/132/99a53ed4-bbd2-4aa0-9301-ee4cd640a4b6.jpg) no interior dos pneus não era a recomendada pelo fabricante. Na ocasião, a temperatura dos pneus era ![](https://enem.dev/2023/questions/132/2367c9cb-2c1a-4b79-b582-86fc01088ff8.jpg). Após um longo período em repouso, os pneus do carro atingiram a temperatura ambiente T. Durante o resfriamento, não há alteração no volume dos pneus e na quantidade de ar no seu interior. Considere o ar dos pneus um gás perfeito (também denominado gás ideal).",
+      "enunciado": "O manual de um automóvel alerta sobre os cuidados em relação à pressão do ar no interior dos pneus. Recomenda-se que a pressão seja verificada com os pneus frios (à temperatura ambiente). Um motorista, desatento a essa informação, realizou uma viagem longa sobre o asfalto quente e, em seguida, verificou que a pressão no interior dos pneus não era a recomendada pelo fabricante. Na ocasião, a temperatura dos pneus era ![](https://enem.dev/2023/questions/132/2367c9cb-2c1a-4b79-b582-86fc01088ff8.jpg). Após um longo período em repouso, os pneus do carro atingiram a temperatura ambiente T. Durante o resfriamento, não há alteração no volume dos pneus e na quantidade de ar no seu interior. Considere o ar dos pneus um gás perfeito (também denominado gás ideal).",
       "alternativas_introducao": "Durante o processo de resfriamento, os valores de pressão em relação à temperatura (P x T) são representados pelo gráfico:",
       "alternativas": [
         "A)",
@@ -1193,7 +1193,7 @@
       "dia": 2,
       "numero": 43,
       "titulo": "Questão 133 - ENEM 2023",
-      "enunciado": "O descarte de detergentes comuns nos esgotos domésticos ocasiona a formação de uma camada de espuma que impede a entrada de oxigênio na água. Os microrganismos que vivem nessas águas não são capazes de quebrar moléculas ramificadas, ocorrendo assim um desequilíbrio ambiental nos rios. A fórmula a seguir representa a estrutura química de um tensoativo presente na composição de um detergente não biodegradável.\n\n![](https://enem.dev/2023/questions/133/51c8e3c3-3a3f-4aec-ac94-b1ee4037a55f.png)\n\n**Tensoativo não biodegradável**",
+      "enunciado": "O descarte de detergentes comuns nos esgotos domésticos ocasiona a formação de uma camada de espuma que impede a entrada de oxigênio na água. Os microrganismos que vivem nessas águas não são capazes de quebrar moléculas ramificadas, ocorrendo assim um desequilíbrio ambiental nos rios. A fórmula a seguir representa a estrutura química de um tensoativo presente na composição de um detergente não biodegradável.\n\n**Tensoativo não biodegradável**",
       "alternativas_introducao": "Qual modificação química na estrutura desse tensoativo o tornaria um detergente biodegradável?",
       "alternativas": [
         "A) Retirar a parte polar da molécula.",
@@ -1249,7 +1249,7 @@
       "dia": 2,
       "numero": 45,
       "titulo": "Questão 135 - ENEM 2023",
-      "enunciado": "O petróleo é uma matéria-prima muito valiosa e métodos geofísicos são úteis na sua prospecção. É possível identificar a composição de materiais estratificados medindo-se a velocidade de propagação do som (onda mecânica) através deles. Considere que uma camada de 450 m de um líquido se encontra presa no subsolo entre duas camadas rochosas, conforme o esquema. Um pulso acústico (que gera uma vibração mecânica) é emitido a partir da superfície do solo, onde são posteriormente recebidas duas vibrações refletidas (ecos). A primeira corresponde à reflexão do pulso na interface superior do líquido com a camada rochosa. A segunda vibração deve-se à reflexão do pulso na interface inferior. O tempo entre a emissão do pulso e a chegada do primeiro eco é de 0,5 s. O segundo eco chega 1,1 s após a emissão do pulso\n\n![](https://enem.dev/2023/questions/135/11f4c343-9f23-4f60-a61f-10d4dbc2eb6c.png)",
+      "enunciado": "O petróleo é uma matéria-prima muito valiosa e métodos geofísicos são úteis na sua prospecção. É possível identificar a composição de materiais estratificados medindo-se a velocidade de propagação do som (onda mecânica) através deles. Considere que uma camada de 450 m de um líquido se encontra presa no subsolo entre duas camadas rochosas, conforme o esquema. Um pulso acústico (que gera uma vibração mecânica) é emitido a partir da superfície do solo, onde são posteriormente recebidas duas vibrações refletidas (ecos). A primeira corresponde à reflexão do pulso na interface superior do líquido com a camada rochosa. A segunda vibração deve-se à reflexão do pulso na interface inferior. O tempo entre a emissão do pulso e a chegada do primeiro eco é de 0,5 s. O segundo eco chega 1,1 s após a emissão do pulso",
       "alternativas_introducao": "A velocidade do som na camada líquida, em metro por segundo, é",
       "alternativas": [
         "A) 270.",
@@ -1277,7 +1277,7 @@
       "dia": 2,
       "numero": 46,
       "titulo": "Questão 136 - ENEM 2023",
-      "enunciado": "Um artista plástico esculpe uma escultura a partir de um bloco de madeira de lei, em etapas. Inicialmente, esculpe um cone reto com 36 cm de altura e diâmetro da base medindo 18 cm. Em seguida, remove desse cone um cone menor, cujo diâmetro da base mede 6 cm, obtendo, assim, um tronco de cone, conforme ilustrado na figura.\n\n![](https://enem.dev/2023/questions/136/565c2d5a-96a0-4468-9bb1-2710707a40fd.png)\n\nEm seguida, perfura esse tronco de cone, removendo um cilindro reto, de diâmetro 6 cm, cujo eixo de simetria é o mesmo do cone original. Dessa forma, ao final, a escultura tem a forma de um tronco de cone com uma perfuração cilíndrica de base a base.  \nO tipo de madeira utilizada para produzir essa escultura tem massa igual a 0,6 g por centímetro cúbico de volume. Utilize 3 como aproximação para π.",
+      "enunciado": "Um artista plástico esculpe uma escultura a partir de um bloco de madeira de lei, em etapas. Inicialmente, esculpe um cone reto com 36 cm de altura e diâmetro da base medindo 18 cm. Em seguida, remove desse cone um cone menor, cujo diâmetro da base mede 6 cm, obtendo, assim, um tronco de cone, conforme ilustrado na figura.\n\nEm seguida, perfura esse tronco de cone, removendo um cilindro reto, de diâmetro 6 cm, cujo eixo de simetria é o mesmo do cone original. Dessa forma, ao final, a escultura tem a forma de um tronco de cone com uma perfuração cilíndrica de base a base.  \nO tipo de madeira utilizada para produzir essa escultura tem massa igual a 0,6 g por centímetro cúbico de volume. Utilize 3 como aproximação para π.",
       "alternativas_introducao": "Qual é a massa, em grama, dessa escultura?",
       "alternativas": [
         "A) 1.198,8",
@@ -1305,7 +1305,7 @@
       "dia": 2,
       "numero": 47,
       "titulo": "Questão 137 - ENEM 2023",
-      "enunciado": "Os 100 funcionários de uma empresa estão distribuídos em dois setores: Produção e Administração.\n\nOs funcionários de um mesmo setor recebem salários com valores iguais. O quadro apresenta a quantidade de funcionários por setor e seus respectivos salários.\n\n![](https://enem.dev/2023/questions/137/fc161c5c-10e9-46d8-a75d-09c59b21d5a4.png)",
+      "enunciado": "Os 100 funcionários de uma empresa estão distribuídos em dois setores: Produção e Administração.\n\nOs funcionários de um mesmo setor recebem salários com valores iguais. O quadro apresenta a quantidade de funcionários por setor e seus respectivos salários.",
       "alternativas_introducao": "A média dos salários dos 100 funcionários dessa empresa, em real, é",
       "alternativas": [
         "A) 2.000,00.",
@@ -1361,7 +1361,7 @@
       "dia": 2,
       "numero": 49,
       "titulo": "Questão 139 - ENEM 2023",
-      "enunciado": "O gerente de uma fábrica pretende comparar a evolução das vendas de dois produtos similares (I e II). Para isso, passou a verificar o número de unidades vendidas de cada um desses produtos em cada mês. Os resultados dessa verificação, para os meses de abril a junho, são apresentados na tabela.\n\n![](https://enem.dev/2023/questions/139/abba5cb1-da9d-4899-bda7-97099ca51147.png)\n\nO gerente estava decidido a cessar a produção do produto II no mês seguinte àquele em que as vendas do produto I superassem as do produto II.  \nSuponha que a variação na quantidade de unidades vendidas dos produtos I e II se manteve, mês a mês, como no período representado na tabela.",
+      "enunciado": "O gerente de uma fábrica pretende comparar a evolução das vendas de dois produtos similares (I e II). Para isso, passou a verificar o número de unidades vendidas de cada um desses produtos em cada mês. Os resultados dessa verificação, para os meses de abril a junho, são apresentados na tabela.\n\nO gerente estava decidido a cessar a produção do produto II no mês seguinte àquele em que as vendas do produto I superassem as do produto II.  \nSuponha que a variação na quantidade de unidades vendidas dos produtos I e II se manteve, mês a mês, como no período representado na tabela.",
       "alternativas_introducao": "Em qual mês o produto II parou de ser produzido?",
       "alternativas": [
         "A) Junho.",
@@ -1389,7 +1389,7 @@
       "dia": 2,
       "numero": 50,
       "titulo": "Questão 140 - ENEM 2023",
-      "enunciado": "Uma empresa de transporte faz regularmente um levantamento do número de viagens realizadas durante o dia por todos os 160 motoristas cadastrados em seu aplicativo. Em um certo dia, foi gerado um relatório, por meio de um gráfico de barras, no qual se relacionaram a quantidade de motoristas com a quantidade de viagens realizadas até aquele instante do dia.\n\n![](https://enem.dev/2023/questions/140/846c1155-c9f0-48ad-a862-f9bf883c3935.png)",
+      "enunciado": "Uma empresa de transporte faz regularmente um levantamento do número de viagens realizadas durante o dia por todos os 160 motoristas cadastrados em seu aplicativo. Em um certo dia, foi gerado um relatório, por meio de um gráfico de barras, no qual se relacionaram a quantidade de motoristas com a quantidade de viagens realizadas até aquele instante do dia.",
       "alternativas_introducao": "Comparando os valores da média, da mediana e da moda da distribuição das quantidades de viagens realizadas pelos motoristas cadastrados nessa empresa, obtém-se",
       "alternativas": [
         "A) Mediana = média < moda.",
@@ -1501,7 +1501,7 @@
       "dia": 2,
       "numero": 54,
       "titulo": "Questão 144 - ENEM 2023",
-      "enunciado": "A foto mostra a construção de uma cisterna destinada ao armazenamento de água. Uma cisterna como essa, na forma de cilindro circular reto com 3 m² de área da base, foi abastecida por um curso-d’água com vazão constante. O seu proprietário registrou a altura do nível da água no interior da cisterna durante o abastecimento em diferentes momentos de um mesmo dia, conforme o quadro.\n\n![](https://enem.dev/2023/questions/144/c606403f-fd10-4c02-8e46-736fece94b85.png)\n\n![](https://enem.dev/2023/questions/144/2107cabc-64d0-4a1f-9eab-fa7dce0e9ac2.png)\n\nDisponível em: www.paraibamix.com. Acesso em: 3 dez. 2012.",
+      "enunciado": "A foto mostra a construção de uma cisterna destinada ao armazenamento de água. Uma cisterna como essa, na forma de cilindro circular reto com 3 m² de área da base, foi abastecida por um curso-d’água com vazão constante. O seu proprietário registrou a altura do nível da água no interior da cisterna durante o abastecimento em diferentes momentos de um mesmo dia, conforme o quadro.\n\n![](https://enem.dev/2023/questions/144/2107cabc-64d0-4a1f-9eab-fa7dce0e9ac2.png)\n\nDisponível em: www.paraibamix.com. Acesso em: 3 dez. 2012.",
       "alternativas_introducao": "Qual foi a vazão, em metro cúbico por hora, do curso-d’água que abasteceu a cisterna?",
       "alternativas": [
         "A) 0,3",
@@ -1531,7 +1531,7 @@
       "dia": 2,
       "numero": 55,
       "titulo": "Questão 145 - ENEM 2023",
-      "enunciado": "Num certo momento de um jogo digital, a tela apresenta a imagem representada na figura. O ponto Q1 representa a posição de um jogador que está com a bola, os pontos Q2, Q3, Q4 , Q5 e Q6  \ntambém indicam posições de jogadores da mesma equipe, e os pontos A e B indicam os dois pés da trave mais próxima deles. No momento da partida retratado, o jogador Q1 tem a posse da bola, que será passada para um dos outros jogadores das posições Qn, n ∈ {2, 3, 4, 5, 6}, cujo ângulo AQnB tenha a mesma medida do ângulo AQ1 B.\n\n![](https://enem.dev/2023/questions/145/f338280e-33fe-4896-b296-cfb94ca78430.png)",
+      "enunciado": "Num certo momento de um jogo digital, a tela apresenta a imagem representada na figura. O ponto Q1 representa a posição de um jogador que está com a bola, os pontos Q2, Q3, Q4 , Q5 e Q6  \ntambém indicam posições de jogadores da mesma equipe, e os pontos A e B indicam os dois pés da trave mais próxima deles. No momento da partida retratado, o jogador Q1 tem a posse da bola, que será passada para um dos outros jogadores das posições Qn, n ∈ {2, 3, 4, 5, 6}, cujo ângulo AQnB tenha a mesma medida do ângulo AQ1 B.",
       "alternativas_introducao": "Qual é o jogador que receberá a bola?",
       "alternativas": [
         "A)",
@@ -1559,7 +1559,7 @@
       "dia": 2,
       "numero": 56,
       "titulo": "Questão 146 - ENEM 2023",
-      "enunciado": "![](https://enem.dev/2023/questions/146/74e0c851-b2af-410d-9f19-3348dd8f883a.jpg)",
+      "enunciado": "",
       "alternativas_introducao": "Considere que os números colocados nos vértices do triângulo estejam em progressão aritmética de razão igual a 2.\nNas condições propostas, quais as possíveis soluções para as somas dos números que formam os lados do triângulo?",
       "alternativas": [
         "A) Há somente uma solução possível, e as somas em cada lado do triângulo são iguais a 7.",
@@ -1615,7 +1615,7 @@
       "dia": 2,
       "numero": 58,
       "titulo": "Questão 148 - ENEM 2023",
-      "enunciado": "O mastro de uma bandeira foi instalado perpendicularmente ao solo em uma região plana. Devido aos fortes ventos, três cabos de aço, de mesmo comprimento, serão instalados para dar sustentação ao mastro. Cada cabo de aço ficará perfeitamente esticado, com uma extremidade num ponto P do mastro, a uma altura h do solo, e a outra extremidade, num ponto no chão, como mostra a figura.\n\n![](https://enem.dev/2023/questions/148/c6c6b6c4-3fba-4a68-99c6-014bb190c456.png)",
+      "enunciado": "O mastro de uma bandeira foi instalado perpendicularmente ao solo em uma região plana. Devido aos fortes ventos, três cabos de aço, de mesmo comprimento, serão instalados para dar sustentação ao mastro. Cada cabo de aço ficará perfeitamente esticado, com uma extremidade num ponto P do mastro, a uma altura h do solo, e a outra extremidade, num ponto no chão, como mostra a figura.",
       "alternativas_introducao": "Os cabos de aço formam um ângulo a com o plano do chão. Por medida de segurança, há apenas três opções de instalação:\n• opção I: h = 11 m e a = 30°\n• opção II: h = 12 m e a = 45°\n• opção III: h = 18 m e a = 60°\nA opção a ser escolhida é aquela em que a medida dos cabos seja a menor possível.\nQual será a medida, em metro, de cada um dos cabos a serem instalados?",
       "alternativas": [
         "A)",
@@ -1643,7 +1643,7 @@
       "dia": 2,
       "numero": 59,
       "titulo": "Questão 149 - ENEM 2023",
-      "enunciado": "Um controlador de voo dispõe de um instrumento que descreve a altitude de uma aeronave em voo, em função da distância em solo. Essa distância em solo é a medida na horizontal entre o ponto de origem do voo até o ponto que representa a projeção ortogonal da posição da aeronave, em voo, no solo. Essas duas grandezas são dadas numa mesma unidade de medida.\n\nA tela do instrumento representa proporcionalmente as dimensões reais das distâncias associadas ao voo. A figura apresenta a tela do instrumento depois de concluída a viagem de um avião, sendo a medida do lado de cada quadradinho da malha igual a 1 cm.\n\n![](https://enem.dev/2023/questions/149/a88a534d-3ee0-4b70-aba7-1b3e7c46b5f3.png)",
+      "enunciado": "Um controlador de voo dispõe de um instrumento que descreve a altitude de uma aeronave em voo, em função da distância em solo. Essa distância em solo é a medida na horizontal entre o ponto de origem do voo até o ponto que representa a projeção ortogonal da posição da aeronave, em voo, no solo. Essas duas grandezas são dadas numa mesma unidade de medida.\n\nA tela do instrumento representa proporcionalmente as dimensões reais das distâncias associadas ao voo. A figura apresenta a tela do instrumento depois de concluída a viagem de um avião, sendo a medida do lado de cada quadradinho da malha igual a 1 cm.",
       "alternativas_introducao": "Essa tela apresenta os dados de um voo cuja maior altitude alcançada foi de 5 km.\nA escala em que essa tela representa as medidas reais é",
       "alternativas": [
         "A) 1 : 5.",
@@ -1699,7 +1699,7 @@
       "dia": 2,
       "numero": 61,
       "titulo": "Questão 151 - ENEM 2023",
-      "enunciado": "Um investidor iniciante observou o gráfico que apresenta a evolução dos valores de duas criptomoedas A e B em relação ao tempo.\n\n![](https://enem.dev/2023/questions/151/276495a3-e5f2-4e4c-83b0-3473512a5274.png)\n\nDurante horas consecutivas, esses valores foram observados em nove instantes, representados por horas exatas.",
+      "enunciado": "Um investidor iniciante observou o gráfico que apresenta a evolução dos valores de duas criptomoedas A e B em relação ao tempo.\n\nDurante horas consecutivas, esses valores foram observados em nove instantes, representados por horas exatas.",
       "alternativas_introducao": "Em quantos desses instantes a criptomoeda A estava mais valorizada do que a criptomoeda B?",
       "alternativas": [
         "A) 3",
@@ -1727,7 +1727,7 @@
       "dia": 2,
       "numero": 62,
       "titulo": "Questão 152 - ENEM 2023",
-      "enunciado": "A exposição a alguns níveis sonoros pode causar lesões auditivas. Por isso, em uma indústria, são adotadas medidas preventivas de acordo com a máquina que o funcionário opera e o nível _N_ de intensidade do som, medido em decibel (dB), a que o operário é exposto, sendo ![](https://enem.dev/2023/questions/152/30b0ee85-ac44-4eca-a7c9-54bd70f9c069.png), _I_ a intensidade do som e ![](https://enem.dev/2023/questions/152/40f43a4f-f8da-44a9-a02c-f20ba89a48ce.png).\n\nDisponível em: www.sofisica.com.br. Acesso em: 8 jul. 2015 (adaptado).\n\nQuando o som é considerado baixo, ou seja, _N_ = 48 dB ou menos, deve ser utilizada a medida preventiva I. No caso de o som ser moderado, quando _N_ está no intervalo (48 dB, 55 dB), deve ser utilizada a medida preventiva II. Quando o som é moderado alto, que equivale a _N_ no intervalo (55 dB, 80 dB), a medida preventiva a ser usada é a III. Se _N_ estiver no intervalo (80 dB, 115 dB), quando o som é considerado alto, deve ser utilizada a medida preventiva IV. E se o som é considerado muito alto, com _N_ maior que 115 dB, deve-se utilizar a medida preventiva V.  \nUma nova máquina, com ![](https://enem.dev/2023/questions/152/13f26008-1dcf-404f-b3cf-aae104a036c1.png), foi adquirida e será classificada de acordo com o nível de ruído que produz.  \nConsidere 0,3 como aproximação para ![](https://enem.dev/2023/questions/152/717fdd2f-5eef-48c9-9211-8f62bdb2639c.png).",
+      "enunciado": "A exposição a alguns níveis sonoros pode causar lesões auditivas. Por isso, em uma indústria, são adotadas medidas preventivas de acordo com a máquina que o funcionário opera e o nível _N_ de intensidade do som, medido em decibel (dB), a que o operário é exposto, sendo , _I_ a intensidade do som e ![](https://enem.dev/2023/questions/152/40f43a4f-f8da-44a9-a02c-f20ba89a48ce.png).\n\nDisponível em: www.sofisica.com.br. Acesso em: 8 jul. 2015 (adaptado).\n\nQuando o som é considerado baixo, ou seja, _N_ = 48 dB ou menos, deve ser utilizada a medida preventiva I. No caso de o som ser moderado, quando _N_ está no intervalo (48 dB, 55 dB), deve ser utilizada a medida preventiva II. Quando o som é moderado alto, que equivale a _N_ no intervalo (55 dB, 80 dB), a medida preventiva a ser usada é a III. Se _N_ estiver no intervalo (80 dB, 115 dB), quando o som é considerado alto, deve ser utilizada a medida preventiva IV. E se o som é considerado muito alto, com _N_ maior que 115 dB, deve-se utilizar a medida preventiva V.  \nUma nova máquina, com ![](https://enem.dev/2023/questions/152/13f26008-1dcf-404f-b3cf-aae104a036c1.png), foi adquirida e será classificada de acordo com o nível de ruído que produz.  \nConsidere 0,3 como aproximação para ![](https://enem.dev/2023/questions/152/717fdd2f-5eef-48c9-9211-8f62bdb2639c.png).",
       "alternativas_introducao": "O funcionário que operará a nova máquina deverá adotar a medida preventiva",
       "alternativas": [
         "A) I.",
@@ -1787,7 +1787,7 @@
       "dia": 2,
       "numero": 64,
       "titulo": "Questão 154 - ENEM 2023",
-      "enunciado": "As figuras pintadas no quadro da sala de estar de uma residência representam as silhuetas de parte das torres de um castelo e, ao fundo, a de uma lua cheia. A lua foi pintada na forma de um círculo, e o telhado da torre mais alta, na forma de triângulo equilátero, foi pintado sobrepondo parte da lua. O centro da lua coincide com um dos vértices do telhado da torre mais alta.\n\n![](https://enem.dev/2023/questions/154/d39268bf-82aa-4063-8bcf-dfdafa4a3aa8.png)",
+      "enunciado": "As figuras pintadas no quadro da sala de estar de uma residência representam as silhuetas de parte das torres de um castelo e, ao fundo, a de uma lua cheia. A lua foi pintada na forma de um círculo, e o telhado da torre mais alta, na forma de triângulo equilátero, foi pintado sobrepondo parte da lua. O centro da lua coincide com um dos vértices do telhado da torre mais alta.",
       "alternativas_introducao": "Nesse quadro, a parte da lua escondida atrás da torre mais alta do castelo pode ser representada por um",
       "alternativas": [
         "A) Cone.",
@@ -1815,7 +1815,7 @@
       "dia": 2,
       "numero": 65,
       "titulo": "Questão 155 - ENEM 2023",
-      "enunciado": "Na planta baixa de um clube, a piscina é representada por um quadrado cuja área real mede 400 m². Ao redor dessa piscina, será construída uma calçada, de largura constante igual a 5 m.\n\n![](https://enem.dev/2023/questions/155/05746583-c107-4dd6-8a3b-7e7d0da99377.png)",
+      "enunciado": "Na planta baixa de um clube, a piscina é representada por um quadrado cuja área real mede 400 m². Ao redor dessa piscina, será construída uma calçada, de largura constante igual a 5 m.",
       "alternativas_introducao": "Qual é a medida da área, em metro quadrado, ocupada pela calçada?",
       "alternativas": [
         "A) 1.000",
@@ -1843,7 +1843,7 @@
       "dia": 2,
       "numero": 66,
       "titulo": "Questão 156 - ENEM 2023",
-      "enunciado": "Uma pessoa caminha por 30 minutos e utiliza um aplicativo instalado em seu celular para monitorar a variação da intensidade do sinal de internet recebido pelo aparelho durante o deslocamento. Chegando ao seu destino, o aplicativo forneceu este gráfico:\n\n![](https://enem.dev/2023/questions/156/e9e0b793-5535-48e6-87c6-5516e6d7c8cd.png)",
+      "enunciado": "Uma pessoa caminha por 30 minutos e utiliza um aplicativo instalado em seu celular para monitorar a variação da intensidade do sinal de internet recebido pelo aparelho durante o deslocamento. Chegando ao seu destino, o aplicativo forneceu este gráfico:",
       "alternativas_introducao": "Por quantos minutos, durante essa caminhada, o celular dessa pessoa ficou sem receber sinal de internet?",
       "alternativas": [
         "A) 6",
@@ -1871,7 +1871,7 @@
       "dia": 2,
       "numero": 67,
       "titulo": "Questão 157 - ENEM 2023",
-      "enunciado": "Um professor, para promover a aprendizagem dos estudantes em estatística, propôs uma atividade. O objetivo era verificar o percentual de estudantes com massa corporal abaixo da média e altura acima da média de um grupo de estudantes. Para isso, usando uma balança e uma fita métrica, avaliou uma amostra de dez estudantes, anotando as medidas observadas. O gráfico apresenta a massa corporal, em quilograma, e a altura, em metro, obtidas na atividade\n\n![](https://enem.dev/2023/questions/157/13cfbc97-0034-4904-9100-ff5ca3f6504e.png)\n\nApós a coleta dos dados, os estudantes calcularam a média dos valores obtidos, referentes à massa corporal e à altura, obtendo, respectivamente, 80 kg e 1,65 m.",
+      "enunciado": "Um professor, para promover a aprendizagem dos estudantes em estatística, propôs uma atividade. O objetivo era verificar o percentual de estudantes com massa corporal abaixo da média e altura acima da média de um grupo de estudantes. Para isso, usando uma balança e uma fita métrica, avaliou uma amostra de dez estudantes, anotando as medidas observadas. O gráfico apresenta a massa corporal, em quilograma, e a altura, em metro, obtidas na atividade\n\nApós a coleta dos dados, os estudantes calcularam a média dos valores obtidos, referentes à massa corporal e à altura, obtendo, respectivamente, 80 kg e 1,65 m.",
       "alternativas_introducao": "Qual é o percentual de estudantes dessa amostra com massa corporal abaixo da média e altura acima da média?",
       "alternativas": [
         "A) 10",
@@ -1955,7 +1955,7 @@
       "dia": 2,
       "numero": 70,
       "titulo": "Questão 160 - ENEM 2023",
-      "enunciado": "Ao realizar o cadastro em um aplicativo de investimentos, foi solicitado ao usuário que criasse uma senha, sendo permitido o uso somente dos seguintes caracteres:\n\n• algarismos de 0 a 9;\n\n• 26 letras minúsculas do alfabeto;\n\n• 26 letras maiúsculas do alfabeto;\n\n• 6 caracteres especiais !, @, #, $, \\*, &.\n\nTrês tipos de estruturas para senha foram apresentadas ao usuário:\n\n• tipo I: formada por quaisquer quatro caracteres distintos, escolhidos dentre os permitidos;\n\n• tipo II: formada por cinco caracteres distintos, iniciando por três letras, seguidas por um algarismo e, ao final, um caractere especial;\n\n• tipo III: formada por seis caracteres distintos, iniciando por duas letras, seguidas por dois algarismos e, ao final, dois caracteres especiais.\n\nConsidere ![](https://enem.dev/2023/questions/160/a2d565c2-f39f-4b43-b261-087e349850fe.png) as probabilidades de se descobrirem ao acaso, na primeira tentativa, as senhas dos tipos I, II e III, respectivamente.",
+      "enunciado": "Ao realizar o cadastro em um aplicativo de investimentos, foi solicitado ao usuário que criasse uma senha, sendo permitido o uso somente dos seguintes caracteres:\n\n• algarismos de 0 a 9;\n\n• 26 letras minúsculas do alfabeto;\n\n• 26 letras maiúsculas do alfabeto;\n\n• 6 caracteres especiais !, @, #, $, \\*, &.\n\nTrês tipos de estruturas para senha foram apresentadas ao usuário:\n\n• tipo I: formada por quaisquer quatro caracteres distintos, escolhidos dentre os permitidos;\n\n• tipo II: formada por cinco caracteres distintos, iniciando por três letras, seguidas por um algarismo e, ao final, um caractere especial;\n\n• tipo III: formada por seis caracteres distintos, iniciando por duas letras, seguidas por dois algarismos e, ao final, dois caracteres especiais.\n\nConsidere  as probabilidades de se descobrirem ao acaso, na primeira tentativa, as senhas dos tipos I, II e III, respectivamente.",
       "alternativas_introducao": "Nessas condições, o tipo de senha que apresenta a menor probabilidade de ser descoberta ao acaso, na primeira tentativa, é o",
       "alternativas": [
         "A) Tipo I, pois p1 < p2 < p3.",
@@ -2039,7 +2039,7 @@
       "dia": 2,
       "numero": 73,
       "titulo": "Questão 163 - ENEM 2023",
-      "enunciado": "Uma empresa de segurança domiciliar oferece o serviço de patrulha noturna, no qual vigilantes em motocicletas fazem o monitoramento periódico de residências. A empresa conta com uma base, de onde acompanha o trajeto realizado pelos vigilantes durante as patrulhas e orienta o deslocamento de equipes de reforço quando necessário. Numa patrulha rotineira, sem ocorrências, um vigilante conduziu sua motocicleta a uma velocidade constante durante todo o itinerário estabelecido, levando 30 minutos para conclusão. De acordo com os registros do GPS alocado na motocicleta, a distância da posição do vigilante à base, ao longo do tempo de realização do trajeto, é descrita pelo gráfico.\n\n![](https://enem.dev/2023/questions/163/ff0caefb-56e7-4c17-bae7-b65b91037e9c.png)",
+      "enunciado": "Uma empresa de segurança domiciliar oferece o serviço de patrulha noturna, no qual vigilantes em motocicletas fazem o monitoramento periódico de residências. A empresa conta com uma base, de onde acompanha o trajeto realizado pelos vigilantes durante as patrulhas e orienta o deslocamento de equipes de reforço quando necessário. Numa patrulha rotineira, sem ocorrências, um vigilante conduziu sua motocicleta a uma velocidade constante durante todo o itinerário estabelecido, levando 30 minutos para conclusão. De acordo com os registros do GPS alocado na motocicleta, a distância da posição do vigilante à base, ao longo do tempo de realização do trajeto, é descrita pelo gráfico.",
       "alternativas_introducao": "A vista superior da trajetória realizada pelo vigilante durante a patrulha registrada no gráfico é descrita pela representação",
       "alternativas": [
         "A)",
@@ -2067,7 +2067,7 @@
       "dia": 2,
       "numero": 74,
       "titulo": "Questão 164 - ENEM 2023",
-      "enunciado": "O gráfico expõe alguns números da gripe A-H1N1. Entre as categorias que estão em processo de imunização, uma já está completamente imunizada, a dos trabalhadores da saúde.\n\n![](https://enem.dev/2023/questions/164/194cf28a-b40d-493d-b106-8f71aee57f51.png)\n\nÉpoca, 26 abr. 2010 (adaptado).",
+      "enunciado": "O gráfico expõe alguns números da gripe A-H1N1. Entre as categorias que estão em processo de imunização, uma já está completamente imunizada, a dos trabalhadores da saúde.\n\nÉpoca, 26 abr. 2010 (adaptado).",
       "alternativas_introducao": "De acordo com o gráfico, entre as demais categorias, a que está mais exposta ao vírus da gripe A-H1N1 é a categoria de",
       "alternativas": [
         "A) Indígenas.",
@@ -2095,7 +2095,7 @@
       "dia": 2,
       "numero": 75,
       "titulo": "Questão 165 - ENEM 2023",
-      "enunciado": "A figura representa uma escada com três degraus, construída em concreto maciço, com suas medidas especificadas.\n\n![](https://enem.dev/2023/questions/165/bf369224-eb93-4bba-98c4-ff7d1e17df36.png)\n\nNessa escada, pisos e espelhos têm formato retangular, e as paredes laterais têm formato de um polígono cujos lados adjacentes são perpendiculares. Pisos, espelhos e paredes laterais serão revestidos em cerâmica.",
+      "enunciado": "A figura representa uma escada com três degraus, construída em concreto maciço, com suas medidas especificadas.\n\nNessa escada, pisos e espelhos têm formato retangular, e as paredes laterais têm formato de um polígono cujos lados adjacentes são perpendiculares. Pisos, espelhos e paredes laterais serão revestidos em cerâmica.",
       "alternativas_introducao": "A área a ser revestida em cerâmica, em metro quadrado, mede",
       "alternativas": [
         "A) 1,20.",
@@ -2123,7 +2123,7 @@
       "dia": 2,
       "numero": 76,
       "titulo": "Questão 166 - ENEM 2023",
-      "enunciado": "Uma pessoa pratica quatro atividades físicas — caminhar, correr, andar de bicicleta e jogar futebol — como parte de seu programa de emagrecimento. Essas atividades são praticadas semanalmente de acordo com o quadro, que apresenta o número de horas diárias por atividade.\n\n![](https://enem.dev/2023/questions/166/80863c14-e426-4ae6-9ff0-03f5b3c71160.png)\n\nEla deseja comemorar seu aniversário e escolhe o dia da semana em que o gasto calórico com as atividades físicas  praticadas for o maior. Para tanto, considera que os valores dos gastos calóricos das atividades por hora (cal/h) são os seguintes:\n\n![](https://enem.dev/2023/questions/166/e3d70b62-2929-4694-ba58-cf45c0ac1374.png)",
+      "enunciado": "Uma pessoa pratica quatro atividades físicas — caminhar, correr, andar de bicicleta e jogar futebol — como parte de seu programa de emagrecimento. Essas atividades são praticadas semanalmente de acordo com o quadro, que apresenta o número de horas diárias por atividade.\n\nEla deseja comemorar seu aniversário e escolhe o dia da semana em que o gasto calórico com as atividades físicas  praticadas for o maior. Para tanto, considera que os valores dos gastos calóricos das atividades por hora (cal/h) são os seguintes:\n\n![](https://enem.dev/2023/questions/166/e3d70b62-2929-4694-ba58-cf45c0ac1374.png)",
       "alternativas_introducao": "O dia da semana em que será comemorado o aniversário é",
       "alternativas": [
         "A) Segunda-feira.",
@@ -2209,7 +2209,7 @@
       "dia": 2,
       "numero": 79,
       "titulo": "Questão 169 - ENEM 2023",
-      "enunciado": "O esquema mostra como a intensidade luminosa decresce com o aumento da profundidade em um rio, sendo ![](https://enem.dev/2023/questions/169/76239f15-d46d-4067-bb38-bb40ca2f87c0.png) a intensidade na sua superfície.\n\n![](https://enem.dev/2023/questions/169/3af229c8-e385-4ca2-891a-22bdf6b2d593.png)\n\nConsidere que a intensidade luminosa diminui, a cada metro acrescido na profundidade, segundo o mesmo padrão do esquema.",
+      "enunciado": "O esquema mostra como a intensidade luminosa decresce com o aumento da profundidade em um rio, sendo  a intensidade na sua superfície.\n\n![](https://enem.dev/2023/questions/169/3af229c8-e385-4ca2-891a-22bdf6b2d593.png)\n\nConsidere que a intensidade luminosa diminui, a cada metro acrescido na profundidade, segundo o mesmo padrão do esquema.",
       "alternativas_introducao": "A intensidade luminosa correspondente à profundidade de 6 m é igual a",
       "alternativas": [
         "A)",
@@ -2239,7 +2239,7 @@
       "dia": 2,
       "numero": 80,
       "titulo": "Questão 170 - ENEM 2023",
-      "enunciado": "Analisando as vendas de uma empresa, o gerente concluiu que o montante diário arrecadado, em milhar de real, poderia ser calculado pela expressão ![](https://enem.dev/2023/questions/170/369b24e4-258e-4faf-b7df-0c2e3da3c22a.png) , em que os valores de x representam os dias do mês, variando de 1 a 30.\n\nUm dos fatores para avaliar o desempenho mensal da empresa é verificar qual é o menor montante diário ![](https://enem.dev/2023/questions/170/b158b079-eaf5-4f8c-84b1-99db8076a950.png) arrecadado ao longo do mês e classificar o desempenho conforme as categorias apresentadas a seguir, em que as quantidades estão expressas em milhar de real.\n\n![](https://enem.dev/2023/questions/170/e7404490-a2b4-46e1-b1e6-3a8c828050fe.png)",
+      "enunciado": "Analisando as vendas de uma empresa, o gerente concluiu que o montante diário arrecadado, em milhar de real, poderia ser calculado pela expressão  , em que os valores de x representam os dias do mês, variando de 1 a 30.\n\nUm dos fatores para avaliar o desempenho mensal da empresa é verificar qual é o menor montante diário ![](https://enem.dev/2023/questions/170/b158b079-eaf5-4f8c-84b1-99db8076a950.png) arrecadado ao longo do mês e classificar o desempenho conforme as categorias apresentadas a seguir, em que as quantidades estão expressas em milhar de real.\n\n![](https://enem.dev/2023/questions/170/e7404490-a2b4-46e1-b1e6-3a8c828050fe.png)",
       "alternativas_introducao": "No caso analisado, qual seria a classificação do desempenho da empresa?",
       "alternativas": [
         "A) Ótimo.",
@@ -2298,7 +2298,7 @@
       "dia": 2,
       "numero": 82,
       "titulo": "Questão 172 - ENEM 2023",
-      "enunciado": "Sejam _a_, _b_ e _c_ as medidas dos lados de um triângulo retângulo, tendo a como medida da hipotenusa. Esses valores _a_, _b_ e _c_ são, respectivamente, os diâmetros dos círculos _C1_ , _C2_ e _C3_, como apresentados na figura.\n\n![](https://enem.dev/2023/questions/172/dcdd2743-6ad6-44e8-94ae-d2adec3a3400.png)\n\nObserve que essa construção assegura, pelo teorema de Pitágoras, que área (C1) = área (C2) + área (C3).\n\nUm professor de matemática era conhecedor dessa construção e, confraternizando com dois amigos em uma pizzaria onde são vendidas pizzas somente em formato de círculo, lançou um desafio: mesmo sem usar um instrumento de medição, poderia afirmar com certeza se a área do círculo correspondente à pizza que ele pedisse era maior, igual ou menor do que a soma das áreas das pizzas dos dois amigos. Assim, foram pedidas três pizzas. O professor as dividiu ao meio e formou um triângulo com os diâmetros das pizzas, conforme indicado na figura.\n\n![](https://enem.dev/2023/questions/172/8bd02f79-d5fb-4b8d-9321-c57434be3374.png)\n\nA partir da medida do ângulo a, o professor afirmou que a área de sua pizza é maior do que a soma das áreas das outras duas pizzas.",
+      "enunciado": "Sejam _a_, _b_ e _c_ as medidas dos lados de um triângulo retângulo, tendo a como medida da hipotenusa. Esses valores _a_, _b_ e _c_ são, respectivamente, os diâmetros dos círculos _C1_ , _C2_ e _C3_, como apresentados na figura.\n\nObserve que essa construção assegura, pelo teorema de Pitágoras, que área (C1) = área (C2) + área (C3).\n\nUm professor de matemática era conhecedor dessa construção e, confraternizando com dois amigos em uma pizzaria onde são vendidas pizzas somente em formato de círculo, lançou um desafio: mesmo sem usar um instrumento de medição, poderia afirmar com certeza se a área do círculo correspondente à pizza que ele pedisse era maior, igual ou menor do que a soma das áreas das pizzas dos dois amigos. Assim, foram pedidas três pizzas. O professor as dividiu ao meio e formou um triângulo com os diâmetros das pizzas, conforme indicado na figura.\n\n![](https://enem.dev/2023/questions/172/8bd02f79-d5fb-4b8d-9321-c57434be3374.png)\n\nA partir da medida do ângulo a, o professor afirmou que a área de sua pizza é maior do que a soma das áreas das outras duas pizzas.",
       "alternativas_introducao": "A área da pizza do professor de matemática é maior do que a soma das áreas das outras duas pizzas, pois",
       "alternativas": [
         "A) 0° < a < 90°",
@@ -2400,7 +2400,7 @@
       "dia": 2,
       "numero": 86,
       "titulo": "Questão 176 - ENEM 2023",
-      "enunciado": "Os números figurados pentagonais provavelmente foram introduzidos pelos pitagóricos por volta do século V a.C. As figuras ilustram como obter os seis primeiros deles, sendo os demais obtidos seguindo o mesmo padrão geométrico.\n\n![](https://enem.dev/2023/questions/176/d21e916b-a5fc-441e-b782-d2d4aca3522b.png)",
+      "enunciado": "Os números figurados pentagonais provavelmente foram introduzidos pelos pitagóricos por volta do século V a.C. As figuras ilustram como obter os seis primeiros deles, sendo os demais obtidos seguindo o mesmo padrão geométrico.",
       "alternativas_introducao": "O oitavo número pentagonal é",
       "alternativas": [
         "A) 59",
@@ -2428,7 +2428,7 @@
       "dia": 2,
       "numero": 87,
       "titulo": "Questão 177 - ENEM 2023",
-      "enunciado": "A figura ilustra uma roda-gigante no exato instante em que a cadeira onde se encontra a pessoa P está no ponto mais alto dessa roda-gigante.\n\n![](https://enem.dev/2023/questions/177/27c49bd5-ad8c-450c-9f56-970b9ca9c53c.png)\n\nCom o passar do tempo, à medida que a roda-gigante gira, com velocidade angular constante e no sentido horário, a altura da cadeira onde se encontra a pessoa P, em relação ao solo, vai se alterando.",
+      "enunciado": "A figura ilustra uma roda-gigante no exato instante em que a cadeira onde se encontra a pessoa P está no ponto mais alto dessa roda-gigante.\n\nCom o passar do tempo, à medida que a roda-gigante gira, com velocidade angular constante e no sentido horário, a altura da cadeira onde se encontra a pessoa P, em relação ao solo, vai se alterando.",
       "alternativas_introducao": "O gráfico que melhor representa a variação dessa altura, em função do tempo, contado a partir do instante em que a cadeira da pessoa P se encontra na posição mais alta da roda-gigante, é",
       "alternativas": [
         "A)",

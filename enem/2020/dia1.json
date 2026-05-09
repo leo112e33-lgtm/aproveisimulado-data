@@ -2,7 +2,7 @@
   "ano": 2020,
   "dia": 1,
   "total": 90,
-  "geradoEm": "2026-05-09T05:54:37Z",
+  "geradoEm": "2026-05-09T12:48:20Z",
   "questoes": [
     {
       "ano": 2020,
@@ -177,7 +177,7 @@
       "dia": 1,
       "numero": 7,
       "titulo": "Questão 7 - ENEM 2020",
-      "enunciado": "![](https://enem.dev/2020/questions/7/8cae3db7-3d36-4e39-a58d-1ae299222289.png)\n\nDisponível em: www.globofilmes.globo.com. Acesso em: 13 dez. 2017 (adaptado).",
+      "enunciado": "Disponível em: www.globofilmes.globo.com. Acesso em: 13 dez. 2017 (adaptado).",
       "alternativas_introducao": "A frase, título do filme, reproduz uma variedade linguística recorrente na fala de muitos brasileiros. Essa estrutura caracteriza-se pelo(a)",
       "alternativas": [
         "A) Uso de uma marcação temporal.",
@@ -373,7 +373,7 @@
       "dia": 1,
       "numero": 14,
       "titulo": "Questão 14 - ENEM 2020",
-      "enunciado": "![](https://enem.dev/2020/questions/14/242f89ec-6963-40c2-b02b-8f8f4f20167e.png)\n\nHIRST, O. **Mother and Child**. Bezerro dividido em duas partes: 1029 x 1689 x 625mm, 1993(detalhe). Vidro, aço pintado, silicone, acrílico, monofilamento, aço inoxidável, bezerro e solução de formaldeído.\n\n**TEXTO II**  \nO grupo Jovens Artistas Britânicos (YABs), que surgiu no final da década de 1980, possui obras diversificadas que incluem fotografias, instalações, pinturas e carcaças desmembradas. O trabalho desses artistas chamou a atenção no final do período da recessão, por utilizar materiais incomuns, como esterco de elefantes, sangue e legumes, o que expressava os detritos da vida e uma  \natmosfera de niilismo, temperada por um humor mordaz.\n\nDisponível em: http://damienhirsti.com:Acesso em: 15 jul. 2015. FARTHING, S. **Tudo sobre arte**. Rio de Janeiro: Sextante, 2011 (adaptado).",
+      "enunciado": "HIRST, O. **Mother and Child**. Bezerro dividido em duas partes: 1029 x 1689 x 625mm, 1993(detalhe). Vidro, aço pintado, silicone, acrílico, monofilamento, aço inoxidável, bezerro e solução de formaldeído.\n\n**TEXTO II**  \nO grupo Jovens Artistas Britânicos (YABs), que surgiu no final da década de 1980, possui obras diversificadas que incluem fotografias, instalações, pinturas e carcaças desmembradas. O trabalho desses artistas chamou a atenção no final do período da recessão, por utilizar materiais incomuns, como esterco de elefantes, sangue e legumes, o que expressava os detritos da vida e uma  \natmosfera de niilismo, temperada por um humor mordaz.\n\nDisponível em: http://damienhirsti.com:Acesso em: 15 jul. 2015. FARTHING, S. **Tudo sobre arte**. Rio de Janeiro: Sextante, 2011 (adaptado).",
       "alternativas_introducao": "A provocação desse grupo gera um debate em torno da obra de arte pelo(a)",
       "alternativas": [
         "A) Recusa a crenças, convicções, valores morais, estéticos e políticos na história moderna.",
@@ -401,7 +401,7 @@
       "dia": 1,
       "numero": 15,
       "titulo": "Questão 15 - ENEM 2020",
-      "enunciado": "O suor para estar em competições nacionais e internacionais de alto nível é o mesmo para homens e mulheres, mas não raramente as remunerações são menores para elas. Se no tênis, um dos esportes mais equânimes em termos de gênero, todos os principais torneiros oferecem prêmios idênticos nas disputas femininas e masculinas, no futebol a desigualdade atinge seu ápice. Neymar e Marta são dois expoentes dessa paixão nacional. Ela já foi eleita cinco vezes a melhor jogadora do mundo pela Fifa. Ele conquistou o terceiro lugar na última votação para melhor do mundo. Mas é na conta bancária que a diferença entre os dois se sobressai.\n\n![](https://enem.dev/2020/questions/15/9aee0809-7e40-49d8-9230-57a7ae6d6374.png)\n\nDisponível em: http://apublica.org. Acesso em: 9 ago. 2017 (adaptado).",
+      "enunciado": "O suor para estar em competições nacionais e internacionais de alto nível é o mesmo para homens e mulheres, mas não raramente as remunerações são menores para elas. Se no tênis, um dos esportes mais equânimes em termos de gênero, todos os principais torneiros oferecem prêmios idênticos nas disputas femininas e masculinas, no futebol a desigualdade atinge seu ápice. Neymar e Marta são dois expoentes dessa paixão nacional. Ela já foi eleita cinco vezes a melhor jogadora do mundo pela Fifa. Ele conquistou o terceiro lugar na última votação para melhor do mundo. Mas é na conta bancária que a diferença entre os dois se sobressai.\n\nDisponível em: http://apublica.org. Acesso em: 9 ago. 2017 (adaptado).",
       "alternativas_introducao": "O esporte é uma manifestação cultural na qual se estabelecem relações sociais. Considerando o texto, o futebol é uma mobilidade que",
       "alternativas": [
         "A) Apresenta proximidades com o tênis, no que tange às relações de gênero entre homens e mulheres.",
@@ -597,7 +597,7 @@
       "dia": 1,
       "numero": 22,
       "titulo": "Questão 22 - ENEM 2020",
-      "enunciado": "![](https://enem.dev/2020/questions/22/e2bb4218-b673-46d0-8ba4-70eefe576fae.png)\n\nDisponível em: www.facebook.com/ministeriodoesporte. Acesso em: 7 dez. 2017",
+      "enunciado": "Disponível em: www.facebook.com/ministeriodoesporte. Acesso em: 7 dez. 2017",
       "alternativas_introducao": "Esse anúncio publicitário propõe soluções para um problema social recorrente, ao",
       "alternativas": [
         "A) Promover ações de conscientização para reduzir a violência de gênero em eventos esportivos.",
@@ -681,7 +681,7 @@
       "dia": 1,
       "numero": 25,
       "titulo": "Questão 25 - ENEM 2020",
-      "enunciado": "![](https://enem.dev/2020/questions/25/600a478d-bf8d-46fb-9e38-cd71bcf3464c.png)\n\nA obra de Joseph Kosuth data de 1965 e se constitui por uma fotografia de cadeira, uma cadeira exposta e um quadro com o verbete “Cadeira”. Trata-se de um exemplo de arte conceitual que revela o paradoxo entre verdade e imitação, já que a arte\n\nKOSUTH J. _One and Three Chairs_. Museu Reina Sofia, Espanha, 1965.  \nDisponível em: www.museoreinasofia.es. Acesso em: 4 jun. 2018  \n(adaptado).",
+      "enunciado": "A obra de Joseph Kosuth data de 1965 e se constitui por uma fotografia de cadeira, uma cadeira exposta e um quadro com o verbete “Cadeira”. Trata-se de um exemplo de arte conceitual que revela o paradoxo entre verdade e imitação, já que a arte\n\nKOSUTH J. _One and Three Chairs_. Museu Reina Sofia, Espanha, 1965.  \nDisponível em: www.museoreinasofia.es. Acesso em: 4 jun. 2018  \n(adaptado).",
       "alternativas_introducao": "A obra de Joseph Kosuth data de 1965 e se constitui por uma fotografia de cadeira, uma cadeira exposta e um quadro com o verbete “Cadeira”. Trata-se de um exemplo\nde arte conceitual que revela o paradoxo entre verdade e imitação, já que a arte",
       "alternativas": [
         "A) Não é a realidade, mas uma representação dela.",
@@ -709,7 +709,7 @@
       "dia": 1,
       "numero": 26,
       "titulo": "Questão 26 - ENEM 2020",
-      "enunciado": "![](https://enem.dev/2020/questions/26/8abef0c5-b053-4973-9ace-4fa17bf73d53.png)\n\nA realidade virtual é uma tecnologia de informação que, conforme sugere a imagem, tem como uma de suas principais funções\n\nDisponível em: www.iotforall.com. Acesso em: 22 jun. 2018.",
+      "enunciado": "A realidade virtual é uma tecnologia de informação que, conforme sugere a imagem, tem como uma de suas principais funções\n\nDisponível em: www.iotforall.com. Acesso em: 22 jun. 2018.",
       "alternativas_introducao": "A realidade virtual é uma tecnologia de informação que, conforme sugere a imagem, tem como uma de suas principais funções",
       "alternativas": [
         "A) Promover a manipulação eficiente de conhecimentos e informações de difícil compreensão no mundo físico.",
@@ -821,7 +821,7 @@
       "dia": 1,
       "numero": 30,
       "titulo": "Questão 30 - ENEM 2020",
-      "enunciado": "![](https://enem.dev/2020/questions/30/bc547f7a-bd4f-429d-b888-d64bbd7fbd0b.png)\n\nDisponível em: www.bhaz.com.br. Acesso em: 14 jun. 2018.",
+      "enunciado": "Disponível em: www.bhaz.com.br. Acesso em: 14 jun. 2018.",
       "alternativas_introducao": "Essa campanha de conscientização sobre o assédio sofrido pelas mulheres nas ruas constrói-se pela combinação da linguagem verbal e não verbal. A imagem da mulher com o nariz e a boca cobertos por um lenço é a representação não verbal do(a)",
       "alternativas": [
         "A) Silêncio imposto às mulheres, que não podem denunciar o assédio sofrido.",
@@ -905,7 +905,7 @@
       "dia": 1,
       "numero": 33,
       "titulo": "Questão 33 - ENEM 2020",
-      "enunciado": "**TEXTO I**\n\nO caminho habitual para o trabalho, aquele em que a gente já nem repara direito, pode ficar mais belo com um poema. O projeto #UmLambePorDia nasceu desta intenção: trazer mais cor e alegria para a cidade por meio de cartazes coloridos ao estilo lambe-lambe. Quem teve a ideia foi o escritor Leonardo Beltrão, em Belo Horizonte. “Em meio a olhares cada vez mais viciados, acabamos nos esquecendo da beleza envolvida em cada esquina e no próprio poder transformador da palavra”. Assim, a cada dia um cartaz é colocado por aí, para nos lembrar de reparar na cidade, na vida que corre ao redor e também em nós mesmos.\n\n**TEXTO II**\n\n![](https://enem.dev/2020/questions/33/b55ca6dc-ef55-4bdb-b9d7-a91df9eb6d6f.png)\n\nDisponível em: www.vidasimples.uol.com.br. Acesso em: 6 dez. 2017 (adaptado).",
+      "enunciado": "**TEXTO I**\n\nO caminho habitual para o trabalho, aquele em que a gente já nem repara direito, pode ficar mais belo com um poema. O projeto #UmLambePorDia nasceu desta intenção: trazer mais cor e alegria para a cidade por meio de cartazes coloridos ao estilo lambe-lambe. Quem teve a ideia foi o escritor Leonardo Beltrão, em Belo Horizonte. “Em meio a olhares cada vez mais viciados, acabamos nos esquecendo da beleza envolvida em cada esquina e no próprio poder transformador da palavra”. Assim, a cada dia um cartaz é colocado por aí, para nos lembrar de reparar na cidade, na vida que corre ao redor e também em nós mesmos.\n\n**TEXTO II**\n\nDisponível em: www.vidasimples.uol.com.br. Acesso em: 6 dez. 2017 (adaptado).",
       "alternativas_introducao": "Considerando-se a função que os cartazes colados em postes normalmente exercem nas ruas das cidades grandes, esse texto evidencia a",
       "alternativas": [
         "A) Disseminação da arte poética em um veículo não convencional.",
@@ -1017,7 +1017,7 @@
       "dia": 1,
       "numero": 37,
       "titulo": "Questão 37 - ENEM 2020",
-      "enunciado": "O conceito de saúde formulado na histórica VIII Conferência Nacional de Saúde, no ano de 1986, ficou conhecido como um “conceito ampliado” de saúde, conforme ilustrado na figura. Esse conceito foi fruto de intensa mobilização em diversos países da América Latina nas décadas de 1970 e 1980, como resposta à crise dos sistemas públicos de saúde.\n\nBATISTELLA, C. **Abordagens contemporâneas do conceito de saúde**.\n\nDisponível em: www.dihs.ensp.fiocruz.br. Acesso em: 23 set. 2020.\n\n![](https://enem.dev/2020/questions/37/66ad553a-1aa0-423d-ba1c-c52e70be284d.png)",
+      "enunciado": "O conceito de saúde formulado na histórica VIII Conferência Nacional de Saúde, no ano de 1986, ficou conhecido como um “conceito ampliado” de saúde, conforme ilustrado na figura. Esse conceito foi fruto de intensa mobilização em diversos países da América Latina nas décadas de 1970 e 1980, como resposta à crise dos sistemas públicos de saúde.\n\nBATISTELLA, C. **Abordagens contemporâneas do conceito de saúde**.\n\nDisponível em: www.dihs.ensp.fiocruz.br. Acesso em: 23 set. 2020.",
       "alternativas_introducao": "Com base no conceito apresentado no texto, a saúde é consequência direta do(a)",
       "alternativas": [
         "A) Adoção de um estilo de vida ativo por parte dos indivíduos.",
@@ -1213,7 +1213,7 @@
       "dia": 1,
       "numero": 44,
       "titulo": "Questão 44 - ENEM 2020",
-      "enunciado": "![](https://enem.dev/2020/questions/44/2676a98e-0b86-425d-a2ed-429ede0b2438.png)",
+      "enunciado": "",
       "alternativas_introducao": "Nessa campanha publicitária, a imagem da família e o texto verbal unem-se para reforçar a ideia de que",
       "alternativas": [
         "A) A família que adota é mais feliz.",
@@ -1409,7 +1409,7 @@
       "dia": 1,
       "numero": 51,
       "titulo": "Questão 51 - ENEM 2020",
-      "enunciado": "**Zona de pastoreio e cultura do algodão e cereais do agreste (1963)**\n\n![](https://enem.dev/2020/questions/51/527a4568-c098-422a-bdaa-2c8f6bc42b84.jpg)\n\nANDRADE, M. C. **A terra e o homem no Nordeste**. São Paulo: Brasiliense, 1963.",
+      "enunciado": "**Zona de pastoreio e cultura do algodão e cereais do agreste (1963)**\n\nANDRADE, M. C. **A terra e o homem no Nordeste**. São Paulo: Brasiliense, 1963.",
       "alternativas_introducao": "A dinâmica produtiva apresentada na imagem tem como estratégia central a",
       "alternativas": [
         "A) Separação pelo tipo de solo.",
@@ -1801,7 +1801,7 @@
       "dia": 1,
       "numero": 65,
       "titulo": "Questão 65 - ENEM 2020",
-      "enunciado": "![](https://enem.dev/2020/questions/65/e01ad380-5dc4-48fd-82c4-9e01c26796e9.png)\n\nO conjunto representado pelo agronegócio demanda condições específicas que passam a ser exigidas dos territórios. Como há uma elevação da formação de fluxos, materiais e imateriais, a crescente articulação com as escalas que vão do local ao global terminam por pressionar o Estado a agir visando uma instalação no território de fixos diversos, bem como uma regulação específica.\n\nLIMA, R. C.; PENHA, N. A. A logística de transportes do agronegócio em Mato Grosso (Brasil). **Confins**, n.26, fev. 2016.",
+      "enunciado": "O conjunto representado pelo agronegócio demanda condições específicas que passam a ser exigidas dos territórios. Como há uma elevação da formação de fluxos, materiais e imateriais, a crescente articulação com as escalas que vão do local ao global terminam por pressionar o Estado a agir visando uma instalação no território de fixos diversos, bem como uma regulação específica.\n\nLIMA, R. C.; PENHA, N. A. A logística de transportes do agronegócio em Mato Grosso (Brasil). **Confins**, n.26, fev. 2016.",
       "alternativas_introducao": "O mapa e o texto se complementam indicando que a expansão das rodovias se deu como resposta ao(à)",
       "alternativas": [
         "A) Alteração da matriz econômica.",
@@ -1857,7 +1857,7 @@
       "dia": 1,
       "numero": 67,
       "titulo": "Questão 67 - ENEM 2020",
-      "enunciado": "![](https://enem.dev/2020/questions/67/c384d31a-87b1-4653-882b-ffa66c2643be.png)\n\nDisponível em: https://noticias.uol.com.br. Acesso em: l3 jun. 2018  \n(adaptado).",
+      "enunciado": "Disponível em: https://noticias.uol.com.br. Acesso em: l3 jun. 2018  \n(adaptado).",
       "alternativas_introducao": "Os aspectos físicos apresentados originam-se da atuação da força natural de",
       "alternativas": [
         "A) Colisão de placas tectônicas.",
@@ -2445,7 +2445,7 @@
       "dia": 1,
       "numero": 88,
       "titulo": "Questão 88 - ENEM 2020",
-      "enunciado": "**TEXTO I**\n\n![](https://enem.dev/2020/questions/88/ada0afae-fb30-4b1b-884b-d49633da9513.jpg)\n\nRio Tietê, São Paulo (SP). Foto: Delfim Martins/Pulsar.\n\n**TEXTO II**\n\nO Rio Tietê está morto. Ao menos uma parte dele: 137 quilômetros, para ser mais preciso. Uma pesquisa da Fundação SOS Mata Atlântica mostra que, em 2016, o trecho do rio com qualidade de água classificada como ruim ou péssima começa em Itaquaquecetuba, passa por toda a Região Metropolitana de São Paulo e chega até Cabreúva, já no interior de São Paulo. Nesse trecho, a água não tem oxigênio suficiente para abrigar vida.\n\nDisponível em: http://epoca.globo.com. Acesso em: 7 dez. 2017 (adaptado).",
+      "enunciado": "**TEXTO I**\n\nRio Tietê, São Paulo (SP). Foto: Delfim Martins/Pulsar.\n\n**TEXTO II**\n\nO Rio Tietê está morto. Ao menos uma parte dele: 137 quilômetros, para ser mais preciso. Uma pesquisa da Fundação SOS Mata Atlântica mostra que, em 2016, o trecho do rio com qualidade de água classificada como ruim ou péssima começa em Itaquaquecetuba, passa por toda a Região Metropolitana de São Paulo e chega até Cabreúva, já no interior de São Paulo. Nesse trecho, a água não tem oxigênio suficiente para abrigar vida.\n\nDisponível em: http://epoca.globo.com. Acesso em: 7 dez. 2017 (adaptado).",
       "alternativas_introducao": "Considerando a análise dos textos, a condição atual desse rio tem como origem a",
       "alternativas": [
         "A) Valorização do sítio urbano.",

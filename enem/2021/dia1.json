@@ -2,7 +2,7 @@
   "ano": 2021,
   "dia": 1,
   "total": 90,
-  "geradoEm": "2026-05-09T05:54:38Z",
+  "geradoEm": "2026-05-09T12:48:20Z",
   "questoes": [
     {
       "ano": 2021,
@@ -121,7 +121,7 @@
       "dia": 1,
       "numero": 5,
       "titulo": "Questão 5 - ENEM 2021",
-      "enunciado": "![](https://enem.dev/2021/questions/5-espanhol/c966af60-b276-459d-8a9f-d0f78ef25988.png)",
+      "enunciado": "",
       "alternativas_introducao": "A charge evoca uma situação de assombro frente a uma realidade que assola as sociedades contemporâneas. Seu efeito humorístico reside na crítica diante do(a)",
       "alternativas": [
         "A) Constatação do ser humano como o responsável pela condição caótica do mundo.",
@@ -317,7 +317,7 @@
       "dia": 1,
       "numero": 12,
       "titulo": "Questão 12 - ENEM 2021",
-      "enunciado": "![](https://enem.dev/2021/questions/12/6ac63b3f-c328-4663-80e1-4753ac661fec.png)\n\nDisponível em: www.deskgram.org. Acesso em: 12 dez. 2018 (adaptado).",
+      "enunciado": "Disponível em: www.deskgram.org. Acesso em: 12 dez. 2018 (adaptado).",
       "alternativas_introducao": "A associação entre o texto verbal e as imagens da garrafa e do cão configura recurso expressivo que busca",
       "alternativas": [
         "A) A estimular denúncias de maus-tratos contra animais.",
@@ -345,7 +345,7 @@
       "dia": 1,
       "numero": 13,
       "titulo": "Questão 13 - ENEM 2021",
-      "enunciado": "![](https://enem.dev/2021/questions/13/413aa5b4-682c-42d8-897f-d80e47edaba8.png)\n\nHENFIL. Disponível em: https://medium.com. Acesso em: 29 out. 2018 (adaptado).",
+      "enunciado": "HENFIL. Disponível em: https://medium.com. Acesso em: 29 out. 2018 (adaptado).",
       "alternativas_introducao": "Nessa tirinha, produzida na década de 1970, os recursos verbais e não verbais sinalizam a finalidade de",
       "alternativas": [
         "A) Reforçar a luta por direitos civis.",
@@ -373,7 +373,7 @@
       "dia": 1,
       "numero": 14,
       "titulo": "Questão 14 - ENEM 2021",
-      "enunciado": "**A crise dos refugiados imortalizada para sempre no fundo do mar**\n\n![](https://enem.dev/2021/questions/14/f8c80e87-3875-4c67-b82d-85d73404d502.png)\n\nTAYLOR, J. C. A balsa de Lampedusa. Instalação. Museu Atlântico, Lanzarote, Canárias, 2016 (detalhe)\n\nA balsa de Lampedusa, nome da obra do artista britânicos Jason de Caires Taylor, é uma das instalações criadas por ele para compor o acervo do primeiro museu submarino da Europa, o Museu Atlântico, localizado em Lanzarote, uma das ilhas do arquipélago das Canárias.\n\nLampedusa é o nome da ilha italiana onde a grande maioria dos refugiados que saem da África ou de países como Síria, Líbano e Iraque tenta chegar para conseguir asilo no continente europeu.\n\nAs esculturas do Museu Atlântico icam a 14 metros de profundidade nas águas cristalinas de Lanzarote.\n\nNa balsa, estão dez pessoas. Todas têm no rosto a expressão do abandono. Entre elas, há algumas crianças. Uma delas, uma menina debruçada sobre a beira do bote, olha sem esperança o horizonte. A imagem é tão forte que dispensa qualquer palavra. Exatamente o papel da arte.\n\nDisponível em: http://conexaoplaneta.com.br. Acesso em: 22 jun. 2019 (adaptado).",
+      "enunciado": "**A crise dos refugiados imortalizada para sempre no fundo do mar**\n\nTAYLOR, J. C. A balsa de Lampedusa. Instalação. Museu Atlântico, Lanzarote, Canárias, 2016 (detalhe)\n\nA balsa de Lampedusa, nome da obra do artista britânicos Jason de Caires Taylor, é uma das instalações criadas por ele para compor o acervo do primeiro museu submarino da Europa, o Museu Atlântico, localizado em Lanzarote, uma das ilhas do arquipélago das Canárias.\n\nLampedusa é o nome da ilha italiana onde a grande maioria dos refugiados que saem da África ou de países como Síria, Líbano e Iraque tenta chegar para conseguir asilo no continente europeu.\n\nAs esculturas do Museu Atlântico icam a 14 metros de profundidade nas águas cristalinas de Lanzarote.\n\nNa balsa, estão dez pessoas. Todas têm no rosto a expressão do abandono. Entre elas, há algumas crianças. Uma delas, uma menina debruçada sobre a beira do bote, olha sem esperança o horizonte. A imagem é tão forte que dispensa qualquer palavra. Exatamente o papel da arte.\n\nDisponível em: http://conexaoplaneta.com.br. Acesso em: 22 jun. 2019 (adaptado).",
       "alternativas_introducao": "Além de apresentar ao público a obra A balsa de Lampedusa, essa reportagem cumpre, paralelamente, a função de chamar a atenção para",
       "alternativas": [
         "A) A ilha de Lanzarote, localizada no arquipélago das Canárias, com vocação para o turismo.",
@@ -485,7 +485,7 @@
       "dia": 1,
       "numero": 18,
       "titulo": "Questão 18 - ENEM 2021",
-      "enunciado": "![](https://enem.dev/2021/questions/18/d3122745-1e96-431c-a368-b901c0e3dd5d.jpg)\n\nMEIRRELES, V. Moema, Óleo sobre tela, 129 cm x 190 cm. Masp, São Paulo, 1866.\n\nDisponível em: www.masp.art.br. Acesso em: 13 ago. 2012 (adaptado).",
+      "enunciado": "MEIRRELES, V. Moema, Óleo sobre tela, 129 cm x 190 cm. Masp, São Paulo, 1866.\n\nDisponível em: www.masp.art.br. Acesso em: 13 ago. 2012 (adaptado).",
       "alternativas_introducao": "Nessa obra, que retrata uma cena de Caramuru, célebre poema épico brasileiro, a filiação à estética romântica manifesta-se na",
       "alternativas": [
         "A) Exaltação do retrato fiel da beleza feminina.",
@@ -737,7 +737,7 @@
       "dia": 1,
       "numero": 27,
       "titulo": "Questão 27 - ENEM 2021",
-      "enunciado": "![](https://enem.dev/2021/questions/27/bce50f89-8fb3-4929-8065-7c7710a91f39.png)\n\nA revolução estética brasiliense empurrou os designers de móveis dos anos 1950 e início dos 1960 para o novo. Induzidos a abandonar o gosto rebuscado pelo colonial, a trocar Ouro Preto por Brasília, eles criaram um mobiliário contemporâneo que ainda hoje vemos nas lojas e nas salas de espera de consultórios e escritórios, Colada no uso de madeiras nobres, como o jacarandá e a peroba, e em materiais de revestimento como o couro e a palhinha, desenvolveu-se uma tendência feita de linhas retas e curvas suaves, nos moldes da capital no Cerrado.\n\nCHAVES, D. Disponível em: www.veja.abril.com.br. Acesso em: 29 jul. 2010.",
+      "enunciado": "A revolução estética brasiliense empurrou os designers de móveis dos anos 1950 e início dos 1960 para o novo. Induzidos a abandonar o gosto rebuscado pelo colonial, a trocar Ouro Preto por Brasília, eles criaram um mobiliário contemporâneo que ainda hoje vemos nas lojas e nas salas de espera de consultórios e escritórios, Colada no uso de madeiras nobres, como o jacarandá e a peroba, e em materiais de revestimento como o couro e a palhinha, desenvolveu-se uma tendência feita de linhas retas e curvas suaves, nos moldes da capital no Cerrado.\n\nCHAVES, D. Disponível em: www.veja.abril.com.br. Acesso em: 29 jul. 2010.",
       "alternativas_introducao": "Na reportagem sobre os 50 anos de Brasília, de Débora Chaves, com a reprodução fotográfica de cadeiras e poltronas de Sérgio Rodrigues, verifica-se que os elementos da estética brasiliense",
       "alternativas": [
         "A) Aparecem definidos nas linhas retas dos objetos.",
@@ -905,7 +905,7 @@
       "dia": 1,
       "numero": 33,
       "titulo": "Questão 33 - ENEM 2021",
-      "enunciado": "![](https://enem.dev/2021/questions/33/3f0c8ec0-de44-43da-a545-967701e6128f.jpg)\n\nLEMONS, A. **Artistas brasileiras**. Belo Horizonte Miguilim,2018.",
+      "enunciado": "LEMONS, A. **Artistas brasileiras**. Belo Horizonte Miguilim,2018.",
       "alternativas_introducao": "O que assegura o reconhecimento desse texto em quadrinhos como prefácio é o(a)",
       "alternativas": [
         "A) Função de apresentação do livro.",
@@ -933,7 +933,7 @@
       "dia": 1,
       "numero": 34,
       "titulo": "Questão 34 - ENEM 2021",
-      "enunciado": "![](https://enem.dev/2021/questions/34/5b366c12-2eaa-4383-87b3-22400a733b71.jpeg)",
+      "enunciado": "",
       "alternativas_introducao": "No texto, os recursos verbais e não verbais empregados têm por objetivo",
       "alternativas": [
         "A) Divulgar informações científicas sobre o uso indiscriminado de aparelhos celulares.",
@@ -989,7 +989,7 @@
       "dia": 1,
       "numero": 36,
       "titulo": "Questão 36 - ENEM 2021",
-      "enunciado": "**TEXTO I**\n\n![](https://enem.dev/2021/questions/36/8cc80c2a-cef4-4d6c-99a3-4f383b9fa2e2.jpg)\n\n**TEXTO II**\n\nAs máscarqas não foram feitas para serem usadas; elas se concentram apenas nas possibilidades antropomórficas dos recepientes plásticos descartados e, ao mesmo tempo, chamam a atenção para a quantidade de lixo que se acumula em quase todas as cidades ou aldeias africanas.\n\nFARTHINGS, S. Tudo sobre arte",
+      "enunciado": "**TEXTO I**\n\n**TEXTO II**\n\nAs máscarqas não foram feitas para serem usadas; elas se concentram apenas nas possibilidades antropomórficas dos recepientes plásticos descartados e, ao mesmo tempo, chamam a atenção para a quantidade de lixo que se acumula em quase todas as cidades ou aldeias africanas.\n\nFARTHINGS, S. Tudo sobre arte",
       "alternativas_introducao": "Romuald Hazoumé costuma dizer que sua obra apenas manda de volta ao oeste o refugode uma sociedade de consumo cada vez mais invasiva. A obra desse artista africano que vive no Benin denota o(a)",
       "alternativas": [
         "A) Empobrecimento do valor artístico pela combinação de diferentes matérias-primas.",
@@ -1157,7 +1157,7 @@
       "dia": 1,
       "numero": 42,
       "titulo": "Questão 42 - ENEM 2021",
-      "enunciado": "![](https://enem.dev/2021/questions/42/35808b01-8e6b-477b-a7c1-f9c562ab88e2.png)\n\nA obra, da década de 1960, pertence ao movimento artístico _Pop Art_, explora a beleza e a sensualidade do corpo feminino em uma situação de divertimento. Historicamente, a sociedade inventou e continua reinventando o corpo como objeto de intervenções sociais, buscando atender aos valores e costumes de cada época.\n\nLICHTENSTEIN, R. **Garota com bola**. Óleo sobre tela, 153 cm x 91,9 cm. Museu de Arte Moderna de nova York, 1961. Disponível em: www.moma.org. Acesso em: 4 dez. 2018.",
+      "enunciado": "A obra, da década de 1960, pertence ao movimento artístico _Pop Art_, explora a beleza e a sensualidade do corpo feminino em uma situação de divertimento. Historicamente, a sociedade inventou e continua reinventando o corpo como objeto de intervenções sociais, buscando atender aos valores e costumes de cada época.\n\nLICHTENSTEIN, R. **Garota com bola**. Óleo sobre tela, 153 cm x 91,9 cm. Museu de Arte Moderna de nova York, 1961. Disponível em: www.moma.org. Acesso em: 4 dez. 2018.",
       "alternativas_introducao": "Na produção desses preceitos, a erotização do corpo feminino tem sido constituída pela",
       "alternativas": [
         "A) Realização de exercícios físicos sistemáticos e excessivos.",
@@ -1185,7 +1185,7 @@
       "dia": 1,
       "numero": 43,
       "titulo": "Questão 43 - ENEM 2021",
-      "enunciado": "![](https://enem.dev/2021/questions/43/4a8b22dd-c3bc-4968-8e13-32ae14a5bddb.png)\n\nD’SALETE, M. Cumbe. São Paulo: Veneta. 2016, p. 10-11 (adaptado).",
+      "enunciado": "D’SALETE, M. Cumbe. São Paulo: Veneta. 2016, p. 10-11 (adaptado).",
       "alternativas_introducao": "A sequência dos quadrinhos conjuga lirismo e violência ao",
       "alternativas": [
         "A) Sugerir a impossibilidade de manutenção dos afetos.",
@@ -2361,7 +2361,7 @@
       "dia": 1,
       "numero": 85,
       "titulo": "Questão 85 - ENEM 2021",
-      "enunciado": "![](https://enem.dev/2021/questions/85/c53f5bbe-8ad7-418f-aaf9-93f3234d36d5.png)",
+      "enunciado": "",
       "alternativas_introducao": "No anúncio publicado na segunda metade do século XIX, qual a estratégia de resistência escrava apresentada?",
       "alternativas": [
         "A) Criação de relações de trabalho.",
@@ -2473,7 +2473,7 @@
       "dia": 1,
       "numero": 89,
       "titulo": "Questão 89 - ENEM 2021",
-      "enunciado": "![](https://enem.dev/2021/questions/89/e99742b0-7668-451c-8ee6-7f98be4183a4.jpg)",
+      "enunciado": "",
       "alternativas_introducao": "Considerando as informações apresentadas, o prédio do Congresso Nacional, em Brasília, no dia 21 de junho, às 12 horas, projetará sua sombra para a direção",
       "alternativas": [
         "A) Norte",

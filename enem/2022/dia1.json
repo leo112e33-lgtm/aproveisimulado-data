@@ -2,14 +2,14 @@
   "ano": 2022,
   "dia": 1,
   "total": 90,
-  "geradoEm": "2026-05-09T05:54:40Z",
+  "geradoEm": "2026-05-09T12:48:20Z",
   "questoes": [
     {
       "ano": 2022,
       "dia": 1,
       "numero": 1,
       "titulo": "Questão 1 - ENEM 2022",
-      "enunciado": "![](https://enem.dev/2022/questions/1-espanhol/b8e76f18-f22d-4401-bf90-fd34c74e07e5.jpg)\n\nDisponível em: www.inali.gob.mx. Acesso em: 2 dez. 2018.",
+      "enunciado": "Disponível em: www.inali.gob.mx. Acesso em: 2 dez. 2018.",
       "alternativas_introducao": "Esse cartaz tem a função social de",
       "alternativas": [
         "A) Difundi a arte iconográfica indígena mexicana.",
@@ -121,7 +121,7 @@
       "dia": 1,
       "numero": 5,
       "titulo": "Questão 5 - ENEM 2022",
-      "enunciado": "![](https://enem.dev/2022/questions/5-espanhol/2a1a630d-3c73-4b12-81e5-219ee4f917b7.jpg)\n\nMURIG. Disponível em: https://murigcolectivafeminista.wordpress.com.\n\nAcesso em: 26 out. 2021(adaptado)",
+      "enunciado": "MURIG. Disponível em: https://murigcolectivafeminista.wordpress.com.\n\nAcesso em: 26 out. 2021(adaptado)",
       "alternativas_introducao": "No texto, as palavras “crianzas” e “tribu” são usadas para",
       "alternativas": [
         "A) Evidenciar a importância de uma rede de apoio para as mães na criação dos seus filhos",
@@ -177,7 +177,7 @@
       "dia": 1,
       "numero": 7,
       "titulo": "Questão 7 - ENEM 2022",
-      "enunciado": "**TEXTO I**\n\n![](https://enem.dev/2022/questions/7/01826c2e-3f38-4271-86de-f85c879bd70f.png)\n\nDisponível em: https://amigodobicho.wordpress.com/. Acesso em: 10 dez. 2017.\n\n**TEXTO II**\n\n**Nas ruas, na cidade e no parque**\n\nNinguém nunca prendeu o Delegado. O vaivém de rua em rua e sua longa vida são relembrados e recontados. Exemplo de sobrevivência, liderança, inteligência canina, desde pequenininho seu focinho negro e seus olhos delineados desenharam um mapa mental olfativo-visual de Lavras. Corria de quem precisava correr e se aproximava de quem não lhe faria mal, distinguia este daquele. Assim, tornou-se um cão comunitário. Nunca se soube por que escolheu a rua, talvez lhe tenham feito mal dentro de quatro paredes. Idoso, teve câncer e desapareceu. O querido foi procurado pela cidade inteira por duas protetoras, mas nunca encontrado.\n\n**COSTA, A. R. N. Viver o amor aos cães: Parque Francisco de Assis. Carmo do Cachoeira: Irdin, 2014 (adaptado).**",
+      "enunciado": "**TEXTO I**\n\nDisponível em: https://amigodobicho.wordpress.com/. Acesso em: 10 dez. 2017.\n\n**TEXTO II**\n\n**Nas ruas, na cidade e no parque**\n\nNinguém nunca prendeu o Delegado. O vaivém de rua em rua e sua longa vida são relembrados e recontados. Exemplo de sobrevivência, liderança, inteligência canina, desde pequenininho seu focinho negro e seus olhos delineados desenharam um mapa mental olfativo-visual de Lavras. Corria de quem precisava correr e se aproximava de quem não lhe faria mal, distinguia este daquele. Assim, tornou-se um cão comunitário. Nunca se soube por que escolheu a rua, talvez lhe tenham feito mal dentro de quatro paredes. Idoso, teve câncer e desapareceu. O querido foi procurado pela cidade inteira por duas protetoras, mas nunca encontrado.\n\n**COSTA, A. R. N. Viver o amor aos cães: Parque Francisco de Assis. Carmo do Cachoeira: Irdin, 2014 (adaptado).**",
       "alternativas_introducao": "Os dois textos abordam a temática de animais de rua, porém, em relação ao Texto I, o Texto II",
       "alternativas": [
         "A) Problematiza a necessidade de adoção de animais sem lar.",
@@ -233,7 +233,7 @@
       "dia": 1,
       "numero": 9,
       "titulo": "Questão 9 - ENEM 2022",
-      "enunciado": "![](https://enem.dev/2022/questions/9/b1a38f51-88f6-4686-9189-734021ee6771.png)\n\n**Disponível em: : www.portaldapropaganda.com.br. Acesso em: 29 out. 2013 (adaptado).**",
+      "enunciado": "**Disponível em: : www.portaldapropaganda.com.br. Acesso em: 29 out. 2013 (adaptado).**",
       "alternativas_introducao": "Para convencer o público-alvo sobre a necessidade de um trânsito mais seguro, essa peça publicitária apela para o(a)",
       "alternativas": [
         "A) Sentimento de culpa provocado no condutor causador de acidentes.",
@@ -401,7 +401,7 @@
       "dia": 1,
       "numero": 15,
       "titulo": "Questão 15 - ENEM 2022",
-      "enunciado": "![](https://enem.dev/2022/questions/15/8319bd69-f738-464b-bf9b-14f73e03df8f.png)\n\nDisponível em: www.facebook.com/senadofederal. Acesso em: 9 dez. 2017.",
+      "enunciado": "Disponível em: www.facebook.com/senadofederal. Acesso em: 9 dez. 2017.",
       "alternativas_introducao": "Considerando-se a função social dos posts, essa imagem evidencia a apropriação de outro gênero com o objetivo de",
       "alternativas": [
         "A) Promover o uso adequado de campanhas publicitárias do governo.",
@@ -737,7 +737,7 @@
       "dia": 1,
       "numero": 27,
       "titulo": "Questão 27 - ENEM 2022",
-      "enunciado": "![](https://enem.dev/2022/questions/27/033b9d75-d730-4b7f-abfd-79a09bc6c18b.png)\n\nDisponível em: http://viva-porto.pt. Acesso em: 24 nov. 2021 (adaptado).",
+      "enunciado": "Disponível em: http://viva-porto.pt. Acesso em: 24 nov. 2021 (adaptado).",
       "alternativas_introducao": "A articulação entre os elementos verbais e os não verbais do texto tem como propósito desencadear a",
       "alternativas": [
         "A) Identificação de distinções entre mulheres e homens.",
@@ -877,7 +877,7 @@
       "dia": 1,
       "numero": 32,
       "titulo": "Questão 32 - ENEM 2022",
-      "enunciado": "![](https://enem.dev/2022/questions/32/fe5e06b1-daf2-46e0-9485-5b2f32e59641.jpg)\n\n**Disponível em: https://tab.uol.com.br/. Acesso em: 25 ago. 2017 (adaptado).**",
+      "enunciado": "**Disponível em: https://tab.uol.com.br/. Acesso em: 25 ago. 2017 (adaptado).**",
       "alternativas_introducao": "O texto sobre os chamados nativos digitais traz informações com a função de",
       "alternativas": [
         "A) Propor ações específicas para cada etapa da infância.",
@@ -1045,7 +1045,7 @@
       "dia": 1,
       "numero": 38,
       "titulo": "Questão 38 - ENEM 2022",
-      "enunciado": "**TEXTO I**\n\n![](https://enem.dev/2022/questions/38/951f4c93-65de-4b4b-af99-7d63a81bfee9.jpg)\n\nEL GRECO. **Laocoonte**. Óleo sobre tela, 1,37cm x 1,72cm.\n\nNational Gallery of Art, Washington, Estados Unidos, circa 1610-  \n1614\\. Disponível em: https://images.nga.gov. Acesso em: 28 jun  \n2019 (adaptado).\n\n**TEXTO II**\n\nEssa impressionante obra apresenta o sacerdote Laocoonte sendo punido pelos deuses por tentar alertar os troianos da ameaça do Cavalo de Troia, que escondia um grupo de soldados gregos. Enviadas pelos deuses, serpentes marinhas são vistas matando Laocoonte e seus dois filhos como forma de punição.\n\nKAY, A. In: FARTHING, S. (Org.). **Tudo sobre arte**.  \nRio de Janeiro: Sextante, 2011 (adaptado).",
+      "enunciado": "**TEXTO I**\n\nEL GRECO. **Laocoonte**. Óleo sobre tela, 1,37cm x 1,72cm.\n\nNational Gallery of Art, Washington, Estados Unidos, circa 1610-  \n1614\\. Disponível em: https://images.nga.gov. Acesso em: 28 jun  \n2019 (adaptado).\n\n**TEXTO II**\n\nEssa impressionante obra apresenta o sacerdote Laocoonte sendo punido pelos deuses por tentar alertar os troianos da ameaça do Cavalo de Troia, que escondia um grupo de soldados gregos. Enviadas pelos deuses, serpentes marinhas são vistas matando Laocoonte e seus dois filhos como forma de punição.\n\nKAY, A. In: FARTHING, S. (Org.). **Tudo sobre arte**.  \nRio de Janeiro: Sextante, 2011 (adaptado).",
       "alternativas_introducao": "Produzida no início do século XVII, a obra maneirista distingue-se pela",
       "alternativas": [
         "A) Representação da nudez masculina.",
@@ -1073,7 +1073,7 @@
       "dia": 1,
       "numero": 39,
       "titulo": "Questão 39 - ENEM 2022",
-      "enunciado": "![](https://enem.dev/2022/questions/39/f8b8fbe9-4995-4418-a831-315a156941c4.jpg)\n\nJUDD, D. **Sem título**. 1969.\n\nDisponível em: https://dasartes.com.br. Acesso em: 16 jun. 2022.\n\nEmbora não fosse um grupo ou um movimento organizado, o Minimalismo foi um dos muitos rótulos (incluindo estruturas primárias, objetos unitários, arte ABC e Cool Art) aplicados pelos críticos para descrever estruturas aparentemente simples que alguns artistas estavam criando. Quando a arte minimalista começou a surgir, muitos críticos e um público opinativo julgaram-na fria, anônima e imperdoável. Os materiais industriais pré-fabricados frequentemente usados não pareciam “arte”.\n\nDEMPSEY, A. **Estilos, escolhas e movimentos**. São Paulo: Cosac & Naify, 2003 (adaptado).",
+      "enunciado": "JUDD, D. **Sem título**. 1969.\n\nDisponível em: https://dasartes.com.br. Acesso em: 16 jun. 2022.\n\nEmbora não fosse um grupo ou um movimento organizado, o Minimalismo foi um dos muitos rótulos (incluindo estruturas primárias, objetos unitários, arte ABC e Cool Art) aplicados pelos críticos para descrever estruturas aparentemente simples que alguns artistas estavam criando. Quando a arte minimalista começou a surgir, muitos críticos e um público opinativo julgaram-na fria, anônima e imperdoável. Os materiais industriais pré-fabricados frequentemente usados não pareciam “arte”.\n\nDEMPSEY, A. **Estilos, escolhas e movimentos**. São Paulo: Cosac & Naify, 2003 (adaptado).",
       "alternativas_introducao": "De acordo com os textos I e II, compreende-se que a obra minimalista é uma",
       "alternativas": [
         "A) Representação da simplicidade pelo artista.",
@@ -1213,7 +1213,7 @@
       "dia": 1,
       "numero": 44,
       "titulo": "Questão 44 - ENEM 2022",
-      "enunciado": "**TEXTO I**\n\n![](https://enem.dev/2022/questions/44/510dde52-fd88-4c3a-88bd-cedac5510317.jpg)\n\nSILVEIRA, R. **In absentia**, 1983. Instalação, 17ª Bienal de São Paulo. Disponível em: www.bienal.org.br. Acesso em: set. 2016 (adaptado).\n\n**TEXTO II**\n\nO termo ready-made foi criado por Marcel Duchamp (1887-1968) para designar um tipo de objeto, por ele inventado, que consiste em um ou mais artigos de uso cotidiano, produzidos em massa, selecionados sem critérios estéticos e expostos como obras de arte em espaços especializados (museus e galerias). Seu primeiro ready-made, de 1912, é uma roda de bicicleta montada sobre um banquinho  (Roda de bicicleta). Ao transformar qualquer objeto em obra de arte, o artista realiza uma crítica radical ao sistema da arte.\n\nDisponível em: www.bienal.org.br. Acesso em: 1 set. 2016 (adaptado)",
+      "enunciado": "**TEXTO I**\n\nSILVEIRA, R. **In absentia**, 1983. Instalação, 17ª Bienal de São Paulo. Disponível em: www.bienal.org.br. Acesso em: set. 2016 (adaptado).\n\n**TEXTO II**\n\nO termo ready-made foi criado por Marcel Duchamp (1887-1968) para designar um tipo de objeto, por ele inventado, que consiste em um ou mais artigos de uso cotidiano, produzidos em massa, selecionados sem critérios estéticos e expostos como obras de arte em espaços especializados (museus e galerias). Seu primeiro ready-made, de 1912, é uma roda de bicicleta montada sobre um banquinho  (Roda de bicicleta). Ao transformar qualquer objeto em obra de arte, o artista realiza uma crítica radical ao sistema da arte.\n\nDisponível em: www.bienal.org.br. Acesso em: 1 set. 2016 (adaptado)",
       "alternativas_introducao": "A instalação In absentia propõe um diálogo com o ready-made Roda de bicicleta, demonstrando que",
       "alternativas": [
         "A) As formas de criticar obras do passado se repetem.",
@@ -1353,7 +1353,7 @@
       "dia": 1,
       "numero": 49,
       "titulo": "Questão 49 - ENEM 2022",
-      "enunciado": "![](https://enem.dev/2022/questions/49/ba3420e0-0e8e-42b0-bf25-a995abbb85d2.png)\n\n**PAZ, A. D. Disponível em: www.ct.ufpb.br. Acesso em: 15 out. 2021. (adaptado.)**",
+      "enunciado": "**PAZ, A. D. Disponível em: www.ct.ufpb.br. Acesso em: 15 out. 2021. (adaptado.)**",
       "alternativas_introducao": "A intensificação da ocupação urbana demonstrada afeta de forma imediata o(a)",
       "alternativas": [
         "A) Nível altimétrico.",
@@ -1549,7 +1549,7 @@
       "dia": 1,
       "numero": 56,
       "titulo": "Questão 56 - ENEM 2022",
-      "enunciado": "![](https://enem.dev/2022/questions/56/0a4f1ebf-a011-4562-9d7d-c09766683612.png)\n\n**CAZO. Disponível em: www.humorpolitico.com.br. Acesso em: 21 nov. 2021 (adaptado).**\n\n**TEXTO II**  \nÉ como se os problemas fossem criados pela pandemia quando, em verdade, isso só demonstra o quanto eles sofrem uma tentativa de serem naturalizados. Eles estavam lá, empurrados para debaixo de vários tapetes. Diversos levantamentos realizados indicam que parcela significativa dos estudantes não têm acesso à internet em suas casas, não têm computadores; têm celulares, mas com pacotes baratos que não permitem assistir a todas as aulas. E, caso tenham celulares e dados, pergunta-se: É possível elaborar um texto no celular? É possível interagir na aula remota pelo celular?\n\n**ASSIS. A. E. S. Q. Educação e pandemia. Educação em Revista, n. 37, 2021 (adaptado).**",
+      "enunciado": "**CAZO. Disponível em: www.humorpolitico.com.br. Acesso em: 21 nov. 2021 (adaptado).**\n\n**TEXTO II**  \nÉ como se os problemas fossem criados pela pandemia quando, em verdade, isso só demonstra o quanto eles sofrem uma tentativa de serem naturalizados. Eles estavam lá, empurrados para debaixo de vários tapetes. Diversos levantamentos realizados indicam que parcela significativa dos estudantes não têm acesso à internet em suas casas, não têm computadores; têm celulares, mas com pacotes baratos que não permitem assistir a todas as aulas. E, caso tenham celulares e dados, pergunta-se: É possível elaborar um texto no celular? É possível interagir na aula remota pelo celular?\n\n**ASSIS. A. E. S. Q. Educação e pandemia. Educação em Revista, n. 37, 2021 (adaptado).**",
       "alternativas_introducao": "A crítica contida no texto e na figura evidencia o seguinte aspecto da sociedade contemporárea:",
       "alternativas": [
         "A) Exclusão social.",
@@ -1801,7 +1801,7 @@
       "dia": 1,
       "numero": 65,
       "titulo": "Questão 65 - ENEM 2022",
-      "enunciado": "![](https://enem.dev/2022/questions/65/976097b0-d433-498d-946f-1770a46340fb.png)\n\n**Disponível em:https://hdmais.com.br. Acesso em: 8 out. 2021.**",
+      "enunciado": "**Disponível em:https://hdmais.com.br. Acesso em: 8 out. 2021.**",
       "alternativas_introducao": "O ápice da ilustração se traduz por uma conduta social caracterizada pela",
       "alternativas": [
         "A) Cultura do cancelamento.",
@@ -1885,7 +1885,7 @@
       "dia": 1,
       "numero": 68,
       "titulo": "Questão 68 - ENEM 2022",
-      "enunciado": "**TEXTO I**  \nA Marinha identifica, na voz de Thomas Barnett, uma ampla região potencialmente insubmissa ou simplesmente irredutível às normas gerais de funcionamento promovidas pelos Estados Unidos e sancionadas pelo Fundo Monetário Internacional, pela Organização Mundial do Comércio e pelo Banco Mundial. E não necessariamente por sua consciência rebelde, mas sim, em muitos casos, pela insubstancialidade de suas instituições estatais.\n\n**TEXTO II**\n\n![](https://enem.dev/2022/questions/68/f472fda8-7fa2-43b7-bcc3-72db46b0d92d.png)\n\nCECEÑA. A. E. Hegemonias e emancipações no século XXI.  \nBuenos Aires: Clacso. 2005.",
+      "enunciado": "**TEXTO I**  \nA Marinha identifica, na voz de Thomas Barnett, uma ampla região potencialmente insubmissa ou simplesmente irredutível às normas gerais de funcionamento promovidas pelos Estados Unidos e sancionadas pelo Fundo Monetário Internacional, pela Organização Mundial do Comércio e pelo Banco Mundial. E não necessariamente por sua consciência rebelde, mas sim, em muitos casos, pela insubstancialidade de suas instituições estatais.\n\n**TEXTO II**\n\nCECEÑA. A. E. Hegemonias e emancipações no século XXI.  \nBuenos Aires: Clacso. 2005.",
       "alternativas_introducao": "As preocupações do governo estadunidense expressas no texto e no mapa evidenciam uma estratégia para",
       "alternativas": [
         "A) Compartilhamento de inovações tecnológicas.",
@@ -1941,7 +1941,7 @@
       "dia": 1,
       "numero": 70,
       "titulo": "Questão 70 - ENEM 2022",
-      "enunciado": "**TEXTO I**\n\n**Interseccionalidade:** intercruzamento de desigualdades que gera padrões complexos de discriminação\n\n![](https://enem.dev/2022/questions/70/1539c835-a8b9-444d-949c-51d59d8d33fe.png)\n\n**Disponível em: www.agenciadenoticias.ibge.gov.br. Acesso em: 2 dez. 2018.**",
+      "enunciado": "**TEXTO I**\n\n**Interseccionalidade:** intercruzamento de desigualdades que gera padrões complexos de discriminação\n\n**Disponível em: www.agenciadenoticias.ibge.gov.br. Acesso em: 2 dez. 2018.**",
       "alternativas_introducao": "Considerando o conceito apresentando no Texto I e os dados apresentados no Texto II, no Brasil, são fatores que intensificam o fenômeno da discriminação:",
       "alternativas": [
         "A) Raça e gênero.",
@@ -2053,7 +2053,7 @@
       "dia": 1,
       "numero": 74,
       "titulo": "Questão 74 - ENEM 2022",
-      "enunciado": "![](https://enem.dev/2022/questions/74/03a69ed2-9038-4cca-8947-88663cbe1d23.png)\n\n**PEREIRA, E. B. et al. Atlas brasileiro de energia solar. São José dos Campos: Inpe, 2006**",
+      "enunciado": "**PEREIRA, E. B. et al. Atlas brasileiro de energia solar. São José dos Campos: Inpe, 2006**",
       "alternativas_introducao": "Uma característica regional que justifica o maior potencial anual médio para o aproveitamento da energia solar é a reduzida",
       "alternativas": [
         "A) Declividade do relevo.",
@@ -2165,7 +2165,7 @@
       "dia": 1,
       "numero": 78,
       "titulo": "Questão 78 - ENEM 2022",
-      "enunciado": "![](https://enem.dev/2022/questions/78/1032a7bb-17e5-4711-ad16-aa16988017fa.png)\n\n**Disponível em: http://imguol.com. Acesso em: 30 mar. 2014 (adaptado).**",
+      "enunciado": "**Disponível em: http://imguol.com. Acesso em: 30 mar. 2014 (adaptado).**",
       "alternativas_introducao": "Considerando-se que a distância entre o local onde os destroços do avião foram avistados e a cidade de Perth é de 2 cm, a escala aproximada dessa representação cartográfica é:",
       "alternativas": [
         "A) 1 : 12 500.",
@@ -2277,7 +2277,7 @@
       "dia": 1,
       "numero": 82,
       "titulo": "Questão 82 - ENEM 2022",
-      "enunciado": "![](https://enem.dev/2022/questions/82/9d037d23-4819-4184-9aab-bb87c3b40c73.png)\n\n**Geoestatísticas de recursos naturais da Amazônia Legal. Rio de Janeiro: IBGE, 2011 (adaptado).**",
+      "enunciado": "**Geoestatísticas de recursos naturais da Amazônia Legal. Rio de Janeiro: IBGE, 2011 (adaptado).**",
       "alternativas_introducao": "O mapa espacializa um recurso natural com alto potencial para ocorrência de:",
       "alternativas": [
         "A) Abalos sísmicos periódicos.",
