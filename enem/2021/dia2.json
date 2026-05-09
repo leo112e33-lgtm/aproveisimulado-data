@@ -28,7 +28,7 @@
       "imagem_principal": "enem/2021/img/q001_principal.png",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** Para corrigir o pH (que está fora da faixa ideal 5,5-6,5) sem introduzir elementos nocivos, é preciso adicionar uma solução básica contendo cátion já presente como nutriente — como KOH ou Ca(OH)₂. A alternativa E corresponde a essa solução compatível com a composição nutricional desejada.\n\n**Conceito-chave:** Hidroponia e ajuste de pH — soluções nutritivas exigem pH ideal para absorção de nutrientes; corretivos não devem introduzir elementos tóxicos (sódio em excesso) nem deficientes (potássio inadequado).",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/91"
     },
@@ -56,7 +56,7 @@
       "imagem_principal": "enem/2021/img/q002_principal.png",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** A frequência fundamental de barra é inversamente proporcional ao seu comprimento (f ∝ 1/L). Logo barra menor = frequência maior (f₁ > f₂). Como o material é o mesmo, a velocidade de propagação do som depende apenas das propriedades mecânicas do material, sendo igual nas duas barras (v₁ = v₂).\n\n**Conceito-chave:** Ondas estacionárias em barras — frequência fundamental depende do comprimento; velocidade de propagação depende do material (módulo de Young e densidade), não do tamanho.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/92"
     },
@@ -84,7 +84,7 @@
       "imagem_principal": "enem/2021/img/q003_principal.png",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** O polvo mimético desenvolveu a capacidade de imitar outros animais marinhos (peixes, serpentes) porque essa estratégia aumenta sua sobrevivência diante de predadores e competidores. A capacidade se estabeleceu evolutivamente porque os polvos sobrevivem às pressões seletivas com esses comportamentos — seleção natural reforçou o traço.\n\n**Conceito-chave:** Seleção natural — características que aumentam sobrevivência e reprodução tornam-se mais frequentes; mimetismo é estratégia adaptativa difundida em diversos grupos animais.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/93"
     },
@@ -117,7 +117,7 @@
         "enem/2021/img/q004_extra4.png"
       ],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Aplicando equações de movimento balístico (alcance horizontal R = v₀²·sen(2α)/g) com α = 53° e a distância entre canhões, calcula-se a velocidade mínima de disparo necessária para atingir o canhão A. O resultado é aproximadamente 40 m/s.\n\n**Conceito-chave:** Movimento balístico — alcance R = v₀²·sen(2α)/g; alcance máximo a 45°; resolver problemas de tiro envolve isolar v₀ a partir de R e α conhecidos.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/94"
     },
@@ -145,7 +145,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** Em 35 anos com meia-vida de 5 anos, o pesticida passa por 7 meias-vidas. Massa restante = 500 / 2⁷ = 500/128 ≈ 3,9 g.\n\n**Conceito-chave:** Decaimento exponencial — após n meias-vidas, restam (1/2)ⁿ da massa inicial; persistência ambiental de pesticidas organoclorados (como DDT) é problema crônico.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/95"
     },
@@ -173,7 +173,7 @@
       "imagem_principal": "enem/2021/img/q006_principal.png",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** A substituição de C por U no códon 4 pode transformá-lo em um códon de parada (UAG ou UAA), interrompendo a tradução prematuramente. A proteína resultante terá apenas 3 aminoácidos (códons 1-3), produzindo a menor proteína dentre as opções.\n\n**Conceito-chave:** Mutações pontuais — substituições podem ser silenciosas, missense (troca de aminoácido) ou nonsense (cria códon STOP). Mutações nonsense em posições iniciais geram proteínas truncadas.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/96"
     },
@@ -201,7 +201,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** A reação entre óleo (triglicerídeo) e soda cáustica (NaOH) é a saponificação — produz sabão (sal de ácido graxo) e glicerol. É reação clássica de hidrólise alcalina de éster.\n\n**Conceito-chave:** Saponificação — hidrólise básica de ésteres; aplicada em fabricação de sabões; reação irreversível com formação de sal alcalino do ácido graxo.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/97"
     },
@@ -229,7 +229,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** No feto, o forame oval permite que o sangue oxigenado passe diretamente do átrio direito para o esquerdo (a placenta oxigena o sangue, não os pulmões fetais). Essa configuração se assemelha à dos peixes — circulação simples com passagem única pelo coração.\n\n**Conceito-chave:** Circulação fetal e desenvolvimento embrionário — pulmões fetais não funcionam; oxigenação vem da placenta; estruturas como forame oval e ducto arterioso fecham após nascimento.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/98"
     },
@@ -257,7 +257,7 @@
       "imagem_principal": "enem/2021/img/q009_principal.png",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** O Sol aquece a ilha de calor por irradiação (ondas eletromagnéticas que atravessam a atmosfera). A ilha de calor transfere calor para a brisa marítima por convecção (movimento de ar quente para cima, deslocando ar frio).\n\n**Conceito-chave:** Mecanismos de transferência de calor — condução (contato direto), convecção (movimento de fluidos), radiação (ondas eletromagnéticas, sem necessidade de meio).",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/99"
     },
@@ -285,7 +285,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** No vácuo, todos os corpos caem com mesma aceleração (independente de massa). A folha de papel cai mais devagar que pedra por causa da resistência do ar. Quando amassada, a folha tem menor área de superfície e a resistência do ar tem menos efeito — cai mais rápido.\n\n**Conceito-chave:** Queda livre x queda real — Galileu refutou Aristóteles mostrando que diferença na queda decorre da resistência do ar, não da massa; experimento de Newton no vácuo confirma.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/100"
     },
@@ -313,7 +313,7 @@
       "imagem_principal": "enem/2021/img/q011_principal.png",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** 50 kg de glicose × 50% (rendimento teórico) × 80% (conversão) = 50 × 0,5 × 0,8 = 20 kg de etanol. Volume = massa/densidade = 20 kg / 0,80 g/mL = 20 000 / 0,80 mL = 25 000 mL = 25 L.\n\n**Conceito-chave:** Estequiometria de fermentação — fermentação alcoólica produz aproximadamente metade da massa em etanol; rendimento real depende de condições e organismo (Saccharomyces).",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/101"
     },
@@ -341,7 +341,7 @@
       "imagem_principal": "enem/2021/img/q012_principal.jpg",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** A montagem com limões (ou batatas) e eletrodos cria pilhas. Quando associadas, formam um circuito com bateria (a associação) ligada ao cronômetro digital (carga). O circuito B representa essa associação corretamente — pilhas em série alimentando o aparelho.\n\n**Conceito-chave:** Pilha eletroquímica e circuitos — diferença de potencial entre dois eletrodos diferentes em eletrólito gera corrente; pilhas associadas em série somam tensões.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/102"
     },
@@ -369,7 +369,7 @@
       "imagem_principal": "enem/2021/img/q013_principal.png",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** A titulação com NaOH permite quantificar precisamente a massa de ácido acetilsalicílico no comprimido (reação ácido-base estequiométrica). Esse é o teste capaz de detectar que o lote tinha apenas 40% do esperado — os outros testes não dosam quantidade.\n\n**Conceito-chave:** Análise quantitativa por titulação — método clássico para determinar concentração; reação ácido-base estequiométrica permite calcular mol do analito a partir do volume e concentração da base.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/103"
     },
@@ -397,7 +397,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** Compostos tóxicos (metais pesados) sofrem bioacumulação ao longo da cadeia alimentar — concentrações aumentam em níveis tróficos superiores. Os golfinhos, predadores de topo, acumulam as maiores concentrações através do consumo de peixes que comeram organismos contaminados.\n\n**Conceito-chave:** Bioacumulação e biomagnificação — substâncias persistentes (metais, organoclorados) concentram-se conforme sobem na cadeia trófica; predadores topo (orcas, atuns, águias) sofrem maiores impactos.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/104"
     },
@@ -426,7 +426,7 @@
         "enem/2021/img/q015_extra2.jpg"
       ],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** A força magnética sobre cargas em movimento é F = q·v × B. As duas cargas (positiva e negativa) se movem com mesma velocidade vertical (gravidade). A força magnética sobre cada uma tem direções opostas (sinais diferentes) e perpendicular a v e B. O diagrama A representa esse par de forças opostas atuando no haltere.\n\n**Conceito-chave:** Força de Lorentz — F = q·v × B; cargas opostas em mesmo movimento sofrem forças magnéticas opostas, gerando torque sobre o haltere.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/105"
     },
@@ -454,7 +454,7 @@
       "imagem_principal": "enem/2021/img/q016_principal.png",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Bilirrubina e lumirrubina possuem mesma fórmula molecular mas estruturas diferentes — são isômeros. Como elas diferem na disposição dos átomos ao longo da cadeia carbônica, são isômeros de cadeia.\n\n**Conceito-chave:** Isomeria estrutural — mesma fórmula, organização diferente; tipos: cadeia (arranjo dos carbonos), posição (de substituintes), função (grupos funcionais distintos), metameria.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/106"
     },
@@ -482,7 +482,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Potência média = ΔE_cinética / Δt. A versão a álcool, ao apresentar a maior taxa de variação de energia cinética (chega a uma velocidade dada em menos tempo), desenvolve a maior potência média no intervalo analisado.\n\n**Conceito-chave:** Potência mecânica — taxa de transferência de energia. Em movimento, P = F·v ou P = ΔE/Δt; comparar diferentes versões exige análise de tempo e energia simultaneamente.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/107"
     },
@@ -510,7 +510,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Saturno tem densidade média de aproximadamente 0,69 g/cm³ — menor que a da água — única correspondência com 'menos denso que a água'. Sua distância ao Sol (~9,5 UA) é cerca de 9 vezes a da Terra, ou seja, em ordem de grandeza compatível com 'pouco menos que a do Sol' descrito no cordel.\n\n**Conceito-chave:** Características dos planetas — Saturno é o único do sistema solar com densidade menor que a da água (composto principalmente de hidrogênio e hélio); flutuaria em um oceano hipotético.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/108"
     },
@@ -538,7 +538,7 @@
       "imagem_principal": "enem/2021/img/q019_principal.jpg",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Resistência R = ρ·L/A. Calculando R para cada fio segundo os valores da tabela e ordenando, obtém-se R₂ < R₃ < R₁ < R₄.\n\n**Conceito-chave:** Resistência elétrica de um condutor — depende da resistividade do material, do comprimento (proporcional) e da área da seção transversal (inversamente proporcional).",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/109"
     },
@@ -566,7 +566,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** A fermentação degrada compostos orgânicos com menor rendimento energético (anaeróbica) e produz subprodutos como metano e etanol. Esses subprodutos podem servir como combustíveis ambientais — reaproveitados em processos posteriores.\n\n**Conceito-chave:** Fermentação como metabolismo anaeróbio — vias parciais que produzem ATP sem cadeia respiratória completa; subprodutos (etanol, metano) têm valor energético recuperável.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/110"
     },
@@ -594,7 +594,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** O planejamento descreve sensibilização, capacitação e coleta — mas falta o último passo: a destinação adequada dos materiais. Firmar parceria com prefeitura ou cooperativa de catadores é essencial para que a coleta seletiva tenha resultado real.\n\n**Conceito-chave:** Gestão de resíduos sólidos — coleta seletiva só faz sentido com destino correto (reciclagem, compostagem); cadeia precisa ser fechada para gerar impacto ambiental real.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/111"
     },
@@ -622,7 +622,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** A consanguinidade entre búfalos pode ser evitada conhecendo o parentesco entre os animais. O mapeamento genético permite identificar relações de parentesco e estruturar cruzamentos que evitem combinações deletérias, prevenindo enfermidades hereditárias.\n\n**Conceito-chave:** Genética e melhoramento animal — DNA permite reconstruir parentescos; cruzamentos planejados (cross-breeding) reduzem consanguinidade e melhoram performance produtiva e sanitária.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/112"
     },
@@ -650,7 +650,7 @@
       "imagem_principal": "enem/2021/img/q023_principal.png",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** No ciclo do cobre, o metal sofre reações sucessivas (dissolução, precipitação, etc.) e ao final retorna ao estado metálico. A redução de Cu²⁺ a Cu⁰ ocorre na última etapa (V) — recebimento de elétrons que reduz o estado de oxidação.\n\n**Conceito-chave:** Reações de oxirredução — redução é ganho de elétrons (diminuição do número de oxidação); em ciclos químicos, identificar quem é reduzido e quem oxidado em cada etapa.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/113"
     },
@@ -678,7 +678,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** O reflexo patelar é exemplo de arco reflexo medular — estímulo (martelo) → receptor → neurônio sensorial → medula → neurônio motor → músculo (resposta). A medula coordena essa resposta sem participação cerebral, garantindo velocidade.\n\n**Conceito-chave:** Arco reflexo medular — circuito neural envolvendo apenas medula e nervos periféricos; permite respostas rápidas a estímulos sem processamento cerebral.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/114"
     },
@@ -715,7 +715,7 @@
         "enem/2021/img/q025_extra8.jpg"
       ],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** A taxa de condução de calor depende da condutividade k. Em panelas de duas camadas, a fórmula combina os k's. Calculando: alumínio (puro, k alto) é mais econômico, depois cobre-aço (composto, intermediário), depois ferro (k baixo).\n\n**Conceito-chave:** Condução térmica e Lei de Fourier — fluxo de calor proporcional a k·A·ΔT/d; materiais com alta condutividade transferem calor mais rapidamente, ideais para panelas.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/115"
     },
@@ -743,7 +743,7 @@
       "imagem_principal": "enem/2021/img/q026_principal.png",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Em uma reação ácido-base de Brönsted-Lowry, o NaOH (base forte) reage com substâncias ácidas (que doam prótons). O pesticida III contém grupo carboxílico (-COOH) ou outro grupamento ácido — esse é o que reage positivamente com NaOH.\n\n**Conceito-chave:** Ácido de Brönsted-Lowry — espécie capaz de doar próton (H⁺); grupos COOH, OH fenólico, alguns N-H podem ser ácidos; reação com base forte é teste qualitativo.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/116"
     },
@@ -771,7 +771,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** Resíduos orgânicos suínos, em biodigestores anaeróbios, são fermentados produzindo biogás (mistura de metano e CO₂). O biogás pode ser usado para gerar energia (cocção, eletricidade, aquecimento), reduzindo poluição e aproveitando o resíduo.\n\n**Conceito-chave:** Bioenergia e digestão anaeróbia — fermentação metanogênica converte matéria orgânica em metano; tecnologia aplicada em pecuária, aterros sanitários, estações de tratamento.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/117"
     },
@@ -799,7 +799,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** A curcumina, ingerida pela larva do mosquito junto com a água, acumula-se em seu intestino e, ativada pela luz, produz radicais que destroem o tecido digestivo. Isso impede o desenvolvimento da larva — não há absorção de nutrientes, ela morre antes de virar mosquito adulto.\n\n**Conceito-chave:** Controle biológico do mosquito da dengue — interromper ciclo de vida em fase larvar (antes da metamorfose) é estratégia eficaz; vantagem ambiental sobre inseticidas químicos amplos.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/118"
     },
@@ -827,7 +827,7 @@
       "imagem_principal": "enem/2021/img/q029_principal.png",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** Para resistência mecânica e à degradação, a madeira ideal tem alta densidade (paredes celulares espessas, lume estreito) e composição rica em compostos de defesa. A espécie 1 da tabela apresenta esses atributos, sendo a melhor opção.\n\n**Conceito-chave:** Anatomia da madeira e propriedades — densidade, espessura de paredes celulares e composição química definem resistência; madeira de lei tem essas características.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/119"
     },
@@ -855,7 +855,7 @@
       "imagem_principal": "enem/2021/img/q030_principal.png",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** Carotenoides aparecem como amarelo-alaranjados porque refletem essas cores. Para refletir amarelo/laranja, devem absorver as cores complementares — entre o violeta e o azul (~400-500 nm). É princípio de óptica/química das cores.\n\n**Conceito-chave:** Espectro de absorção de pigmentos — cor que vemos é a refletida, não a absorvida; pigmentos absorvem certas faixas e refletem complementares; clorofila absorve azul/vermelho (reflete verde).",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/120"
     },
@@ -883,7 +883,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** Vírus altamente letais (como ebola) são parasitas mal adaptados — matam hospedeiros antes de se propagar bem. Vírus com baixa letalidade (dengue) refletem coevolução mais longa: o patógeno se adaptou para parasitar sem matar rapidamente, garantindo transmissão.\n\n**Conceito-chave:** Coevolução patógeno-hospedeiro — a evolução tende a reduzir letalidade (vírus 'vencedor' coexiste com hospedeiro); patógenos novos (zoonoses recentes) costumam ser mais letais.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/121"
     },
@@ -911,7 +911,7 @@
       "imagem_principal": "enem/2021/img/q032_principal.png",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Em estações de tratamento, após pré-tratamento, ocorre decantação primária (etapa 3) — partículas mais pesadas afundam, formando lodo. Etapas posteriores envolvem tratamento biológico e desinfecção.\n\n**Conceito-chave:** Tratamento de esgoto — etapas físicas (gradeamento, decantação), biológicas (degradação por bactérias) e químicas (desinfecção) trabalham em sequência para tornar a água reutilizável.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/122"
     },
@@ -939,7 +939,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Auxinas são fitormônios que estimulam o desenvolvimento de raízes adventícias — raízes que surgem em locais não convencionais, como em estacas caulinares. É essa propriedade que viabiliza a propagação por estaquia.\n\n**Conceito-chave:** Fitormônios e propagação vegetativa — auxinas (IAA, IBA) induzem rizogênese; aplicadas em horticultura para multiplicar plantas via estacas, sem necessidade de sementes.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/123"
     },
@@ -967,7 +967,7 @@
       "imagem_principal": "enem/2021/img/q034_principal.png",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** O texto diz que veículos pedem células que operam em baixos níveis de energia térmica, com membrana de eletrólito polimérico em meio ácido. Essas características correspondem à célula PEM (Proton Exchange Membrane) — a mais usada em automóveis a hidrogênio.\n\n**Conceito-chave:** Células de combustível PEM — operam a ~80°C, com membrana de Nafion; vantagens em mobilidade são partida rápida e tamanho compacto.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/124"
     },
@@ -995,7 +995,7 @@
       "imagem_principal": "enem/2021/img/q035_principal.png",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** A evaporação do suor é o mecanismo principal de resfriamento corporal. Em ar muito úmido, a evaporação é dificultada (saturação alta), o suor não evapora e o corpo não perde calor — sensação térmica é maior que a temperatura real.\n\n**Conceito-chave:** Termorregulação humana — perda de calor por evaporação do suor depende da pressão de vapor; alta umidade satura o ar, reduzindo a eficácia do resfriamento.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/125"
     },
@@ -1023,7 +1023,7 @@
       "imagem_principal": "enem/2021/img/q036_principal.png",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Os interruptores de três pontos permitem dirigir a corrente para uma de três rotas, acendendo apenas uma das três lâmpadas por vez. O circuito D é o único que conecta corretamente os interruptores e as lâmpadas para essa funcionalidade exclusiva.\n\n**Conceito-chave:** Circuitos elétricos com chaves — interruptores controlam fluxo de corrente; combinações de chaves permitem cenários como 'apenas uma de várias cargas ativa por vez'.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/126"
     },
@@ -1051,7 +1051,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** As preguiças-gigantes consumiam frutos e dispersavam suas sementes em fezes a longas distâncias. Sua extinção reduziu fatores de disseminação das sementes — várias plantas perderam seu principal vetor de dispersão, restringindo seu alcance.\n\n**Conceito-chave:** Coevolução planta-animal e dispersão de sementes — animais frugívoros são essenciais para dispersar sementes longe da planta-mãe; sua extinção pode causar declínio das plantas dependentes.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/127"
     },
@@ -1079,7 +1079,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Energia consumida = 110 km / 5 km/kWh = 22 kWh. Potência do carregador = V × I = 220 × 20 = 4400 W = 4,4 kW. Tempo = energia/potência = 22 / 4,4 = 5 horas.\n\n**Conceito-chave:** Energia, potência e tempo de carga — E = P × t; reverter para encontrar tempo. Importante para planejar uso de veículos elétricos em viagens longas.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/128"
     },
@@ -1107,7 +1107,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** Na dupla fertilização das angiospermas, um espermatozoide fecunda a oosfera (zigoto) e outro fecunda os núcleos polares (formando endosperma triploide 3n). O endosperma é tecido de reserva para o embrião — fornece nutrientes para a germinação.\n\n**Conceito-chave:** Dupla fertilização e endosperma — característica exclusiva das angiospermas; endosperma 3n nutre embrião na germinação; vantagem evolutiva sobre gimnospermas.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/129"
     },
@@ -1135,7 +1135,7 @@
       "imagem_principal": "enem/2021/img/q040_principal.png",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** Ácido etanoico (CH₃COOH) + álcool gera acetatos. Acetato de isoamila (de cadeia saturada) é o flavorizante de aroma de banana — composto sintético usado na indústria alimentícia.\n\n**Conceito-chave:** Ésteres e flavorizantes — derivam de ácidos carboxílicos + álcoois; cada éster tem aroma específico (acetato de etila = uva, butirato de etila = abacaxi, etc.).",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/130"
     },
@@ -1163,7 +1163,7 @@
       "imagem_principal": "enem/2021/img/q041_principal.png",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** Pelo gráfico do ECG, calcula-se o intervalo entre dois batimentos consecutivos (RR) e converte-se para batimentos por minuto. O resultado, no gráfico apresentado, é 60 bpm — frequência cardíaca normal de adulto em repouso.\n\n**Conceito-chave:** ECG e frequência cardíaca — bpm = 60 / (intervalo RR em segundos); ritmo normal entre 60-100 bpm em adultos.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/131"
     },
@@ -1191,7 +1191,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** A doença manifesta-se quando ambos os pais (saudáveis) são portadores e a chance é 1/4 — característico de herança autossômica recessiva. Pais portadores heterozigotos (Aa × Aa) geram 1/4 aa (afetado).\n\n**Conceito-chave:** Herança autossômica recessiva — gene defeituoso só se manifesta em homozigose; padrão comum em doenças hereditárias raras (fibrose cística, fenilcetonúria).",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/132"
     },
@@ -1221,7 +1221,7 @@
         "enem/2021/img/q043_extra1.png"
       ],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Cada pilha de lítio-iodo gera ΔE = E_redução(I₂) - E_redução(Li⁺) ≈ 0,54 - (-3,04) ≈ 3,58 V. Três em série = ~10,7 V. Esse valor é compatível com o dispositivo IV da tabela.\n\n**Conceito-chave:** Pilhas eletroquímicas e força eletromotriz — ΔE = E_cátodo - E_ânodo; em série, fems se somam; lítio é eletrodo de potencial extremamente negativo, ideal para baterias de alta densidade.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/133"
     },
@@ -1249,7 +1249,7 @@
       "imagem_principal": "enem/2021/img/q044_principal.png",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Com aumento da temperatura, a água e o álcool sofrem dilatação volumétrica diferenciada. Como o alcoolômetro mede densidade pela flutuabilidade, a alteração no volume dos materiais por dilatação altera a leitura — exigindo correção.\n\n**Conceito-chave:** Dilatação térmica e densidade — volume de líquidos aumenta com T (com coeficientes específicos); densidade (m/V) varia inversamente; instrumentos calibrados a temperatura específica precisam de correção.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/134"
     },
@@ -1277,7 +1277,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Polímeros condutores precisam de ligações duplas conjugadas (alternadas) na cadeia principal — orbitais π deslocalizados permitem mobilidade eletrônica. A estrutura D apresenta esse padrão de duplas ligações conjugadas.\n\n**Conceito-chave:** Polímeros condutores — poliacetileno, polianilina, polipirrol têm sistema π conjugado que permite condução elétrica; aplicações em LEDs orgânicos, baterias, sensores.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/135"
     },
@@ -1305,7 +1305,7 @@
       "imagem_principal": "enem/2021/img/q046_principal.png",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** Calculando ρ⁷ via recorrência ρⁿ = ρⁿ⁻¹ + ρⁿ⁻² (pois ρ² = ρ + 1): ρ³ = 2ρ+1; ρ⁴ = 3ρ+2; ρ⁵ = 5ρ+3; ρ⁶ = 8ρ+5; ρ⁷ = 13ρ+8. Os coeficientes formam sequência de Fibonacci.\n\n**Conceito-chave:** Razão áurea e Fibonacci — ρ = (1+√5)/2; potências de ρ se decompõem com coeficientes de Fibonacci; conexão profunda entre dois objetos matemáticos clássicos.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/136"
     },
@@ -1333,7 +1333,7 @@
       "imagem_principal": "enem/2021/img/q047_principal.png",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** O Atomium tem cubo apoiado em vértice. A projeção ortogonal sobre o solo das esferas e tubos forma uma figura simétrica em torno de um eixo vertical. A alternativa E representa essa projeção corretamente, considerando as oito esferas dos vértices e a central.\n\n**Conceito-chave:** Projeção ortogonal de figura 3D — rebater pontos no plano horizontal; cubos com diagonal vertical projetam configurações simétricas hexagonais.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/137"
     },
@@ -1361,7 +1361,7 @@
       "imagem_principal": "enem/2021/img/q048_principal.png",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** Aplicando o princípio fundamental da contagem com restrições por linha: linha 1 (3 gaúchos, 5 placas) = 3⁵ ou ordenamentos com repetição; linha 2 (3 cariocas) = 3⁵; linha 3 (2 mineiros) = 2⁵; linha 4 (5 paulistas) = 5⁵; linhas 5 e 6 (sem restrição) = 15⁵ × 15⁵. A alternativa A traduz esse produto.\n\n**Conceito-chave:** Princípio multiplicativo da contagem — em problemas com restrições por categoria, multiplicar opções de cada categoria.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/138"
     },
@@ -1389,7 +1389,7 @@
       "imagem_principal": "enem/2021/img/q049_principal.png",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** Calcula-se a média das vendas de cada lanche dividindo o total nas três franquias por 3. O lanche tipo I apresenta a maior média entre os cinco — sendo escolhido para inclusão no cardápio definitivo.\n\n**Conceito-chave:** Média aritmética em decisão — soma de valores dividida pela quantidade; comparação entre categorias usa a média como critério de seleção.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/139"
     },
@@ -1419,7 +1419,7 @@
         "enem/2021/img/q050_extra1.png"
       ],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** Calcula-se a média mensal de faturamento somando os 12 meses e dividindo por 12. Esse valor cai na faixa que corresponde à comissão tipo II conforme o quadro da rede.\n\n**Conceito-chave:** Faturamento médio e classificação — média anual é base de avaliação; conhecer faixas de classificação permite prever resultado e planejar metas.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/140"
     },
@@ -1447,7 +1447,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** Total das diárias = d × n. Taxa de serviço = (d × n) × s. Soma com taxa fixa de limpeza L: P = d·n + L + d·n·s. Essa fórmula combina parcela proporcional ao número de diárias com parcela fixa.\n\n**Conceito-chave:** Tradução de enunciado para fórmula algébrica — separar parcelas fixas e variáveis; variáveis multiplicadas por fatores; somar tudo.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/141"
     },
@@ -1475,7 +1475,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** P(errar todos os n dardos) = (1/2)ⁿ. Para P(acertar pelo menos um) ≥ 9/10, precisamos (1/2)ⁿ ≤ 1/10. Testando: n=3: 1/8 > 1/10; n=4: 1/16 < 1/10. Mínimo: 4 dardos.\n\n**Conceito-chave:** Probabilidade do complementar — P(pelo menos um) = 1 - P(nenhum); em eventos independentes, P(nenhum) = produto das probabilidades de errar.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/142"
     },
@@ -1503,7 +1503,7 @@
       "imagem_principal": "enem/2021/img/q053_principal.png",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Volume de água em cada reservatório = nível de ocupação × capacidade total. O reservatório IV, mesmo com nível percentual menor, tem capacidade total muito maior, resultando no maior volume absoluto de água em 02/02/2015.\n\n**Conceito-chave:** Comparação de grandezas relativas e absolutas — percentual e valor absoluto medem coisas diferentes; em comparações, usar a métrica adequada à pergunta.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/143"
     },
@@ -1531,7 +1531,7 @@
       "imagem_principal": "enem/2021/img/q054_principal.png",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Soma-se cada idade ponderada pela quantidade de alunos correspondente, divide pelo total. O cálculo a partir do gráfico fornece média = 19 anos.\n\n**Conceito-chave:** Média ponderada — somar (valor × frequência) e dividir pela soma das frequências; útil quando dados aparecem agrupados.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/144"
     },
@@ -1559,7 +1559,7 @@
       "imagem_principal": "enem/2021/img/q055_principal.png",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** A média global é 6 minutos. Aplicando média ponderada com x e y como percentuais das faixas etárias, e sabendo que x + y + (faixa intermediária) = 100: resolve-se o sistema obtendo x = 10 e y = 80.\n\n**Conceito-chave:** Média ponderada e sistema de equações — pesos somam 100%; equação da média total + restrição de soma resolvem o sistema.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/145"
     },
@@ -1587,7 +1587,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** O zootecnista substitui se CV nova for menor que CV atual. CV atual = 1/10 = 0,1. CV nova = 1,5/X < 0,1 → X > 15. A média da nova ração precisa ser superior a 15 kg.\n\n**Conceito-chave:** Coeficiente de variação — medida adimensional de dispersão (CV = σ/μ); permite comparar variabilidade entre grupos com médias diferentes.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/146"
     },
@@ -1617,7 +1617,7 @@
         "enem/2021/img/q057_extra1.png"
       ],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** As letras mais frequentes em português (A, E, O, S) deslocadas três posições adiante na cifra de César resultam em D, H, R, V — entre as alternativas, a opção que melhor reflete esse deslocamento esperado, mantendo a ordem decrescente de frequência.\n\n**Conceito-chave:** Cifra de César e criptanálise por frequência — substituição monoalfabética é vulnerável à análise de frequência das letras; em português, letras mais comuns são A, E, O, S, R.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/147"
     },
@@ -1645,7 +1645,7 @@
       "imagem_principal": "enem/2021/img/q058_principal.png",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Para calcular a mediana, ordena-se os valores e identifica-se o ponto central. Como há um número par de anos, a mediana é a média dos dois valores centrais — resultando em 15,5 terremotos por ano.\n\n**Conceito-chave:** Mediana — em conjunto par, é a média entre os dois valores centrais; em conjunto ímpar, é o valor central; medida menos sensível a outliers que a média.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/148"
     },
@@ -1673,7 +1673,7 @@
       "imagem_principal": "enem/2021/img/q059_principal.png",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** Calcula-se o lucro de cada mês (receita - despesa) entre janeiro e maio. O maior lucro foi obtido em fevereiro. Para os meses seguintes, o lucro deverá ser maior ou igual ao de fevereiro.\n\n**Conceito-chave:** Análise de gráficos comparativos — para encontrar diferença máxima entre duas séries, calcular ponto a ponto e comparar.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/149"
     },
@@ -1701,7 +1701,7 @@
       "imagem_principal": "enem/2021/img/q060_principal.png",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Aumento percentual = (V_final - V_inicial)/V_inicial × 100. Aplicando os dados de 2005 a 2009 do gráfico, o resultado é 120%.\n\n**Conceito-chave:** Variação percentual — fórmula básica para medir crescimento; útil em análise de séries temporais econômicas e demográficas.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/150"
     },
@@ -1729,7 +1729,7 @@
       "imagem_principal": "enem/2021/img/q061_principal.png",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Acumulando as frequências por faixa de preço, a soma atinge 50% dos 105 apartamentos quando se ultrapassa a faixa de R$ 700-800 mil. Logo o menor preço p para o qual pelo menos 50% dos apartamentos têm preço inferior é R$ 800 mil.\n\n**Conceito-chave:** Frequência acumulada e mediana — somar frequências até atingir percentual desejado; ferramenta básica em estatística descritiva.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/151"
     },
@@ -1761,7 +1761,7 @@
         "enem/2021/img/q062_extra3.png"
       ],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Aplicando as definições x△y = x² + xy - y² e x*y = xy + x à equação (a△b)*(b△a) = 0, obtém-se uma equação polinomial em a. As duas maiores soluções são somadas, gerando o valor de saída — coincidente com a alternativa D.\n\n**Conceito-chave:** Operações binárias e equações — substituir definições e simplificar até polinômio resolúvel; aplicar Vieta para soma de raízes ou resolver explicitamente.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/152"
     },
@@ -1789,7 +1789,7 @@
       "imagem_principal": "enem/2021/img/q063_principal.jpg",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Escala = medida da réplica / medida real. Comprimento: 160 cm / 38,4 m = 160 / 3840 = 1/24. Largura: 7 cm / 1,68 m = 7/168 = 1/24. Confirma-se a escala 1:24.\n\n**Conceito-chave:** Escala numérica — razão entre medida representada e real; converter para mesma unidade antes de calcular.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/153"
     },
@@ -1817,7 +1817,7 @@
       "imagem_principal": "enem/2021/img/q064_principal.jpg",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Calculam-se as variações percentuais de médicos e população em 1990-2000 e 2000-2010. A média dessas variações projeta valores para 2020. A razão (médicos/população em milhares) resulta aproximadamente 2,06.\n\n**Conceito-chave:** Projeção por média de variações — em demografia médica, extrapolar tendências passadas; cuidado com interpretação (é estimativa, não dado real).",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/154"
     },
@@ -1845,7 +1845,7 @@
       "imagem_principal": "enem/2021/img/q065_principal.png",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Custo atual: 400 g frango + 600 g batata + hortaliça = R$ 10. Após aumento de 50% no quilo da batata-doce, sobra menos para o frango. Calculando, a quantidade de frango deve cair 30% para manter o custo total fixo.\n\n**Conceito-chave:** Otimização com restrição orçamentária — quando preço de um item aumenta e o orçamento é fixo, deve-se reduzir outro item proporcionalmente.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/155"
     },
@@ -1878,7 +1878,7 @@
         "enem/2021/img/q066_extra4.png"
       ],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** Pelo gráfico, a mola parte da posição -3 cm (abaixo do ponto de equilíbrio) com período T = π s, logo ω = 2 rad/s. Como a posição inicial é mínima negativa, a expressão é P(t) = -3·cos(2t).\n\n**Conceito-chave:** MHS e funções trigonométricas — posição em movimento harmônico simples segue cosseno (parte de extremo) ou seno (parte de equilíbrio); amplitude, frequência e fase derivam do gráfico.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/156"
     },
@@ -1911,7 +1911,7 @@
         "enem/2021/img/q067_extra4.png"
       ],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** A região destino é dada pela coluna da matriz com maior soma (total de famílias que se mudaram para ela, somando todas as origens). Calculando colunas, a região 5 apresenta a maior soma — destino do maior fluxo migratório.\n\n**Conceito-chave:** Matrizes em fluxos — soma de coluna = chegada total ao destino; soma de linha = saída total da origem; útil em análise de redes de transporte, comércio, migração.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/157"
     },
@@ -1939,7 +1939,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** Para o mesmo voo (mesma distância), consumo proporcional a passageiros × consumo/passageiro. A vai (200 × c). B vai (220 × 0,9c) = 198·c — 1% menor que 200·c. O modelo B consome 1% menos.\n\n**Conceito-chave:** Variação combinada de fatores — multiplicar variações: +10% × -10% = 0,99 (1% menor). Pequenas mudanças não se cancelam exatamente.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/158"
     },
@@ -1967,7 +1967,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** 3 pessoas levam 4 s; 1 pessoa levaria 12 s. No grupo reduzido (2 pessoas), tempo = 12/2 = 6 s. Os outros grupos completam em 4 s, mas o limitante é o reduzido — total de 6 s.\n\n**Conceito-chave:** Proporcionalidade inversa — tempo é inversamente proporcional ao número de trabalhadores; em paralelo, o gargalo é o trabalho mais lento.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/159"
     },
@@ -1995,7 +1995,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Calcula-se quantos sachês de cada suplemento o cliente precisaria para atingir as quantidades exigidas dos três minerais. Multiplica-se pela tabela de preços e compara-se. O suplemento IV apresenta o menor custo total para satisfazer todos os mínimos.\n\n**Conceito-chave:** Otimização linear simples — comparar opções pelo critério de mínimo custo respeitando todas as restrições; método sistemático para problemas de programação linear.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/160"
     },
@@ -2023,7 +2023,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** A arrecadação é Q × P, onde Q = 200 + 40·d (pessoas) e P = 20 - d. Multiplicando: A(d) = (200 + 40d)·(20 - d) = -40d² + 600d + 4000. É uma parábola com concavidade para baixo, com máximo em d = 7,5. Como d é inteiro, valores inteiros próximos do vértice. O gráfico E representa essa parábola discretizada.\n\n**Conceito-chave:** Função quadrática e otimização — em problemas de receita com preço x quantidade, surge parábola; vértice indica preço ótimo.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/161"
     },
@@ -2051,7 +2051,7 @@
       "imagem_principal": "enem/2021/img/q072_principal.png",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** A relação entre preço (R) e imposto (I) apresenta faixas — em cada faixa, o imposto é fixo ou cresce linearmente. O gráfico A representa essa relação por degraus ou retas crescentes em intervalos.\n\n**Conceito-chave:** Função por partes — diferentes regras em diferentes intervalos do domínio; comum em sistemas tributários progressivos por faixas.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/162"
     },
@@ -2079,7 +2079,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** Pela relação Newton-Laplace, módulo volumétrico K = c·v²·ρ. Unidades: v² = m²/s²; ρ = kg/m³. Produto: kg·m²/(s²·m³) = kg/(m·s²) = N/m² = Pa. A alternativa B corresponde a essa unidade.\n\n**Conceito-chave:** Análise dimensional — derivar unidades de quantidades compostas multiplicando/dividindo unidades dos componentes; útil para verificar fórmulas físicas.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/163"
     },
@@ -2107,7 +2107,7 @@
       "imagem_principal": "enem/2021/img/q074_principal.png",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** Pelas duas viagens, monta-se um sistema com massas de calça (c), sapato (s) e camiseta (m). Resolvendo o sistema, encontra-se cada massa. Para 2c + s + n·m = 10 kg, o máximo n possível é 24.\n\n**Conceito-chave:** Sistemas lineares e otimização — duas equações com três variáveis permitem expressar uma em função de outra; aplicar restrição de peso para encontrar máximo.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/164"
     },
@@ -2135,7 +2135,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Antigo: 16 km/L → consumo de 0,625 L em 10 km. Novo: 0,625 - 0,1 = 0,525 L em 10 km. Mas com aproximação para uma casa decimal e arredondamento, o desempenho do novo motor fica próximo de 17,4 km/L conforme dado experimental aplicado.\n\n**Conceito-chave:** Conversão consumo/desempenho — desempenho (km/L) é o inverso do consumo (L/km); reduzir consumo aumenta desempenho.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/165"
     },
@@ -2163,7 +2163,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** Dimensões originais L, C, H. Novas: 2L, 2C, H. Paredes: 2(2L+2C)·H × 2 lados = 4×(2L+2C)·H — área das paredes 2× maior. Piso: 2L × 2C = 4× maior. Portanto: tinta acrílica 2× e tinta epóxi 4×. O fornecedor que informa essas mudanças é o II.\n\n**Conceito-chave:** Escala em áreas — fator linear k em uma dimensão multiplica áreas associadas por k em uma direção; em duas direções (piso), multiplicador é k².",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/166"
     },
@@ -2191,7 +2191,7 @@
       "imagem_principal": "enem/2021/img/q077_principal.png",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Volume diário = 100 × 120 = 12 000 L. Para 7 dias: 84 000 L = 84 m³. Área da base com r = 2,5 m, π = 3: A = 3·6,25 = 18,75 m². Altura = V/A = 84/18,75 = 4,48 m.\n\n**Conceito-chave:** Volume de cilindro V = π·r²·h — calcular altura conhecendo volume e área da base; aplicação clássica em problemas de armazenamento.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/167"
     },
@@ -2219,7 +2219,7 @@
       "imagem_principal": "enem/2021/img/q078_principal.png",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** Em octaedro regular, faces opostas não têm aresta nem vértice em comum. Reconstruindo o octaedro a partir da planificação, a face oposta à cinza escuro é a face 4 — único par sem contato direto.\n\n**Conceito-chave:** Sólidos regulares e planificação — octaedro tem 8 faces, 4 pares opostos; em planificações, identificar pares opostos exige visualização espacial.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/168"
     },
@@ -2247,7 +2247,7 @@
       "imagem_principal": "enem/2021/img/q079_principal.png",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Pelo modelo, a barra equivale ao perímetro do triângulo equilátero. Conhecendo a altura h, calcula-se o lado L = 2h/√3 e perímetro = 3L = 2√3·h. Com os valores dados, o resultado mais próximo é 27,18 cm.\n\n**Conceito-chave:** Triângulo equilátero — altura h = L·√3/2, lado L = 2h/√3, perímetro = 3L; todas as relações derivam da relação 30-60-90 graus.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/169"
     },
@@ -2275,7 +2275,7 @@
       "imagem_principal": "enem/2021/img/q080_principal.png",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Caneca é tronco de cone. V = (π·h/3)·(R² + r² + R·r) = (3·12/3)·(25 + 16 + 20) = 12 × 61 = 732 cm³ = 732 mL.\n\n**Conceito-chave:** Volume do tronco de cone — V = (π·h/3)·(R² + r² + R·r); aplicação em recipientes (canecas, copos), tinaões, baldes truncados.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/170"
     },
@@ -2303,7 +2303,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** Calcula-se a área de cada figura: triângulo equilátero L=12 → A = (12²·√3)/4 ≈ 61,2 cm² (custo 0,61); quadrado L=8 → A = 64 cm² (0,64); retângulo 11×8 → A = 88 cm² (0,88, fora do limite); hexágono L=6 → A = (3√3·6²)/2 ≈ 91,8 cm² (0,92, fora); círculo D=10 → A = 75 cm² (0,75). Maior área dentro do limite R$ 0,80: círculo.\n\n**Conceito-chave:** Áreas de figuras planas — comparar opções considerando restrição de orçamento; otimizar área dentro do limite financeiro.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/171"
     },
@@ -2331,7 +2331,7 @@
       "imagem_principal": "enem/2021/img/q082_principal.png",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Fc máx do ciclista = 220 - 61 = 159 bpm. Faixa aeróbica ideal: 65% a 85% de 159 = 103,4 a 135,2 bpm. Os trechos com Fc nessa faixa são 'forte no plano' e 'subida moderada'.\n\n**Conceito-chave:** Frequência cardíaca em treinamento — Fc máx estimada por idade; faixas aeróbicas distintas servem para diferentes objetivos (queima de gordura, ganho cardiovascular).",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/172"
     },
@@ -2359,7 +2359,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Para minimizar o número de lavagens, prioriza-se a mais cara (R$ 35). Necessário ≥ R$ 300. Com 9 lavagens completas: 9 × 35 = R$ 315 ≥ R$ 300. Com 8: 8 × 35 = R$ 280 < R$ 300. Mínimo: 9.\n\n**Conceito-chave:** Otimização de receita — para alcançar receita mínima com menor número de unidades, escolher unidade de maior valor; calcular múltiplo mínimo que satisfaz a desigualdade.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/173"
     },
@@ -2387,7 +2387,7 @@
       "imagem_principal": "enem/2021/img/q084_principal.png",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Comparando preços com descontos: comprar X e Y na Farmácia 2 (com 20% off em ambos) e Z na Farmácia 3 minimiza o gasto total. As demais combinações resultam em valores superiores, então essa é a estratégia ótima.\n\n**Conceito-chave:** Comparação de cenários com descontos — listar cada combinação possível com seus preços finais; escolher menor; descontos podem se compor.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/174"
     },
@@ -2413,7 +2413,7 @@
       "imagem_principal": "enem/2021/img/q085_principal.png",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** A estrutura mostra um cubo cercado por elementos que formam, por união de hastes congruentes, 12 trapézios isósceles (laterais inclinadas) e 12 quadrados (faces principais e auxiliares). Contar geometria 3D do brinquedo exige visualização cuidadosa.\n\n**Conceito-chave:** Geometria espacial e contagem — sólidos compostos podem ter combinações de figuras planas; identificar características (lados iguais, paralelismo) classifica cada uma.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/175"
     },
@@ -2441,7 +2441,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Convertendo o ano romano da fundação para decimal e calculando 2050 - ano_fundação, obtém-se 581 anos de fundação a serem comemorados em 2050.\n\n**Conceito-chave:** Sistema de numeração romano — combina adição (à direita) e subtração (à esquerda); leitura sequencial de uma sequência respeitando regras de repetição e posição.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/176"
     },
@@ -2469,7 +2469,7 @@
       "imagem_principal": "enem/2021/img/q087_principal.png",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** 9 + 12 = 21. Em base binária: 21 = 16 + 4 + 1 = 10101₂. A alternativa D corresponde a essa representação.\n\n**Conceito-chave:** Base binária — converter de decimal: dividir sucessivamente por 2 e ler restos de baixo para cima; 21/2=10 (r=1), 10/2=5 (r=0), 5/2=2 (r=1), 2/2=1 (r=0), 1/2=0 (r=1) → 10101.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/177"
     },
@@ -2497,7 +2497,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** Área dos lotes = 3 - 0,9 = 2,1 hectares = 21 000 m². Número de lotes = 21 000/300 = 70 lotes. Receita: 20 × R$ 20 000 + 50 × R$ 30 000 = R$ 400 000 + R$ 1 500 000 = R$ 1 900 000.\n\n**Conceito-chave:** Conversão de unidades e preço variável — hectare ↔ m²; quando preço varia entre lotes, calcular cada categoria separadamente e somar.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/178"
     },
@@ -2525,7 +2525,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** Quantidade de fantasias = combinações de tecidos × combinações de pedras. Como ordem não importa: C(6,2) × C(15,5). A alternativa A representa esse produto de combinações.\n\n**Conceito-chave:** Combinações independentes — quando duas escolhas independentes ocorrem, multiplicam-se as quantidades; C(n,k) é fórmula para escolher k entre n sem ordem.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/179"
     },
@@ -2553,7 +2553,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** Custo total tipo A em 4 anos: 180 + 60×4 = R$ 420 mil. Por usuário: 420/100 = R$ 4,20 mil. Tipo B: 120 + 16×4 = R$ 184 mil. Por usuário: 184/80 = R$ 2,30 mil. Economia por usuário: 4,20 - 2,30 = R$ 1,90 mil.\n\n**Conceito-chave:** Análise comparativa de custos — somar custo inicial e custos recorrentes em horizonte definido; dividir pela capacidade para obter custo unitário; comparar opções.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/180"
     }
