@@ -1,0 +1,2530 @@
+{
+  "ano": 2019,
+  "dia": 1,
+  "total": 90,
+  "geradoEm": "2026-05-09T05:54:36Z",
+  "questoes": [
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 1,
+      "titulo": "Questão 1 - ENEM 2019",
+      "enunciado": "**Adelfos**\n\nYo soy como las gentes que a mi tierra vinieron — soy de la raza mora, vieja amiga del sol —, que todo lo ganaron y todo lo perdieron. Tengo el alma de nardo del árabe español.\n\n**MACHADO, M.** Disponível em: www.poetasandaluces.com. Acesso em: 22 out. 2015 (fragmento).",
+      "alternativas_introducao": "Nessa estrofe, o poeta e dramaturgo espanhol Manuel Machado reflete acerca",
+      "alternativas": [
+        "A) De sua formação identitária plural.",
+        "B) Da condição nômade de seus antepassados.",
+        "C) Da perda sofrida com o processo de migração.",
+        "D) Da dívida do povo espanhol para com o povo árabe.",
+        "E) De sua identificação com os elementos da natureza."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/1"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 2,
+      "titulo": "Questão 2 - ENEM 2019",
+      "enunciado": "**Millennials: Así es la generación que ya no recuerda**  \n**cómo era el mundo sin Internet**\n\nAlgunos los llaman generación Y, otros “Millennials”, generación del milenio o incluso “Echo Boomers”.  \nNacieron y crecieron en una era de rápido desarrollo de las nuevas tecnologías, y casi no recuerdan cómo era el mundo sin Internet.  \nSon idealistas, impacientes y están bien preparados académicamente. Muchos de ellos han tenido oportunidad de viajar por el mundo a una edad temprana,  \nde estudiar en las mejores universidades y de trabajar en empresas multinacionales y extranjeras.  \nLa generación Y se compone de este tipo de personas que quieren todo a la vez. No están dispuestos a soportar un trabajo poco interesante y rutinario, no quieren dejar las cosas buenas para luego. Lo que sí quieren es dejar su huella en la historia, vivir una vida interesante, formar parte de algo grande, crecer y desarrollarse, cambiar el mundo que les rodea, y no solo ganar dinero.\n\nDisponível em: https://actualidad.rt.com. Acesso em: 4 dez. 2018.",
+      "alternativas_introducao": "O texto aponta características e interesses da “Geração Y”. Nele, a expressão dejar su huella refere-se a um dos desejos dessa geração, que é o de",
+      "alternativas": [
+        "A) Conhecer diferentes lugares.",
+        "B) Fazer a diferença no mundo.",
+        "C) Aproveitar todas as oportunidades.",
+        "D) Obter uma formação acadêmica de excelência.",
+        "E) Conquistar boas colocações no mundo do trabalho."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/2"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 3,
+      "titulo": "Questão 3 - ENEM 2019",
+      "enunciado": "**Que hay de cierto en la fábula de la cigarra y la hormiga**\n\nCuenta una conocida fábula que, tras pasar todo un verano cantando y ociosa, una cigarra se encontró sin alimento y decidió pedir a su vecina, la hormiga algo que llevarse a la boca. Esta le ofreció granos de arroz acompañados de una moraleja: más vale prevenir que lamentar. ¿Merecen su fama de previsoras y afanosas las hormigas? Sin duda. Las hormigas cortadoras de hojas (Atta cephalotes), por ejemplo, son consideradas las primeras agricultoras del planeta, dedicadas a cortar, acarrear e integrar hojas en el jardín de hongos del que se alimentan. Otro dato curioso es que se ha comprobado que, prácticamente en todas las especies de hormigas, las más ancianas asumen trabajos de mayor riesgo. De acuerdo con Dawid Moron de la Universidad de Jagiellonian (Polonia), esto se debe a que es mejor para la colonia sacrificar una vida que está cerca de su fin que a un individuo joven.\n\nEn cuanto a las cigarras, no se les puede acusar de perezosas. Lo que sí es cierto es que los machos pasan el verano “cantando” — un sonido que producen con unas membranas llamadas timbales — y encaramados a un árbol, de cuya savia se alimentan.\n\n**Disponível em:** www.muyinteresante.es.  \nAcesso em: 31 out. 2012 (adaptado).",
+      "alternativas_introducao": "A fábula é um gênero de ampla divulgação frequentemente revisitado com diversos objetivos. No texto, a fábula A cigarra e a formiga é retomada para",
+      "alternativas": [
+        "A) Apresentar ao leitor um ensinamento moral.",
+        "B) Reforçar o estereótipo associado às cigarras.",
+        "C) Descrever o comportamento dos insetos na natureza.",
+        "D) Expor a superioridade das formigas em relação às cigarras.",
+        "E) Descrever a relação social entre formigas e cigarras na natureza."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/3"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 4,
+      "titulo": "Questão 4 - ENEM 2019",
+      "enunciado": "**Empanada  \n**\n\nOvera en bayo claro,\n\nvaquilla echada,\n\neres del vino tinto la camarada.\n\n\\[…\\]\n\nVienes llena de pino,\n\ncebolla y carne,\n\ncon pasas, huevo duro,\n\ny aliño de hambre.\n\nCon el primer mordisco\n\npor una oreja,\n\nse abre tu boca ardiente\n\ncomo sorpresa.\n\nTe la lleno de pebre\n\nquedas picante\n\nsi te beso muy fuerte,\n\nno me reclames.\n\nBusco, loco, en tu vientre,\n\ndelicia oscura,\n\nla traición exquisita\n\nde tu aceituna.\n\n\\[…\\]\n\nY repite el ataque\n\npor andanadas:\n\nNadie queda con hambre\n\nsi hay empanadas.\n\n**ANTRIX, J.** Disponível em: http://versado-en-la-cocina.blogspot.com.  \nAcesso em: 8 dez. 2018 (fragmento).",
+      "alternativas_introducao": "A gastronomia é uma das formas de expressão cultural de um povo. Nesse poema, ao personificar as empanadas, o escritor chileno Antrix",
+      "alternativas": [
+        "A) Enaltece esse prato da culinária hispânica.",
+        "B) Descreve algumas etapas de preparação dessa receita.",
+        "C) Destaca a importância do vinho na alimentação hispânica.",
+        "D) Resgata o papel histórico desse alimento em tempos de fome.",
+        "E) Evidencia a relevância de alguns condimentos na cozinha hispânica."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/4"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 5,
+      "titulo": "Questão 5 - ENEM 2019",
+      "enunciado": "**El Hombre Electrónico**\n\n¿Cuántas veces has cambiado de móvil? ¿Cuántos ordenadores has tenido ya? ¿Tienes cámara digital, IPOD, Nintendo Wii y televisión de pantalla de plasma? Ordenadores, teléfonos móviles, GPS, walkmans, televisiones, lavadoras, tostadores, aspiradores y un larguísimo etcétera. Todos usamos aparatos eléctricos que tarde o temprano se convertirán en residuos. El Hombre Electrónico mide 7 metros de altura y pesa 3,3 toneladas. Es una escultura hecha con la cantidad de residuos eléctricos y electrónicos que un ciudadano medio (en el Reino Unido) tirará a la basura a lo largo de su vida, si se sigue consumiendo este tipo de productos al ritmo actual. El Hombre Electrónico ha sido diseñado por el escultor Paul Bomini con objetivo de aumentar la conciencia de los ciudadanos a la hora de consumir aparatos eléctricos. Esta campaña parte de la base de que todos compramos aparatos electrónicos como herramientas de trabajo u ocio, pero haciéndonos unas cuantas preguntas podemos inducir cambios en nuestro comportamiento que beneficiarán al medio ambiente, otras personas y a nosotros mismos: ¿Tienes algún aparato eléctrico o electrónico que no necesitas? ¿Podrías ser más responsable a la hora de comprar un nuevo producto electrónico? ¿Podrías reciclar o reparar estos productos una vez que se han quedado obsoletos o se han roto? ¿Intentas ahorrar energia en tu vida diaria?\n\n**Disponível em:** www.verdecito.es. Acesso em: 20 fev. 2009 (adaptado).",
+      "alternativas_introducao": "Considerando a necessidade de assumir uma conduta mais responsável com o meio ambiente, Paul Bomini criou a escultura O homem eletrônico para",
+      "alternativas": [
+        "A) Incentivar inovações em reciclagem para a construção de máquinas.",
+        "B) Propor a criação de objetos a partir de aparelhos descartados.",
+        "C) Divulgar o lançamento de produtos eletrônicos sustentáveis.",
+        "D) D problematizar o descarte inconsequente de equipamentos.",
+        "E) Alertar sobre as escolhas tecnológicas da população."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/5"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 6,
+      "titulo": "Questão 6 - ENEM 2019",
+      "enunciado": "![](https://enem.dev/2019/questions/6/cec1fc23-8701-42af-93d4-d1ca5aef4495.png)\n\n**Disponível em:** http://palavrastempoder.org. Acesso em: 20 abr. 2015",
+      "alternativas_introducao": "Pela análise do conteúdo, constata-se que essa campanha publicitária tem como função social",
+      "alternativas": [
+        "A) Propagar a imagem positiva do Ministério Público.",
+        "B) Conscientizar a população que direitos implicam deveres.",
+        "C) Coibir violações de direitos humanos nos meios de comunicação.",
+        "D) Divulgar políticas sociais que combatem a intolerância e o preconceito.",
+        "E) Instruir as pessoas sobre a forma correta de expressão nas redes sociais."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2019/img/q006_principal.png",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/6"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 7,
+      "titulo": "Questão 7 - ENEM 2019",
+      "enunciado": "Um amor desse  \nEra 24 horas lado a lado  \nUm radar na pele, aquele sentimento alucinado  \nCoração batia acelerado  \nBastava um olhar pra eu entender  \nQue era hora de me entregar pra você  \nPalavras não faziam falta mais  \nAh, só de lembrar do seu perfume  \nQue arrepio, que calafrio  \nQue o meu corpo sente  \nNem que eu queira, eu te apago da minha mente  \nAh, esse amor  \nDeixou marcas no meu corpo  \nAh, esse amor  \nSó de pensar, eu grito, eu quase morro\n\n**AZEVEDO, N.; LEÃO, W.; QUADROS, R.** _Coração pede socorro_.  \nRio de Janeiro: Som Livre, 2018 (fragmento).",
+      "alternativas_introducao": "Essa letra de canção foi composta especialmente para uma campanha de combate à violência contra as mulheres, buscando conscientizá-las acerca do limite entre relacionamento amoroso e relacionamento abusivo. Para tanto, a estratégia empregada na letra é a",
+      "alternativas": [
+        "A) Revelação da submissão da mulher à situação de violência, que muitas vezes a leva à morte.",
+        "B) Ênfase na necessidade de se ouvirem os apelos da mulher agredida, que continuamente pede socorro.",
+        "C) Exploração de situação de duplo sentido, que mostra que atos de dominação e violência não configuram amor.",
+        "D) Divulgação da importância de denunciar a violência doméstica, que atinge um grande número de mulheres no país.",
+        "E) Naturalização de situações opressivas, que fazem parte da vida de mulheres que vivem em uma sociedade patriarcal."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/7"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 8,
+      "titulo": "Questão 8 - ENEM 2019",
+      "enunciado": "Meu caro Sherlock Holmes, algo horrível aconteceu às três da manhã no Jardim Lauriston. Nosso homem que estava na vigia viu uma luz às duas da manhã saindo de uma casa vazia. Quando se aproximou, encontrou a porta aberta e, na sala da frente, o corpo de um cavalheiro bem vestido. Os cartões que estavam em seu bolso tinham o nome de Enoch J. Drebber, Cleveland, Ohio, EUA. Não houve assalto e nosso homem não conseguiu encontrar algo que indicasse como ele morreu. Não havia marcas de sangue, nem feridas nele. Não sabemos como ele entrou na casa vazia. Na verdade, todo assunto é um quebra-cabeça sem fim. Se puder vir até a casa seria ótimo, se não, eu lhe conto os detalhes e gostaria muito de saber sua opinião. Atenciosamente, Tobias Gregson.\n\n**DOYLE, A. C.** _Um estudo em vermelho_. Cotia: Pé de Letra, 2017",
+      "alternativas_introducao": "Considerando o objetivo da carta de Tobias Gregson, a sequência de enunciados negativos presente nesse texto tem a função de",
+      "alternativas": [
+        "A) Restringir a investigação, deixando-a sob a responsabilidade do autor da carta.",
+        "B) Refutar possíveis causas da morte do cavalheiro, auxiliando na investigação.",
+        "C) Identificar o local da cena do crime, localizando-o no Jardim Lauriston.",
+        "D) Introduzir o destinatário da carta, caracterizando sua personalidade.",
+        "E) Apresentar o vigia, incluindo-o entre os suspeitos do assassinato."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/8"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 9,
+      "titulo": "Questão 9 - ENEM 2019",
+      "enunciado": "**Mídias: aliadas ou inimigas da educação física escolar?**\n\nNo caso do esporte, a mediação efetuada pela câmera de TV construiu uma nova modalidade de consumo: o esporte telespetáculo, realidade textual relativamente autônoma face à prática “real” do esporte, construída pela codificação e mediação dos eventos esportivos efetuados pelo enquadramento, edição das imagens e comentários, interpretando para o espectador o que ele está vendo. Esse fenômeno tende a valorizar a forma em relação ao conteúdo, e para tal faz uso privilegiado da linguagem audiovisual com ênfase na imagem cujas possibilidades são levadas cada vez mais adiante, em decorrência dos avanços tecnológicos. Por outro lado, a narração esportiva propõe uma concepção hegemônica de esporte: esporte é esforço máximo, busca da vitória, dinheiro… O preço que se paga por sua espetacularização é a fragmentação do fenômeno esportivo. A experiência global do ser-atleta é modificada: a sociabilização no confronto e a ludicidade não são vivências privilegiadas no enfoque das mídias, mas as eventuais manifestações de violência, em partidas de futebol, por exemplo, são exibidas e reexibidas em todo o mundo.\n\n**BETTI, M**. _Motriz_, n. 2, jul.-dez. 2001 (adaptado).",
+      "alternativas_introducao": "A reflexão trazida pelo texto, que aborda o esporte telespetáculo, está fundamentada na",
+      "alternativas": [
+        "A) Distorção da experiência do ser-atleta para os espectadores.",
+        "B) Interpretação dos espectadores sobre o conteúdo transmitido.",
+        "C) Utilização de equipamentos audiovisuais de última geração.",
+        "D) Valorização de uma visão ampliada do esporte.",
+        "E) Equiparação entre a forma e o conteúdo."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/9"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 10,
+      "titulo": "Questão 10 - ENEM 2019",
+      "enunciado": "![](https://enem.dev/2019/questions/10/ae918ab7-0af8-4aba-a19e-2ea912322846.jpg)",
+      "alternativas_introducao": "Essa campanha se destaca pela maneira como utiliza a linguagem para conscientizar a sociedade da necessidade de se acabar com o bullying. Tal estratégia está centrada no(a)",
+      "alternativas": [
+        "A) Chamamento de diferentes atores sociais pelo uso recorrente de estruturas injuntivas.",
+        "B) Variedade linguística caracterizadora do português europeu.",
+        "C) Restrição a um grupo específico de vítimas ao apresentar marcas gráficas de identificação de gênero como “o(a)”.",
+        "D) Combinação do significado de palavras escritas em línguas inglesa e portuguesa.",
+        "E) Enunciado de cunho esperançoso “passe à história” no título do cartaz."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2019/img/q010_principal.jpg",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/10"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 11,
+      "titulo": "Questão 11 - ENEM 2019",
+      "enunciado": "**Esporte e cultura: análise acerca da esportivização de práticas corporais nos jogos indígenas**\n\nNos Jogos dos Povos Indígenas, observa-se que as práticas corporais realizadas envolvem elementos tradicionais (como as pinturas e adornos corporais) e modernos (como a regulamentação, a fiscalização e a padronização). O arco e flecha e a lança, por exemplo, são instrumentos tradicionalmente utilizados para a caça e a defesa da comunidade na aldeia. Na ocasião do evento, esses artefatos foram produzidos pela própria etnia, porém sua estruturação como “modalidade esportiva” promoveu uma semelhança entre as técnicas apresentadas, com o sentido único da competição.\n\n**ALMEIDA, A. J. M.**; **SUASSUNA, D. M. F. A**. _Pensar a prática_, n. 1, jan.-abr. 2010 (adaptado)",
+      "alternativas_introducao": "A relação entre os elementos tradicionais e modernos nos Jogos dos Povos Indígenas desencadeou a",
+      "alternativas": [
+        "A) Padronização de pinturas e adornos corporais.",
+        "B) Sobreposição de elementos tradicionais sobre os modernos.",
+        "C) Individuação das técnicas apresentadas em diferentes modalidades.",
+        "D) Legitimação das práticas corporais indígenas como modalidade esportiva.",
+        "E) Preservação dos significados próprios das práticas corporais em cada cultura."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/11"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 12,
+      "titulo": "Questão 12 - ENEM 2019",
+      "enunciado": "![](https://enem.dev/2019/questions/12/cbc6cd51-59ad-446d-823e-2bd9c979d5a1.png)\n\n**TEXTO II**\n\n**Quadrinista surda faz sucesso na CCXP com narrativas silenciosas**\n\nA área de artistas independentes da Comic Con Experience (CCXP) deste ano é a maior da história do evento geek, são mais de 450 quadrinistas e ilustradores no Artists’ Alley.\n\nE a diversidade vai além do estilo das HQ. Em uma das mesas na fila F, senta a quadrinista com deficiência auditiva Ju Loyola, com suas histórias que classifica como “narrativas silenciosas”. São histórias que podem ser compreendidas por crianças e adultos, e pessoas de qualquer nacionalidade, pelo simples motivo de não terem uma única palavra.\n\nA artista não escreve roteiros convencionais para suas obras. Sua experiência de ter que entender a comunicação pelo que vê faz com que ela se identifique muito mais com o que observa do que com o que as pessoas dizem.\n\nE basta folhear suas obras que fica claro que elas não são histórias em quadrinhos que perderam as palavras, mas sim que ganharam uma nova perspectiva.\n\n**Disponível em:** https://catracalivre.com.br. Acesso em: 8 dez. 2018 (adaptado).",
+      "alternativas_introducao": "O Texto I exemplifica a obra de uma artista surda, que promove uma experiência de leitura inovadora, divulgada no Texto II. Independentemente de seus objetivos, ambos os textos",
+      "alternativas": [
+        "A) Incentivam a produção de roteiros compostos por imagens.",
+        "B) Colaboram para a valorização de enredos românticos.",
+        "C) Revelam o sucesso de um evento de cartunistas.",
+        "D) Contribuem com o processo de acessibilidade.",
+        "E) Questionam o padrão tradicional das HQ."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2019/img/q012_principal.png",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/12"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 13,
+      "titulo": "Questão 13 - ENEM 2019",
+      "enunciado": "HELOÍSA: Faz versos?\n\nPINOTE: Sendo preciso… Quadrinhas… Acrósticos… Sonetos… Reclames.\n\nHELOÍSA: Futuristas?\n\nPINOTE: Não senhora! Eu já fui futurista. Cheguei a acreditar na independência… Mas foi uma tragédia! Começaram a me tratar de maluco. A me olhar de esguelha. A não me receber mais. As crianças choravam em casa. Tenho três filhos. No jornal também não pagavam, devido à crise. Precisei viver de bicos. Ah! Reneguei tudo. Arranjei aquele instrumento (Mostra a faca) e fiquei passadista.\n\n**ANDRADE, O.** _O rei da vela_. São Paulo: Globo, 2003.",
+      "alternativas_introducao": "O fragmento da peça teatral de Oswald de Andrade ironiza a reação da sociedade brasileira dos anos 1930 diante de determinada vanguarda europeia. Nessa visão, atribui-se ao público leitor uma postura",
+      "alternativas": [
+        "A) Preconceituosa, ao evitar formas poéticas simplificadas.",
+        "B) Conservadora, ao optar por modelos consagrados.",
+        "C) Preciosista, ao preferir modelos literários eruditos.",
+        "D) Nacionalista, ao negar modelos estrangeiros.",
+        "E) Eclética, ao aceitar diversos estilos poéticos."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/13"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 14,
+      "titulo": "Questão 14 - ENEM 2019",
+      "enunciado": "",
+      "alternativas_introducao": "A viagem\nQue coisas devo levar\nnesta viagem em que partes?\nAs cartas de navegação só servem\na quem fica.\nCom que mapas desvendar\num continente\nque falta?\nEstrangeira do teu corpo\ntão comum\nquantas línguas aprender\npara calar-me?\nTambém quem fica\nprocura\num oriente.\nTambém\na quem fica\ncabe uma paisagem nova\ne a travessia insone do desconhecido\ne a alegria difícil da descoberta.\nO que levas do que fica,\no que, do que levas, retiro?\nMARQUES, A. M. In: SANT’ANNA, A (Org.).\nRua Aribau. Porto Alegre: Tag, 2018\n \n\n\n\n\nA viagem e a ausência remetem a um repertório poético tradicional. No poema, a voz lírica dialoga com essa tradição, repercutindo a",
+      "alternativas": [
+        "A) Saudade como experiência de apatia.",
+        "B) Presença da fragmentação da identidade.",
+        "C) Negação do desejo como expressão de culpa.",
+        "D) Persistência da memória na valorização do passado.",
+        "E) Revelação de rumos projetada pela vivência da solidão."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/14"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 15,
+      "titulo": "Questão 15 - ENEM 2019",
+      "enunciado": "",
+      "alternativas_introducao": "O Instituto de Arte de Chicago disponibilizou para visualização on-line, compartilhamento ou download (sob licença Creative Commons), 44 mil imagens de obras de arte em altíssíma resolução, além de livros, estudos e pesquisas sobre a história da arte.\nPara o historiador da arte, Bendor Grosvenor, o sucesso das coleções on-line de acesso aberto, além de democratizar a arte, vem ajudando a formar um novo público museológico. Grosvenor acredita que quanto mais pessoas forem expostas à arte on-line, mais visitas pessoais acontecerão aos museus.\nA coleção está disponível em seis categorias: paisagens urbanas, impressionismo, essenciais, arte africana, moda e animais. Também é possível pesquisar pelo nome da obra, estilo, autor ou período. Para navegar pela imagem em alta definição, basta clicar sobre ela e utilizar a ferramenta de zoom. Para fazer o download, disponível para obras de domínio público, é preciso utilizar a seta localizada do lado inferior direito da imagem.\nDisponível em: www.revistabula.com. Acesso em: 5 dez. 2018 (adaptado).\n \nA função da linguagem que predomina nesse texto se caracteriza por",
+      "alternativas": [
+        "A) Evidenciar a subjetividade da reportagem com base na fala do historiador de arte.",
+        "B) Convencer o leitor a fazer o acesso on-line, levando-o a conhecer as obras de arte.",
+        "C) Informar sobre o acesso às imagens por meio da descrição do modo como acessá-las.",
+        "D) Estabelecer interlocução com o leitor, orientando-o a fazer o download das obras de arte.",
+        "E) Enaltecer a arte, buscando popularizá-la por meio da possibilidade de visualização on-line."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/15"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 16,
+      "titulo": "Questão 16 - ENEM 2019",
+      "enunciado": "",
+      "alternativas_introducao": "Ed Mort só vai Mort.\nEd Mort. Detetive particular. Está na plaqueta. Tenho um escritório numa galeria de Copacabana entre um fliperama e uma loja de carimbos. Dá só para o essencial, um telefone mudo e um cinzeiro. Mas insisto numa mesa e numa cadeira. Apesar do protesto das baratas. Elas não vencerão. Comprei um jogo de máscaras. No meu trabalho o disfarce é essencial. Para escapar dos credores. Outro dia entrei na sala e vi a cara do King Kong andando pelo chão. As baratas estavam roubando as máscaras. Espisoteei meia dúzia. As outras atacaram a mesa. Consegui salvar a minha Bic e o jornal. O jornal era novo, tinha só uma semana. Mas elas levaram a agenda. Saí ganhando. A agenda estava em branco. Meu último caso fora com a funcionária do Erótica, a primeira ótica da cidade com balconista topless. Acabara mal. Mort. Ed Mort. Está na plaqueta.\nVERISSIMO, L. F. Ed Mort: todas as histórias. Porto Alegre: L&PM, 1997 (adaptado).\n \nNessa crônica, o efeito de humor é basicamente construído por uma",
+      "alternativas": [
+        "A) Segmentação de enunciados baseada na descrição dos hábitos do personagem.",
+        "B) Ordenação dos constituintes oracionais na qual se destaca o núcleo verbal.",
+        "C) Estrutura composicional caracterizada pelo arranjo singular dos períodos.",
+        "D) Sequenciação narrativa na qual se articulam eventos absurdos.",
+        "E) Seleção lexical na qual predominam informações redundantes."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/16"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 17,
+      "titulo": "Questão 17 - ENEM 2019",
+      "enunciado": "**Os tipos cheios de si**\n\nO difícil é encontrar quem nunca cruzou com (ou se passou por) um desses on-line.\n\n![](https://enem.dev/2019/questions/17/e0118f53-9f2d-472e-b5ff-8fe239c78125.png)\n\nDisponível em: http://epoca.globo.com. Acesso em: 20 mar. 2014.",
+      "alternativas_introducao": "De acordo com esse infográfico, as redes sociais estimulam diferentes comportamentos dos usuários que revelam",
+      "alternativas": [
+        "A) Exposição exagerada dos indivíduos.",
+        "B) Comicidade ingênua dos usuários.",
+        "C) Engajamento social das pessoas.",
+        "D) Disfarce do sujeito por meio de avatares.",
+        "E) Autocrítica dos internautas."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2019/img/q017_principal.png",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/17"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 18,
+      "titulo": "Questão 18 - ENEM 2019",
+      "enunciado": "",
+      "alternativas_introducao": "O que é software livre\nSoftware livre é qualquer programa de computador construído de forma colaborativa, via internet, por uma comunidade internacional de desenvolvedores indepen – dentes. São centenas de milhares de hackers, que negam sua associação com os “violadores de segurança”. Esses desenvolvedores de software se recusam a reconhecer o significado pejorativo do termo e continuam usando a palavra hacker para indicar “alguém que ama programar e que gosta de ser hábil e engenhoso”. Além disso, esses programas são entregues à comunidade com o código fonte aberto e disponível, permitindo que a ideia original possa ser aperfeiçoada e devolvida novamente à comunidade. Nos programas convencionais, o código de programação é secreto e de propriedade da empresa que o desenvolveu, sendo quase impossível decifrar a programação.\nO que está em jogo é o controle da inovação tecnológica. Software livre é uma questão de liberdade de expressão e não apenas uma relação econômica. Hoje existem milhares de programas alternativos construídos dessa forma e uma comunidade de usuários com milhões de membros no mundo.\nBRANCO, M. Software livre e desenvolvimento social e econômico. In: CASTELLS, M.; CARDOSO, G. (Org). A sociedade em rede: do conhecimento à ação política. Lisboa: Imprensa Nacional, 2005 (adaptado).\n \nA criação de softwares livres contribui para a produção do conhecimento na sociedade porque",
+      "alternativas": [
+        "A) Democratiza o acesso a produtos construídos coletivamente.",
+        "B) Complexifica os sistemas operacionais disponíveis no mercado.",
+        "C) Qualifica um maior número de pessoas para o uso de tecnologias.",
+        "D) Possibilita a coleta de dados confidenciais para seus desenvolvedores.",
+        "E) Insere profissionalmente os hackers na área de inovação tecnológica."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/18"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 19,
+      "titulo": "Questão 19 - ENEM 2019",
+      "enunciado": "",
+      "alternativas_introducao": "Expostos na web desde a gravidez\nMais da metade das mães e um terço dos pais ouvidos em uma pesquisa sobre compartilhamento paterno em mídias sociais discutem nas redes sociais sobre a educação dos filhos. Muitos são pais e mães de primeira viagem, frutos da geração Y (que nasceu junto com a internet) e usam esses canais para saberem que não estão sozinhos na empreitada de educar uma criança. Há, contudo, um risco no modo como as pessoas estão compartilhando essas experiências. É a chamada exposição parental exagerada, alertam os pesquisadores.\nDe acordo com os especialistas no assunto, se você compartilha uma foto ou video do seu filho pequeno fazendo algo ridículo, por achar engraçadinho, quando a criança tiver seus 11, 12 anos, pode se sentir constrangida. A autoconsciência vem com a idade.\nA exibição da privacidade dos filhos começa a assumir uma característica de linha do tempo e eles não participaram da aprovação ou recusa quanto à veiculação desses conteúdos. Assim, quando a criança cresce, sua privacidade pode já estar violada.\nOTONI, A. C. O Globo, 31 mar. 2015 (adaptado).\nSobre o compartilhamento parental excessivo em mídias sociais, o texto destaca como impacto o(a)",
+      "alternativas": [
+        "A) Interferência das novas tecnologias na comunicação entre pais e filhos.",
+        "B) Desatenção dos pais em relação ao comportamento dos filhos na internet.",
+        "C) Distanciamento na relação entre pais e filhos é provocado pelo uso das redes sociais.",
+        "D) Fortalecimento das redes de relações decorrente da troca de experiências entre as famílias.",
+        "E) Desrespeito à intimidade das crianças cujas imagens têm sido divulgadas nas redes sociais."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/19"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 20,
+      "titulo": "Questão 20 - ENEM 2019",
+      "enunciado": "",
+      "alternativas_introducao": "O projeto DataViva consiste na oferta de dados oficiais sobre exportações, atividades econômicas, localidades e ocupações profissionais de todo o Brasil. Num primeiro momento, o DataViva construiu uma ferramenta que permitia a análise da economia mineira embasada por essa perspectiva metodológica complexa e diversa. No entanto, diante das possibilidades oferecidas pelas bases de dados trabalhadas, a plataforma evoluiu para um sistema mais completo. De maneira interativa e didática, o usuário é guiado por meio das diversas formas de navegação dos aplicativos. Além de informações sobre os produtos exportados, bem como acerca do volume das exportações em cada um dos estados e municípios do País, em poucos cliques, o interessado pode conhecer melhor o perfil da população, o tipo de atividade desenvolvida, as ocupações formais e a média salarial por categoria.\nMANTOVANI. C. A. Guardião de informações. Minas faz Ciência. n. 58. jun.-jul.-ago 2014 (adaptado).\nEntre as novas possibilidades promovidas pelo desenvolvimento de novas tecnologias, o texto destaca a",
+      "alternativas": [
+        "A) Auditoria das ações de governo.",
+        "B) Publicidade das entidades públicas.",
+        "C) Obtenção de informações estratégicas.",
+        "D) Disponibilidade de ambientes coletivos.",
+        "E) Comunicação entre órgãos administrativos."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/20"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 21,
+      "titulo": "Questão 21 - ENEM 2019",
+      "enunciado": "",
+      "alternativas_introducao": "Menina\nA máquina de costura avançava decidida sobre o pano, Que bonita que a mãe era, com os alfinetes na boca. Gostava de olhá-la calada, estudando seus gestos, enquanto recortava retalhos de pano com a tesoura. Interrompia às vezes seu trabalho, era quando a mãe precisava da tesoura. Admirava o jeito decidido da mãe ao cortar pano, não hesitava nunca, nem errava. A mãe sabia tanto! Tita chamava-a de ( ) como quem diz ( ). Tentava não pensar as palavras, mas sabia que na mesma hora da tentativa tinha-as pensado. Oh, tudo era tão difícil. A mãe saberia o que ela queria perguntar-lhe intensamente agora quase com fome depressa depressa antes de morrer, tanto que não se conteve e — Mamãe, o que é desquitada? — atirou rápida com uma voz sem timbre. Tudo ficou suspenso, se alguém gritasse o mundo acabava ou Deus aparecia — sentia Ana Lúcia. Era muito forte aquele instante, forte demais para uma menina, a mãe parada com a tesoura no ar, tudo sem solução podendo desabar a qualquer pensamento, a máquina avançando desgo – vernada sobre o vestido de seda brilhante espalhando luz luz luz.\nÂNGELO. I. Menina. In: A face horrível. São Paulo: Lazuli, 2017.\n \nEscrita na década de 1960, a narrativa põe em evidência uma dramaticidade centrada na",
+      "alternativas": [
+        "A) Insinuação da lacuna familiar gerada pela ausência da figura paterna.",
+        "B) Associação entre a angústia da menina e a reação intempestiva da mãe.",
+        "C) Relação conflituosa entre o trabalho doméstico e a emancipação feminina.",
+        "D) Representação de estigmas sociais modulados pela perspectiva da criança.",
+        "E) Expressão de dúvidas existenciais intensificadas pela percepção do abandono."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/21"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 22,
+      "titulo": "Questão 22 - ENEM 2019",
+      "enunciado": "**Uma ouriça**\n\nSe o de longe esboça lhe chegar perto,\n\nse fecha (convexo integral de esfera),\n\nse eriça (bélica e multiespinhenta):\n\ne, esfera e espinho, se ouriça à espera.\n\nMas não passiva (como ouriço na loca);\n\nnem só defensiva (como se eriça o gato);\n\nsim agressiva (como jamais o ouriço),\n\ndo agressivo capaz de bote, de salto\n\n(não do salto para trás, como o gato):\n\ndaquele capaz de salto para o assalto.\n\nSe o de longe lhe chega em (de longe),\n\nde esfera aos espinhos, ela se desouriça.\n\nReconverte: o metal hermético e armado\n\nna carne de antes (côncava e propícia),\n\ne as molas felinas (para o assalto),\n\nnas molas em espiral (para o abraço).\n\n**MELO NETO, J. C.** _A educação pela pedra_. Rio de Janeiro:  \nNova Fronteira, 1997.",
+      "alternativas_introducao": "Com apuro formal, o poema tece um conjunto semântico que metaforiza a atitude feminina de",
+      "alternativas": [
+        "A) Tenacidade transformada em brandura.",
+        "B) Obstinação traduzida em isolamento.",
+        "C) Inércia provocada pelo desejo platônico.",
+        "D) Irreverência cultivada de forma cautelosa.",
+        "E) Desconfiança consumada pela intolerância."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/22"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 23,
+      "titulo": "Questão 23 - ENEM 2019",
+      "enunciado": "![](https://enem.dev/2019/questions/23/8bf66e27-d571-42d2-8e89-6c219f136985.png)",
+      "alternativas_introducao": "Nesse cartaz, o uso da imagem do calçado aliada ao texto verbal tem o objetivo de",
+      "alternativas": [
+        "A) Criticar as difíceis condições de vida dos refugiados.",
+        "B) Revelar a longa trajetória percorrida pelos refugiados.",
+        "C) Incentivar a campanha de doações para os refugiados.",
+        "D) Denunciar a situação de carência vivida pelos refugiados.",
+        "E) Simbolizar a necessidade de adesão à causa dos refugiados."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2019/img/q023_principal.png",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/23"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 24,
+      "titulo": "Questão 24 - ENEM 2019",
+      "enunciado": "**Blues da piedade**\n\nVamos pedir piedade  \nSenhor, piedade  \nPra essa gente careta e covarde  \nVamos pedir piedade  \nSenhor, piedade  \nLhes dê grandeza e um pouco de coragem\n\n**CAZUZA.** _Cazuza: o poeta não morreu_. Rio de Janeiro:  \nUniversal Music, 2000 (fragmento).",
+      "alternativas_introducao": "Todo gênero apresenta elementos constitutivos que condicionam seu uso em sociedade. A letra de canção identifica-se com o gênero ladainha, essencialmente, pela utilização da sequência textual",
+      "alternativas": [
+        "A) Expositiva, por discorrer sobre um dado tema.",
+        "B) Narrativa, por apresentar uma cadeia de ações.",
+        "C) Injuntiva, por chamar o interlocutor à participação.",
+        "D) Descritiva, por enumerar características de um personagem.",
+        "E) Argumentativa, por incitar o leitor a uma tomada de atitude."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/24"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 25,
+      "titulo": "Questão 25 - ENEM 2019",
+      "enunciado": "Com o enredo que homenageou o centenário do Rei do Baião, Luiz Gonzaga, a Unidos da Tijuca foi coroada no Carnaval 2012.  \nA penúltima escola a entrar na Sapucaí, na segunda noite de desfiles, mergulhou no universo do cantor e compositor brasileiro e trouxe a cultura nordestina com criatividade para a Avenida, com o enredo _O dia em que toda a realeza desembarcou na Avenida para coroar o Rei Luiz do Sertão_.\n\nDisponível em: www.cultura.rj.gov.br.  \nAcesso em: 15 maio 2012 (adaptado).",
+      "alternativas_introducao": "A notícia relata um evento cultural que marca a",
+      "alternativas": [
+        "A) Primazia do samba sobre a música nordestina.",
+        "B) Inter-relação entre dois gêneros musicais brasileiros.",
+        "C) Valorização das origens oligárquicas da cultura nordestina.",
+        "D) Proposta de resgate de antigos gêneros musicais brasileiros.",
+        "E) Criatividade em compor um samba-enredo em homenagem a uma pessoa."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/25"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 26,
+      "titulo": "Questão 26 - ENEM 2019",
+      "enunciado": "**TEXTO I**\n\nO Estatuto do Idoso completou 15 anos em 2018 e 56 no primeiro semestre o Disque 100 recebeu 16 mil denúncias de violacão de direitos dos idosos em todo o País.\n\nPara especialistas da área, o aumento no número de denúncias pode ser consequência do encorajamento dos mais velhos na busca pelos direitos. Mas também pode refletir uma onda crescente de violência na sociedade e dentro das próprias famílias.\n\nPolíticas públicas mais eficazes no atendimento ao idoso são o mínimo que um país deve estabelecer. O Brasil está ficando para trás e é preciso levar em consideração que o País envelhece (tendência mundial) sem estar preparado para arcar com os desafios, como criar uma rede de proteção, preparar os serviços de saúde pública e dar suporte às famílias que precisam cuidar de seus idosos dependentes,\n\nDisponível em: www.folhadelondrina.com.br. Acesso em: 9 dez. 2018 (adaptado).\n\n**TEXTO II**\n\n![](https://enem.dev/2019/questions/26/80aa97e4-a160-4160-9ac9-ebd2e754e774.png)\n\nDisponível em: www.brasil.gov.br. Acesso em: 9 dez. 2018.",
+      "alternativas_introducao": "Na comparação entre os textos, conclui-se que as regras do Estatuto do Idoso",
+      "alternativas": [
+        "A) Apresentam vantagens em relação às de outros países.",
+        "B) São ignoradas pelas famílias responsáveis por idosos.",
+        "C) Alteram a qualidade de vida das pessoas com mais de 60 anos.",
+        "D) Precisam ser revistas em razão do envelhecimento da população.",
+        "E) Contrastam com as condições de vida proporcionadas pelo País."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2019/img/q026_principal.png",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/26"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 27,
+      "titulo": "Questão 27 - ENEM 2019",
+      "enunciado": "",
+      "alternativas_introducao": "Educação para a saúde mediante programas de educação física escolar\nA educação para a saúde deverá ser alcançada mediante interação de ações que possam envolver o próprio homem mediante suas atitudes frente às exigências ambientais representadas pelos hábitos alimentares, estado de estresse, opções de lazer, atividade física, agressões climáticas etc. Dessa forma, parece evidente que o estado de ser saudável não é algo estático. Pelo contrário, torna-se necessário adquirí-lo e construílo de forma indivi dua lizada constantemente ao longo de toda a vida, apontando para o fato de que saúde é educável e, portanto, deve ser tratada não apenas com base em referenciais de natureza biológica e higienista, mas sobretudo em um contexto didático-pedagógico.\nGUEDES, D. P. Motriz, n. 1, 1999.\nA educação para a saúde pressupõe a adoção de comportamentos com base na interação de fatores relacionados à",
+      "alternativas": [
+        "A) A adesão a programas de lazer.",
+        "B) Opção por dietas balanceadas.",
+        "C) Constituição de hábitos saudáveis.",
+        "D) Evasão de ambientes estressores.",
+        "E) Realização de atividades físicas regulares."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/27"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 28,
+      "titulo": "Questão 28 - ENEM 2019",
+      "enunciado": "Os subúrbios do Rio de Janeiro foram a primeira coisa a aparecer no mundo, antes mesmo dos vulcões e dos cachalotes, antes de Portugal invadir, antes do  \nGetúlio Vargas mandar construir casas populares. O bairro do Queím, onde nasci e cresci, é um deles. Aconchegado entre o Engenho Novo e Andaraí, foi feito daquela argila primordial, que se aglutinou em diversos formatos: cães soltos, moscas e morros, uma estação de trem, amendoeiras e barracos e sobrados, botecos e arsenais de guerra, armarinhos e bancas de jogo do bicho e um terreno enorme reservado para o cemitério. Mas tudo ainda estava vazio: faltava gente.  \nNão demorou. As ruas juntaram tanta poeira que o homem não teve escolha a não ser passar a existir, para varrê-las. À tardinha, sentar na varanda das casas e reclamar da pobreza, falar mal dos outros e olhar para as calçadas encardidas de sol, os ônibus da volta do trabalho sujando tudo de novo.\n\n**HERINGER, V.** _O amor dos homens avulsos_.  \nSão Paulo: Cia. das Letras, 2016.",
+      "alternativas_introducao": "Traçando a gênese simbólica de sua cidade, o narrador imprime ao texto um sentido estético fundamentado na",
+      "alternativas": [
+        "A) Excentricidade dos bairros cariocas de sua infância.",
+        "B) Perspectiva caricata da paisagem de traços deteriorados.",
+        "C) Importância dos fatos relacionados à história dos subúrbios.",
+        "D) Diversidade dos tipos humanos identificados por seus hábitos.",
+        "E) Experiência do cotidiano marcado pelas necessidades e urgências."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/28"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 29,
+      "titulo": "Questão 29 - ENEM 2019",
+      "enunciado": "A rede é, antes de tudo, um instrumento de comunicação entre pessoas, um laço virtual em que as comunidades auxiliam seus membros a aprender o que querem saber. Os dados não representam senão a matéria-prima de um processo intelectual e social vivo, altamente elaborado. Enfim, toda inteligência coletiva do mundo jamais dispensará a inteligência pessoal, o esforço individual e o tempo necessário para aprender, pesquisar, avaliar e integrar-se a diversas comunidades, sejam elas virtuais ou não. A rede jamais pensará em seu lugar, fique tranquilo.\n\n**LÉVY, P.** _A máquina universo: criação, cognição e cultura_  \n_informática._ Porto Alegre: Artmed, 1998.",
+      "alternativas_introducao": "No contexto das novas tecnologias de informação e comunicação, a circulação de saberes depende da",
+      "alternativas": [
+        "A) Otimização do tempo.",
+        "B) Confiabilidade dos sites.",
+        "C) Contribuição dos usuários.",
+        "D) Quantidade de informação.",
+        "E) Colaboração de intelectuais."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/29"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 30,
+      "titulo": "Questão 30 - ENEM 2019",
+      "enunciado": "**TEXTO I**\n\n**Estratos**\n\nNa passagem de uma língua para outra, algo sempre permanece, mesmo que não haja ninguém para se lembrar desse algo. Pois um idioma retém em si mais memórias que os seus falantes e, como uma chapa mineral marcada por camadas de uma história mais antiga do que aquela dos seres viventes, inevitavelmente carrega em si a impressão das eras pelas quais passou. Se as “línguas são arquivos da história”, elas carecem de livros de registro e catálagos. Aquilo que contêm pode apenas ser consultado em parte, fornecendo ao pesquisador menos os elementos de uma biografia do que um estudo geológico de uma sedimentação realizada em um período sem começo ou sem fim definido.\n\n**HELLER-ROAZEN, D**. _Ecolalias: sobre o esquecimento das línguas_. Campinas: Unicamp, 2010.\n\n**TEXTO II**\n\nNa reflexão gramatical dos séculos XVI e XVII, a influência árabe aparece pontualmente, e se reveste sobretudo de item bélico fundamental na atribuição de rudeza aos idiomas português e castelhano por seus respectivos detratores. Parecer com o árabe, assim, é uma acusação de dessemelhança com o latim.\n\n**SOUZA, M. P**. _Linguística histórica_. Campinas: Unicamp, 2006.",
+      "alternativas_introducao": "Relacionando-se as ideias dos textos a respeito da história e memória das línguas, quanto à formação da língua portuguesa, constata-se que",
+      "alternativas": [
+        "A) A presença de elementos de outras línguas no português foi historicamente avaliada como um índice de riqueza.",
+        "B) B o estudioso da língua pode identificar com precisão os elementos deixados por outras línguas na transformação da língua portuguesa.",
+        "C) O português é o resultado da influência de outras línguas no passado e carrega marcas delas em suas múltiplas camadas.",
+        "D) O árabe e o latim estão na formação escolar e na memória dos falantes brasileiros.",
+        "E) A influência de outras línguas no português ocorreu de maneira uniforme ao longo da história."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/30"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 31,
+      "titulo": "Questão 31 - ENEM 2019",
+      "enunciado": "![](https://enem.dev/2019/questions/31/a6382a77-122a-4202-8123-9f9e5e2b8cc1.png)",
+      "alternativas_introducao": "Na obra Cabeça de touro, o material descartado torna-se objeto de arte por meio da",
+      "alternativas": [
+        "A) Reciclagem da matéria-prima original.",
+        "B) Complexidade da combinação de formas abstratas.",
+        "C) Perenidade dos elementos que constituem a escultura.",
+        "D) Mudança da funcionalidade pela integração dos objetos.",
+        "E) Fragmentação da imagem no uso de elementos diversificados."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2019/img/q031_principal.png",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/31"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 32,
+      "titulo": "Questão 32 - ENEM 2019",
+      "enunciado": "**Emagrecer sem exercício?**\n\n_Hormônio aumenta a esperança de perder gordura sem sair do sofá. A solução viria em cápsulas._\n\n     O sonho dos sedentários ganhou novo aliado. Um estudo publicado na revista científica Nature, em janeiro, sugere que é possivel modificar a gordura corporal sem fazer exercício. Pesquisadores do Dana-Farber Cancer Institute e da Escola de Medicina de Harvard, nos EUA, isolaram em laboratório a irisina, hormônio naturalmente produzido pelas células musculares durante os exercícios aeróbicos, como caminhada, corrida ou pedalada. A substância foi aplicada em ratos e agiu como se eles tivessem se exercitado, inclusive com efeito protetor contra o diabetes.\n\n     O segredo foi a conversão de gordura branca – aquela que estoca energia inerte e estraga nossa silhueta – em marrom. Mais comum em bebês, e praticamente inexistente em adultos, esse tipo de gordura serve para nos aquecer. E, nesse processo, gasta uma energia tremenda. Como efeito colateral, afinaria nossa silhueta.\n\n     A expectativa é que, se o hormônio funcionar da mesma forma em humanos, surja em breve um novo medicamento para emagrecer. Mas ele estaria longe de substituir por completo os benefícios da atividade física. “Possivelmente existem muitos outros hormônios musculares liberados durante o exercício e ainda não descobertos”, diz o fisiologista Paul Coen, professor assistente da Universidade de Pittsburgh, nos EUA. A irisina não fortalece os músculos, por exemplo. E para ficar com aquele tríceps de fazer inveja só o levantamento de controle remoto não daria conta.\n\nLIMA, F. **Galileu.** São Paulo, n. 248, mar. 2012",
+      "alternativas_introducao": "Para convencer o leitor de que o exercício físico é importante, o autor usa a estratégia de divulgar que",
+      "alternativas": [
+        "A) A falta de exercício físico não emagrece e desenvolve doenças.",
+        "B) Se trata de uma forma de transformar a gordura branca em marrom e de emagrecer.",
+        "C) A irisina é um hormônio que apenas é produzido com o exercício físico.",
+        "D) O exercício é uma forma de afinar a silhueta por eliminar a gordura branca.",
+        "E) Se produzem outros hormônios e há outros benefícios com o exercício."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/32"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 33,
+      "titulo": "Questão 33 - ENEM 2019",
+      "enunciado": "Inverno! Inverno! Inverno!\n\n     Tristes nevoeiros, frios negrumes da longa treva boreal, descampados de gelo cujo limite escapa-nos sempre, desesperadamente, para lá do horizonte, perpétua solidão inóspita, onde apenas se ouve a voz do vento que passa uivando como uma legião de lobos, através da cidade de catedrais e túmulos de cristal na planície, fantasmas que a miragem povoam e animam, tudo isto: decepções, obscuridade, solidão, desespero e a hora invisível que passa como o vento, tudo isto é o frio inverno da vida.\n\n     Há no espírito o luto profundo daquele céu de bruma dos lugares onde a natureza dorme por meses, à espera do sol avaro que não vem.\n\nPOMPEIA, R. **Canções sem metro.** Campinas: Unicamp, 2013",
+      "alternativas_introducao": "Reconhecido pela linguagem impressionista, Raul Pompeia desenvolveu-a na prosa poética, em que se observa",
+      "alternativas": [
+        "A) Imprecisão no sentido dos vocábulos.",
+        "B) Dramaticidade como elemento expressivo.",
+        "C) Subjetividade em oposição à verossimilhança.",
+        "D) Valorização da imagem com efeito persuasivo.",
+        "E) Plasticidade verbal vinculada à cadência melódica."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/33"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 34,
+      "titulo": "Questão 34 - ENEM 2019",
+      "enunciado": "Antes de Roma ser fundada, as colinas de Alba eram ocupadas por tribos latinas, que dividiam o ano de acordo com seus deuses. Os romanos adaptaram essa estrutura. No principio dessa civilização o ano tinha dez meses e começava por Martius (atual março). Os outros dois teriam sido acrescentados por Numa Pompílio o segundo rei de Roma.\n\n     Até Júlio César reformar o calendário local, os meses eram lunares, mas as festas em homenagem aos deuses permaneciam designadas pelas estações O descompasso de dez dias por ano fazia com que, em todos os triênios, um décimo terceiro mês, o Intercalaris, tivesse que ser enxertado. Com a ajuda de matemáticos do Egito emprestados por Cleópatra, Júlio César acabou com a bagunça ao estabelecer o seguinte calendário solar: Januarius, Februarius, Martius, Aprilis, Maius, Junius, Quinctilis, Sextilis, September, October, November e December. Quase igual ao nosso, com as diferenças de que Quinctilis e Sextilis deram origem aos meses de julho e agosto.\n\n**Disponível em:** https://aventurasnahistoria.uol.com.br. _Acesso em: 8 dez. 2018._",
+      "alternativas_introducao": "Considerando as informações no texto e aspectos históricos da formação da lingua, a atual escrita dos meses do ano em português",
+      "alternativas": [
+        "A) Reflete a origem latina de nossa língua.",
+        "B) Decorre de uma língua falada no Egito antigo",
+        "C) Tem como base um calendário criado por Cleópatra.",
+        "D) D segue a reformulação da norma da língua proposta por Júlio César.",
+        "E) Resulta da padronização do calendário antes da fundação de Roma."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/34"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 35,
+      "titulo": "Questão 35 - ENEM 2019",
+      "enunciado": "",
+      "alternativas_introducao": "No Brasil, a disseminação de uma expectativa de corpo com base na estética da magreza é bastante grande e apresenta uma enorme repercussão, especialmente, se considerada do ponto de vista da realização pessoal. Em pesquisa feita na cidade de São Paulo, aparecem os percentuais de 90% entre as mulheres pesquisadas que se dizem preocupadas com seu peso corporal, sendo que 95% se sentem insatisfeitas com “seu próprio corpo”.\nSILVA, A. M. Corpo, ciência e mercado: reflexões acerca da\ngestação de um novo arquétipo da felicidade. Campinas: Autores\nAssociados; Florianópolis: UFSC, 2001\n\n\n\nA preocupação excessiva com o “peso” corporal pode provocar o desenvolvimento de distúrbios associados diretamente à imagem do corpo, tais como",
+      "alternativas": [
+        "A) Anorexia e bulimia.",
+        "B) Ortorexia e vigorexia.",
+        "C) Ansiedade e depressão.",
+        "D) Sobrepeso e fobia social.",
+        "E) Sedentarismo e obesidade."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/35"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 36,
+      "titulo": "Questão 36 - ENEM 2019",
+      "enunciado": "![](https://enem.dev/2019/questions/36/b46b0b84-b50b-4f98-9ffa-c8645aeb7edb.png)\n\nFotografia de Jackson Pollock pintando em seu ateliê, realizada por Hans Namuth em 1951.\n\n**CHIPP, H. Teorias da arte moderna. São Paulo: Martins Fontes, 1988.**\n\n![](https://enem.dev/2019/questions/36/2e0c5232-c632-498f-8a46-14fb86344f56.png)\n\n**MUNIZ, V. Action Photo (segundo Hans Namuth em Pictures in Chocolate). Impressão fotográfica. The Museum of Modern Art, Nova Iorque, 1977.**\n\n**_NEVES, A_. História da Arte 4. Vitória: Ufes – Nead, 2011.**",
+      "alternativas_introducao": "Utilizando chocolate derretido como matéria-prima, essa obra de Vick Muniz reproduz a célebre fotografia do processo de criação de Jackson Pollock. A originalidade dessa releitura reside na",
+      "alternativas": [
+        "A) Apropriação parodística das técnicas e materiais utilizados.",
+        "B) Reflexão acerca dos sistemas de circulação da arte.",
+        "C) Simplificação dos traços da composição pictórica.",
+        "D) Contraposição de linguagens artísticas distintas.",
+        "E) Crítica ao advento do abstracionismo."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2019/img/q036_principal.png",
+      "imagens_extras": [
+        "enem/2019/img/q036_extra1.png"
+      ],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/36"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 37,
+      "titulo": "Questão 37 - ENEM 2019",
+      "enunciado": "",
+      "alternativas_introducao": "Na semana passada, os alunos do colégio do meu filho se mobilizaram, através do Twitter, para não comprarem na cantina da escola naquele dia, pois acharam o preço do pão de queijo abusivo São adolescentes. Quase senhores das novas tecnologias, transitam nas redes sociais, varrem o mundo através dos teclados dos celulares, iPads e se organizam para fazer um movimento pacífico de não comprar lanches por um dia. Foi parar na TV e em muitas páginas da internet.\n \nGOMES, A. A revolução silenciosa e o Impacto na sociedade das\nredes sociais. Disponível em: www. hsm.com.br.\nAcesso em: 31 jul. 2012\n \nO texto aborda a temática das tecnologias da informação e comunicação, especificamente o uso de redes sociais. Muito se debate acerca dos benefícios e malefícios do uso desses recursos e, nesse sentido, o texto",
+      "alternativas": [
+        "A) Aborda a discriminação que as redes sociais sofrem de outros meios de comunicação.",
+        "B) Mostra que as reivindicações feitas nas redes sociais não têm impacto fora da internet.",
+        "C) Expõe a possibilidade de as redes sociais favorecem comportamentos e manifestações violentos dos adolescentes que nela se relacionam.",
+        "D) Trata as redes sociais como modo de agregar e empoderar grupos de pessoas, que se unem em prol de causas próprias ou de mudanças sociais.",
+        "E) Evidencia que as redes sociais são usadas inadequadamente pelos adolescentes, que, imaturos, não utilizam a ferramenta como forma de mudança social."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/37"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 38,
+      "titulo": "Questão 38 - ENEM 2019",
+      "enunciado": "",
+      "alternativas_introducao": "“O computador, dando prioridade à busca pela própria felicidade, parou de trabalhar para os humanos”. E assim que termina o conto O dia em que um computador escreveu um conto, escrito por uma inteligência artificial com a ajuda de cientistas humanos.\nOs cientistas selecionaram palavras e frases que seriam usadas na narrativa, e definiram um roteiro geral da história, que serviria como guia para a inteligência artificial. A partir daí, o computador criou o texto combinando as frases e seguindo as diretrizes que os cientistas impuseram. Os juízes não sabem quais textos são escritos por humanos e quais são feitos por computadores, o que mostra que o conto estava bem escrito. O dia só não passou para as próximas etapas porque, de acordo com os juízes, os personagens não foram muito bem descritos, embora o texto estivesse estruturalmente impecável.\nA ideia dos cientistas é continuar desenvolvendo a criatividade da IA para que ela se pareça cada vez mais com a humana. Simular esse tipo de resposta é difícil, porque o computador precisa ter, primeiro, um banco de dados vasto vinculado a uma programação específica para cada tipo de projeto – escrita, pintura, música, desenho e por aí vai.\nDANGELO, H. Disponível em: https: /isuper.abril.com.br. Acesso em: 5 dez. 2018\n \nO êxito e as limitações da tecnologia utilizada na composição do conto evidencia a",
+      "alternativas": [
+        "A) Indistinção entre personagens produzidos por máquinas e seres humanos.",
+        "B) Necessidade de reformulação da base de dados elaborada por cientistas.",
+        "C) Autonomia de programas computacionais no desenvolvimento ficcional.",
+        "D) Diferença entre a estrutura e a criatividade da linguagem humana.",
+        "E) Qualidade artística de textos produzidos por computadores."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/38"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 39,
+      "titulo": "Questão 39 - ENEM 2019",
+      "enunciado": "",
+      "alternativas_introducao": "Essa lua enlutada, esse desassossego\nA convulsão de dentro, ilharga\nDentro da solidão, corpo morrendo\nTudo isso te devo.\nE eram tão vastas\nAs coisas planejadas, navios,\nMuralhas de marfim, palavras largas\nConsentimento sempre.\nE seria dezembro.\nUm cavalo de jade sob as águas\nDupla transparência, fio suspenso\nTodas essas coisas na ponta dos teus dedos\nE tudo se desfez no pórtico do tempo Em lívido silêncio.\nUmas manhãs de vidro\nVento, a alma esvaziada, um sol que não vejo\nTambém isso te devo.\nHILST, H. Júbilo, memória, noviciado da paixão. São Paulo: Cia. Das Letras, 2018.\n \nNo poema, o eu lírico faz um inventário de estados passados espelhados no presente. Nesse processo, aflora o",
+      "alternativas": [
+        "A) Cuidado em apagar da memória os restos do amor.",
+        "B) Amadurecimento revestido de ironia e desapego.",
+        "C) Mosaico de alegrias formado seletivamente.",
+        "D) Desejo reprimido convertido em delírio.",
+        "E) Arrependimento dos erros cometidos."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/39"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 40,
+      "titulo": "Questão 40 - ENEM 2019",
+      "enunciado": "1\\. Nós queremos cantar o amor ao perigo, o hábito da energia e da temeridade.\n\n2\\. A coragem, a audácia, a rebelião serão elementos essenciais de nossa poesia.\n\n3\\. A literatura exaltou até hoje a imobilidade pensativa, o êxtase, o sono. Nós queremos exaltar o movimento agressivo, a insônia febril, o passo de corrida, o salto mortal, o bofetão e o soco.\n\n4\\. Nós afirmamos que a magnificência do mundo enriqueceu-se de uma beleza nova: a beleza da velocidade. Um automóvel de corrida com seu cofre enfeitado com tubos grossos, semelhantes a serpentes de hálito explosivo… um automóvel rugidor, que parece correr sobre a metralha, é mais bonito que a Vitória de Samotrácia.\n\n5\\. Nós queremos entoar hinos ao homem que segura o volante, cuja haste ideal atravessa a Terra, lançada também numa corrida sobre o circuito da sua órbita.\n\n6\\. É preciso que o poeta prodigalize com ardor, fausto e munificiência, para aumentar o entusiástico fervor dos elementos primordiais.\n\n**MARINETTI, F. T**. Manifesto futurista. In: TELES, G. M. Vanguardas europeias e Modernismo brasileiro. Petrópolis: Vozes, 1985.",
+      "alternativas_introducao": "O documento de Marinetti, de 1909, propõe os referenciais estéticos do Futurismo, que valorizam a",
+      "alternativas": [
+        "A) Composição estática.",
+        "B) Inovação tecnológica.",
+        "C) Suspensão do tempo.",
+        "D) Retomada do helenismo.",
+        "E) Manutenção das tradições."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/40"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 41,
+      "titulo": "Questão 41 - ENEM 2019",
+      "enunciado": "Ela nasceu lesma, vivia no meio das lesmas, mas não estava satisfeita com sua condição. Não passamos de criaturas desprezadas, queixava-se. Só somos conhecidas por nossa lentidão. O rastro que deixaresmos na História será tão desprezível quanto a gosma que marca nossa passagem pelos pavimentos.\n\n    A esta frustração correspondia um sonho: a lesma queria ser como aquele parente distante, o escargot. O simples nome já a deixava fascinada: um termo francês, elegante, sofisticado, um termo que as pessoas pronunciavam com respeito e até com admiração. Mas, lembravam as outras lesmas, os escargots são comidos, enquanto nós pelo menos temos chance de sobreviver. Este argumento não convencia a insatisfeita lesma, ao contrário: preferiria exatamente terminar sua vida desta maneira, numa mesa de toalha adamascada, entre talheres de prata e cálices de cristal. Assim como o mar é o único túmulo digno de um almirante batavo, respondia, a travessa de porcelana é a única lápide digna dos meus sonhos.\n\n**SCLIAR, M**. _Sonho de lesma_. In: **ABREU, C. F**. et al. _A prosa do mundo_**.** São Paulo: Global, 2009.",
+      "alternativas_introducao": "Incorporando o devaneio da personagem, o narrador compõe uma alegoria que representa o anseio de",
+      "alternativas": [
+        "A) Rejeitar metas de superação de desafios.",
+        "B) Restaurar o estado de felicidade pregressa.",
+        "C) Materializar expectativas de natureza utópica.",
+        "D) Rivalizar com indivíduos de condição privilegiada.",
+        "E) Valorizar as experiências hedonistas do presente."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/41"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 42,
+      "titulo": "Questão 42 - ENEM 2019",
+      "enunciado": "**A ciência do Homem-Aranha**\n\n    Muitos dos superpoderes do querido Homem-Aranha de fato se assemelham às habilidades biológicas das aranhas e são objeto de estudo para produção de novos materiais.\n\n    O “sentido-aranha” adquirido por Peter Parker funciona quase como um sexto sentido, uma espécie de habilidade premonitória e, por isso, soa como um mero elemento ficcional. No entanto, as aranhas realmente têm um sentido mais aguçado. Na verdade, elas têm um dos sistemas sensoriais mais impressionais da natureza.\n\n    Os pelos sensoriais das aranhas, que estão espalhados por todo o corpo, funcionam como uma forma muito boa de perceber o mundo e captar informações do ambiente. Em muitas espécies, esse tato por meio dos pelos tem papel mais importante que a própria visão, uma vez que muitas aranhas conseguem prender e atacar suas presas na completa escuridão. E por que os pelos humanos não são tão eficientes como órgãos sensoriais como os das aranhas? Primeiro, porque um ser humano tem em média 60 fios de pelo em cada cm2 do corpo, enquanto algumas espécies de aranha podem chegar a ter 40 mil pelos por cm2, segundo, porque cada pelo das aranhas possui até 3 nervos para fazer a comunicação entre a sensação percebida e o cérebro, enquanto nós, seres humanos, temos apenas 1 nervo por pelo.\n\n**Disponível em:** http://cienciahoje.org.br. Acesso em; 11 dez. 2018. (adaptado).",
+      "alternativas_introducao": "Como estratégia de progressão do texto, o autor simula uma interlocução com o público leitor ao recorrer à",
+      "alternativas": [
+        "A) Revelação do “sentido-aranha” adquirido pelo super-herói como um sexto sentido.",
+        "B) Caracterização do afeto do público pelo super-herói marcado pela palavra “querido”.",
+        "C) Comparação entre os poderes do super-herói e as habilidades biológicas das aranhas.",
+        "D) Pergunta retórica na introdução das causas da eficiência do sistema sensorial das aranhas.",
+        "E) Comprovação das diferenças entre a constituição física do homem e da aranha por meio de dados numéricos."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/42"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 43,
+      "titulo": "Questão 43 - ENEM 2019",
+      "enunciado": "![](https://enem.dev/2019/questions/43/32c136c9-fe3c-4652-8d26-e17dabba619e.png)",
+      "alternativas_introducao": "O texto tem o formato de uma carta de jogo e apresenta dados a respeito de Marcelo Gleiser, premiado pesquisador brasileiro da atualidade. Essa apresentação subverte um gênero textual ao",
+      "alternativas": [
+        "A) Vincular áreas distintas do conhecimento.",
+        "B) Evidenciar a formação acadêmica do pesquisador.",
+        "C) Relacionar o universo lúdico a informações biográficas.",
+        "D) Especificar as contribuições mais conhecidas do pesquisador.",
+        "E) Destacar o nome do pesquisador e sua imagem no início do texto."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2019/img/q043_principal.png",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/43"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 44,
+      "titulo": "Questão 44 - ENEM 2019",
+      "enunciado": "Toca a sirene na fábrica,\n\ne o apito como um chicote\n\nbate na manhã nascente\n\ne bate na tua cama\n\nno sono da madrugada.\n\nTernuras da áspera lona\n\npelo corpo adolescente.\n\nÉ o trabalho que te chama.\n\nÀs pressas tomas o banho,\n\ntomas teu café com pão,\n\ntomas teu lugar no bote\n\nno cais do Capibaribe.\n\nDeixas chorando na esteira\n\nteu filho de mãe solteira.\n\nLevas ao lado a marmita,\n\ncontendo a mesma ração\n\ndo meio de todo o dia,\n\na carne-seca e o feijão.\n\nDe tudo quanto ele pede\n\ndás só bom-dia ao patrão,\n\ne recomeças a luta\n\nna engrenagem da fiação.\n\nMOTA, M. **Canto ao meio**. Rio de Janeiro: Civilização Brasileira, 1964.",
+      "alternativas_introducao": "Nesse texto, a mobilização do uso padrão das formas verbais e pronominais",
+      "alternativas": [
+        "A) Ajuda a localizar o enredo num ambiente estático.",
+        "B) Auxilia na caracterização física do personagem principal.",
+        "C) Acrescenta informações modificadoras às ações dos personagens.",
+        "D) Alterna os tempos da narrativa, fazendo progredir as ideias do texto.",
+        "E) Está a serviço do projeto poético, auxiliando na distinção dos referentes."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/44"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 45,
+      "titulo": "Questão 45 - ENEM 2019",
+      "enunciado": "Irerê, meu passarinho do sertão do Cariri,\n\nIrerê, meu companheiro,\n\nCadê viola? Cadê meu bem? Cadê Maria?\n\nAi triste sorte a do violeiro cantadô!\n\nAh! Sem a viola em que cantava o seu amô,\n\nAh! Seu assobio é tua flauta de irerê:\n\nQue tua flauta do sertão quando assobia,\n\nAh! A gente sofre sem querê!\n\nAh! Teu canto chega lá no fundo do sertão,\n\nAh! Como uma brisa amolecendo o coração,\n\nAh! Ah!\n\nIrerê, solta teu canto!\n\nCanta mais! Canta mais!\n\nPrá alembrá o Cariri!\n\n**VILLA-LOBOS, H**. _Bachianas Brasileiras n. 5 para soprano e oito violoncelos_ (1938-1945). Disponível em: http://euterpe.blog.br. Acesso em: 23 abr. 2019.",
+      "alternativas_introducao": "Nesses verbos, há uma exaltação ao sertão do Cariri em uma ambientação linguisticamente apoiada no(a)",
+      "alternativas": [
+        "A) Uso recorrente de pronomes.",
+        "B) Variedade popular da língua portuguesa.",
+        "C) Referência ao conjunto da fauna nordestina.",
+        "D) Exploração de instrumentos musicais eruditos.",
+        "E) Predomínio de regionalismos lexicais nordestinos."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/45"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 46,
+      "titulo": "Questão 46 - ENEM 2019",
+      "enunciado": "A pegada ecológica gigante que estamos a deixar no planeta está a transformá-to de tal forma que os especialistas consideram que já entramos numa nova época geológica, o Antropoceno. E muitos defendem que, se não travarmos a crise ambiental, mais rapidamente transformaremos a Terra em Vênus do que iremos a Marte. A expressão “Antropoceno” é atribuída ao químico e prêmio Nobel Paul Crutzen, que a propôs durante uma conferência em 2000, ao mesmo tempo que anunciou o fim do Holoceno – a época geológica em que os seres humanos se encontram há cerca de 12 mil anos, segundo a União Internacional das Ciências Geológicas (UICG), a entidade que define as unidades de tempo geológicas.\n\nSILVA, R. D. **Antropoceno: e se formos os últimos seres vivos a alterar a Terra?** Disponível em: www.publico.pt. Acesso em: 5 dez. 2017 (adaptado).",
+      "alternativas_introducao": "A concepção apresentada considera a existência de uma nova época geológica concebida a partir da capacidade de influência humana nos processos",
+      "alternativas": [
+        "A) Eruptivos.",
+        "B) Exógenos.",
+        "C) Tectônicos.",
+        "D) Magmáticos.",
+        "E) Metamórficos."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/46"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 47,
+      "titulo": "Questão 47 - ENEM 2019",
+      "enunciado": "![](https://enem.dev/2019/questions/47/92a03628-ed52-419e-afee-32b9753b9fd0.jpg)\n\nDisponível em: www.ibge.gov.br.\n\nAcesso em: 11 dez. 2018 (adaptado).",
+      "alternativas_introducao": "A geração de imagens por meio da tecnologia ilustrada depende da variação do(a):",
+      "alternativas": [
+        "A) Albedo dos corpos físicos.",
+        "B) Profundidade do lençol freático.",
+        "C) Campo de magnetismo terrestre.",
+        "D) Qualidade dos recursos minerais.",
+        "E) Movimento de translação planetária."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2019/img/q047_principal.jpg",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/47"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 48,
+      "titulo": "Questão 48 - ENEM 2019",
+      "enunciado": "Dizem que Humboldt, naturalista do século XIX, maravilhado pela geografia, flora e fauna da região sulamericana, via seus habitantes como se fossem mendigos sentados sobre um saco de ouro, referindo-se a suas incomensuráveis riquezas naturais não exploradas. De alguma maneira, o cientista ratificou nosso papel de exportadores de natureza no que seria o mundo depois da colonização ibérica: enxergou-nos como territórios condenados a aproveitar os recursos naturais existentes.\n\n**ACOSTA, A.** _Bem viver: uma oportunidade para imaginar outros mundos._ São Paulo: Elefante, 2016 (adaptado).",
+      "alternativas_introducao": "A relação entre ser humano e natureza ressaltada no texto refletia a permanência da seguinte corrente filosófica:",
+      "alternativas": [
+        "A) Relativismo cognitivo.",
+        "B) Materialismo dialético.",
+        "C) Racionalismo cartesiano.",
+        "D) Pluralismo epistemológico.",
+        "E) Existencialismo fenomenológico."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/48"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 49,
+      "titulo": "Questão 49 - ENEM 2019",
+      "enunciado": "O Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama) está investigando o extermínio de abelhas por intoxicação por agrotóxicos em colmeias de São Paulo e Minas Gerais. Os estudos com inseticidas do tipo neonicotinoides devem estar concluídos no primeiro semestre de 2015. Trata-se de um problema de escala mundial, presente, inclusive, em países do chamado primeiro mundo, e que traz, como consequência, grave ameaça aos seres vivos do planeta, inclusive ao homem.\n\nIBAMA. Polinizadores em risco de extinção são ameaça  \nà vida do ser humano. Disponível em: www.mma.gov.br.  \nAcesso em: 10 mar. 2014.",
+      "alternativas_introducao": "Qual solução para o problema apresentado garante a produtividade da agricultura moderna?",
+      "alternativas": [
+        "A) Preservação da área de mata ciliar.",
+        "B) Adoção da prática de adubação química.",
+        "C) Utilização da técnica de controle biológico.",
+        "D) Ampliação do modelo de monocultura tropical.",
+        "E) Intensificação da drenagem do solo de várzea."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/49"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 50,
+      "titulo": "Questão 50 - ENEM 2019",
+      "enunciado": "",
+      "alternativas_introducao": "A hospitalidade pura consiste em acolher aquele que chega antes de lhe impor condições, antes de saber e indagar o que quer que seja, ainda que seja um nome ou um “documento” de identidade. Mas ela também supõe que se dirija a ele, de maneira singular, chamando-o portanto e reconhecendo-lhe um nome próprio: “Como você se chama?” A hospitalidade consiste em fazer tudo para se dirigir ao outro, em lhe conceder, até mesmo perguntar seu nome, evitando que essa pergunta se torne uma “condição”, um inquérito policial, um fichamento ou um simples controle das fronteiras. Uma arte e uma poética, mas também toda uma política dependem disso, toda uma ética se decide aí.\nDERRIDA, J. Papel-máquina. São Paulo: Estação Liberdade, 2004 (adaptado).\n \nAssociado ao contexto migratório contemporâneo, o conceito de hospitalidade proposto pelo autor impõe a necessidade de",
+      "alternativas": [
+        "A) Anulação da diferença.",
+        "B) Cristalização da biografia.",
+        "C) Incorporação da alteridade.",
+        "D) Supressão da comunicação.",
+        "E) Verificação da proveniência."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/50"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 51,
+      "titulo": "Questão 51 - ENEM 2019",
+      "enunciado": "",
+      "alternativas_introducao": "Em sentido geral e fundamental, Direito é a técnica da coexistência humana, isto é, a técnica voltada a tornar possível a coexistência dos homens. Como técnica, o Direito se concretiza em um conjunto de regras (que, nesse caso, são leis ou normais); e tais regras têm por objeto o comportamento intersubjetivo, isto é, o comportamento recíproco dos homens entre si.\nABBAGNANO, N. Dicionário de Filosofia. São Paulo: Martins Fontes, 2007.\n \nO sentido geral e fundamental do Direito, conforme foi destacado, refere-se à",
+      "alternativas": [
+        "A) Aplicação de códigos legais.",
+        "B) Regulação do convívio social.",
+        "C) Legitimação de decisões políticas.",
+        "D) Mediação de conflitos econômicos.",
+        "E) Representação da autoridade constituída."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/51"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 52,
+      "titulo": "Questão 52 - ENEM 2019",
+      "enunciado": "",
+      "alternativas_introducao": "O processamento da mandioca era uma atividade já realizada pelos nativos que viviam no Brasil antes da chegada de portugueses e africanos. Entretanto, ao longo do processo de colonização portuguesa, a produção da farinha foi aperfeiçoada e ampliada, tornando-se lugar comum em todo o território da colônia portuguesa na América. Com a consolidação do comércio atlântico em suas diferentes conexões, a farinha atravessou os mares e chegou aos mercados africanos.\nBEZERRA, N. R. Escravidão, farinha e tráfico atlântico: um novo olhar sobre as relações entre o Rio de Janeiro e Benguela (1790-1830). Disponível em: www.bn.br. Acesso em: 20 ago. 2014 (adaptado)\n\n\n\n\nConsiderando a formação do espaço atlântico, esse produto exemplifica historicamente a",
+      "alternativas": [
+        "A) Difusão de hábitos alimentares.",
+        "B) Disseminação de rituais festivos.",
+        "C) Ampliação dos saberes autóctones.",
+        "D) Apropriação de costumes guerreiros.",
+        "E) Diversificação de oferendas religiosas."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/52"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 53,
+      "titulo": "Questão 53 - ENEM 2019",
+      "enunciado": "",
+      "alternativas_introducao": "Brasil, Alemanha, Japão e Índia pedem reforma do Conselho de Segurança\n     Os representantes do G4 (Brasil, Alemanha, Índia e Japão) reiteraram, em setembro de 2018, a defesa pela ampliação do Conselho de Segurança da Organização das Nações Unidas (ONU) durante reunião em Nova York (Estados Unidos). Em declaração conjunta, de dez itens, os chanceleres destacaram que o órgão, no formato em que está, com apenas cinco membros permanentes e dez rotativos, não reflete o século 21. “A reforma do Conselho de Segurança é essencial para enfrentar os desafios complexos de hoje. Como aspirantes a novos membros permanentes de um conselho reformado, os ministros reiteraram seu compromisso de trabalhar para fortalecer o funcionamento da ONU e da ordem multilateral global, bem como seu apoio às respectivas candidaturas”, afirma a declaração conjunta.\nDisponível em: http://agenciabrasil.ebc.com.br. Acesso em: 7 dez. 2018 (adaptado).\n \nOs países mencionados no texto justificam sua pretensão com base na seguinte característica comum:",
+      "alternativas": [
+        "A) Extensividade de área territorial.",
+        "B) Protagonismo em escala regional.",
+        "C) Investimento em tecnologia militar.",
+        "D) Desenvolvimento de energia nuclear.",
+        "E) Disponibilidade de recursos minerais."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/53"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 54,
+      "titulo": "Questão 54 - ENEM 2019",
+      "enunciado": "Dificilmente passa-se uma noite sem que algum sitiante tenha seu celeiro ou sua pilha de cereais destruídos pelo fogo. Vários trabalhadores não diretamente envolvidos nos ataques pareciam apoiá-los, como se vê neste depoimento ao The Times: “deixa queimar, pena que não foi a casa”; “podemos nos aquecer agora”; “nós só queríamos algumas batatas; há um fogo ótimo para cozinhá-las”.\n\n**HOBSBAWM, E.**; RUDÉ, G. Capitão Swing. Rio de Janeiro: Francisco Alves, 1982 (adaptado).",
+      "alternativas_introducao": "A revolta descrita no texto, ocorrida na Inglaterra no século XIX, foi uma reação ao seguinte processo socioespacial:",
+      "alternativas": [
+        "A) Restrição da propriedade privada.",
+        "B) Expropriação das terras comunais.",
+        "C) Imposição da estatização fundiária.",
+        "D) Redução da produção monocultora.",
+        "E) Proibição das atividades artesanais."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/54"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 55,
+      "titulo": "Questão 55 - ENEM 2019",
+      "enunciado": "Entre os combatentes estava a mais famosa heroína da Independência. Nascida em Feira de Santana, filha de lavradores pobres, Maria Quitéria de Jesus tinha trinta anos quando a Bahia começou a pegar em armas contra os portugueses. Apesar da proibição de mulheres nos batalhões de voluntários, decidiu se alistar às escondidas. Cortou os cabelos, amarrou os seios, vestiu-se de homem e incorporou-se às fileiras brasileiras com o nome de Soldado Medeiros.\n\nGOMES, L. **1822**. Rio de Janeiro: Nova Fronteira, 2010.",
+      "alternativas_introducao": "No processo de Independência do Brasil, o caso mencionado é emblemático porque evidencia a",
+      "alternativas": [
+        "A) Rigidez hierárquica da estrutura social.",
+        "B) Inserção feminina nos ofícios militares.",
+        "C) Adesão pública dos imigrantes portugueses.",
+        "D) Flexibilidade administrativa do governo imperial.",
+        "E) Receptividade metropolitana aos ideais emancipatórios."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/55"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 56,
+      "titulo": "Questão 56 - ENEM 2019",
+      "enunciado": "A reestruturação global da indústria, condicionada pelas estratégias de gestão global da cadeia de valor dos grandes grupos transnacionais, promoveu um forte deslocamento do processo produtivo, até mesmo de plantas industriais inteiras, e redirecionou os fluxos de produção e de investimento. Entretanto, o aumento da participação dos países em desenvolvimento no produto global deu-se de forma bastante assimétrica quando se compara o dinamismo dos países do leste asiático com o dos demais países, sobretudo os latino-americanos, no período 1980-2000.\n\nSARTI, F.; HIRATUKA, C. **Indústria mundial: mudanças e tendências recentes**. Campinas: Unicamp, n. 186, dez. 2010.",
+      "alternativas_introducao": "A dinâmica de transformação da geografia das indústrias descrita expõe a complementaridade entre dispersão espacial e",
+      "alternativas": [
+        "A) Autonomia tecnológica.",
+        "B) Crises de abastecimento.",
+        "C) Descentralização política.",
+        "D) Concentração econômica.",
+        "E) Compartilhamento de lucros."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/56"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 57,
+      "titulo": "Questão 57 - ENEM 2019",
+      "enunciado": "![](https://enem.dev/2019/questions/57/01e91aee-fbc7-4703-8454-c17c702d8064.jpg)\n\nSALGADO-LABOURIAL, M.L., História ecológica da Terra. São Paulo: Edgard Blucher, 1994 (adaptado).",
+      "alternativas_introducao": "No Hemisfério Sul, a sequência latitudinal dos desertos representada na imagem sofre uma interrupção no Brasil devido à seguinte razão:",
+      "alternativas": [
+        "A) Existência de superfícies de intensa refletividade.",
+        "B) Preponderância de altas pressões atmosféricas.",
+        "C) Influência de umidade das áreas florestais.",
+        "D) Predomínio de correntes marinhas frias.",
+        "E) Ausência de massas de ar continentais."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2019/img/q057_principal.jpg",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/57"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 58,
+      "titulo": "Questão 58 - ENEM 2019",
+      "enunciado": "De fato, não é porque o homem pode usar a vontade livre para pecar que se deve supor que Deus a concedeu para isso. Há, portanto, uma razão pela qual Deus deu ao homem esta característica, pois sem ela não poderia viver e agir corretamente. Pode-se compreender, então, que ela foi concedida ao homem para esse fim, considerando-se que se um homem a usar para pecar, recairão sobre ele as punições divinas. Ora, isso seria injusto se a vontade livre tivesse sido dada ao homem não apenas para agir corretamente, mas também para pecar. Na verdade, por que deveria ser punido aquele que usasse da sua vontade para o fim para o qual ela lhe foi dada?\n\nAGOSTINHO. O livre-arbítrio. In: MARCONDES, D. **Textos básicos de ética**. Rio de Janeiro: Jorge Zahar, 2008.",
+      "alternativas_introducao": "Nesse texto, o filósofo cristão Agostinho de Hipona sustenta que a punição divina tem como fundamento o(a)",
+      "alternativas": [
+        "A) Desvio da postura celibatária.",
+        "B) Insuficiência da autonomia moral.",
+        "C) Afastamento das ações de desapego.",
+        "D) Distanciamento das práticas de sacrifício.",
+        "E) Violação dos preceitos do Velho Testamento."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/58"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 59,
+      "titulo": "Questão 59 - ENEM 2019",
+      "enunciado": "![](https://enem.dev/2019/questions/59/6b33d355-b477-4f47-be06-98e65ef4abe8.png)",
+      "alternativas_introducao": "A divisão política do mundo como apresentada na imagem seria possível caso o planeta fosse marcado pela estabilidade do(a)",
+      "alternativas": [
+        "A) Ciclo hidrológico.",
+        "B) Processo erosivo.",
+        "C) Estrutura geológica.",
+        "D) Índice pluviométrico.",
+        "E) Pressão atmosférica."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2019/img/q059_principal.png",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/59"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 60,
+      "titulo": "Questão 60 - ENEM 2019",
+      "enunciado": "A cidade medieval é, antes de mais uma sociedade da abundância, concentrada num pequeno espaço em meio a vastas regiões pouco povoadas. Em seguida, é um lugar de produção e de trocas, onde se articulam o artesanato e o comércio, sustentados por uma economia monetária. É também centro de um sistema de valores particular, do qual emerge a prática laboriosa e criativa do trabalho, o gosto pelo negócio e pelo dinheiro, a inclinação para o luxo, o senso da beleza. E ainda um sistema de orga – nização de um espaço fechado com muralhas, onde se penetra por portas e se caminha por ruas e praças e que é guarnecido por torres.\n\nLE GOFF, J.; SCHMITT, J.-C. **Dicionário temático do Ocidente Medieval**. Bauru: Edusc, 2006.",
+      "alternativas_introducao": "No texto, o espaço descrito se caracteriza pela associação entre a ampliação das atividades urbanas e a",
+      "alternativas": [
+        "A) Emancipação do poder hegemônico da realeza.",
+        "B) Aceitação das práticas usurárias dos religiosos.",
+        "C) Independência da produção alimentar dos campos.",
+        "D) Superação do ordenamento corporativo dos ofícios.",
+        "E) Permanência dos elementos arquitetônicos de proteção."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/60"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 61,
+      "titulo": "Questão 61 - ENEM 2019",
+      "enunciado": "**TEXTO I**\n\nOuve o barulho do rio, meu filho  \nDeixa esse som te embalar  \nAs folhas que caem no rio, meu filho  \nTerminam nas águas do mar  \nQuando amanhã por acaso faltar  \nUma alegria no seu coração  \nLembra do som dessas águas de lá  \nFaz desse rio a sua oração.\n\n**MONTE, M. et al. O rio. In: Infinito particular. Rio de Janeiro: Sony: Universal Music, 2006 (fragmento).**\n\n**TEXTO II**\n\nO atrativo ecoturístico não é somente o banho de cachoeira, sentar e caminhar pela praia, cavalgar, mas conhecer a biodiversidade, às vezes supostamente em extinção. Observar baleias, nadar com o golfinho, tocar em corais, sair ao encontro de dezenas de jacarés em seu hábitat natural são símbolos que fascinam um ecoturista. A natureza é transformada em espetáculo diferente da vida urbana moderna.\n\n**SANTANA, P. V. Ecoturismo: uma indústria sem chaminé? São Paulo: Labur Edições, 2008.**",
+      "alternativas_introducao": "São identificadas nos textos, respectivamente, as seguintes posturas em relação à natureza:",
+      "alternativas": [
+        "A) Exploração e romantização.",
+        "B) Sacralização e profanação.",
+        "C) Preservação e degradação.",
+        "D) Segregação e democratização.",
+        "E) Idealização e mercantilização."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/61"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 62,
+      "titulo": "Questão 62 - ENEM 2019",
+      "enunciado": "A maior parte das agressões e manifestações discriminatórias contra as religiões de matrizes africanas ocorrem em locais públicos (57%). É na rua, na via pública, que tiveram lugar mais de 2/3 das agressões, geralmente em locais próximos às casas de culto dessas religiões. O transporte público também é apontado como um local em que os adeptos das religiões de matrizes africanas são discriminados, geralmente quando se encontram paramentados por conta dos preceitos religiosos.\n\n**REGO, L. F.; FONSECA, D. P. R.; GIACOMINI, S. M. Cartografia social de terreiros no Rio de Janeiro. Rio de Janeiro: PUC-Rio, 2014.**",
+      "alternativas_introducao": "As práticas descritas no texto são incompatíveis com a dinâmica de uma sociedade laica e democrática porque:",
+      "alternativas": [
+        "A) Asseguram as expressões multiculturais.",
+        "B) Promovem a diversidade de etnias.",
+        "C) Falseiam os dogmas teológicos.",
+        "D) Estimulam os rituais sincréticos.",
+        "E) Restringem a liberdade de credo."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/62"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 63,
+      "titulo": "Questão 63 - ENEM 2019",
+      "enunciado": "**TEXTO I**\n\nA centralização econômica, o protecionismo e a expansão ultramarina engrandeceram o Estado, embora beneficias sem a burguesia incipiente.\n\n**ANDERSON, P. In: DEYON, P. O mercantilismo. Lisboa: Gradiva, 1989 (adaptado).**\n\n**TEXTO II**\n\nAs interferências da legislação e das práticas exclusivistas restringem a operação benéfica da lei natural na esfera das relações econômicas.\n\n**SMITH, A. A riqueza das Nações. São Paulo: Abril Cultural, 1983 (adaptado).**",
+      "alternativas_introducao": "Entre os séculos XVI e XIX, diferentes concepções sobre as relações entre Estado e economia foram formuladas. Tais concepções, associadas a cada um dos textos, confrontam-se, respectivamente, na oposição entre as práticas de:",
+      "alternativas": [
+        "A) Valorização do pacto colonial — combate à livre-iniciativa.",
+        "B) Defesa dos monopólios régios — apoio à livre concorrência.",
+        "C) Formação do sistema metropolitano — crítica à livre navegação.",
+        "D) Abandono da acumulação metalista — estímulo ao livre-comércio.",
+        "E) Eliminação das tarifas alfandegárias — incentivo ao livre-cambismo."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/63"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 64,
+      "titulo": "Questão 64 - ENEM 2019",
+      "enunciado": "A lenda diz que, em um belo dia ensolarado, Newton estava relaxando sob uma macieira. Pássaros gorjeavam em suas orelhas. Havia uma brisa gentil. Ele cochilou por alguns minutos. De repente, uma maçã caiu sobre a sua cabeça e ele acordou com um susto. Olhou para cima. “Com certeza um pássaro ou um esquilo derrubou a maçã da árvore”, supôs. Mas não havia pássaros ou esquilos na árvore por perto. Ele, então, pensou: “Apenas alguns minutos antes, a maçã estava pendurada na árvore. Nenhuma força externa fez ela cair. Deve haver alguma força subjacente que causa a queda das coisas para a terra”.\n\n**SILVA, C. C.; MARTINS, R A. Estudos de história e filosofia das ciências. São Paulo: Livraria da Física, 2006 (adaptado).**",
+      "alternativas_introducao": "Em contraponto a uma interpretação idealizada, o texto aponta para a seguinte dimensão fundamental da ciência moderna:",
+      "alternativas": [
+        "A) Falsificação de teses.",
+        "B) Negação da observação.",
+        "C) Proposição de hipóteses.",
+        "D) Contemplação da natureza.",
+        "E) Universalização de conclusões."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/64"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 65,
+      "titulo": "Questão 65 - ENEM 2019",
+      "enunciado": "Para Maquiavel, quando um homem decide dizer a verdade pondo em risco a própria integridade física, tal resolução diz respeito apenas a sua pessoa. Mas se esse mesmo homem é um chefe de Estado, os critérios pessoais não são mais adequados para decidir sobre ações cujas consequências se tornam tão amplas, já que o prejuízo não será apenas individual, mas coletivo. Nesse caso, conforme as circunstâncias e os fins a serem atingidos, pode-se decidir que o melhor para o bem comum seja mentir.\n\n**ARANHA, M. L. Maquiavel: a lógica da força. São Paulo: Moderna, 2006 (adaptado).**",
+      "alternativas_introducao": "O texto aponta uma inovação na teoria política na época moderna expressa na distinção entre:",
+      "alternativas": [
+        "A) Idealidade e efetividade da moral.",
+        "B) Nulidade e preservabilidade da liberdade.",
+        "C) Ilegalidade e legitimidade do governante.",
+        "D) Verificabilidade e possibilidade da verdade.",
+        "E) Objetividade e subjetividade do conhecimento."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/65"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 66,
+      "titulo": "Questão 66 - ENEM 2019",
+      "enunciado": "A criação do Sistema Único de Saúde (SUS) como uma política para todos constitui-se uma das mais importantes conquistas da sociedade brasileira no século XX. O SUS deve ser valorizado e defendido como um marco para a cidadania e o avanço civilizatório. A democracia envolve um modelo de Estado no qual políticas protegem os cidadãos e reduzem as desigualdades. O SUS é uma diretriz que fortalece a cidadania e contribui para assegurar o exercício de direitos, o pluralismo político e o bem-estar como valores de uma sociedade fraterna, pluralista e sem preconceitos, conforme prevê a Constituição Federal de 1988.\n\n**RIZZOTO, M. L. F. et at. Justiça social, democracia com direitos sociais e saúde: a luta do Cebes. Revista Saúde em Debate, n. 116, jan.-mar. 2018 (adaptado).**",
+      "alternativas_introducao": "Segundo o texto, duas características da concepção da política pública analisada são:",
+      "alternativas": [
+        "A) Paternalismo e filantropia.",
+        "B) Liberalismo e meritocracia.",
+        "C) Universalismo e igualitarismo.",
+        "D) Nacionalismo e individualismo.",
+        "E) Revolucionarismo e coparticipação."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/66"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 67,
+      "titulo": "Questão 67 - ENEM 2019",
+      "enunciado": "**TEXTO I**\n\nConsidero apropriado deter-me algum tempo na contemplação deste Deus todo perfeito, ponderar totalmente à vontade seus maravilhosos atributos, considerar, admirar e adorar a incomparável beleza dessa imensa luz.\n\n**DESCARTES, R. Meditações. São Paulo: Abril Cultural, 1980.**\n\n**TEXTO II**\n\nQual será a forma mais razoável de entender como é o mundo? Existirá alguma boa razão para acreditar que o mundo foi criado por uma divindade todo-poderosa? Não podemos dizer que a crença em Deus é “apenas” uma questão de fé.\n\n**RACHELS, J. Problemas da filosofia. Lisboa: Gradiva, 2009.**",
+      "alternativas_introducao": "Os textos abordam um questionamento da construção da modernidade que defende um modelo:",
+      "alternativas": [
+        "A) Centrado na razão humana.",
+        "B) Baseado na explicação mitológica.",
+        "C) Fundamentado na ordenação imanentista.",
+        "D) Focado na legitimação contratualista.",
+        "E) Configurado na percepção etnocêntrica."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/67"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 68,
+      "titulo": "Questão 68 - ENEM 2019",
+      "enunciado": "A comunidade de Mumbuca, em Minas Gerais, tem uma organização coletiva de tal forma expressiva que coopera para o abastecimento de mantimentos da cidade do Jequitinhonha, o que pode ser atestado pela feira aos sábados. Em Campinho da Independência, no Rio de Janeiro, o artesanato local encanta os frequentadores do litoral sul do estado, além do restaurante quilombola que atende aos turistas.\n\n**ALMEIDA, A. W. B. (Org.). Cadernos de debates nova cartografia social: Territórios quilombolas e conflitos. Manaus: Projeto Nova Cartografia Social da Amazônia; UEA Edições, 2010 (adaptado).**",
+      "alternativas_introducao": "No texto, as estratégias territoriais dos grupos de remanescentes de quilombo visam garantir:",
+      "alternativas": [
+        "A) Perdão de dívidas fiscais.",
+        "B) Reserva de mercado local.",
+        "C) Inserção econômica regional.",
+        "D) Protecionismo comercial tarifário.",
+        "E) Benefícios assistenciais públicos."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/68"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 69,
+      "titulo": "Questão 69 - ENEM 2019",
+      "enunciado": "Localizado a 160 km da cidade de Porto Velho (capital do estado de Rondônia), nos limites da Reserva Extrativista Jaci-Paraná e Terra Indígena Karipunas, o povoado de União Bandeirantes surgiu em 2000 a partir de movimentos de camponeses, madeireiros, pecuaristas e grileiros que, à revelia do ordenamento territorial e diante da passividade governamental, demarcaram e invadiram terras na área rural fundando a vila. Atualmente, constitui-se na região de maior produção agrícola e leiteira do município de Porto Velho, fornecendo, inclusive, alimentos para a Hidrelétrica de Jirau.\n\n**SILVA, R. G. C. Amazônia globalizada – o exemplo de Rondônia. Confins, n. 23, 2015 (adaptado).**",
+      "alternativas_introducao": "A dinâmica de ocupação territorial descrita foi decorrente da:",
+      "alternativas": [
+        "A) Mecanização do processo produtivo.",
+        "B) Adoção da colonização dirigida.",
+        "C) Realização de reforma agrária.",
+        "D) Ampliação de franjas urbanas.",
+        "E) Expansão de frentes pioneiras."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/69"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 70,
+      "titulo": "Questão 70 - ENEM 2019",
+      "enunciado": "Em nenhuma outra época, o corpo magro adquiriu um sentido de corpo ideal e esteve tão em evidência como nos dias atuais: esse corpo, nu ou vestido, exposto em diversas revistas femininas e masculinas, está na moda: é capa de revistas, matérias de jornais, manchetes publicitárias, e se transformou em um sonho de consumo para milhares de pessoas. Partindo dessa concepção, o gordo passa a ter um corpo visivelmente sem comedimento, sem saúde, um corpo estigmatizado pelo desvio, o desvio pelo excesso. Entretanto, como afirma a escritora Marylin Wann, é perfeitamente possível ser gordo e saudável. Frequentemente os gordos adoecem não por causa da gordura, mas sim pelo estresse, pela opressão a que são submetidos.\n\n**VASCONCELOS, N. A.; SUDO, I.; SUDO, N. Um peso na alma: o corpo gordo e a mídia. Revista Mal-Estar e Subjetividade, n. 1, mar. 2004 (adaptado).**",
+      "alternativas_introducao": "No texto, o tratamento predominante na mídia sobre a relação entre saúde e corpo recebe a seguinte crítica:",
+      "alternativas": [
+        "A) Difusão das estéticas antigas.",
+        "B) Exaltação das crendices populares.",
+        "C) Propagação das conclusões científicas.",
+        "D) Reiteração dos discursos hegemônicos.",
+        "E) Contestação dos estereótipos consolidados."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/70"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 71,
+      "titulo": "Questão 71 - ENEM 2019",
+      "enunciado": "No sistema capitalista, as muitas manifestações de crise criam condições que forçam a algum tipo de racionalização. Em geral, essas crises periódicas têm o efeito de expandir a capacidade produtiva e de renovar as condições de acumulação. Podemos conceber cada crise como uma mudança do processo de acumulação para um nível novo e superior.\n\n**HARVEY, D. A produção capitalista do espaço. São Paulo: Annablume, 2005 (adaptado).**",
+      "alternativas_introducao": "A condição para a inclusão dos trabalhadores no novo processo produtivo descrito no texto é a",
+      "alternativas": [
+        "A) Associação sindical.",
+        "B) Participação eleitoral.",
+        "C) Migração internacional.",
+        "D) Qualificação profissional.",
+        "E) Regulamentação funcional."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/71"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 72,
+      "titulo": "Questão 72 - ENEM 2019",
+      "enunciado": "Art. 90. As nomeações dos deputados e senadores para a Assembleia Geral, e dos membros dos Conselhos Gerais das províncias, serão feitas por eleições, elegendo a massa dos cidadãos ativos em assembleias paroquiais, os eleitores de província, e estes, os representantes da nação e província.\n\nArt. 92. São excluídos de votar nas assembleias paroquiais:\n\n**I**. Os menores de vinte e cinco anos, nos quais se não compreendem os casados, os oficiais militares, que forem maiores de vinte e um anos, os bacharéis formados e os clérigos de ordens sacras.\n\n**II**. Os filhos de famílias, que estiverem na companhia de seus pais, salvo se servirem a ofícios públicos.\n\n**III**. Os criados de servir, em cuja classe não entram os guarda-livros, e primeiros caixeiros das casas de comércio, os criados da Casa Imperial, que não forem de galão branco, e os administradores das fazendas rurais e fábricas.\n\n**IV**. Os religiosos e quaisquer que vivam em comunidade claustral.\n\n**V**. Os que não tiverem de renda líquida anual cem mil réis por bens de raiz, indústria, comércio, ou emprego.\n\n**BRASIL. Constituição de 1824. Disponível em: [www.planalto.gov.br](http://www.planalto.gov.br/). Acesso em: 4 abr. 2015 (adaptado).**",
+      "alternativas_introducao": "De acordo com os artigos do dispositivo legal apresentado, o sistema eleitoral instituído no início do Império é marcado pelo(a):",
+      "alternativas": [
+        "A) Representação popular e sigilo individual.",
+        "B) Voto indireto e perfil censitário.",
+        "C) Liberdade pública e abertura política.",
+        "D) Ética partidária e supervisão estatal.",
+        "E) Caráter liberal e sistema parlamentar."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/72"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 73,
+      "titulo": "Questão 73 - ENEM 2019",
+      "enunciado": "O cristianismo incorporou antigas práticas relativas ao fogo para criar uma festa sincrética. A igreja retomou a distância de seis meses entre os nascimentos de Jesus Cristo e João Batista e instituiu a data de comemoração a este último de tal maneira que as festas do solstício de verão europeu com suas tradicionais fogueiras se tornaram “fogueiras de São João”. A festa do fogo e da luz no entanto não foi imediatamente associada a São João Batista. Na Baixa Idade Média, algumas práticas tradicionais da festa (como banhos, danças e cantos) foram perseguidas por monges e bispos. A partir do Concílio de Trento (1545-1563), a Igreja resolveu adotar celebrações em torno do fogo e associá-las à doutrina cristã.\n\n**CHIANCA, L. Devoção e diversão: expressões contemporâneas de festas e santos católicos. Revista Anthropológicas, n. 18, 2007 (adaptado).**",
+      "alternativas_introducao": "Com o objetivo de se fortalecer, a instituição mencionada no texto adotou as práticas descritas, que consistem em:",
+      "alternativas": [
+        "A) Promoção de atos ecumênicos.",
+        "B) Fomento de orientação bíblicas.",
+        "C) Apropriação de cerimônias seculares.",
+        "D) Retomada de ensinamentos apostólicos.",
+        "E) Ressignificação de rituais fundamentalistas."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/73"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 74,
+      "titulo": "Questão 74 - ENEM 2019",
+      "enunciado": "Penso que não há um sujeito soberano, fundador, uma forma universal de sujeito que poderíamos encontrar em todos os lugares. Penso, pelo contrário, que o sujeito se constitui através das práticas de sujeição ou, de maneira mais autônoma, através de práticas de liberação, de liberdade, como na Antiguidade – a partir, obviamente, de um certo número de regras, de estilos, que podemos encontrar no meio cultural.\n\n**FOUCAULT, M. Ditos e escritos V: ética, sexualidade, política. Rio de Janeiro: Forense Universitária, 2004.**",
+      "alternativas_introducao": "O texto aponta que a subjetivação se efetiva numa dimensão:",
+      "alternativas": [
+        "A) Legal, pautada em preceitos jurídicos.",
+        "B) Racional, baseada em pressupostos lógicos.",
+        "C) Contingencial, processada em interações sociais.",
+        "D) Transcendental, efetivada em princípios religiosos.",
+        "E) Essencial, fundamentada em parâmetros substancialistas."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/74"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 75,
+      "titulo": "Questão 75 - ENEM 2019",
+      "enunciado": "**TEXTO I**\n\nOs segredos da natureza se revelam mais sob a tortura dos experimentos do que no seu curso natural.\n\n**BACON, F. Novum Organum, 1620. In: HADOT, P. O véu de Ísis: ensaio sobre a história da ideia de natureza. São Paulo: Loyola, 2006.**\n\n**TEXTO II**\n\nO ser humano, totalmente desintegrado do todo, não percebe mais as relações de equilíbrio da natureza. Age de forma totalmente desarmônica sobre o ambiente, causando grandes desequilíbrios ambientais.\n\n**GUIMARÃES, M. A dimensão ambiental na educação. Campinas: Papirus, 1995.**",
+      "alternativas_introducao": "Os textos indicam uma relação da sociedade diante da natureza caracterizada pela:",
+      "alternativas": [
+        "A) Objetificação do espaço físico.",
+        "B) Retomada do modelo criacionista.",
+        "C) Recuperação do legado ancestral.",
+        "D) Infalibilidade do método científico.",
+        "E) Formação da cosmovisão holística."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/75"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 76,
+      "titulo": "Questão 76 - ENEM 2019",
+      "enunciado": "Essa atmosfera de loucura e irrealidade, criada pela aparente ausência de propósitos, é a verdadeira cortina de ferro que esconde dos olhos do mundo todas as formas de campos de concentração. Vistos de fora, os campos e o que neles acontece só podem ser descritos com imagens extraterrenas, como se a vida fosse neles separada das finalidades deste mundo. Mais que o arame farpado, é a irrealidade dos detentos que ele confina que provoca uma crueldade tão incrível que termina levando à aceitação do extermínio como solução perfeitamente normal.\n\n**ARENDT, H. Origens do totalitarismo. São Paulo: Cia. das Letras, 1989 (adaptado).**",
+      "alternativas_introducao": "A partir da análise da autora, no encontro das temporalidades históricas, evidencia-se uma crítica à naturalização do(a):",
+      "alternativas": [
+        "A) Ideário nacional, que legitima as desigualdades sociais.",
+        "B) Alienação ideológica, que justifica as ações individuais.",
+        "C) Cosmologia religiosa, que sustenta as tradições hierárquicas.",
+        "D) Segregação humana, que fundamenta os projetos biopolíticos.",
+        "E) Enquadramento cultural, que favorece os comportamentos punitivos."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/76"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 77,
+      "titulo": "Questão 77 - ENEM 2019",
+      "enunciado": "![](https://enem.dev/2019/questions/77/8a228abe-5656-40e1-94bf-8be1b85e8ab2.jpg)\n\nFala-se aqui de uma arte criada nas ruas e para as ruas, marcadas antes de tudo pela vida cotidiana, seus conflitos e suas possibilidades, que poderiam envolver técnicas, agentes e temas que não fossem encontrados nas instituições mais tradicionais e formais.\n\n**VALVERDE, R. R. H. F. Os limites da inversão: a heterotopia do Beco do Batman. Boletim Goiano de Geografia (Online). Goiânia, v. 37, n. 2, maio/ago. 2017 (adaptado).**",
+      "alternativas_introducao": "A manifestação artística expressa na imagem e apresentada no texto integra um movimento contemporâneo de:",
+      "alternativas": [
+        "A) Regulação das relações sociais.",
+        "B) Apropriação dos espaços públicos.",
+        "C) Padronização das culturas urbanas.",
+        "D) Valorização dos formalismos estéticos.",
+        "E) Revitalização dos patrimônios históricos."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2019/img/q077_principal.jpg",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/77"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 78,
+      "titulo": "Questão 78 - ENEM 2019",
+      "enunciado": "**TEXTO I  \n**\n\nDuas coisas enchem o ânimo de admiração e veneração sempre crescentes: o céu estrelado sobre mim e a lei moral em mim.\n\n**KANT, I. Crítica da razão prática. Lisboa: Edições 70, s/d (adaptado).**\n\n**TEXTO II**\n\nDuas coisas admiro: a dura lei cobrindo-me e o estrelado céu dentro de mim.\n\n**FONTELA, O. Kant (relido). In: Poesia completa. São Paulo: Hedra, 2015.**",
+      "alternativas_introducao": "A releitura realizada pela poeta inverte as seguintes ideias centrais do pensamento kantiano:",
+      "alternativas": [
+        "A) Possibilidade da liberdade e obrigação da ação.",
+        "B) Aprioridade do juízo e importância da natureza.",
+        "C) Necessidade da boa vontade e crítica da metafísica.",
+        "D) Prescindibilidade do empírico e autoridade da razão.",
+        "E) Interioridade da norma e fenomenalidade do mundo."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/78"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 79,
+      "titulo": "Questão 79 - ENEM 2019",
+      "enunciado": "A soberania dos cidadãos dotados de plenos direitos era imprescindível para a existência da cidade-estado. Segundo os regimes políticos, a proporção desses cidadãos em relação à população total dos homens livres podia variar muito, sendo bastante pequena nas aristocracias e oligarquias e maior nas democracias.\n\n**CARDOSO, C. F. A cidade-estado clássica. São Paulo: Ática, 1985.**",
+      "alternativas_introducao": "Nas cidades-estado da Antiguidade Clássica, a proporção de cidadãos descrita no texto é explicada pela adoção do seguinte critério para a participação política:",
+      "alternativas": [
+        "A) Controle da terra.",
+        "B) Liberdade de culto.",
+        "C) Igualdade de gênero.",
+        "D) Exclusão dos militares.",
+        "E) Exigência da alfabetização."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/79"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 80,
+      "titulo": "Questão 80 - ENEM 2019",
+      "enunciado": "A Revolta da Vacina (1904) mostrou claramente o aspecto defensivo, desorganizado, fragmentado da ação popular. Não se negava o Estado, não se reivindicava participação nas decisões políticas; defendiam-se valores e direitos considerados acima da intervenção do Estado.\n\n**CARVALHO, J. M. Os bestializados: o Rio de Janeiro e a República que não foi. São Paulo: Cia. das Letras, 1987 (adaptado).**",
+      "alternativas_introducao": "A mobilização analisada representou um alerta, na medida em que a ação popular questionava:",
+      "alternativas": [
+        "A) A alta de preços.",
+        "B) A política clientelista.",
+        "C) As reformas urbanas.",
+        "D) O arbítrio governamental.",
+        "E) As práticas eleitorais."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/80"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 81,
+      "titulo": "Questão 81 - ENEM 2019",
+      "enunciado": "A partir da segunda metade do século XVII, o número de escravos recém-chegados cresce no Rio e se estabiliza na Bahia. Nenhum lugar servia tão bem à recepção de escravos quanto o Rio de Janeiro.\n\n**FRANÇA, R. O tamanho real da escravidão. O Globo, 5 abr. 2015 (adaptado).**",
+      "alternativas_introducao": "Na matéria, o jornalista informa uma mudança na dinâmica do tráfico atlântico que está relacionada à seguinte atividade:",
+      "alternativas": [
+        "A) Coleta de drogas do sertão.",
+        "B) Extração de metais preciosos.",
+        "C) Adoção da pecuária extensiva.",
+        "D) Retirada de madeira do litoral.",
+        "E) Exploração da lavoura de tabaco."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/81"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 82,
+      "titulo": "Questão 82 - ENEM 2019",
+      "enunciado": "Tratava-se agora de construir: e construir um ritmo novo. Para tanto, era necessário convocar todas as forças vivas da Nação, todos os homens que, com vontade de trabalhar e confiança no futuro, pudessem erguer, num tempo novo, um novo Tempo. E, à grande convocação que conclamava o povo para a gigantesca tarefa, começaram a chegar de todos os cantos da imensa pátria os trabalhadores: os homens simples e quietos, com pés de raiz, rostos de couro e mãos de pedra, e que, no calcanho, em carro de boi, em lombo de burro, em paus-de-arara, por todas as formas possíveis e imagináveis, em sua mudez cheia de esperança, muitas vezes deixando para trás mulheres e filhos a aguardar suas promessas de melhores dias; foram chegando de tantos povoados, tantas cidades cujos nomes pareciam cantar saudades aos seus ouvidos, dentro dos antigos ritmos da imensa pátria… Terra de sol, Terra de luz… Brasil! Brasil! Brasil!\n\n**MORAES, V.; JOBIM, A. C. Brasília, sinfonia da alvorada. III – A chegada dos candangos. Disponível em: www.viniciusdemoraes.com.br. Acesso em: 14 ago. 2012 (adaptado).**",
+      "alternativas_introducao": "No texto, a narrativa produzida sobre a construção de Brasília articula os elementos políticos e socioeconômicos indicados, respectivamente, em:",
+      "alternativas": [
+        "A) Apelo simbólico e migração inter-regional.",
+        "B) Organização sindical e expansão do capital.",
+        "C) Segurança territorial e estabilidade financeira.",
+        "D) Consenso partidário e modernização rodoviária.",
+        "E) Perspectiva democrática e eficácia dos transportes."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/82"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 83,
+      "titulo": "Questão 83 - ENEM 2019",
+      "enunciado": "Saudado por centenas de militantes de movimentos sociais de 40 países, o Papa Francisco encerrou no dia 09/07/2018 o 2.º Encontro Mundial dos Movimentos Populares, em Santa Cruz de La Sierra, na Bolívia. Segundo ele, “a globalização da esperança, que nasce dos povos e cresce entre os pobres, deve substituir esta globalização da exclusão e da indiferença”.\n\n**Disponível em: [http://cartamaior.com.br](http://cartamaior.com.br/). Acesso em: 15 jul. 2015 (adaptado).**",
+      "alternativas_introducao": "No texto há uma crítica ao seguinte aspecto do mundo globalizado:",
+      "alternativas": [
+        "A) Liberdade política.",
+        "B) Mobilidade humana.",
+        "C) Conectividade cultural.",
+        "D) Disparidade econômica.",
+        "E) Complementaridade comercial."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/83"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 84,
+      "titulo": "Questão 84 - ENEM 2019",
+      "enunciado": "A Declaração Universal dos Direitos Humanos, adotada e proclamada pela Assembleia Geral da ONU na Resolução 217-A, de 10 de dezembro de 1948, foi um acontecimento histórico de grande relevância. Ao afirmar, pela primeira vez em escala planetária, o papel dos direitos humanos na convivência coletiva, pode ser considerada um evento inaugural de uma nova concepção de vida internacional.\n\n**LAFER, C. Declaração Universal dos Direitos Humanos (1948). In: MAGNOLI, D. (Org.) História da paz. São Paulo: Contexto, 2008.**",
+      "alternativas_introducao": "A declaração citada no texto introduziu uma nova concepção nas relações internacionais ao possibilitar a",
+      "alternativas": [
+        "A) Superação da soberania estatal.",
+        "B) Defesa dos grupos vulneráveis.",
+        "C) Redução da truculência belicista.",
+        "D) Impunidade dos atos criminosos.",
+        "E) Inibição dos choques civilizacionais."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/84"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 85,
+      "titulo": "Questão 85 - ENEM 2019",
+      "enunciado": "![](https://enem.dev/2019/questions/85/fb718e6d-3e97-4d5a-9d80-0ffecdd14d2c.png)\n\n“Nossa cultura não cabe nos seus museus”.\n\n**TOLENTINO, A. B. Patrimônio cultural e discursos museológicos. Midas, n. 6, 2016.**",
+      "alternativas_introducao": "Produzida no Chile, no final da década de 1970, a imagem expressa um conflito entre culturas e sua presença em museus decorrente da:",
+      "alternativas": [
+        "A) Valorização do mercado das obras de arte.",
+        "B) Definição dos critérios de criação de acervos.",
+        "C) Ampliação da rede de instituições de memória.",
+        "D) Burocratização do acesso dos espaços expositivos.",
+        "E) Fragmentação dos territórios das comunidades representadas."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2019/img/q085_principal.png",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/85"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 86,
+      "titulo": "Questão 86 - ENEM 2019",
+      "enunciado": "A ocasião fez o ladrão: Francis Drake travava sua guerra de pirataria contra a Espanha papista quando roubou as tropas de mulas que levavam o ouro do Peru para o Panamá. Graças à cumplicidade da rainha Elizabeth I, ele reincide e saqueia as costas do Chile e do Peru antes de regressar pelo Oceano Pacífico, e depois pelo Índico. Ora, em Ternate ele oferece sua proteção a um sultão revoltado com os portugueses; assim nasce o primeiro entreposto inglês ultramarino.\n\n**FERRO, M. História das colonizações. Das colonizações às independências. Séculos XIII a XX. São Paulo: Cia. das Letras, 1996.**",
+      "alternativas_introducao": "A tática adotada pela Inglaterra do século XVI, conforme citada no texto, foi o meio encontrado para:",
+      "alternativas": [
+        "A) Restabelecer o crescimento da economia mercantil.",
+        "B) Conquistar as riquezas dos territórios americanos.",
+        "C) Legalizar a ocupação de possessões ibéricas.",
+        "D) Ganhar a adesão das potências europeias.",
+        "E) Fortalecer as rotas do comércio marítimo."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/86"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 87,
+      "titulo": "Questão 87 - ENEM 2019",
+      "enunciado": "O Ministério do Trabalho e Emprego (MTE) realizou 248 ações fiscais e resgatou um total de 1590 trabalhadores da situação análoga à de escravo, em 2014, em todo o país. A análise do enfrentamento do trabalho em condições análogas às de escravo materializa a efetivação de parcerias inéditas no trato da questão, podendo ser referenciadas ações fiscais realizadas com o Ministério da Defesa, Exército Brasileiro, Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama) e Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio).\n\n**Disponível em: [http://portal.mte.gov.br](http://portal.mte.gov.br/). Acesso em: 4 fev. 2015 (adaptado).**",
+      "alternativas_introducao": "A estratégia defendida no texto para reduzir o problema social apontado consiste em:",
+      "alternativas": [
+        "A) Articular os órgãos públicos.",
+        "B) Pressionar o Poder Legislativo.",
+        "C) Ampliar a emissão das multas.",
+        "D) Limitar a autonomia das empresas.",
+        "E) Financiar as pesquisas acadêmicas."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/87"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 88,
+      "titulo": "Questão 88 - ENEM 2019",
+      "enunciado": "O bônus demográfico é caracterizado pelo período em que, por causa da redução do número de filhos por mulher, a estrutura populacional fica favorável ao crescimento econômico. Isso acontece porque há proporcionalmente menos crianças na população, e o percentual de idosos ainda não é alto.\n\n**GOIS, A. O Globo, 5 abr. 2015 (adaptado).**",
+      "alternativas_introducao": "A ação estatal que contribui para o aproveitamento do bônus demográfico é o estímulo à:",
+      "alternativas": [
+        "A) Atração de imigrantes.",
+        "B) Elevação da carga tributária.",
+        "C) Qualificação da mão de obra.",
+        "D) Admissão de exilados políticos.",
+        "E) Concessão de aposentadorias."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/88"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 89,
+      "titulo": "Questão 89 - ENEM 2019",
+      "enunciado": "**Os moradores de Utqiagvik passaram dois meses quase totalmente na escuridão**\n\nOs habitantes desta pequena cidade no Alasca – o estado dos Estados Unidos mais ao norte – já estão acostumados a longas noites sem ver a luz do dia. Em 18 de novembro de 2018, seus pouco mais de 4 mil habitantes viram o último pôr do sol do ano. A oportunidade seguinte para ver a luz do dia ocorreu no dia 23 de janeiro de 2019, às 13h04 min (horário local).\n\n**Disponível em: [www.bbc.com](http://www.bbc.com/). Acesso em: 16 maio 2019 (adaptado).**",
+      "alternativas_introducao": "O fenômeno descrito está relacionado ao fato de a cidade citada ter uma posição geográfica condicionada pela:",
+      "alternativas": [
+        "A) Continentalidade.",
+        "B) Maritimidade.",
+        "C) Longitude.",
+        "D) Latitude.",
+        "E) Altitude."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/89"
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "numero": 90,
+      "titulo": "Questão 90 - ENEM 2019",
+      "enunciado": "A fome não é um problema técnico, pois ela não se deve à falta de alimentos, isso porque a fome convive hoje com as condições materiais para resolvê-la.\n\n**PORTO-GONÇALVES, C. W. Geografia da riqueza, fome e meio ambiente. In: OLIVEIRA, A. U.; MARQUES, M. I. M. (Org.).O campo no século XXI: território de vida, de luta e de construção da justiça social. São Paulo: Casa Amarela; Paz e Terra, 2004 (adaptado).**",
+      "alternativas_introducao": "O texto demonstra que o problema alimentar apresentado tem uma dimensão política por estar associado ao(à):",
+      "alternativas": [
+        "A) Escala de produtividade regional.",
+        "B) Padrão de distribuição de renda.",
+        "C) Dificuldade de armazenamento de grãos.",
+        "D) Crescimento da população mundial.",
+        "E) Custo de escoamento dos produtos."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/90"
+    }
+  ]
+}

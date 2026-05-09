@@ -1,0 +1,2528 @@
+{
+  "ano": 2021,
+  "dia": 1,
+  "total": 90,
+  "geradoEm": "2026-05-09T05:54:38Z",
+  "questoes": [
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 1,
+      "titulo": "Questão 1 - ENEM 2021",
+      "enunciado": "Se reunieron en un volumen todas las entrevistas  \ndadas por el poeta y dramaturgo Federico García Lorca.  \nLorca concedió 133 entrevistas; leyéndolas se sabrá  \nqué estaba por detrás de la poética del escritor andaluz.  \nSobre su obra declaró en una de ellas: “No he sido nunca  \npoeta de minoría. He tratado de poner en mis poemas  \nlo de todos los tiempos, lo permanente, lo humano.  \nA mí me ataca lo humano, es el elemento fundamental en  \ntoda obra de arte”. Y en otra dijo: “Hoy no interesa más  \nque una problemática: lo social. La obra que no siga esa  \ndirección está condenada al fracaso, aunque sea muy  \nbuena”. En su última entrevista, de junio de 1936, Lorca  \nse muestra profético: “Ni el poeta ni nadie tiene la clave y  \nel secreto del mundo. Quiero ser bueno. Sé que la poesía  \neleva y creo firmemente que si hay un más allá tendré la  \nagradable sorpresa de encontrarme con él. Pero el dolor  \ndel hombre y la injusticia constante que mana del mundo,  \ny mi propio cuerpo y mi propio pensamiento, me evitan  \ntrasladar mi casa a las estrellas”\n\nAYÉN, X. Retrato del poeta como “muchachón gitanazo”. Disponivel em: www.clarin.com.  \nAcesso em: 8 dez. 2017 (adaptado),",
+      "alternativas_introducao": "Esse trecho da resenha de um livro de entrevistas concedidas por Federico García Lorca tem por finalidade",
+      "alternativas": [
+        "A) Ressaltar a atração do entrevistado por questões misticas.",
+        "B) Divulgar a comoção das elites com as obras do entrevistado.",
+        "C) Salientar o compromisso do entrevistado com as questões sociais.",
+        "D) Mostrar a atualidade das bras poéticas e teatrais do entrevistado.",
+        "E) Criticar o interesse do entrevistado por particularidades da vida humana."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/1"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 2,
+      "titulo": "Questão 2 - ENEM 2021",
+      "enunciado": "**Amuleto**\n\nLo único cierto es que llegué a México en 1965 y me planté en casa de León Felipe y en casa de Pedro Garfias y les dije aquí estoy para lo que gusten mandar. Y les debí de caer simpática, porque antipática no soy, aunque a veces soy pesada, pero antipática nunca. Y lo primero que hice fue coger una escoba y ponerme a barrer el suelo de sus casas y luego a limpiar las ventanas y cada vez que podía les pedía dinero y les hacia compra. Y ellos me decían con ese tono español tan peculiar, esa musiquilla distinta que no los abandonó nunca, como si encircularan las zetas y las ces y como si dejaran a las eses más huérfanas y libidinosas que nunca, Auxilio, me decian, deja ya de trasegar por el piso, Auxilio, deja esos papeles tranquilos, mujer, que el polvo siempre se ha avenido con la literatura.\n\nBOLAÑO, R. A. Tres novelas. Barcelona: Circulo de Lectores, 2003.",
+      "alternativas_introducao": "No fragmento do romance, a uruguaia Auxilio narra a experiência que viveu no México ao trabalhar voluntariamente para dois escritores espanhóis. Com base na relação com os escritores, ela reflete sobre a(s)",
+      "alternativas": [
+        "A) Variação linguística do espanhol.",
+        "B) Sujeira dos livros de literatura.",
+        "C) Distintas maneiras de acolher do mexicano.",
+        "D) Orientações sobre a limpeza das casas dos espanhóis.",
+        "E) Dificuldades de comunicação entre patrão e empregada."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/2"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 3,
+      "titulo": "Questão 3 - ENEM 2021",
+      "enunciado": "Hoy, en cuestión de segundos uno es capaz de conocer la vida de un individuo o las actividades que lleva a cabo sin necesidad de contacto personal; las RRSS tienen la poderosa virtud de convocar concentraciones de gentes con idearios comunes y generar movimientos como la Primavera Árabe, por ejemplo.  \nBajo ese parámetro, cualquier incidente puede ser inmediatamente reportado por grabación o filmación, por lo que a los aparatos celulares, más allá de su utilidad en términos de conversación, habria que calificarlos como “la guillotina del siglo XXI”.  \nAsí es. Son éstos los que han pasado a convertirse en artefactos con cuyo uso se han develado conversaciones, acuerdos, negociados, chantajes y un sin fin de hechos que han dado curso a procesos de naturaleza legal e investigativa que han tumbado gobiernos, empresas, empresarios, políticos y que, incluso, ha servido en un caso reciente, para que un inocente recupere su libertad tras cuatro años de injusto encierro.\n\nDisponível em: https:/elpotosi.net. Acesso em: 24. jun. 2021.",
+      "alternativas_introducao": "O texto trata da evolução inerente às funcionalidades de recursos tecnológicos. A expressão “la guillotina del siglo XXI” destaca que os celulares de hoje podem",
+      "alternativas": [
+        "A) Oferecer recursos com funções múltiplas.",
+        "B) Reunir usuários com ideias semelhantes.",
+        "C) Divulgar informação instantânea.",
+        "D) Organizar movimentos sociais.",
+        "E) Assumir utilidade jurídica."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/3"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 4,
+      "titulo": "Questão 4 - ENEM 2021",
+      "enunciado": "En el suelo, apoyado en el mostrador, se acurrucaba, inmóvil como una cosa, un hombre muy viejo. Los muchos años lo habían reducido y pulido como las aguas a una piedra o las generaciones de los hombres a una sentencia. Era oscuro, chico y reseco, y estaba como fuera del tiempo, en una eternidad.\n\nBORGES, J. L. Artificios. Madri: Alianza Cien, 1995",
+      "alternativas_introducao": "No âmbito literário, são mobilizados diferentes recursos que visam à expressividade. No texto, a analogia estabelecida pela expressão “como las aguas a una piedra” tem a função de",
+      "alternativas": [
+        "A) Enfatizar a ação do tempo sobre a personagem.",
+        "B) Descrever a objetificação do ambiente.",
+        "C) Expor a anacronia da personagem",
+        "D) Caracterizar o espaço do conto.",
+        "E) Narrar a perenidade da velhice"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/4"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 5,
+      "titulo": "Questão 5 - ENEM 2021",
+      "enunciado": "![](https://enem.dev/2021/questions/5-espanhol/c966af60-b276-459d-8a9f-d0f78ef25988.png)",
+      "alternativas_introducao": "A charge evoca uma situação de assombro frente a uma realidade que assola as sociedades contemporâneas. Seu efeito humorístico reside na crítica diante do(a)",
+      "alternativas": [
+        "A) Constatação do ser humano como o responsável pela condição caótica do mundo.",
+        "B) Apelo à religiosidade diante das dificuldades enfrentadas pela humanidade.",
+        "C) Indignação dos trabalhadores em face das injustiças sociais.",
+        "D) Veiculação de informações trágicas pelos telejornais.",
+        "E) Manipulação das notícias difundidas pelas mídias."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q005_principal.png",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/5"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 6,
+      "titulo": "Questão 6 - ENEM 2021",
+      "enunciado": "Um asteroide de cerca de um mil metros diâmetro, viajando a 288 mil quilômetros por hora, passou a uma distância insignificante – em termos cósmicos – da Terra, pouco mais do dobre da distância que nos separa da Lua. Segundo os cálculos matemáticos, o asteroide cruzou a órbita da Terra e somente não colidiu porque ela não estava naquele ponto de interseção. Se ele tivesse sido capturado pelo campo gravitacional do nosso planeta e colidido, o impacto equivaleria a 40 bilhões de toneladas de TNT, ou o equivalente à explosão de 40 mil bombas de hidrogênio, conforme calcularam os computadores operados pelos astrônomos do programa de Exploração do Sistema Solar da Nasa; se caísse no continente, abriria uma cratera de cinco quilômetros, no mínimo, e destruiria tudo o que houvesse num raio de milhares de outros; se desabasse no oceano, provocaria maremotos que devastariam imensas regiões costeiras. Enfim, uma visão do Apocalipse.\n\nDisponível em: http:/bdjur.stj.jus.br. Acesso em: 23 abr. 2010.",
+      "alternativas_introducao": "Qual estratégia caracteriza o texto como uma notícia alarmante?",
+      "alternativas": [
+        "A) A descrição da velocidade do asteroide.",
+        "B) A recorrência de formulações hipotéticas.",
+        "C) A referência à opinião dos astrônomos.",
+        "D) A utilização da locução adverbial \"no mínimo\".",
+        "E) A comparação com a distância da Lua à Terra."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/6"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 7,
+      "titulo": "Questão 7 - ENEM 2021",
+      "enunciado": "**A draga**\n\nA gente não sabia se aquela draga tinha nascido ali, no porto, como um pé de árvore ou uma duna.  \n– E que fosse uma casa de peixes?  \nMeia dúzia de loucos e bêbados moravam dentro dela, enraizados em suas ferragens.  \nDos viventes da draga era um o meu amigo Mário-pega-sapo.  \n\\[…\\]  \nQuando Mário morreu, um literato oficial, em necrológico caprichado, chamou-o de Mário-Captura-Sapo! Ai que dor!  \nAo literato cujo fazia-lhe nojo a forma coloquial.  \nQueria _captura_ em vez de _pega_ para não macular (sic) a língua nacional lá dele…  \n\\[…\\]  \nDa velha draga  \nAbrigo de vagabundos e de bêbados, restaram as expressões: _estar na draga_, _viver na draga_ por estar _sem dinheiro_, _viver na miséria_  \nQue ora ofereço ao filólogo Aurélio Buarque de Hollanda  \nPara que as registre em seus léxicos  \nPois o povo já as registrou.\n\nBARROS, M. **Gramática expositiva do chão**: poesia quase toda. Rio de Janeiro: Civilização Brasileira, 1990 (fragmento).",
+      "alternativas_introducao": "Ao criticar o preciosismo linguístico do literato e ao sugerir a dicionarização de expressões locais, o poeta expressa uma concepção de língua que",
+      "alternativas": [
+        "A) Contrapõe características da escrita e da fala.",
+        "B) Ironiza a comunicação fora da norma-padrão.",
+        "C) Substitui regionalismos por registros formais.",
+        "D) Valoriza o uso de variedades populares.",
+        "E) Defende novas regras gramaticais."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/7"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 8,
+      "titulo": "Questão 8 - ENEM 2021",
+      "enunciado": "O documentário _O menino que fez um museu_, direção de Sérgio Utsch, produção independente de brasileiro e britânicos, gravado no Nordeste em 2016, mais precisamente no distrito Dom Quintino, zona rural do Crato, foi premiado em Londres, pela _Foreign Press Associations_ (FPA), a associação de correspondentes estrangeiros mais antiga do mundo, fundada em 1888.\n\nDe acordo com o diretor, _O menino que fez um museu_ foi o único trabalho produzido por equipes fora do eixo Estados-Unidos-Europa entre os finalistas. O documentário conta a história de um Brasil profundo, desconhecido até mesmo por muitos brasileiros. É apresentado com o carisma de Pedro Lucas Feitosa, 11 anos.\n\nQuanto tinha 10 anos, Pedro Lucas criou o Museu de Luyiz Gonzaga, que fica distrito de Dom Quintino. A ideia surgiu após uma visita que o garoto fez, em 2013, quando tinha 8 anos, ao Museu do Gonzagão, em Exu, Pernambuco. Pedro decidiu criar o próprio lugar de exposição para homenagear o rei e o local escolhido foi a casa da sua bisavó já falecida, que fica ao lado da casa dele, na rua Alto de Antena.\n\nDisponível em: www.opovo.com.br. Acesso em> 18 abr. 2018",
+      "alternativas_introducao": "No segundo parágrafo, uma citação afirma que o documentário “foi o único trabalho produzido por equipes fora do eixo Estados Unidos-Europa entre os finalistas”. No texto, esse recurso expressa uma estratégia argumentativa que reforça a",
+      "alternativas": [
+        "A) Originalidade da iniciativa de homenagem à vida vida e à obra de Luiz Gonzaga.",
+        "B) Falta de concorrentes ao prêmio de uma das associações mais antigas do mundo.",
+        "C) Proeza da premiação de uma história ambientada no interior do Nordeste brasileiro.",
+        "D) Escassez de investimentos para a produção cinematográfica independente no país.",
+        "E) Importância da parceria entre brasileiros e britânicos para a realização das filmagens"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/8"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 9,
+      "titulo": "Questão 9 - ENEM 2021",
+      "enunciado": "**A volta do marido pródigo**  \n– Bom dia, seu Marrinha! Como passou de ontem?  \n– Bem. Já sabe, não é? Só ganha meio dia. \\[…\\]  \nLá além, Generoso cotuca Tercino:  \n– \\[…\\] Vai em festa, dorme que-horas, e, quando chega, ainda é todo enfeitado e salamistrão!…  \n– Que é que hei de fazer, seu Marrinha… Amanheci com uma nevralgia… Fiquei com cisma de apanhar friagem…  \n– Hum…  \n– Mas o senhor vai ver como eu toco o meu serviço e ainda faço este povo trabalhar…  \n\\[…\\]  \nPintão suou para desprender um pedrouço, e teve de pular para trás, para que a laje lhe não esmagasse um pé. Pragueja:  \n– Quem não tem brio engorda!  \n– É… Esse sujeito só é isso, e mais isso… – opina Sidu.  \n– Também, tudo p’ra ele sai bom, e no fim dá certo…  \n– diz Correia, suspirando e retomando o enxadão. –  \n“P’ra uns, as vacas morrem … p’ra outros até boi pega a parir…”.  \nSeu Marra já concordou:  \n– Está bem, seu Laio, por hoje, como foi por doença, eu aponto o dia todo. Que é a última vez!… E agora, deixa de conversa fiada e vai pegando a ferramenta!\n\nROSA, J. G. **Sagarana**. Rio de Janeiro: José Olympio, 1967.",
+      "alternativas_introducao": "Esse texto tem importância singular como patrimônio linguístico para a preservação da cultura nacional devido",
+      "alternativas": [
+        "A) À menção a enfermidades que indicam falta de cuidado pessoal.",
+        "B) À referência a profissões já extintas que caracterizam a vida no campo.",
+        "C) Aos nomes de personagens que acentuam aspectos de sua personalidade.",
+        "D) Ao emprego de ditados populares que resgatam memórias e saberes coletivos.",
+        "E) Às descrições de costumes regionais que desmistificam crenças e superstições."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/9"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 10,
+      "titulo": "Questão 10 - ENEM 2021",
+      "enunciado": "**Intenso e original, Son of Saul retrata horror do holocausto**\n\nCentenas de filmes sobre o holocausto já foram produzidos em diversos países do mundo, mas nenhum é tão intenso como o húngaro Son of Saul, do estreante em longa-metragens László Nemes, vencedor do Grande Prêmio do Júri no último Festival de Cannes.  \nAo contrário da grande maioria das produções do gênero, que costuma oferecer uma variedade de informações didáticas e não raro cruza diferentes pontos de vista sobre o horror do campo de concentração, o filme acompanha apenas um personagem.  \nEle é Saul (Géza Rohrig), um dos encarregados de conduzir as execuções de judeus como ele que, por um dia e meio, luta obsessivamente para que um menino já morto – que pode ou não ser seu filho – tenha um enterro digno e não seja simplesmente incinerado.  \nO acompanhamento da jornada desse prisioneiro é no sentido mais literal que o cinema pode proporcionar: a câmera está o tempo todo com o personagem, seja por sobre sobre seus ombros, seja como um _close_ em primeiro plano ou em sua visão subjetiva. O que se passa ao seu redor é secundário, muitas vezes desfocado.  \nSaul percorre diferentes divisões de Auschwitz à procura de um rabino que possa conduzir o enterro da criança, e por isso pouco se envolve nos planos de fuga que os companheiros tramam e, quando o faz, geralmente atrapalha. “Você abandonou os vivos para cuidar de um morto”, acusa um deles.  \nVer toda essa _via crucis_ é por vezes duro e exige certa entrega do espectador, mas certamente é daquelas experiências cinematográficas que permanecem na cabeça por muito tempo.  \nO longa já está sendo apontado como o grande favorito ao Oscar de filme estrangeiro. Se levar a estatueta, certamente não faltará quem diga que a Academia tem uma preferência por quem aborda a 2ª Guerra. Por mais que exista uma dose de verdade na afirmação, premiar uma abordagem tão ousada e radical como _Son of Soul_ não deixaria de ser um passo à frente dos votantes.\n\n**Carta Capital**. n. 873, 22 out. 2015.",
+      "alternativas_introducao": "A resenha é, normalmente, um texto de base argumentativa. Na resenha do filme Son of Saul, o trecho da sequência argumentativa que se constitui como opinião implícita é",
+      "alternativas": [
+        "A) \"[...] do estreante em longa-metragens László Nemes, vencedor do Grande Prêmio do Júri no último Festival de Cannes\".",
+        "B) \"Ele é Saul (Géza Rohring), um dos encarregados de conduzir as execuções de judeus [...]\".",
+        "C) \"[...] a câmera está o tempo todo com o personagem, seja por sobre seus ombros, seja como um close [...]\".",
+        "D) \"Saul percorre diferentes divisões de Auschwitz à procura de um rabino que possa conduzir o enterro da criança [...]\".",
+        "E) \"[...] premiar uma abordagem tão ousada e radical como Son of Saul não deixaria de ser um passo à frente dos votantes\"."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/10"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 11,
+      "titulo": "Questão 11 - ENEM 2021",
+      "enunciado": "**Sinhá**\n\nSe a dona se banhou  \nEu não estava lá  \nPor Deus Nosso Senhor  \nEu não olhei Sinhá  \nEstava lá na roça  \nSou de olhar ninguém  \nNão tenho mais cobiça  \nNem enxergo bem\n\nPara que me pôr no tronco  \nPara que me aleijar  \nEu juro a vosmecê  \nQue nunca vi Sinhá  \n\\[…\\]  \nPor que talhar meu corpo  \nEu não olhei Sinhá  \nPara que que vosmincê  \nMeus olhos vai furar  \nEu choro em iorubá  \nMas oro por Jesus  \nPara que que vassuncê  \nMe tira a luz.\n\nCHICO BUARQUE; JOÃO BOSCO. **Chico**. Rio de Janeiro: Biscoito Fino, 2011 (fragmento).",
+      "alternativas_introducao": "No fragmento da letra da canção, o vocabulário empregado e a situação retratada são relevantes para o patrimônio linguístico e identitário do país, na medida em que",
+      "alternativas": [
+        "A) Remetem à violência física e simbólica contra os povos escravizados.",
+        "B) Valorizam as influências da cultura africana sobre a música nacional.",
+        "C) Relativizam o sincretismo constitutivo das práticas religiosas brasileiras.",
+        "D) Narram os infortúnios da relação amorosa entre membros de classes sociais diferentes.",
+        "E) Problematizam as diferentes visões de mundo na sociedade durante o período colonial."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/11"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 12,
+      "titulo": "Questão 12 - ENEM 2021",
+      "enunciado": "![](https://enem.dev/2021/questions/12/6ac63b3f-c328-4663-80e1-4753ac661fec.png)\n\nDisponível em: www.deskgram.org. Acesso em: 12 dez. 2018 (adaptado).",
+      "alternativas_introducao": "A associação entre o texto verbal e as imagens da garrafa e do cão configura recurso expressivo que busca",
+      "alternativas": [
+        "A) A estimular denúncias de maus-tratos contra animais.",
+        "B) Desvincular o conceito de descarte da ideia de negligência.",
+        "C) Incentivar campanhas de adoção de animais em situação de rua.",
+        "D) Sensibilizar o público em relação ao abandono de animais domésticos.",
+        "E) Alertar a população sobre as sanções legais acerca de uma prática criminosa."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q012_principal.png",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/12"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 13,
+      "titulo": "Questão 13 - ENEM 2021",
+      "enunciado": "![](https://enem.dev/2021/questions/13/413aa5b4-682c-42d8-897f-d80e47edaba8.png)\n\nHENFIL. Disponível em: https://medium.com. Acesso em: 29 out. 2018 (adaptado).",
+      "alternativas_introducao": "Nessa tirinha, produzida na década de 1970, os recursos verbais e não verbais sinalizam a finalidade de",
+      "alternativas": [
+        "A) Reforçar a luta por direitos civis.",
+        "B) Explicitar a autonomia feminina.",
+        "C) Ironizar as condições de igualdade.",
+        "D) Estimular a abdicação da vida social.",
+        "E) Criticar as obrigações de maternidade."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q013_principal.png",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/13"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 14,
+      "titulo": "Questão 14 - ENEM 2021",
+      "enunciado": "**A crise dos refugiados imortalizada para sempre no fundo do mar**\n\n![](https://enem.dev/2021/questions/14/f8c80e87-3875-4c67-b82d-85d73404d502.png)\n\nTAYLOR, J. C. A balsa de Lampedusa. Instalação. Museu Atlântico, Lanzarote, Canárias, 2016 (detalhe)\n\nA balsa de Lampedusa, nome da obra do artista britânicos Jason de Caires Taylor, é uma das instalações criadas por ele para compor o acervo do primeiro museu submarino da Europa, o Museu Atlântico, localizado em Lanzarote, uma das ilhas do arquipélago das Canárias.\n\nLampedusa é o nome da ilha italiana onde a grande maioria dos refugiados que saem da África ou de países como Síria, Líbano e Iraque tenta chegar para conseguir asilo no continente europeu.\n\nAs esculturas do Museu Atlântico icam a 14 metros de profundidade nas águas cristalinas de Lanzarote.\n\nNa balsa, estão dez pessoas. Todas têm no rosto a expressão do abandono. Entre elas, há algumas crianças. Uma delas, uma menina debruçada sobre a beira do bote, olha sem esperança o horizonte. A imagem é tão forte que dispensa qualquer palavra. Exatamente o papel da arte.\n\nDisponível em: http://conexaoplaneta.com.br. Acesso em: 22 jun. 2019 (adaptado).",
+      "alternativas_introducao": "Além de apresentar ao público a obra A balsa de Lampedusa, essa reportagem cumpre, paralelamente, a função de chamar a atenção para",
+      "alternativas": [
+        "A) A ilha de Lanzarote, localizada no arquipélago das Canárias, com vocação para o turismo.",
+        "B) As muitas vidas perdidas nas travessias marítimas em embarcações precárias ao longo dos séculos.",
+        "C) A inovação relativa à construção de um museu no fundo do mar, que só pode ser visitado por mergulhadores.",
+        "D) A construção do museu submarino como um memorial para as centenas de imigrantes mortos nas travessias pelo mar.",
+        "E) A arte como perpetuadora de episódios marcantes da humanidade de que têm de ser relembrados para que não tomem a acontecer."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q014_principal.png",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/14"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 15,
+      "titulo": "Questão 15 - ENEM 2021",
+      "enunciado": "**TEXTO I**\n\nCorreu à sala dos retratos, abriu o piano, sentou-se e espalmou as mãos no teclado. Começou a tocar alguma coisa própria, uma inspiração real e pronta, uma polca, uma polca buliçosa, como dizem os anúncios. Nenhuma repulsa da parte do compositor; os dedos iam arrancando as notas, ligando-as, meneando-as; dir-se-ia que a musa compunha e bailava a um tempo. \\[…….\\] Compunha só, teclando ou escrevendo, sem os vãos esforços da véspera, sem exasperação, sem nada pedir ao céu, sem interrogar os olhos de Mozart. Nenhum tédio. Vida, graça, novidade, escorriam-lhe da alma como de uma fonte perene.\n\nASSIS, M. Um homem célebre. Disponivel em: www.biblio.com.br.  \nAcesso em: 2 jun. 2019.\n\n**TEXTO II**\n\nUm homem célebre expõe o suplicio do músico popular que busca atingir a sublimidade da obra-prima clássica, e com ela a galeria dos imortais, mas que é traído por uma disposição interior incontrolável que o empurra implacavelmente na direção oposta. Pestana, célebre nos saraus, salões, bailes e ruas do Rio de Janeiro por suas composições irresistivelmente dançantes, esconde-se dos rumores à sua volta num quarto povoado de ícones da grande música europeia, mergulha nas sonatas do classicismo vienense, prepara-se para o supremo salto criativo e, quando dá por si, é o autor de mais uma inelutável e saltitante polca.\n\nWISNIK, J. M. Machado maxixe: o caso Pestana. Teresa: revista de literatura brasileira,  \n2004 (adaptado).",
+      "alternativas_introducao": "O conto de Machado de Assis faz uma referência velada a maxixe, gênero musical inicialmente associado à escravidão e à mestiçagem. No Texto II, o conflito do personagem em compor obras do gênero é representativo da",
+      "alternativas": [
+        "A) Pouca complexidade musical das composições ajustadas ao gosto do grande público.",
+        "B) Prevalência de referências musicais africanas no imaginário da população brasileira.",
+        "C) Incipiente atribuição de prestígio social a músicas instrumentais feitas para a dança.",
+        "D) Tensa relação entre o erudito e o popular na constituição da música brasileira.",
+        "E) Importância atribuída à música clássica a sociedade brasileira do século XIX."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/15"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 16,
+      "titulo": "Questão 16 - ENEM 2021",
+      "enunciado": "**Devagar, devagarinho**\n\nDesacelerar é preciso. Acelerar não é  preciso. Afobados e voltados para o próprio umbigo, operamos, automatizados, falas robóticas e silêncios glaciais. Ilustra bem esse estado de espírito a música Sinal fechado (1969), de Paulinho de Viola. Trata-se da história de dois sujeitos que se encontram inesperadamente em um sinal de trânsito. A conversa entre ambos, porém, se deu rápida e rasteira. Logo, os personagens se despedem, com a promessa de se verem em outra oportunidade. Percebe-se um registro de comunicação vazia e superficial, cuja tônica foi o contato ligeiro e superficial construído pelos interlocutores: “Olá, como vai? / Estou indo, e você, tudo bem? / Tudo bem, eu vou indo correndo, / pegar meu lugar no futuro. E você? / Quanto tempo… / Pois é, quanto tempo… / Me perdoe a pressa / é a alma dos nossos negócios… / Oh! Não tem de quê. / Eu também só ando a cem”.  \nO culto à velocidade, no contexto apresentado, se coloca como fruto de um imediatismo processual que celebra o alcance dos fins sem dimensionar a qualidade dos meios necessários para atingir determinado propósito. Tal conjuntura favorece a lei do menor esforço – a comodidade – e prejudica a lei do maior esforço – a dignidade.  \nComo modelo alternativo à cultura _fast_, temos o movimento _slow life_, cujo propósito, resumidamente, é conscientizar as pessoas de que a pressa é inimiga da perfeição e do prazer, buscando assim reeducar seus sentidos para desfrutar melhor os sabores da vida.\n\nSILVA, M. F. L. **Boletim UFMG**, n. 1 749, set. 2011 (adaptado).",
+      "alternativas_introducao": "Nesse artigo de opinião, a apresentação da letras da canção Sinal Fechado é uma estratégia argumentativa que visa sensibilizar o leitor porque",
+      "alternativas": [
+        "A) Adverte sobre os riscos que o ritmo acelerado da vida oferece.",
+        "B) Exemplifica o fato criticado no texto com uma situação concreta.",
+        "C) Contrapõe situações de aceleração e de serenidade na vida das pessoas.",
+        "D) Questiona o clichê sobre a rapidez e a aceleração da vida moderna",
+        "E) Apresenta soluções para a cultura da correria que as pessoas vivenciam hoje."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/16"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 17,
+      "titulo": "Questão 17 - ENEM 2021",
+      "enunciado": "",
+      "alternativas_introducao": "A história do futebol brasileiro contém, ao longo de um século, registros de episódios racistas. Eis o paradoxo: se, de um lado, a atividade futebolística era depreciada aos olhos da “boa sociedade” como profissão destinada aos pobres, negros e marginais, de outro, achava-se investida do poder de representar e projetar a nação em escala mundial. A Copa do Mundo no Brasil, em 1950, viria a se constituir, nesse sentido, em uma rara oportunidade. Contudo, na decisão contra o Uruguai sobreveio o inesperado revés. As crônicas esportivas elegiam o goleiro Barbosa e o defensor Bigode como bodes expiatórios, “descarregando nas costas” dos jogadores os “prejuízos” da derrota. Uma chibata moral, eis a a sentença proferida no tribunal do brancos. Nos anos 1970, por não atender às expectativas normativas suscitadas pelo estereótipo do “bom negro”, Paulo César Lima foi classificado como “jogador – problema”. Ele esboçava a revolta da chibata no futebol brasileiro. Enquanto Barbosa e Bigode, sem alternativa suportaram o linchamento moral na derrota 1950, Paulo César contra-atacava os que pretendiam condená-lo pelo insucesso de 1974. O jogador assumia as cores e as causas defendidas pela esquadra dos pretos em todas as esferas da vida social. “Sinto na pele esse racismo subjacente” revelou a imprensa francesa: “Isto é, ninguém ousa pronunciar a palavra ‘racismo’. Mas posso garantir que ele existe, mesmo na seleção Brasileira”. Sua ousadia constituiu em pronunciar a palavra interdita no espaço simbólico do discurso oficial para reafirmar o mito da democracia racial.\nDisponível em: https://observatorioracialfutebol.com.br. Acesso em: 22 jun. 2019 (adaptado)\nO texto atribui o enfraquecimento do mito da democracia racial no futebol à",
+      "alternativas": [
+        "A) Responsabilização dos jogadores negros pela derrota na final da Copa de 1950.",
+        "B) Projeção mundial da nação por um esporte antes destinados aos pobres.",
+        "C) Depreciação de um esporte associado a marginalidade.",
+        "D) Interdição da palavra \"racismo\" no contexto esportivo.",
+        "E) Atitude contestadora de um \"jogador-problema\"."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/17"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 18,
+      "titulo": "Questão 18 - ENEM 2021",
+      "enunciado": "![](https://enem.dev/2021/questions/18/d3122745-1e96-431c-a368-b901c0e3dd5d.jpg)\n\nMEIRRELES, V. Moema, Óleo sobre tela, 129 cm x 190 cm. Masp, São Paulo, 1866.\n\nDisponível em: www.masp.art.br. Acesso em: 13 ago. 2012 (adaptado).",
+      "alternativas_introducao": "Nessa obra, que retrata uma cena de Caramuru, célebre poema épico brasileiro, a filiação à estética romântica manifesta-se na",
+      "alternativas": [
+        "A) Exaltação do retrato fiel da beleza feminina.",
+        "B) Tematização da fragilidade humana diante da morte.",
+        "C) Ressignificação de obras do cânone literário nacional.",
+        "D) Representação dramática e idealizada do corpo da índia.",
+        "E) Oposição entre a condição humana e a natureza primitiva."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q018_principal.jpg",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/18"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 19,
+      "titulo": "Questão 19 - ENEM 2021",
+      "enunciado": "Coincidindo com o Dia Internacional dos Direitos da Infância, foram apresentados diversos trabalhos que mostram as mudanças que afetam a vida das crianças. Um desses estudos compara o que sonham e brincam as crianças hoje em relação às dos anos de 1990. E o que se descobriu é que as crianças têm agora menos lazer e estão mais sobrecarregadas por deveres e atividades extracurriculares do que as de 25 anos atrás. As crianças de hoje não só dedicam menos tempo para brincar, como também, quando brincam, a maioria não o faz com outros crianças no parque, na rua ou na praça, mas em casa e muitas vezes sozinhas. E já não brincam tanto com brinquedos, mas com aparelhos eletrônicos, entre os quais predemonia o jogo individual com a máquina.\n\nOLIVIA, M. P. O direito da criança ao lazer… e a crescer sem carências.  \nEl País, 20 nov. 2015 (adaptado).",
+      "alternativas_introducao": "O texto indica que as transformações nas experiências lúdicas na infância",
+      "alternativas": [
+        "A) Fomentaram as relações sociais entre as crianças.",
+        "B) Tornaram o lazer uma prática difundida entre as crianças.",
+        "C) Incentivaram a criação de novos espaços para se divertir.",
+        "D) Promoveram uma vivência corporal menor ativa.",
+        "E) Contribuíram para o aumento do tempo dedicado para brincar."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/19"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 20,
+      "titulo": "Questão 20 - ENEM 2021",
+      "enunciado": "O coreógrafo e bailarino Didier Mulleras se destaca como um dos criadores que descobriram a dança de outro ponto de vista. _Mini@tures_ é uma experiência emblemática entre movimento, computador, internet e vídeo. Com os recursos da computação gráfica, a dança das miniaturas pode caber na palma da mão. Pelo fato de usar a internet como palco, o processo de criação das miniaturas de dança levou em consideração os limites de tempo de download e o tamanho do arquivo, para que um número maios de “espectadores” pudesse assistir. A graça das miniaturas está justamente na contaminação entre mídias: corpo/dança/computação gráfica/internet. De fato, é a rede que faz a maior diferença nesse grupo. _Mini@tures_ explora uma nova dimensão que descobre o espaço-tempo da web e conquista um novo território para a dança contemporânea. A qualquer hora, dança on-line.\n\nSPANGHERO, M. **A dança dos encéfalos acesos.**  \nSão Paulo: Itaú Cultural, 2003 (adaptado).",
+      "alternativas_introducao": "Considerado o primeiro projeto de dança contemporânea concebido para a rede, esse trabalho é apresentado como inovador por",
+      "alternativas": [
+        "A) Adotar uma perspectiva conceitual como contraposição à tradição de grandes espetáculos.",
+        "B) Criar novas formas de financiamento ao utilizar a internet para divulgação das apresentações",
+        "C) Privilegiar movimentos gerados por computação gráfica, com a substituição do palco pela tela.",
+        "D) Produzir uma arte multimodal, com o intuito de ampliar as possibilidades de expressão estética",
+        "E) Redefinir a extensão e o propósito do espetáculo para adaptá-lo ao perfil de diferentes usuários"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/20"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 21,
+      "titulo": "Questão 21 - ENEM 2021",
+      "enunciado": "**Texto I**\n\n**O mito da estiagem em São Paulo**\n\nOs estoques de água doce são inesgotáveis, na medida em que são alimentados principalmente pelos oceanos, infinitos via evaporação e precipitação, ou seja, pelo ciclo hidrológico, que depende de forças físicas as quais o homem nunca poderá interromper. Enquanto existirem, o ciclo funcionará e os estoques de água doce nos continentes serão repostos indefinidamente.  \nObviamente que a água não se distribui equitativamente pelo planeta. Há regiões com muita água, normalmente na zona tropical, na qual a evaporação é maior, e regiões áridas, onde, por razões específicas da dinâmica climática, as taxas de evaporação são maiores do que a precipitação, gerando déficit de reposição de estoques de água doce.\n\nDisponível em: www.cartanaescola.com.br. Acesso em: 17 jan. 2015 (adaptado)\n\n**Texto II**\n\nO processo de sedimentação no fundo do lago de reservatório é um processo lento. Os sedimentos vão formando argila, que é uma rocha impermeável. Então, a água daquele lago não vai alimentar os aquíferos. Mesmo tendo muita quantidade de água superficial, ela não consegue penetrar no solo para alimentar os aquíferos. Se não for usada no consumo, ela vai simplesmente evaporar e vai cair em outro lugar, qual os aquíferos não conseguem recuperar seu nível, porque não recebem água.\n\nDisponível em: www.jornalopcao.com.br. Acesso em: 17 jan. 2015 (adaptado)",
+      "alternativas_introducao": "Os textos I e II abordam a situação dos reservatórios de água doce do planeta. Entretanto, a divergência entre eles está na ideia de que é possível",
+      "alternativas": [
+        "A) Manter os estoques de água doce.",
+        "B) Utilizar a água superficial para o consumo.",
+        "C) Repor os estoques de água doce em regiões áridas.",
+        "D) Reduzir as taxas de precipitação e evaporação da água.",
+        "E) Equalizar a distribuição de água doce nas diferentes regiões"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/21"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 22,
+      "titulo": "Questão 22 - ENEM 2021",
+      "enunciado": "Os linguistas têm notado a expansão do tratamento informal. “Tenho 78 anos e devia ser tratado por _senhor_, mas meus alunos mais jovens me tratam por _você_“, diz o professor Ataliba Castilho, aparentemente sem se incomodar com a informalidade, inconcebível em seus tempos de estudante. O você, porém, não reinará sozinho. O _tu_ predomina em Porto Alegre e convive com o você no Rio de Janeiro e em Recife, enquanto você é o tratamento predominante em São Paulo, Curitiba, Belo Horizonte e Salvador. O _tu_ já era mais próximo e menos formal que _você_ nas quase 500 cartas do acervo on-line de uma instituição universitária, quase todas de poetas, políticos e outras personalidades do final do século XIX e início do XX.\n\nDisponível em: http://revistapesquisa.fapesp.br. Acesso em: 21 abr. 2015 (adaptado).",
+      "alternativas_introducao": "No texto, constata-se que os usos de pronomes variaram ao longo do tempo e que atualmente têm empregos diversos pelas regiões do Brasil. Esse processo revela que",
+      "alternativas": [
+        "A) A escolha de \"você\" ou de \"tu\" está condicionada à idade da pessoa que usa o pronome.",
+        "B) A possibilidade de se usar tanto \"tu\" quanto \"você\" caracteriza a diversidade da língua.",
+        "C) O pronome \"tu\" tem sido empregado em situações informais por todo o país.",
+        "D) A ocorrência simultânea de \"tu\" e de \"você\" evidencia a inexistência da distinção entre níveis de formalidade.",
+        "E) O emprego de \"você\" em documentos escritos demonstra que a língua tende a se manter inalterada."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/22"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 23,
+      "titulo": "Questão 23 - ENEM 2021",
+      "enunciado": "O solo A morte do cisne, criado em 1905 pelo russo Mikhail Fokine a partir da música do compositor francês Camille Saint-Saens, retrata o último voo de um cisne antes de morrer. Na versão original, uma bailarina com figurino a agonia da ave se debatendo até desfalecer.\n\nEm 2012, John Lennon da Silva, de 20 anos, morador do bairro de São Mateus, na Zona Leste de São Paulo, elaborou um novo jeito de dançar a coreografia imortalizada pela bailarina Anna Pavlova. No lugar de um colã e das sapatilhas, vestiu calça jeans, camiseta e tênis. Em vez de balé, trouxe o estilo _popping da street dance_. Sua apresentação inovadora de A morte do cisne, que foi ao ar no programa _Se ela dança, eu danço_, virou hit no Youtube\n\nDisponível em: www.correiobrazilliense.com.br. Acesso em: 18 jun. 2019 (adaptado).",
+      "alternativas_introducao": "A forma original de John Lennon da Silva reinterpretar a coreografia de A morte do cisne demonstra que",
+      "alternativas": [
+        "A) A composição da coreografia foi influenciada pela escolha do figurino.",
+        "B) A criação artística é beneficiada pelo encontro de modelos oriundos de diferentes realidades socioculturais.",
+        "C) A variação entre os modos de dançar uma mesma música evidencia a hierarquia que marca manifestações artísticas.",
+        "D) A formação erudita à qual o dançarino não teve acesso, resulta em artistas que só conhecem a estética da arte popular.",
+        "E) A interpretação, por homens, de coreografias originalmente concebidas para mulheres exige uma adaptação complexa."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/23"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 24,
+      "titulo": "Questão 24 - ENEM 2021",
+      "enunciado": "Seus primeiros anos de detento foram difíceis; aos poucos entendeu como o sistema funciona. Apanhou dezenas de vezes, teve o crânio esmagado, o maxilar deslocado, braços e pernas quebrados; por fim, um dia ficou lesionado da perna quando foi jogado da laje de um pavilhão. Nem todas as vezes ele soube por que apanhou, muito menos da última, quando foi deixado para morrer, mas sobreviveu. Seu corpo, moído no inferno, aguarda o fim dos seus dias. Já não questiona mais. Obedece. Cumpre as ordens. Baixa a cabeça e se retira. Apanha, às vezes com motivo, às vezes sem. Por onde passou, derramaram seu sangue. Seu rastro pode ser seguido. Intriga ter sobrevivido durante tantos anos. Pouquíssimos chegaram à terceira idade encarcerados.\n\nMAIA, A. P. **Assim na terra como embaixo da terra**. Rio de Janeiro: Record, 2017.",
+      "alternativas_introducao": "A narrativa concentra sua força expressiva no manejo de recursos formais e numa representação ficcional que",
+      "alternativas": [
+        "A) Buscam perpetuar visões do senso comum.",
+        "B) Trazem à tona atitudes de um estado de exceção.",
+        "C) Promovem a interlocução com grupos silenciados.",
+        "D) Inspiram o sentimento de justiça por meio da empatia.",
+        "E) Recorrem ao absurdo como forma de traduzir a realidade."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/24"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 25,
+      "titulo": "Questão 25 - ENEM 2021",
+      "enunciado": "– O senhor pensa que só porque o deixaram morar neste país pode logo ir fazendo o que quer? Nunca ouviu falar num troço chamado autoridades constituídas? Não sabe que tem de conhecer as leis do país? Não sabe que existe uma coisa chamada Exército Brasileiro, que o senhor tem de respeitar? Que negócio é esse? {…\\] Eu ensino o senhor a cumprir a lei, ali no duro: “dura lex”! Seus filhos são uns moleques e outra vez que eu souber que andaram incomodando o General, vai tudo em cana. Morou? Sei como tratar gringos feito o senhor. \\[…\\] Foi então que a mulher do vizinho do General interveio:  \n– Era tudo que o senhor tinha a dizer a meu marido? Odelegado apenas olhou-a, espantado com o atrevimento.  \n– Pois então fique sabendo que eu também sei tratar tipos como o senhor. Meu marido não é gringo nem meus filhos são moleques. Se por acaso importunaram o General, ele que viesse falar comigo, pois o senhor que sou brasileira, sou prima de um Major do Exército, sobrinha de um Coronel, e filha de um General! Morou? Estarrecido, o delegado só teve força para engolir em seco e balbuciar humildemente: – Da ativa, minha senhora?.\n\nSABINO, F. A mulher do vizinho. In: **Os melhores contos**. Rio de Janeiro: Record, 1986.",
+      "alternativas_introducao": "A representação do discurso intimidador engendrada no fragmento é responsável por",
+      "alternativas": [
+        "A) Ironizar atitudes e ideias xenofóbicas.",
+        "B) Conferir à narrativa um tom anedótico.",
+        "C) Dissimular o ponto de vista do narrador.",
+        "D) Acentuar a hostilidade das personagens.",
+        "E) Exaltar relações de poder estereotipadas."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/25"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 26,
+      "titulo": "Questão 26 - ENEM 2021",
+      "enunciado": "Os velhos papéis, quando não são consumidos pelo fogo, às vezes acordam de seu sono para contar notícias do passado.  \nÉ assim que se descobre algo novo de um nome antigo, sobre o qual já se julgava saber tudo, como Machado de Assis.  \nPor exemplo, você provavelmente não sabe que o autor carioca, morto em 1908, escreveu uma letra do hino nacional em 1867 — e não poderia saber mesmo, porque os versos seguiam inéditos. Até hoje.  \nEssa letra acaba de ser descoberta, em um jornal antigo de Florianópolis, pelo pesquisador independente Felipe Rissato.  \n“Das florestas em que habito/ Solto um canto varonil:/ Em honra e glória de Pedro/ O gigante do Brasil”, diz o começo do hino, composto de sete estrofes em redondilhas maiores, ou seja, versos de sete sílabas poéticas. O trecho também é o refrão da música.  \nO Pedro mencionado é o imperador Dom Pedro II. O bruxo do Cosme Velho compôs a letra para o aniversário de 42 anos do monarca, em 2 de dezembro daquele ano — o hino seria apresentado naquele dia no teatro da cidade de Desterro, antigo nome de Florianópolis.\n\n**Disponível em: www.revistaprosaversoarte.com. Acesso em 4 dez. 2018 (adaptado).**",
+      "alternativas_introducao": "Considerando-se as operações de retomada de informações do texto, há interdependência entre as expressões",
+      "alternativas": [
+        "A) \"Os velho papéis\" e \"É assim\".",
+        "B) \"algo novo\" e \"sobre o qual.\"",
+        "C) \"um nome antiga\" e \"Por exemplo.\"",
+        "D) \"O gigante do Brasil\" e \"O Pedro mencionado.\"",
+        "E) \"o imperador Dom Pedro II\" e \"O bruxo do Cosme Velho\"."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/26"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 27,
+      "titulo": "Questão 27 - ENEM 2021",
+      "enunciado": "![](https://enem.dev/2021/questions/27/bce50f89-8fb3-4929-8065-7c7710a91f39.png)\n\nA revolução estética brasiliense empurrou os designers de móveis dos anos 1950 e início dos 1960 para o novo. Induzidos a abandonar o gosto rebuscado pelo colonial, a trocar Ouro Preto por Brasília, eles criaram um mobiliário contemporâneo que ainda hoje vemos nas lojas e nas salas de espera de consultórios e escritórios, Colada no uso de madeiras nobres, como o jacarandá e a peroba, e em materiais de revestimento como o couro e a palhinha, desenvolveu-se uma tendência feita de linhas retas e curvas suaves, nos moldes da capital no Cerrado.\n\nCHAVES, D. Disponível em: www.veja.abril.com.br. Acesso em: 29 jul. 2010.",
+      "alternativas_introducao": "Na reportagem sobre os 50 anos de Brasília, de Débora Chaves, com a reprodução fotográfica de cadeiras e poltronas de Sérgio Rodrigues, verifica-se que os elementos da estética brasiliense",
+      "alternativas": [
+        "A) Aparecem definidos nas linhas retas dos objetos.",
+        "B) Expressam o desenho rebuscado por meio das linhas.",
+        "C) Mostram a expressão assimétrica das linhas curvas suaves.",
+        "D) Apontam a unidade de matéria-prima utilizada em sua fabricação.",
+        "E) Surgem na simplificação das informação visuais de cada composição."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q027_principal.png",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/27"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 28,
+      "titulo": "Questão 28 - ENEM 2021",
+      "enunciado": "**Thumbs Up**  \nPonto positivo para o Facebook, que vai dar uma ajeitada na casa para, quem sabe, não ser mais conhecido como espaço da treta. Durante a F8, sua conferência anual, a empresa anunciou a maior mudança de design do serviço em 5 anos. Agora, o polêmico feed de notícias deixa de ser o protagonista, e o queridinho da rede social se torna o segmento de Grupos (é o Orkut fazendo escola?). Segundo Mark Zuckerberg, mais de 1 bilhão de usuários mensais entraram nessa aba do aplicativo, e 400 mil deles já estão integrados em grupos de “assuntos significativos”. O objetivo agora é aumentar o tráfego, oferecendo mais sugestões e ferramentas especiais para quem gerencia essas comunidades. Além disso, o Marketplace, que já tem mais de 800 milhões de usuários, vai ganhar mais atenção e integração. Com isso, parece que há um novo padrão se montando na rede social: sai o feed, entra a segmentação, que pode ser uma boa porta para monetização nos próximos anos. No mesmo evento, Zuckerberg também disse que o futuro do Facebook é a privacidade, mas não deu muitos detalhes de como vai proteger seus clientes daqui para frente. Evitar que vazamentos de dados dos usuários aconteçam é um bom começo.  \n#FicaaDica\n\nDisponível em: https://thebrief.us16.list-manage.com. Acesso em: 3 maio 2019 (adaptado).",
+      "alternativas_introducao": "O texto relata que uma rede social virtual realizará sua maior mudança de design dos últimos anos. Esse fato revela que as tecnologias de informação e comunicação",
+      "alternativas": [
+        "A) Buscam oferecer mais privacidade.",
+        "B) Assimilam os comportamentos dos usuários.",
+        "C) Promovem maior interação em ambientes virtuais.",
+        "D) Oferecem mais facilidades para obter cada vez mais lucro.",
+        "E) Evoluem para ficar mais parecidas umas com as outras."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/28"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 29,
+      "titulo": "Questão 29 - ENEM 2021",
+      "enunciado": "**Reaprender a ler notícias**\n\nNão dá mais para ler um jornal, revista ou assistir a um telejornal da mesma forma que fazíamos até o surgimento da rede mundial de computadores. O Observatório da Imprensa antecipou isso lá nos idos de 1996 quando cunhou o slogan “Você nunca mais vai ler o jornal do mesmo jeito”. De fato, hoje já não basta mais ler o que está escrito ou falado para estar bem informado. É preciso conhecer as entrelinhas e saber que não há objetividade e nem isenção absolutas, porque cada ser humano vê o mundo de uma forma diferente. Ter um pé atrás passou a ser regra básica número um de quem passa os olhos por um primeiro página, capa de revista ou chamadas de um noticiário na TV.  \nHá uma diferença importante entre desconfiar de tudo e procurar ver o maior número possível de lados de um mesmo fato, dado ou evento. Apenas desconfiar não resolve porque se trata de um atitude passiva. É claro, tudo começa com a dúvida, mas a partir dela é necessário ser proativo, ou seja, investigar, estudar, procurar os elementos ocultos que sempre existem numa notícia. No começo é um esforço solitário que pode se tornar coletivo à medida que mais pessoas descobrem sua vulnerabilidade informativa.\n\nDisponível em: www.observatoriodaimprensa.com.br. Acesso em: 30 set. 2015 (adaptado).",
+      "alternativas_introducao": "No texto, os argumentos apresentados permitem inferir que o objetivo do autor é convencer os leitores a",
+      "alternativas": [
+        "A) Buscarem fontes de informação comprometidas com a verdade.",
+        "B) Privilegiarem notícias veiculadas em jornais de grande circulação.",
+        "C) Adotarem uma postura crítica em relação às informações recebidas.",
+        "D) Questionarem a prática jornalística anterior ao surgimento da internet.",
+        "E) Valorizarem reportagem redigidas com imparcialidade diante dos fatos."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/29"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 30,
+      "titulo": "Questão 30 - ENEM 2021",
+      "enunciado": "Não que Pelino fosse químico, longe disso; mas era sábio, era gramático. Ninguém escrevia em Tubiacanga que não levasse bordoada do Capitão Pelino, e mesmo quando se falava em algum homem notável lá no Rio, ele não deixava de dizer: “Não há dúvida! O homem tem talento, mas escreve: ‘um outro’, ‘de resto’…” E contraía os lábios como se tivesse engolido alguma cousa amarga.  \nToda a vila de Tubiacanga acostumou-se a respeitar o solene Pelino, que corrigia e emendava as maiores glórias nacionais. um sábio…  \nAo entardecer, depois de ler um pouco o Sotero, o Candido de Figueiredo ou o Castro Lopes, e de ter passado mais uma vez a tintura nos cabelos, o velho mestre-escola saía vagarosamente de casa, muito abotoado no seu paletó de brim mineiro, e encaminhava-se para a botica do Bastos a dar dous dedos de prosa. Conversar é um modo de dizer, porque era Pelino avaro de palavras, limitando-se tão-somente a ouvir. Quando, porém, dos lábios de alguém escapava a menor incorreção de linguagem, intervinha e emendava. “Eu asseguro, dizia o agente do Correio, que…” Por aí, o mestre-escola intervinha com mansuetude evangélica: “Não diga ‘asseguro’, Senhor Bernardes; em português é garanto”.  \nE a conversa continuava depois da emenda, para ser de novo interrompida por uma outra. Por essas e outras, houve muitos palestradores que se afastaram, mas Pelino, indiferente, seguro dos seus deveres, continuava o seu apostolado de vernaculismo.\n\nBARRETO, L. **A Nova Califórnia.** Disponível em: www.dominiopublico.gov.br. Acesso em 24 jul. 2019.",
+      "alternativas_introducao": "Do ponto de vista linguístico, a defesa da norma-padrão pelo personagem caracteriza-se por",
+      "alternativas": [
+        "A) Contestar o ensino de regras em detrimento do conteúdo das informações.",
+        "B) Resgatar valores patrióticos relacionados às tradições da língua portuguesa.",
+        "C) Adotar uma perspectiva complacente em relação aos desvios gramaticais.",
+        "D) Invalidar os usos da língua pautados pelos preceitos da gramática normativa.",
+        "E) Desconsiderar diferentes níveis de formalidade nas situações de comunicação."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/30"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 31,
+      "titulo": "Questão 31 - ENEM 2021",
+      "enunciado": "O skate apareceu como forma de vivência no lazer em períodos de baixa nas ondas e ficou conhecido como “surfinho”. No início foram utilizados eixos e rodinhas de patins pregados numa madeira qualquer, para sua composição, sendo as rodas de borracha ou ferro. O grande marco na história do skate ocorreu em 1974, quando o engenheiro químico chamado Frank Nasworthy descobriu o uretano, material mais flexível, que oferecia mais aderência às rodas. A dependência dos skatistas em relação a esse novo material igualmente alavancou o surgimento de novas manobras e possibilitou a um maior número de pessoas inexperientes começar a prática dessa modalidade. O resultado foi a criação de campeonatos, marcas, fábricas e lojas especializadas.\n\nARMBRUST, I; LAURD, G, A, A. O skate e suas possibilidades educacionais. Motriz, jul-set, 2010 (adaptado).",
+      "alternativas_introducao": "De acordo com o texto, diversos fatores ao longo do tempo",
+      "alternativas": [
+        "A) Contribuíram para a democratização do skate.",
+        "B) Evidenciaram as demandas comerciais dos skatistas.",
+        "C) Definiram a carreira de skatista profissional.",
+        "D) Permitiram que a prática social do skate substituísse o surfe.",
+        "E) Indicaram a autonomia dos praticantes de skate."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/31"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 32,
+      "titulo": "Questão 32 - ENEM 2021",
+      "enunciado": "**Estojo escolar**\n\nRio de Janeiro – Noite dessas, ciscando num desses canais a cabo, vi uns caras oferecendo maravilhas eletrônicas, bastava telefonar e eu receberia um notebook capaz de me ajudar a fabricar um navio, uma estação espacial.  \n\\[…\\] Como pretendo viajar esses dias, habilitei-me a comprar aquilo que os caras anunciavam como um top do top em matéria de computador portátil.  \nNo sábado, recebi um embrulho complicado que necessitava de um manual de instruções para ser aberto.  \n\\[…\\] De repente, como vem acontecendo nos últimos tempos, houve um corte na memória e vi diante de mim meu primeiro estojo escolar. Tinha 5 anos e ia para para o jardim de infância.  \nEra uma caixinha comprida, envernizada, com uma tampa que corria nas bordas do corpo principal. Dentro, arrumados em divisões, havia lápis coloridos, um apontador, uma lapiseira cromada, uma régua de 20cm e uma borracha para apagar meus erros.  \n\\[…\\] Da caixinha vinha um cheiro gostoso, cheiro que nunca esqueci e que me tonteava de prazer. \\[…\\]  \nO notebook que agora abro é negro e, em matéria de cheiro, é abominável. Cheira vilmente a telefone celular, a cabine de avião, a aparelho de ultrassonografia onde outro dia uma moça veio ver como sou por dentro. Acho que piorei de estojo e de vida.\n\nCONY, C. H. Crônicas para ler na escola. São Paulo. Objetiva, 2009 (adaptado)",
+      "alternativas_introducao": "No texto, há marcas da função da linguagem que nele predomina. Essas marcas são responsáveis por colocar em foco o(a)",
+      "alternativas": [
+        "A) Mensagem, elevando-a à categoria de objeto estético do mundo das artes.",
+        "B) Código, transformando a linguagem utilizada no texto na própria temática abordada.",
+        "C) Contexto, fazendo das informações presentes no texto seu aspecto essencial.",
+        "D) Enunciador, buscando expressar sua atitude em relação ao conteúdo do enunciado.",
+        "E) Interlocutor, considerando-o responsável pelo direcionamemento dado à narrativa pelo enunciador."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/32"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 33,
+      "titulo": "Questão 33 - ENEM 2021",
+      "enunciado": "![](https://enem.dev/2021/questions/33/3f0c8ec0-de44-43da-a545-967701e6128f.jpg)\n\nLEMONS, A. **Artistas brasileiras**. Belo Horizonte Miguilim,2018.",
+      "alternativas_introducao": "O que assegura o reconhecimento desse texto em quadrinhos como prefácio é o(a)",
+      "alternativas": [
+        "A) Função de apresentação do livro.",
+        "B) Apelo emocional apoiado nas imagens.",
+        "C) Descrição do processo criativo da autora.",
+        "D) Referência à mescla dos trabalhos manual e digital.",
+        "E) Uso de elementos gráficos voltados para o público-alvo."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q033_principal.jpg",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/33"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 34,
+      "titulo": "Questão 34 - ENEM 2021",
+      "enunciado": "![](https://enem.dev/2021/questions/34/5b366c12-2eaa-4383-87b3-22400a733b71.jpeg)",
+      "alternativas_introducao": "No texto, os recursos verbais e não verbais empregados têm por objetivo",
+      "alternativas": [
+        "A) Divulgar informações científicas sobre o uso indiscriminado de aparelhos celulares.",
+        "B) Influenciar o leitor a mudar atitudes e hábitos considerados prejudicados às crianças.",
+        "C) Relacionar o uso da tecnologia aos efeitos decorrentes da falta de exercícios físicos.",
+        "D) Indicar medidas eficazes para desestimular a utilização de telefones pelo público infantil.",
+        "E) Sugerir aos pais e responsáveis a subtituição de dispositivos mpoveis por atividades lúdicas."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q034_principal.jpeg",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/34"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 35,
+      "titulo": "Questão 35 - ENEM 2021",
+      "enunciado": "**Singular ocorrência**\n\n– Há ocorrências bem singulares. Está vendo aquela dama que vai entrando na igreja da Cruz? Parou agora no adro para dar uma esmola.  \n– De preto?  \n– Justamente; lá vai entrando; entrou.  \n– Não ponha mais na carta. Esse olhar está dizendo que a dama é uma recordação de outro tempo, e não há de ser muito tempo, a julgar pelo corpo: é moça de truz.  \n– Deve ter quarenta e seis anos.  \n– Ah, conservada. Vamos lá; deixe de olhar para o chão e conte-me tudo. Está viúva, naturalmente?  \n– Não.  \n– Bem; o marido ainda vive. É velho?  \n– Não é casada.  \n– Solteira?  \n– Assim, assim. Deve chamar-se hoje D. Maria de tal. Em 1860 florescia com o nome familiar de Marocas. Não era costureira, nem proprietária, nem mestra de meninas; vá excluindo as profissões e chegará lá. Morava na Rua do Sacramento. Já então era esbelta, e, seguramente, mais linda do que hoje; modos sérios, linguagem limpa.\n\nASSIS, M. Machado de Assis: seus 30 melhores contos.  \nRio de Janeiro: Aguilar, 1961.",
+      "alternativas_introducao": "No diálogo, descortinam-se aspectos da condição da mulher em meados do século XIX. O ponto de vista dos personagens manifesta conceitos segundo os quais a mulher",
+      "alternativas": [
+        "A) Encontra um modo de dignificar-se na prática da caridade.",
+        "B) Preserva a aparência jovem conforme seu estilo de vida.",
+        "C) Condiciona seu bem-estar à estabilidade do casamento.",
+        "D) Tem sua identidade e seu lugar referendados pelo homem.",
+        "E) Renuncia à sua participação no mercado de trabalho."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/35"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 36,
+      "titulo": "Questão 36 - ENEM 2021",
+      "enunciado": "**TEXTO I**\n\n![](https://enem.dev/2021/questions/36/8cc80c2a-cef4-4d6c-99a3-4f383b9fa2e2.jpg)\n\n**TEXTO II**\n\nAs máscarqas não foram feitas para serem usadas; elas se concentram apenas nas possibilidades antropomórficas dos recepientes plásticos descartados e, ao mesmo tempo, chamam a atenção para a quantidade de lixo que se acumula em quase todas as cidades ou aldeias africanas.\n\nFARTHINGS, S. Tudo sobre arte",
+      "alternativas_introducao": "Romuald Hazoumé costuma dizer que sua obra apenas manda de volta ao oeste o refugode uma sociedade de consumo cada vez mais invasiva. A obra desse artista africano que vive no Benin denota o(a)",
+      "alternativas": [
+        "A) Empobrecimento do valor artístico pela combinação de diferentes matérias-primas.",
+        "B) Reposicionamento estético de objetos por meio da mudança de função.",
+        "C) Convite aos espectadores para interagir e completar obras inacabadas.",
+        "D) Militância com temas da ecologia que marcam o continente africano.",
+        "E) Realidade precária de suas condições de produção artística."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q036_principal.jpg",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/36"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 37,
+      "titulo": "Questão 37 - ENEM 2021",
+      "enunciado": "**Comportamento geral**  \nVocê deve estampar sempre um ar de alegria  \nE dizer: tudo bem melhorado  \nVocê deve rezar pelo bem do patrão  \nE esquecer que está desempregado\n\nVocê merece  \nVocê merece  \nTudo vai bem, tudo legal  \nCerveja, samba, e amanhã, seu Zé  \nSe acabarem com teu carnaval\n\nVocê deve aprender a baixar a cabeça  \nE dizer sempre: muito obrigado  \nSão palavras que ainda te deixam deixar  \nPor ser homem bem disciplinado\n\nDeve pois só fazer pelo bem da nação  \nTudo aquilo que for ordenado  \nPra ganhar um fuscão no juízo final  \nE diploma de bem-comportado\n\nGONZAGUINHA, **Luiz Gonzaga Jr**. Rio de Janeiro: Odeon, 1973 (fragmento).",
+      "alternativas_introducao": "Pela análise do tema e dos procedimentos argumentativos utilizados na letra da canção composta por Gonzaguinha na década de 1970, insere-se o objetivo de",
+      "alternativas": [
+        "A) Ironizar a incorporação de ideias e atitudes conformistas.",
+        "B) Convencer o público sobre a importância dos deveres cívicos.",
+        "C) Relacionar o discurso religioso à resolução de problemas sociais.",
+        "D) Questionar o valor atribuído pela população às festas populares.",
+        "E) Defender uma postura coletiva indiferente aos valores dominantes."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/37"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 38,
+      "titulo": "Questão 38 - ENEM 2021",
+      "enunciado": "Se for possível, manda-me dizer:  \n– É lua cheia. A casa está vazia –  \nManda-me dizer, e o paraíso  \nHá de ficar mais perto, e mais recente  \nMe há de parecer teu rosto incerto.  \nManda-me buscar se tens o dia  \nTão longo como a noite. Se é verdade  \nQue sem mim só vês monotonia.  \nE se te lembras do brilho das marés  \nDe alguns peixes rosados  \nNumas águas  \nE dos meus pés molhados, manda-me dizer:  \n– É lua nova –  \nE revestida de luz te volto a ver.\n\nHILST, H. **Júbilio, memória, noviciado da paixão**. São Paulo: Cia das Letras, 2018.",
+      "alternativas_introducao": "Falando ao outro, o eu lírico revela-se vocalizando um desejo que remete ao",
+      "alternativas": [
+        "A) Ceticismo quanto à possibilidade do reencontro.",
+        "B) Tédio provocado pela distância física do ser amado.",
+        "C) Sonho de autorrealização desenhado pela memória.",
+        "D) Julgamento implícito das atitudes de quem se afasta.",
+        "E) Questionamento sobre o significado do amor ausente."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/38"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 39,
+      "titulo": "Questão 39 - ENEM 2021",
+      "enunciado": "**Falso moralista**\n\nVocê condena o que a moçada anda fazendo  \ne não aceita o teatro de revista  \narte moderna pra você não vale nada  \ne até vedete você diz não ser artista\n\nVocê se julga um tanto bom e até perfeito  \nPor qualquer coisa deita logo falação  \nMas eu conheço bem o seu defeito  \ne não vou fazer segredo não\n\nVocê é visto toda sexta no Joá  \ne não é só no Carnaval que vai pros bailes se acabar  \nFim de semana você deixa a companheira  \ne no bar com os amigos bebe bem a noite inteira\n\nSegunda-feira chega na repartição  \npede dispensa para ir ao oculista  \ne vai curar sua ressaca simplesmente  \nVocê não passa de um falso moralista\n\nNELSON SARGENTO. **Sonho de um sambista**. São Paulo: Eldorado, 1979.",
+      "alternativas_introducao": "As letras de samba normalmente se caracterizam por apresentarem marcas informais do uso da língua. Nessa letra de Nelson Sagento, são exemplos dessas marcas",
+      "alternativas": [
+        "A) \"falação\" e \"pros bailes\".",
+        "B) \"você\" e \"teatro de revista\".",
+        "C) \"perfeito\" e \"Carnaval\".",
+        "D) 'bebe bem\" e \"oculista\"",
+        "E) \"curar e \"falso moralista\"."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/39"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 40,
+      "titulo": "Questão 40 - ENEM 2021",
+      "enunciado": "**Introdução a Alda**\n\nDizem que ninguém mais a ama. Dizem que foi uma boa pessoa. Sua filha de doze anos não a visita nunca e talvez raramente se lembre dela. Puseram-na numa cidade triste de uniformes azuis e janelecos brancos, de onde não pôde mais sair. Lá, todos gritaram-lhe irritados, mal se aproximava, ou lhe batem, como se faz com sacos de areia para treinar os músculos.  \nSei que para todos ela já não é, e ninguém lhe daria uma maçã cheirosa, bem vermelha. Mas não é verdade que alguém não a possa mais amar. Eu amo-a. Amo-a quando a vejo por trás das grades de um palácio, onde se refugiou princesa, chegada pelos caminhos da dor. Quando fora do reino sente o mundo de mil lanças, e selvagem prepara-se, posta no olhar. Amo-a quando criança brinca na areia sem medo. Uns pés descalços, uma mulher sem intenções. Cerecada de mundo, às vezes sofrendo-o ainda.\n\nCANÇADO, M. L. **O sofredor do ver**. Belo Horizonte: Autêntica, 2015.",
+      "alternativas_introducao": "Ao descrever uma mulher internada em um hospital psiquiátrico, o narrador compõe um quadro que expressa sua percepção",
+      "alternativas": [
+        "A) Irônica quanto aos efeitos do abandono familiar.",
+        "B) Resignada em face dos métodos terapêuticos em vigor.",
+        "C) Alimentada pela imersão lírica no espaço da segregação.",
+        "D) Inspirada pelo universo pouco conhecido da mente humana.",
+        "E) Demarcada por uma linguagem alinhada à busca da lucidez."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/40"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 41,
+      "titulo": "Questão 41 - ENEM 2021",
+      "enunciado": "**O pavão vermelho**\n\nOra, a alegria, este pavão vermelho,  \nestá morando em meu quintal agora,  \nVem pousar como um sol em meu joelho  \nquando é estridente em meu quintal a aurora.\n\nClarim de lacre, este pavão vermelho  \nsobrepuja os pavões que estão lá fora.  \nÉ uma festa de púrpura. E o assemelho  \na uma chama do lábaro da aurora.\n\nÉ o próprio doge a se mirar no espelho.  \nE a cor vermelha chega a ser sonora  \nneste pavão pomposo e de chavelho.\n\nPavões lilases possui outrora.  \nDepois que amei este pavão vermelho,  \nos meus outros pavões foram-se embora.\n\nCOSTA, S. **Poesia completa**: Sosígenes Costa. Salvador: Conselho Estadual de Cultura, 2001.",
+      "alternativas_introducao": "Na construção do soneto, as cores representam um recurso poético que configura uma imagem com a qual o eu lírico",
+      "alternativas": [
+        "A) Revela a intenção de isolar-se em seu espaço.",
+        "B) Simboliza a beleza e o esplendor da natureza.",
+        "C) Experimenta a fusão de percepções sensoriais.",
+        "D) Metaforiza a conquista de sua plena realização.",
+        "E) Expressa uma visão de mundo mística e espiritualizada."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/41"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 42,
+      "titulo": "Questão 42 - ENEM 2021",
+      "enunciado": "![](https://enem.dev/2021/questions/42/35808b01-8e6b-477b-a7c1-f9c562ab88e2.png)\n\nA obra, da década de 1960, pertence ao movimento artístico _Pop Art_, explora a beleza e a sensualidade do corpo feminino em uma situação de divertimento. Historicamente, a sociedade inventou e continua reinventando o corpo como objeto de intervenções sociais, buscando atender aos valores e costumes de cada época.\n\nLICHTENSTEIN, R. **Garota com bola**. Óleo sobre tela, 153 cm x 91,9 cm. Museu de Arte Moderna de nova York, 1961. Disponível em: www.moma.org. Acesso em: 4 dez. 2018.",
+      "alternativas_introducao": "Na produção desses preceitos, a erotização do corpo feminino tem sido constituída pela",
+      "alternativas": [
+        "A) Realização de exercícios físicos sistemáticos e excessivos.",
+        "B) Utilização de medicamentos e produtos estéticos.",
+        "C) Educação do gesto, da vontade e do comportamento.",
+        "D) Construção de espaços para vivência de práticas corporais.",
+        "E) Promoção de novas experiências de movimento humano no lazer."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q042_principal.png",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/42"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 43,
+      "titulo": "Questão 43 - ENEM 2021",
+      "enunciado": "![](https://enem.dev/2021/questions/43/4a8b22dd-c3bc-4968-8e13-32ae14a5bddb.png)\n\nD’SALETE, M. Cumbe. São Paulo: Veneta. 2016, p. 10-11 (adaptado).",
+      "alternativas_introducao": "A sequência dos quadrinhos conjuga lirismo e violência ao",
+      "alternativas": [
+        "A) Sugerir a impossibilidade de manutenção dos afetos.",
+        "B) Revelar os corpos marcados pela brutalidade colonial.",
+        "C) Representar o abatimento diante da desumanidade vivida.",
+        "D) Acentuar a resistência identitária dos povos escravizados.",
+        "E) Expor os sujeitos alijados de sua ancestralidade pelo exílio."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q043_principal.png",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/43"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 44,
+      "titulo": "Questão 44 - ENEM 2021",
+      "enunciado": "Naquele tempo, Itaguaí, que, como as demais vilas, arraiais e povoações da colônia, não dispunha de imprensa, tinha dois modos de divulgar uma notícia; ou por meio de cartazes manuscritos e pregados na porta da Câmara, e da matriz; – ou por meio de matraca.  \nEis em que consistia este segundo uso. Contratava-se um home, por um ou mais dias, para andar as ruas do povoado, com uma matraca na mão. De quando em quando tocava a matraca, reunia-se gente, e ele anunciava o que lhe incumbiam, – um remédio para sezões, umas terras lavradias, um soneto, um donativo eclesiástico, a melhor tesoura da vila, o mais belo discurso do ano, etc. O sistema tinha inconvenientes para a paz pública; mas era conservado pela grande energia de divulgação que possuía. Por exemplo, um dos vereadores desfrutava a reputação de perfeito educador de cobras e macacos, e aliás nunca domesticara um só desses bichos; mas tinha o cuidado de fazer trabalhar a matraca todos os meses. E dizem as crônicas que algumas pessoas afirmavam ter visto cascavéis dançando no peito do vereador; afirmação perfeitamente falsa, mas só devida à absoluta confiança no sistema. Verdade, verdade, nem todas as instituições do antigo _regímen_ mereciam o desprezo do nosso século.\n\nASSIS, M. **O alienista**. Disponível em: www.dominiopublico.gov.br.  \nAcesso em 2 jun. 2019 (adaptado).",
+      "alternativas_introducao": "O fragmento faz uma referência irônica a formas de divulgação e circulação de informações em uma localidade sem imprensa. Ao destacar a confiança da população no sistema da matraca, o narrador associa esse recurso à disseminação de",
+      "alternativas": [
+        "A) Campanhas políticas.",
+        "B) Anúncios publicitários.",
+        "C) Notícias de apelo popular.",
+        "D) Informações não fidedignas.",
+        "E) Serviços de utilidade pública."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/44"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 45,
+      "titulo": "Questão 45 - ENEM 2021",
+      "enunciado": "No ano em que o maior clarinetista que o Brasil conheceu, Abel Ferreira, faria 100 anos, o choro dá mostras de vivacidade. É quase um paradoxo que essa riquíssima manifestação da genuína alma brasileira seja forte o suficiente para driblar a falta de incentivos oficiais, a insensibilidade dos meios de comunicação e a amnésia generalizada. “Ele trazia a alma brasileira derramada em sua sonoridade ímpar. Artur da Távola, seguramente seu maior admirador, foi quem melhor o definiu, ‘alma sertaneja, toque mozarteano'”.  O acervo do músico autodidata nascido na mineira Coromandel, autor de 50 músicas, entre as quais _Chorando baixinho_ (1942), que o consagrou, amigo e parceiro de Pixinguinha, com quem gravou _Ingênuo_ (1958), permanece com os herdeiros à espera de compilação adequada. O Museu da Imagem e do Som do Rio de Janeiro tem a guarda do saz e do clarinete, doados em 1995.  \nNa avaliação de Leonor Bianchi, editora da _Revista do Choro_, “a música instrumental fica apartada do que é popular porque não vai à sala de concerto. O público em geral tem interesse em samba, pagode e axé”. Ela atribui essa situação à falta de conhecimento e à pouca divulgação do gênero nas escolas.\n\nFERRAZ, A. Disponível em: www.cartacapital.com.br. Acesso em: 22 abr. 2015 (adaptado).",
+      "alternativas_introducao": "Considerando-se o contexto, o gênero e o público-alvo, os argumentos trazidos pela autora do texto buscam",
+      "alternativas": [
+        "A) Atribuir o desconhecimento da obra de Aberl Ferreira ao ensino de música nas escolas.",
+        "B) Reivindicar mais investimentos estatais para a preservação do acervo musical nacional.",
+        "C) Destacar a relevância histórica e a riqueza estética do choro no cenário musical brasileiro",
+        "D) Apresentar ao leitor dados biográficos pouco conhecidos sobre a trajetória de Abel Ferreira.",
+        "E) Constatar a impopularidade do choro diante da preferência do público por músicas populares."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/45"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 46,
+      "titulo": "Questão 46 - ENEM 2021",
+      "enunciado": "Seu turno de trabalho acabou, você já está em casa e é hora do jantar da família. Mas, em vez de relaxar, você começa a pensar na possibilidade de ter recebido alguma mensagem importante no e-mail profissional ou no grupo de WhatsApp da empresa. Imediatamente, você fica distante. Momentos depois, com alguns toques na tela do celular, você está de volta ao ambiente de trabalho. O jantar e a família ficaram em segundo plano.\n\nA simples vontade de checar mensagens do trabalho pós-expediente prejudica sua saúde -e a de sua família. Disponível em: www.bbc.com. Acesso em: 4 dez. 2018.",
+      "alternativas_introducao": "O texto indica práticas as relações cotidianas do trabalho que causam para o indivíduo a",
+      "alternativas": [
+        "A) Proteção da vida privada.",
+        "B) Ampliação de atividades extras.",
+        "C) Elevação de tapas burocráticas.",
+        "D) Diversificação do lazer recreativo.",
+        "E) Desobrigação de afazeres domésticos."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/46"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 47,
+      "titulo": "Questão 47 - ENEM 2021",
+      "enunciado": "Quando a taxa de remuneração do capital excede  \nsubstancialmente a taxa de crescimento da economia,  \npela lógica, a riqueza herdada aumenta mais rápido do  \nque a renda e a produção. Então, basta aos herdeiros  \npoupar uma parte limitada da renda de seu capital para  \nque ele cresça mais rápido do que a economia como  \num todo. Sob essas condições, é quase inevitável que  \na riqueza herdada supere a riqueza constituída durante  \numa vida de trabalho, e que a concentração do capital  \natinja níveis muito altos.\n\nPIKETTY, T. O capital no século XXI. Rio de Janeiro: Intrínseca, 2014 (adaptado).",
+      "alternativas_introducao": "Considerando os princípios que legitimam as democracias liberais, a lógica econômica descrita no\ntexto enfraquece o(a)",
+      "alternativas": [
+        "A) Ideologia do mérito.",
+        "B) Direito de nascimento.",
+        "C) Eficácia da legislação",
+        "D) Ganho das financeiras.",
+        "E) Eficiência dos mercados."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/47"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 48,
+      "titulo": "Questão 48 - ENEM 2021",
+      "enunciado": "Atualmente, o Programa de Melhoramento “Uvas do Brasil” utiliza métodos clássicos de melhoramento, como seleção massal, seleção clonal e hibridações. Ações de ajuste de manejo de seleções avançadas vêm sendo desenvolvidas paralelamente a Programa de Melhoramento, no sentido de viabilização desses materiais. Ao longo dos seus 40 anos, uma grande equipe técnica trabalhou para executar projetos de pesquisa para atender às necessidades e às demandas de diferentes atores da vitivinicultura nacional, incluindo produtores de uvas de mesa para exportação do semiárido nordestino, viticultores interessados em produzir sucos em regiões tropicais ou pequenos produtores familiares da região da Serra Gaúcha, interessados em melhorar a qualidade do vinho artesanal que produzem.\n\nPrograma de Melhoramento Genético “Uvas do Brasil”. Disponível em: www.embrapa.br.  \nAcesso em: 24 nov. 2018 (adaptado).",
+      "alternativas_introducao": "Para melhorar a produção agrícola nas regiões mencionadas, as técnicas referidas no texto buscaram\nadaptar o cultivo aos(às)",
+      "alternativas": [
+        "A) Espécies nativas ameaçadas.",
+        "B) Cadeias econômicas autônomas.",
+        "C) Estruturas fundiárias tradicionais.",
+        "D) Elementos ambientais singulares.",
+        "E) Mercados consumidores internos."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/48"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 49,
+      "titulo": "Questão 49 - ENEM 2021",
+      "enunciado": "**TEXTO I**\n\nPortadoras de mensagem espiritual do passado, as obras monumentais de cada povo perduram no presente como o testemunho vivo de suas tradições  \nseculares. A humanidade, cada vez mais consciente da unidade dos valores humanos, as considera um bem comum e, perante as gerações futuras, se reconhece solidariamente responsável por preservá-las, impondo a si mesma o dever de transmiti-las a plenitude de sua autenticidade.\n\nCarta de Veneza, 31 de maio de 1964. Disponível em: www.iphan.gov.br.  \nAcesso em: 7 out. 2019.\n\n**TEXTO II**\n\nOs sistemas tradicionais de proteção se mostram cada vez menos eficientes diante do processo acelerado de urbanização e transformação de nossa sociedade. A legislação de proteção peca por considerar o monumento, até certo ponto, desvinculado da realidade socioeconômica. O tombamento, ao decretar a imutabilidade do monumento, provoca a redução de seu valor venal e o abandono, o que é uma causa, ainda que lenta, de destruição inevitável.\n\nTELLES, L. S. Manual do patrimônio histórico. Porto Alegre; Caxias do Sul:  \nEscola Superior de Teologia São Lourenço de Brides, 1977 (adaptado).",
+      "alternativas_introducao": "Escritos m temporalidade histórica aproximada, os textos se distanciam a apresentarem pontos de vista diferentes sobre a(s)",
+      "alternativas": [
+        "A) Ampliação do comércio de imagens sacras.",
+        "B) Substituição de materiais de valor artístico.",
+        "C) Políticas de conservação de bens culturais.",
+        "D) Defesa da privatização de sítios arqueológicos.",
+        "E) Medidas de salvaguarda de peças museológicas."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/49"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 50,
+      "titulo": "Questão 50 - ENEM 2021",
+      "enunciado": "**TEXTO I**\n\nEm 2016, foram gerados 44,7 milhões de toneladas de resíduos eletrônicos, um aumento de 8% na comparação com 2014. Especialistas previram um crescimento de mais 17%, para 52,2 milhões de toneladas, até 2021.\n\nDisponível em: https://nacoesunidas.org. Acesso em: 12 out.2019 (adaptado).\n\n**TEXTO II**\n\nHá ainda quem exporte deliberadamente lixo eletrônico para o Gana. É mais caro reciclar devidamente os resíduos no mundo industrializado, onde até existem os recursos e a tecnologia. Um negócio muito mais lucrativo é vender o lixo eletrônico a negociantes locais, que o importam alegando tratar-se de material usado. Os negociantes depois vendem o lixo aos jovens no mercado, ou noutro lado, que o desmantelam e extraem os fios de cobre. Estes são derretidos em lareiras ao ar livre, poluindo o ar e, muitas vezes, intoxicando diretamente os próprios jovens.\n\nKALEDZI, I.; SOUZA, G. Disponivel em: www.dw.com. Acesso em: 12 out. 2019 (adaptado).",
+      "alternativas_introducao": "No contexto das discussões ambientais, as práticas descritas nos textos refletem um padrão de relações derivado do(a):",
+      "alternativas": [
+        "A) Exercício pleno da cidadania.",
+        "B) Divisão internacional do trabalho.",
+        "C) Gestão empresarial do toyotismo.",
+        "D) Concepção sustentável da economia.",
+        "E) Protecionismo alfandegário dos Estados."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/50"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 51,
+      "titulo": "Questão 51 - ENEM 2021",
+      "enunciado": "Preços justos e autorizações de uso da água devem garantir de forma adequada que a retirada de água, bem como o retorno de efluentes, mantenham operações eficientes e ambientalmente sustentáveis, de maneira que sejam adaptáveis às peculiaridades e necessidades da indústria e da irrigação em larga escala, bem como às atividades da agricultura em  \npequena escala e de subsistência.\n\nUNESCO. Relatório Mundial das Nações Unidas sobre Desenvolvimento dos  \nRecursos Hídricos. Agua para um mundo sustentável. Unesco, 2015.",
+      "alternativas_introducao": "Considerando o debate sobre segurança hídrica, a proposta apresentada no texto está pautada no(a)",
+      "alternativas": [
+        "A) Distribuição equitativa do abastecimento.",
+        "B) Monitoramento do fornecimento urbano.",
+        "C) Racionamento da capacidade fluvial.",
+        "D) Revitalização gradativa de solos.",
+        "E) Geração de produtos recicláveis."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/51"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 52,
+      "titulo": "Questão 52 - ENEM 2021",
+      "enunciado": "Durante os anos de 1854-55, o governo brasileiro – por meio de sua representação diplomática em Londres – e os livre-cambistas ingleses  \n– nas colunas do Daily News e na Câmara dos Comuns – aumentaram a pressão pela revogação da Lei Aberdeen. O governo britânico, entretanto, ainda receava que, sem um tratado anglo-brasileiro satisfatório para substituí-la, não haveria nada que impedisse os brasileiros de um dia voltarem aos seus velhos hábitos.\n\nBETHELL, L. A abolição do comércio brasileiro de escravos.  \nBrasília: Senado Federal, 2002 (adaptado).",
+      "alternativas_introducao": "As tensões diplomáticas expressas no texto indicam o interesse britânico em",
+      "alternativas": [
+        "A) Estabelecer jurisdição conciliadora.",
+        "B) Compartilhar negócios marítimos.",
+        "C) Fomentar políticas higienistas.",
+        "D) Manter a proibição comercial.",
+        "E) Promover o negócio familiar."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/52"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 53,
+      "titulo": "Questão 53 - ENEM 2021",
+      "enunciado": "Famoso por ser o encantador de viúvas da cidade de Cabaceiras, na Paraíba, Zé de Sila é um contador de histórias parecido com o personagem Chicó, do Auto da Compadecida. Ele defende veementemente que a oração da avó sustentava mais a chuva. “Quando era pequeno e  \nchovia por aqui, ajudava minha avó colocando os pratos emborcados no terreiro para diminuir o vento. Ela fazia isso e rezava para a chuva durar mais”, diz Zé de Sila.\n\nGALDINO, V.; BARBOSA, R. C. **Artistas por um dia**?  \nJoão Pessoa: Editora Universitária, 2009.",
+      "alternativas_introducao": "A destacar expressões e vivências populares do\ncotidiano, o texto mobiliza os seguintes aspectos da\ndiversidade regional:",
+      "alternativas": [
+        "A) Alianças afetivas conectadas a ritual matrimonial. B Práticas místicas associadas a patrimônio cultural. © Manifestações teatrais atreladas a imaginário político. d Narrativas filmicas relacionadas às intempéries climáticas. © Argumentações literárias interligadas às catástrofes ambientais.",
+        "B) Práticas místicas associadas a patrimônio cultural. Manifestações teatrais atreladas a imaginário político. d Narrativas filmicas relacionadas às intempéries climáticas. © Argumentações literárias interligadas às catástrofes ambientais.",
+        "C) Manifestações teatrais atreladas a imaginário político.",
+        "D) Narrativas filmicas relacionadas às intempéries climáticas.",
+        "E) Argumentações literárias interligadas às catástrofes ambientais."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/53"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 54,
+      "titulo": "Questão 54 - ENEM 2021",
+      "enunciado": "O uso de novas tecnologias envolve a assimilação de uma cultura empresarial na qual haja a integração entre as propostas de modernização tecnológica e a racionalização. Nem sempre o uso de novas tecnologias é  \napenas um processo técnico na medida em que pressupõe uma nova orientação no controle do capital, no processo produtivo e na qualificação da mão de obra. Dos diversos efeitos que derivaram dessa orientação, a terceirização, a precarização e a flexibilização aparecem  \ncom constância como características do paradigma flexível, em substituição a modelo taylorista-fordista.\n\nHERÉDIA, V. Novas tecnologias nos processos de trabalho: efeitos da  \nreestruturação produtiva. Scripta Nova, n. 170, ago. 2004 (adaptado).",
+      "alternativas_introducao": "O uso de novas tecnologias relacionado a controle empresarial é criticado no texto em razão da",
+      "alternativas": [
+        "A) Operacionalização da tarefa laboral.",
+        "B) Capacitação de profissionais liberais.",
+        "C) Fragilização das relações de trabalho.",
+        "D) Hierarquização dos cargos executivos.",
+        "E) Aplicação dos conhecimentos da ciência."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/54"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 55,
+      "titulo": "Questão 55 - ENEM 2021",
+      "enunciado": "A categoria de refugiado carrega em si as noções de transitoriedade, provisoriedade e temporalidade. Os refugiados situam-se entre o país de origem e o país de destino. A transitarem entre os dois universos,  \nocupam posição marginal, tanto em termos identitários – assentada na falta de pertencimento pleno enquanto membros da comunidade receptora e nos vínculos introjetados por códigos partilhados com a comunidade de quanto em termos jurídicos, a deixarem de exercitar, a menos em caráter temporário, o status de cidadãos no país de origem e portar o status de  \nrefugiados no país receptor.\n\nMOREIRA, J. B. Refugiados no Brasil: reflexes acerca do processo de integração local.  \nREMHU, n. 43, jul.-dez. 2014 (adaptado).",
+      "alternativas_introducao": "A condição de transitoriedade dos refugiados no Brasil, conforme abordada no texto, é provocada pela associação entre",
+      "alternativas": [
+        "A) A ascensão social e burocracia estatal.",
+        "B) Miscigenação étnica e limites fronteiriços.",
+        "C) Desqualificação profissional e ação policial.",
+        "D) Instabilidade financeira e crises econômicas.",
+        "E) Desenraizamento cultural e insegurança legal."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/55"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 56,
+      "titulo": "Questão 56 - ENEM 2021",
+      "enunciado": "Mulheres naturalistas raramente figuraram a corrida por conhecer terras exóticas. No século XIX, mulheres como Lady Charlotte Canning eventualmente coletavam espécimes botânicos, mas quase sempre no papel de esposas coloniais, viajando para locais onde seus maridos as levavam e não em busca de seus próprios projetos científicos.\n\nSOMBRIO, M. M. O. Em busca pelo campo – Mulheres em expedições cientificas  \nno Brasil em meados do século XX. Cadernos Pagu, n. 48, 2016.",
+      "alternativas_introducao": "No contexto do século XIX, a relação das mulheres com o campo cientifico, descrita no texto, é representativa da",
+      "alternativas": [
+        "A) Afirmação da igualdade de gênero.",
+        "B) Transformação dos espaços de lazer.",
+        "C) Superação do pensamento patriarcal.",
+        "D) Incorporação das estratificações sociais.",
+        "E) Substituição das atividades domésticas."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/56"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 57,
+      "titulo": "Questão 57 - ENEM 2021",
+      "enunciado": "Nos setores mais altamente desenvolvidos da sociedade contemporânea, o transplante de necessidades sociais para individuais é de tal modo eficaz que a diferença entre elas parece puramente teórica. As criaturas se reconhecem em suas mercadorias; encontram sua alma em seu automóvel, casa em patamares, utensílios de cozinha.\n\nMARCUSE, H. A ideologia da sociedade industrial: o homem unidimensional.  \nRio de Janeiro: Zahar, 1979.",
+      "alternativas_introducao": "O texto indica que, no capitalismo, a satisfação dos desejos pessoais é influenciada por",
+      "alternativas": [
+        "A) Políticas estatais de divulgação.",
+        "B) Incentivos controlados de consumo.",
+        "C) Prescrições coletivas de organização.",
+        "D) Mecanismos subjetivos de identificação.",
+        "E) Repressões racionalizadas do narcisismo."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/57"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 58,
+      "titulo": "Questão 58 - ENEM 2021",
+      "enunciado": "A vida das pessoas se modifica com a mesma rapidez com que se reproduz a cidade. O lugar da festa, do encontro quase desaparecem; o número de brincadeiras infantis nas ruas diminui – as crianças quase não são vistas; os pedaços da cidade são vendidos, no mercado, como mercadorias; árvores são destruídas, praças transformadas em concreto. Por outro lado, os habitantes parecem perder na cidade suas próprias referências. A imagem de uma grande cidade hoje é tão mutante que se assemelha à de  \num grande guindaste, aliás, a presença maciça destes, das britadeiras, das betoneiras nos dão o limite do processo de transformação diária ao qual está submetida a cidade.\n\nCARLOS, A. F. A. A cidade. São Paulo: Contexto, 2011 (adaptado).",
+      "alternativas_introducao": "No contexto das grandes cidades brasileiras, a situação apresentada no texto vem ocorrendo como consequência da",
+      "alternativas": [
+        "A) Manutenção dos modos de convívio social.",
+        "B) Preservação da essência do espaço público.",
+        "C) Ampliação das normas de controle ambiental",
+        "D) Flexibilização das regras de participação política.",
+        "E) Alteração da organização da paisagem geográfica."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/58"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 59,
+      "titulo": "Questão 59 - ENEM 2021",
+      "enunciado": "No semiárido brasileiro, o sertanejo desenvolveu uma acuidade detalhada para a observação dos fenômenos, a longo dos tempos, presenciados na natureza, em especial para a previsão do tempo e do clima, utilizando  \ncomo referência a posição dos astros, constelação e nuvens. Conforme os sertanejos, a estação vai ser chuvosa quando a primeira lua cheia de janeiro “sair vermelha, por detrás de uma barra de nuvens”, mas “se surgir prateada, é sinal de seca”\n\nMAIA, D.; MAIA, A. C. A utilização dos ditos populares e da observação do tempo para a climatologia escolar no ensino fundamental I1. GeoTextos, n. 1, jul. 2010 (adaptado).",
+      "alternativas_introducao": "O texto expõe a produção de um conhecimento que se constitui pela",
+      "alternativas": [
+        "A) Técnica científica.",
+        "B) Experiência perceptiva.",
+        "C) Negação das tradições.",
+        "D) Padronização das culturas.",
+        "E) Uniformização das informações."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/59"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 60,
+      "titulo": "Questão 60 - ENEM 2021",
+      "enunciado": "Vocês que fazem parte dessa massa  \nQue passa nos projetos do futuro  \nE duro tanto ter que caminhar  \nE dar muito mais do que receber  \nE, ô, ô, vida de gado  \nPovo marcado  \nE, povo feliz!\n\nZÉ RAMALHO. A peleja do diabo com o dono do céu.  \nRio de Janeiro: Sony, 1979 (fragmento).",
+      "alternativas_introducao": "Qual comportamento coletivo é criticado no trecho da letra da canção lançada em 1979?",
+      "alternativas": [
+        "A) Militância política.",
+        "B) Passividade social.",
+        "C) Altruísmo religioso.",
+        "D) Autocontrole moral.",
+        "E) Inconformismo eleitoral."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/60"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 61,
+      "titulo": "Questão 61 - ENEM 2021",
+      "enunciado": "Desde 2009, a área portuária carioca vem sofrendo grandes transformações realizadas no escopo da operação urbana consorciada conhecida como Porto Maravilha. Parte importante na tentativa de tomar o Rio de Janeiro um polo de serviços internacional, a “revitalização” urbana deveria deixar para trás uma paisagem geográfica que ainda recordava a cidade do início do século passado para abrir espaço, em seu lugar, à instalação de modernas torres comerciais, espaços de consumo e lazer inéditos e cerca de cem mil novos moradores, uma nova configuração socioespacial capaz de alçar a área portuária do Rio de Janeiro ao patamar dos _waterfronts_ de Baltimore, Barcelona e Buenos Aires.\n\nLACERDA, L; WERNECK. M; RIBEIRO, N. Cortiços de hoje na cidade do amanhã. **E-metropolis**, n. 30, set; 2017.",
+      "alternativas_introducao": "As intervenções urbanas descritas derivam de um processo socioespacial que busca a",
+      "alternativas": [
+        "A) Intensificação da participação na competividade global.",
+        "B) Contenção da especulação no mercado imobiliário.",
+        "C) Democratização da habitação popular.",
+        "D) Valorização das funções tradicionais.",
+        "E) Priorização da gestão participativa."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/61"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 62,
+      "titulo": "Questão 62 - ENEM 2021",
+      "enunciado": "Constatou-se uma ínfima inserção da indústria brasileira nas novas tecnologias ancoradas na microeletrônica, capazes de acarretar elevação da produtividade nacional de forma sustentada. Os motores do crescimento nacional, há décadas, são os grupos relacionados a _commodities_ agroindustriais e à indústria representativa do antigo padrão fordista de produção, esta última também limitada pela baixa potencialidade futura de desencadear inovações tecnológicas capazes de proporcionar elevação sustentada da produtividade.\n\nAREND, M. **A industrialização do Brasil antes a nova divisão internacional do trabalho.** Disponível em: www.ipea.gov.br. Acesso em: 16 jul. 2015 (adaptado).",
+      "alternativas_introducao": "Um efeito desse cenário para a sociedade brasileira tem sido o (a)",
+      "alternativas": [
+        "A) Barateamento da cesta básica.",
+        "B) Retorno à estatização econômica.",
+        "C) Ampliação do poder de consumo.",
+        "D) Subordinação aos fluxos globais.",
+        "E) Incentivo à política de modernização."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/62"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 63,
+      "titulo": "Questão 63 - ENEM 2021",
+      "enunciado": "As atividades mineradores têm criado conflitos com extrativistas, quilombolas, pequenos agricultores, ribeirinhos, pescadores artesanais e povos indígenas. Em geral, estes sujeitos têm encontrado grande dificuldade de reproduzi suas dinâmicas territoriais depois da instalação da atividade mineradora , nem sempre com reconhecimento do impacto ao seu território pelo Estado e pela empresa, ficando sem qualquer tipo de compensação econômica. Em outros casos, nem a compensação econômica tem sido capaz de evitar esgarçamento das relações sociais destes grupos que sofrem com a reconstrução abrupta das suas identidades e de suas dinâmicas territoriais.\n\nPALHETA, J. M. et al. Conflitos pelo uso do território na Amazônica mineral. **Mercator**, n. 16. 2017.",
+      "alternativas_introducao": "O texto apresenta uma relação entre atividade econômica e organização social marcada pelo(a)",
+      "alternativas": [
+        "A) Escassez de incentivo cultural.",
+        "B) Rompimento de vínculos locais.",
+        "C) Carência de investimento financeiro.",
+        "D) Estabelecimento de práticas agroecológicas.",
+        "E) Enriquecimento das comunidades autóctones."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/63"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 64,
+      "titulo": "Questão 64 - ENEM 2021",
+      "enunciado": "Por maioria, nós não entendemos uma quantidade relativa maior, mas a determinação de uma estado ou de um padrão em relação ao qual tanto as quantidades maiores quanto as menores serão ditas minoritárias. Maioria supõe um estado de dominação. É nesse sentido que as mulheres, as crianças e também os animais são minoritários.\n\nDELEUXE, G.; GUATTARI, F. **Mil platô**s. São Paulo: Editora 34, 2012 (adaptado).",
+      "alternativas_introducao": "No texto, a caracterização de uma minoria decorre da existência de",
+      "alternativas": [
+        "A) Ameaças de extinção social.",
+        "B) Políticas de incentivos estatais.",
+        "C) Relações de natureza arbitrária.",
+        "D) Valorações de conexões simétricas.",
+        "E) Hierarquizações de origem biológica."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/64"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 65,
+      "titulo": "Questão 65 - ENEM 2021",
+      "enunciado": "Ao mesmo tempo, graças às amplas possibilidades que tive de observar a classe média, vossa adversária, rapidamente concluí que vós tendes razão, inteira razão, em não esperar dele qualquer ajuda. Seus interesses são diametralmente opostos aos vossos, mesmo que ela procure incessantemente afirmar o contrário e vos queira persuadir que sente a maior simpatia por vossa sorte. Mas seus atos desmentem suas palavras.\n\nENGELS, F. **A situação da classe trabalhadora na Inglaterra.** São Paulo: Boitempo, 2010.",
+      "alternativas_introducao": "No texto, o autor apresenta delineamentos éticos que correspondem ao (s)",
+      "alternativas": [
+        "A) Conceito de luta de classes.",
+        "B) Alicerce da ideia de mais-valia.",
+        "C) Fundamentos do método científico.",
+        "D) Paradigmas do processo indagativo.",
+        "E) Domínios do fetichismo da mercadoria."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/65"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 66,
+      "titulo": "Questão 66 - ENEM 2021",
+      "enunciado": "Houve crescimento de 74% da população brasileira encarcerada entre 2005 e 2012. As análises possibilitaram identificar o perfil da população que está nas prisões do país: homens, jovens (abaixo de 29 anos), negros, com ensino fundamental incompleto, acusados de crimes patrimoniais e, no caso dos presos adultos, condenados e cumprindo regime fechado e, majoritariamente, com penas de quatro até oito anos.\n\nBRASIL. Mapa do encarceramento: os jovens do Brasil.  \nBrasília: Presidência da República, 2015.",
+      "alternativas_introducao": "Nesse contexto, as políticas públicas para minimizar a problemática descrita devem privilegiar a",
+      "alternativas": [
+        "A) Flexibilização do Código Civil.",
+        "B) Promoção da inclusão social.",
+        "C) Redução da maioridade penal.",
+        "D) Contenção da corrupção política.",
+        "E) Expansão do período de reclusão."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/66"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 67,
+      "titulo": "Questão 67 - ENEM 2021",
+      "enunciado": "Nem guerras, nem revoltas. Os incêndios eram o mais frequente tormento da vida urbana no Regnum Italicum. Entre 880 e 1080, as cidades estiveram constantemente entregues ao apetite das chamas. A certa altura, a documentação parece vencer pela insistência do vocabulário, levando até o leitor mais crítico a cogitar que os medievais tinham razão ao tratar aqueles acontecimentos como castigos que antecediam o julgamento final. Como um quinto cavaleiro apocalíptico, o incêndio agia ao feitio da peste ou da fome: vagando mundo afora, retornava de tempos em tempos e expurgava justos e pecadores num tormento derradeiro, como insistiam os textos do século X. O impacto acarretado sobre as relações sociais era imediato e prolongava-se para além da destruição material. As medidas proclamadas pelas autoridades faziam mais do que reparar os danos e reconstruir a paisagem: elas convertiam a devastação em ocasião para alterar e expandir não só a topografia urbana, mas as práticas sociais até então vigentes.\n\nRUST, L. D. Uma calamidade insaciável. Rev. Bras. Hist., n. 72, maio-ago. 2016 (adaptado).",
+      "alternativas_introducao": "De acordo com o texto, a catástrofe descrita impactava as sociedades medievais por proporcionar a",
+      "alternativas": [
+        "A) Correção dos métodos preventivos e das regras sanitárias.",
+        "B) Revelação do descaso público e das degradações ambientais.",
+        "C) Transformação do imaginário popular e das crenças religiosas.",
+        "D) Remodelação dos sistemas políticos e das administrações locais.",
+        "E) Reconfiguração dos espaços ocupados e das dinâmicas comunitárias."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/67"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 68,
+      "titulo": "Questão 68 - ENEM 2021",
+      "enunciado": "O protagonismo indígena vem optando por uma estratégia de “des-invisibilização”, valendo-se da dinâmica das novas tecnologias. Em outubro de 2012, após receberem uma liminar lhes negando o direito a permanecer em suas terras, os Guarani de Pyelito Kue divulgaram uma carta na qual se dispunham a morrer, mas não a sair de suas terras. Essse fato foi amplamente divulgado, gerando uma grande mobilização na internet, que levou milhares de pessoas a escolherem seu lado, divulgando a hashtag “#somostodosGuarani-Kaiowá” ou acrescentando o sobrenome Guarani-Kaiowá a seus nomes nos perfis das principais redes sociais.\n\nCAPIBERIBE, A.; BONILLA, O. A ocupação do Congresso: contra o que lutam os índios? Estudos Avançados, n. 83, 2015 (adaptado).",
+      "alternativas_introducao": "A estratégia comunicativa adotada pelos indígenas, no contexto em pauta, teve por efeito",
+      "alternativas": [
+        "A) Enfraquecer as formas de militância política.",
+        "B) Abalar a identidade de povos tradicionais.",
+        "C) Inserir as comunidades no mercado global.",
+        "D) Distanciar os grupos de culturas locais.",
+        "E) Angariar o apoio de segmentos étnicos externos."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/68"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 69,
+      "titulo": "Questão 69 - ENEM 2021",
+      "enunciado": "O governo Vargas, principalmente durante o Estado Novo (1937-1945), pretendeu construir um Estado capaz de criar uma nova sociedade. Uma dimensão-chave desse projeto tinha no território seu foco principal. Não por acaso, foram criadas então instituições encarregadas de fornecer dados confiáveis para a ação do governo, como o Conselho Nacional de Geografia, o Conselho Nacional de Cartografia, o Conselho Nacional de Estatística e o Instituto Brasileiro de Geografia e Estatística (IBGE), este de 1938.\n\nLIPPI, L. A conquista do Oeste. Disponivel em: http://cpdoc.fgv.br.  \nAcesso em: 7 nov. 2014 (adaptado).",
+      "alternativas_introducao": "A criação dessas instituições pelo governo Vargas representava uma estratégia política de",
+      "alternativas": [
+        "A) Levantar informações para a preservação da paisagem dos sertões.",
+        "B) Controlar o crescimento exponencial da população brasileira.",
+        "C) Obter conhecimento científico das diversidades",
+        "D) Conter o fluxo migratório do campo para a cidade.",
+        "E) Propor a criação de novas unidades da federação."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/69"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 70,
+      "titulo": "Questão 70 - ENEM 2021",
+      "enunciado": "Foram esses cientistas Xavante que esclareceram os mistérios da germinação de cada uma das sementes. Eles tinham o conhecimento para quebrar a dormência.  \nO fogo era fundamental para muitas; para outras, o caminho para despertar passava pelo sistema digestivo dos animais silvestres. “Essa planta nasce depois que fazemos a caçada com fogo, diziam eles, esta outra quando a anta caga a semente, aquela precisa ser comida pelo lobo”. Aliando os conhecimentos dos cientistas da aldeia e da cidade, essa área do Cerrado foi recuperada totalmente.\n\nPAPPIANI, A. Tecnologias indígenas: esplendor e captura.  \nDisponível m: https://outraspalavras.net.  \nAcesso em: 10 out. 2019 (adaptado).",
+      "alternativas_introducao": "No texto, a relação socioespacial dos indígenas evidencia a importância do(a)",
+      "alternativas": [
+        "A) Prática agrícola para a logística nacional.",
+        "B) Cultivo de hortaliças para o consumo urbano.",
+        "C) Saber tradicional para a conservação ambiental.",
+        "D) Criação de gado para o aprimoramento genético.",
+        "E) Reflorestamento comercial para a produção orgânica."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/70"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 71,
+      "titulo": "Questão 71 - ENEM 2021",
+      "enunciado": "Desde os primórdios da formação da crosta terrestre até os dias de hoje, as rochas formadas vêm sendo continuamente destruídas. Os produtos resultantes da destruição das rochas são transportados pela água, vento e gelo a toda superfície terrestre, acionados pelo calor e pela gravidade. Cessada a energia transportadora, são depositados nas regiões mais baixas da crosta, podendo formar pacotes rochosos.\n\nLEINZ, V. Geologia geral. São Paulo: Editora Nacional, 1989.",
+      "alternativas_introducao": "As transformações na superfície terrestre, conforme descritas no texto, compõem o seguinte processo geomorfológico:",
+      "alternativas": [
+        "A) Ciclo sedimentar.",
+        "B) Instabilidade sísmica.",
+        "C) Intemperismo biológico.",
+        "D) Derramamento basáltico.",
+        "E) Compactação superficial."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/71"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 72,
+      "titulo": "Questão 72 - ENEM 2021",
+      "enunciado": "A participação social no planejamento e na gestão urbanos ganhou impulso a partir do Estatuto da Cidade (Lei n. 10.257/2001), que estabeleceu condições para elaboração de planos diretores participativos, instrumentos esses indutores da expansão urbana e do ordenamento territorial que, a princípio, devem buscar representar os interesses dos diversos segmentos da sociedade.  \nNo entanto, é notório o limite à representação dos interesses das camadas sociais menos favorecidas nesse processo. Este rumo deve ser corrigido e deve-se continuar buscando mecanismos de inclusão dos interesses de toda a sociedade.\n\nCaderno Objetivos de Desenvolvimento Sustentável – ODS n. 11: tornar  \nas cidades e os assentamentos humanos inclusivos, seguros, resilientes  \ne sustentáveis. Brasília: Ipea, 2019.",
+      "alternativas_introducao": "Qual media promove a participação social descrita no texto?",
+      "alternativas": [
+        "A) Redução dos impostos municipais.",
+        "B) Privatização dos espaços públicos.",
+        "C) Adensamento das áreas de comércio.",
+        "D) Valorização dos condomínios fechados.",
+        "E) Fortalecimento das associações de bairro."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/72"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 73,
+      "titulo": "Questão 73 - ENEM 2021",
+      "enunciado": "Quando Getúlio Vargas se suicidou, em agosto de 1954, o país parecia à beira do caos. Acuado por uma grave crise política, o velho líder preferiu uma bala no peito à humilhação de aceitar uma nova deposição, como a que sofrera em outubro de 1945. Entretanto, ao contrário do que imaginavam os inimigos, ao ruído do estampido não se seguiu o silêncio que cerca a derrota.\n\nREIS FILHO, D. A. O Estado à sombra de Vargas.  \nRevista Nossa História, n. 7, maio 2004.",
+      "alternativas_introducao": "O evento analisado no texto teve como repercussão imediata na politica nacional a",
+      "alternativas": [
+        "A) Reação popular.",
+        "B) Intervenção militar.",
+        "C) Abertura democrática.",
+        "D) Campanha anticomunista.",
+        "E) Radicalização oposicionista."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/73"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 74,
+      "titulo": "Questão 74 - ENEM 2021",
+      "enunciado": "Eu, Dom João, pela graça de Deus, faço saber a V. Mercê que me aprouve banir para essa cidade vários ciganos – homens, mulheres e crianças –  \ndevido ao seu escandaloso procedimento neste reino. Tiveram ordem de seguir em diversos navios destinados a esse porto, e, tendo eu proibido, por lei recente, o uso da sua língua habitual, ordeno a V. Mercê que cumpra essa lei sob ameaça de penalidades, não permitindo que ensinem dita língua a seus filhos, de maneira que daqui por diante o seu uso desapareça.\n\nTEIXEIRA, R. C. História dos ciganos no Brasil.  \nRecife: Núcleo de Estudos Ciganos, 2008.",
+      "alternativas_introducao": "A ordem emanada da Coroa portuguesa para sua colônia americana, em 1718, apresentava um tratamento da identidade cultural pautado em",
+      "alternativas": [
+        "A) Converter grupos infiéis à religião oficial.",
+        "B) Suprimir formas divergentes de interação social.",
+        "C) Evitar envolvimento estrangeiro a economia local.",
+        "D) Reprimir indivíduos engajados em revoltas nativistas.",
+        "E) Controlar manifestações artísticas de comunidades autóctones."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/74"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 75,
+      "titulo": "Questão 75 - ENEM 2021",
+      "enunciado": "De um lado, ancorados pela prática médica europeia, por outro, pela terapêutica indígena, com seu amplo uso da flora nativa, os jesuítas foram os reais iniciadores do exercício de uma medicina híbrida que se tornou marca do Brasil colonial. Alguns religiosos vinham de Portugal já versados nas artes de curar, mas a maioria aprendeu na prática diária as funções que deveriam ser atribuídas a um físico, cirurgião, barbeiro ou boticário.\n\nGurgel, C. **Doenças e curas**: o Brasil nos primeiros séculos.  \nSão Paulo: Contexto, 2010 (adaptado).",
+      "alternativas_introducao": "Conforme o texto, o que caracteriza a construção da prática medicinal descrita é a",
+      "alternativas": [
+        "A) Adoção de rituais místicos.",
+        "B) Rejeição dos dogmas cristãos.",
+        "C) Superação da tradição popular.",
+        "D) Imposição da farmacologia nativa.",
+        "E) Conjugação de saberes empíricos."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/75"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 76,
+      "titulo": "Questão 76 - ENEM 2021",
+      "enunciado": "Desde o século XII que a cristandade ocidental era agitada pelo desafio lançado pela cultura profana – a dos romances de cavalaria, mas também a cultura folclórica dos camponeses e igualmente a dos citadinos, de caráter mais jurídicos – à cultura eclesiástica, cujo veículo era o latim. Francisco de Assis veio alterar a situação, propondo aos seus ouvintes uma mensagem acessível a todos e, simultaneamente, enobrecendo a língua vulgar através do seu uso na religião\n\nVAUCHEZ, A. **A espiritualidade da Idade Média Ocidental, séc. VIII-XIII.**\n\nLisboa: Estampa, 1995.",
+      "alternativas_introducao": "O comportamento desse religioso demonstra uma preocupação com as características assumidas pela Igreja e com as desigualdades sociais compartilhada no seu tempo pelos(as)",
+      "alternativas": [
+        "A) Senhores feudais.",
+        "B) Movimentos heréticos.",
+        "C) Integrantes das Cruzadas.",
+        "D) Corporações de ofícios.",
+        "E) Universidades medievais."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/76"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 77,
+      "titulo": "Questão 77 - ENEM 2021",
+      "enunciado": "**Por que o Brasil continuou um só enquanto a América espanhola se dividiu em vários países?** \n\nPara o historiados brasileiro José Murilo de Carvalho, no Brasil, parte da sociedade era muito mais coesa ideologicamente do que a espanhola. Carvalho argumenta que isso se deveu à tradição burocrática portuguesa. “Portugal nunca permitiu a criação de universidade em sua colônia”. Por outro lado, na América espanhola, entre 1772 e 1872, 150 mil estudantes se formaram em universidades locais. Para o historiador mexicano Alfredo Ávila Rueda, as universidade na América espanhola eram, em sua maioria, reacionárias. Nesse sentido, o historiados mexicano diz acreditar que a livre circulação de impressos (jornais, livros e panfletos) na América espanhola, que não era permitida na América portuguesa (a proibição só foi revertida em 1808), teve função muito mais importante na construção de regionalismos do que propriamente as universidades.\n\nBARRUCHO, L. Disponível em: wwww.bbc.com. Acesso em: 8 set. 2019 (adaptado).",
+      "alternativas_introducao": "Os pontos de vista dos historiadores referidos no texto são divergentes em relação ao",
+      "alternativas": [
+        "A) Papel desempenhado pelas instituições de ensino na criação das múltiplas identidades.",
+        "B) Controle exercido pelos grupos de imprensa na centralização das esferas administrativas.",
+        "C) Abandono sofrido pelas comunidades de docentes na concepção de coletividades políticas.",
+        "D) Lugar ocupado pelas associações de acadêmicos no fortalecimento das agremiações estudantis.",
+        "E) Protagonismo assumido pelos meios de comunicação no desenvolvimento das nações alfabetizadas."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/77"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 78,
+      "titulo": "Questão 78 - ENEM 2021",
+      "enunciado": "**TEXTO I** \n\nMacaulay enfatizou o glorioso acontecimento representado pela luta do Parlamento contra Carlos I em prol da liberdade política e religiosa do povo inglês; significou o primeiro confronto entre a liberdade e a tirania real, primeiro combate em favor do Iluminismo e do Liberalismo.\n\nARRUDA, J. J. A. Perspectiva da Revolução Inglesa. **Rev. Bras. Hist.** n. 7, 1984 (adaptado)\n\n**TEXTO II** \n\nA Revolução Inglesa, como todas as revoluções, foi causada pela ruptura da velha sociedade, e não pelos desejos da velha burguesia. Na década de 1640, camponeses se revoltaram contra os cercamentos, tecelões contra a miséria resultante da depressão e os crentes contra o Anticristo a fim de instalar o reino de Cristo na Terra.\n\nHILL. C. Uma revolução burguesa? **Rev. Bras. Hist.** n. 7. 1984 (adaptado)",
+      "alternativas_introducao": "A concepção de Revolução Inglesa apresentada no Texto II diferencia-se da do Texto I ao destacar a existência de",
+      "alternativas": [
+        "A) Pluralidade das demandas sociais.",
+        "B) Homogeneidade das lutas religiosas.",
+        "C) Unicidade das abordagens históricas.",
+        "D) Superficialidade dos interesses políticos.",
+        "E) Superioridade dos aspectos econômicos."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/78"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 79,
+      "titulo": "Questão 79 - ENEM 2021",
+      "enunciado": "As grandes empresas seriam, certamente, representação de um exercício de poder, ante o grau de autonomia de ação de que dispõem. O que se pretende salientar é a ideia de enclave: plantas industriais que estabelecem relações escassas com o entorno, mas exercem grande influência na economia extralocal.\n\nDAVIDOVICH. F. Estado do Rio de Janeiro: o urbano metropolitano. Hipóteses e questões. **GeoUERJ**, n.21, 2010.",
+      "alternativas_introducao": "Que tipo de ação tomada por empresas reflete a forma de territorialização da produção industrial apresentada no texto?",
+      "alternativas": [
+        "A) Criação de vilas operárias.",
+        "B) Promoção de eventos comunitários.",
+        "C) Recuperação de áreas degradas.",
+        "D) Incorporação de saberes tradicionais.",
+        "E) Importação de mão de obra qualificada."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/79"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 80,
+      "titulo": "Questão 80 - ENEM 2021",
+      "enunciado": "Numa sociedade em transição, a marcha da mudança, em diferentes graus, está impressa em todos os aspectos da ordem social, especialmente no jogo político, que nessas sociedades sempre apresenta padrões característicos de ambivalência, cujas raízes sociais se encontram na coexistência de dois padrões de estrutura social: o padrão tradicional, em declínio, e o novo, emergente, em expansão. Em tais situações, é possível encontrar, simultaneamente, apoio para uma orientação política ou para outra que seja exatamente o oposto. O padrão ambivalente do processo político, nas sociedades em desenvolvimento, é o que explica um dos seus trações mais salientes, e que consiste na tendência ao adiamento das grandes decisões. Resulta dai que a inércia política ou a convulsão política pode se suceder uma à outra em períodos surpreendentemente curtos.\n\nPINTO, L, A. C. **Sociologia e desenvolvimento.** Rio de Janeiro: Civilização Brasileira. 1975 (adaptado).",
+      "alternativas_introducao": "De acordo com a perspectiva apresentada, central no pensamento social brasileiro dos anos 1950 e 1960, o desenvolvimento do país foi marcado por",
+      "alternativas": [
+        "A) Radicalidade nas agendas de reforma das elites dirigentes.",
+        "B) Anomalias na execução dos planos econômicos ortodoxos.",
+        "C) Descompassos na construção de quadros institucionais modernos.",
+        "D) Ilegitimidade na atuação dos movimentos de representação classista.",
+        "E) Vagarosidade na dinâmica de aperfeiçoamento dos programas partidários."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/80"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 81,
+      "titulo": "Questão 81 - ENEM 2021",
+      "enunciado": "**Manifesto dos Pioneiros da Educação Nova – 1932**\n\nA Educação Nova, alargando a sua finalidade para além dos limites das classes, assume, com uma feição mais humana, a sua verdadeira função social, preparando-se para formar “a hierarquia democrática” pela “hierarquia das capacidades”, recrutadas em todos os grupos sociais, a que se abrem as mesmas oportunidades de educação. Ela tem, por objeto, organizar e desenvolver os meios de ação durável com o fim de “dirigir os desenvolvimentos natural e integral do ser humano em cada uma das etapas de seu crescimento”, de acordo com uma certa concepção do mundo.\n\nDisponível em: www.histedbr.fe.unicamp.br. Acesso em: 7 out. 2015.",
+      "alternativas_introducao": "Os autores do manifesto citado procuravam contrapor-se ao caráter oligárquico da sociedade brasileira. Nesse sentido, o trecho propõe uma relação necessária entre",
+      "alternativas": [
+        "A) Ensino técnico e mercado de trabalho.",
+        "B) Acesso à escola e valorização do mérito.",
+        "C) Ampliação de vagas e formação de gestores.",
+        "D) Disponibilidade de financiamento e pesquisa avançada.",
+        "E) Remuneração de professores e extinção do analfabetismo."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/81"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 82,
+      "titulo": "Questão 82 - ENEM 2021",
+      "enunciado": "Sócrates: “Quem não sabe o que uma coisa é, como poderia saber de que tipo de coisa ela é? Ou te parece ser possível alguém que não conhece absolutamente quem é Mênon, esse alguém saber se ele é belo, se é rico e ainda se é nobre? Parece-te ser isso possível? Assim, Mênon, que coisa afirmas ser a virtude?”.\n\nPLATÃO. Mênon. Rio de Janeiro: PUC-RIO; São Paulo: Loyola, 2001 (adaptado).",
+      "alternativas_introducao": "A atitude apresentada na interlocução do filósofo com Mênon é um exemplo da utilização do(a)",
+      "alternativas": [
+        "A) Escrita epistolar",
+        "B) Método dialético",
+        "C) Linguagem trágica",
+        "D) Explicação fisicalista",
+        "E) Suspensão judicativa"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/82"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 83,
+      "titulo": "Questão 83 - ENEM 2021",
+      "enunciado": "No seio de diversos povos africanos, nomeadamente no antigo Reino do Congo, existem testemunhos gráficos de que a escrita tomava várias formas. Exemplo disso são as tampas de panela esculpidas em baixo-relevo do povo Woyo (região de Cabinda), com cenas e provérbios do cotidianos, desenhos na terra ou areia, imagens gravadas ou inscritas nos bastões de chefe ou em pedras sagradas , mas, sobretudo, movimentos do corpo humano inscritos num gestual familiar. Entre Woyo existia o costume de os pais oferecerem aos filhos testos ou tampas de panelas entalhados, transmitindo uma espécie de recado, com signos codificados que traduziam orientações para conseguir uma boa relação conjugal, ter sensatez na escolha do cônjuge e estar alerta para as dificuldades do casamento.\n\nRODRIGUES, M. R. A. M; TAVARES, A. C. P; Singularidades museológicas de uma tábua com esculturas em diálogo: do alambamento ao casamento em Cabinda (Angola). **Anais do Museu Paulista**, n.2, maio-ago. 2017 (adaptado).",
+      "alternativas_introducao": "Para o povo Woyo, os artefatos culturais mencionados no texto cumprem a função de uma",
+      "alternativas": [
+        "A) Pedagogia dos costumes sociais.",
+        "B) Imposição das formas de comunicação.",
+        "C) Desvalorização dos comportamentos da juventude.",
+        "D) Destituição dos valores do matrimônio.",
+        "E) Etnografia das celebrações religiosas."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/83"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 84,
+      "titulo": "Questão 84 - ENEM 2021",
+      "enunciado": "O torém dependia de organização familiar, sendo brincado por pessoas com vínculos de parentesco e afinidade que viviam no local. Era visto como uma brincadeira, um entretenimento feito para os próprios participantes e seus conhecidos. O tempo do caju era o pretexto para sua realização, sendo chamadas várias pessoas da região a fim de tomar mocororó, bebida fermentada do caju.\n\nVALLE, C. G. O. Torém/Toré: tradições e invenção no quadro de multiplicidade  \nétnica do Ceará contemporâneo. In: GRUNEWALD, R. A. (Org.). Toré: regime  \nencantado dos índios do Nordeste. Recife: Fundaj-Massangana, 2005.",
+      "alternativas_introducao": "O ritual mencionado no texto atribui à manifestação cultural de grupos indígenas do Nordeste brasileiro a função de",
+      "alternativas": [
+        "A) Celebrar a história oficial.",
+        "B) Estimular a coesão social.",
+        "C) Superar a atividade artesanal.",
+        "D) Manipular a memória individual.",
+        "E) Modernizar o comércio tradicional."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/84"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 85,
+      "titulo": "Questão 85 - ENEM 2021",
+      "enunciado": "![](https://enem.dev/2021/questions/85/c53f5bbe-8ad7-418f-aaf9-93f3234d36d5.png)",
+      "alternativas_introducao": "No anúncio publicado na segunda metade do século XIX, qual a estratégia de resistência escrava apresentada?",
+      "alternativas": [
+        "A) Criação de relações de trabalho.",
+        "B) Fundação de territórios quilombolas.",
+        "C) Suavização da aplicação de normas.",
+        "D) Regularização das funções da remuneradas.",
+        "E) Constituição de economia de subsistência."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q085_principal.png",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/85"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 86,
+      "titulo": "Questão 86 - ENEM 2021",
+      "enunciado": "A filosofia é como uma árvore, cujas raízes são a metafísica; o tronco, a física, e os ramos que saem do tronco são todas as outras ciências, que se reduzem a três principais: a medicina, a mecânica e a moral,  \nentendendo por moral a mais elevada e a mais perfeita porque pressupõe um saber integral das outras ciências, e é o último grau da sabedoria.\n\nDESCARTES, R. Princípios da filosofia. Lisboa: Edições 70, 1997 (adaptado).",
+      "alternativas_introducao": "Essa construção alegórica de Descartes, acerca da condição epistemológica da filosofia, tem como\n objetivo",
+      "alternativas": [
+        "A) Sustentar a unidade essencial do conhecimento.",
+        "B) Refutar o elemento fundamental das crenças.",
+        "C) Impulsionar o pensamento especulativo.",
+        "D) Recepcionar o método experimental.",
+        "E) Incentivar a suspensão dos juízos."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/86"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 87,
+      "titulo": "Questão 87 - ENEM 2021",
+      "enunciado": "Minha fórmula para o que há de grande no individuo é amor fati: nada desejar além daquilo que é, nem diante de si, nem atrás de si, nem nos séculos dos séculos. Não se contentar em suportar o inelutável, e ainda menos dissimula-lo, mas amá-lo.\n\nNIETZSCHE apud FERRY, L. Aprender a viver: filosofia para os novos tempos.  \nRio de Janeiro: Objetiva, 2010 (adaptado).",
+      "alternativas_introducao": "Essa fórmula indicada por Nietzsche consiste em uma crítica à tradição cristã que",
+      "alternativas": [
+        "A) Combate as práticas sociais de cunho afetivo.",
+        "B) Impede o avanço científico no contexto moderno.",
+        "C) Associa os cultos pagãos à sacralização da natureza.",
+        "D) Condena os modelos filosóficos da Antiguidade Clássica.",
+        "E) Consagra a realização humana ao campo transcendental."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/87"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 88,
+      "titulo": "Questão 88 - ENEM 2021",
+      "enunciado": "É preciso usar de violência e rebater varonilmente os apetites dos sentidos sem atender ao que a carne quer ou não quer, mas trabalhando por sujeitá-la ao espírito, ainda que se revolte. Cumpre castigá-la e curvá-la à sujeição, a tal ponto que esteja disposta para tudo, sabendo  \ncontentar-se com pouco e deleitar-se com a simplicidade, sem resmungar por qualquer incômodo.\n\nKEMPIS, T. Imitação de Cristo. Petrópolis: Vozes, 2015",
+      "alternativas_introducao": "Qual característica do ascetismo medieval é destacada no texto?",
+      "alternativas": [
+        "A) Exaltação do ritualismo litúrgico.",
+        "B) Afirmação do pensamento racional.",
+        "C) Desqualificação da atividade laboral.",
+        "D) Condenação da alimentação impura.",
+        "E) Desvalorização da materialidade corpórea."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/88"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 89,
+      "titulo": "Questão 89 - ENEM 2021",
+      "enunciado": "![](https://enem.dev/2021/questions/89/e99742b0-7668-451c-8ee6-7f98be4183a4.jpg)",
+      "alternativas_introducao": "Considerando as informações apresentadas, o prédio do Congresso Nacional, em Brasília, no dia 21 de junho, às 12 horas, projetará sua sombra para a direção",
+      "alternativas": [
+        "A) Norte",
+        "B) Sul",
+        "C) Leste",
+        "D) Oeste",
+        "E) Nordeste"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q089_principal.jpg",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/89"
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "numero": 90,
+      "titulo": "Questão 90 - ENEM 2021",
+      "enunciado": "EIGENHEER, E. M. **Lixo:** a limpeza urbana através dos tempos. Porto Alegre: Gráfica Palloti, 2009.\n\n**Texto II**  \nA repugnante tarefa de carregar lixo e os dejetos da casa para as praças e praias era geralmente destinada ao único escravo da família ou ao de menor status ou valor. Todas as noites, depois das dez horas, os escravos conhecidos popularmente como “tigres” levavam tubos ou barris de excremento e lixo sobre a cabeça pelas ruas do Rio.\n\nKARACH, M. C. **A vida dos escravos no Rio de Janeiro, 1808-1850.** Rio de Janeiro: Cia. das letras, 2000.",
+      "alternativas_introducao": "A ação representada na imagem e descrita no texto evidencia uma prática do cotidiano nas cidades no Brasil nos séculos XVIII e XIX caracterizada pela",
+      "alternativas": [
+        "A) Valorização do trabalho braçal.",
+        "B) Reiteração das hierarquias sociais.",
+        "C) Sacralização das atividades laborais.",
+        "D) Superação das exclusões econômicas.",
+        "E) Ressignificação das heranças religiosas."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/90"
+    }
+  ]
+}

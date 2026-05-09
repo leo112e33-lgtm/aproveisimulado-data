@@ -1,0 +1,2561 @@
+{
+  "ano": 2021,
+  "dia": 2,
+  "total": 90,
+  "geradoEm": "2026-05-09T05:54:40Z",
+  "questoes": [
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 1,
+      "titulo": "Questão 91 - ENEM 2021",
+      "enunciado": "No cultivo por hidroponia, são utilizados soluções nutritivas contendo macronutrientes e micronutrientes essenciais. Além dos nutrientes, o pH é um parâmetro de extrema importância, uma vez que ele afeta a preparação da solução nutritiva e a absorção dos nutrientes pelas plantas. Para o cultivo de alface, valores de pH entre 5,5 e 6,5 são ideais para o seu desenvolvimento. As correções de pH são feitas pela adição de compostos ácidos ou básicos, mas não devem introduzir elementos nocivos às plantas. Na tabela, são apresentados alguns dados da composição da solução nutritiva de referência para esse cultivo. Também é apresentada a composição de uma solução preparada por um produtor de cultivo hidropônico.\n\n![](https://enem.dev/2021/questions/91/1dc57326-df5b-4852-aedc-5839a54129ec.png)\n\nLENZI, E; FAVERO, L. O. B; LUCHESE, E. B. **Introdução à química da água:** ciência, vida e sobrevivência. Rio de Janeiro: LTC, 2012 (adaptado).",
+      "alternativas_introducao": "Para correção do pH da solução nutritiva preparada, esse produtor pode empregar uma solução de",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)",
+        "E)"
+      ],
+      "imagens_alternativas": [
+        "enem/2021/img/q001_altA.png",
+        "enem/2021/img/q001_altB.png",
+        "enem/2021/img/q001_altC.png",
+        "enem/2021/img/q001_altD.png",
+        "enem/2021/img/q001_altE.png"
+      ],
+      "imagem_principal": "enem/2021/img/q001_principal.png",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/91"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 2,
+      "titulo": "Questão 92 - ENEM 2021",
+      "enunciado": "O sino dos ventos é composto por várias barras metálicas de mesmo material e espessura, mas de comprimentos diferentes, conforme a figura.\n\n![](https://enem.dev/2021/questions/92/5bb60323-94e3-4bc4-bd57-90725682dd94.png)\n\nConsidere f1 e v1, respectivamente, como a frequência fundamental e a velocidade de propagação do som emitido pela barra de menor comprimento, e f2 e v2 são essas mesmas grandezas para o som emitido pela barra de maior comprimento.",
+      "alternativas_introducao": "As relações entre as frequências fundamentais e entre as velocidades de propagação são, respectivamente,",
+      "alternativas": [
+        "A) F1< f2 e v1 < v2.",
+        "B) F1 < f2 e v1 = v2.",
+        "C) F1< f2 e v1 > v2.",
+        "D) F1 > f2 e v1 = v2.",
+        "E) F1 > f2 e v1 > v2."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q002_principal.png",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/92"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 3,
+      "titulo": "Questão 93 - ENEM 2021",
+      "enunciado": "O polvo mimético apresenta padrões cromáticos e comportamentos muito curiosos. Frequentemente, muda a orientação de seus tentáculos, assemelhando-se a alguns animais. As imagens 1, 3, e 5 apresentam polvos mimetizando, respectivamente, um peixe-linguado (2), um peixe-leão (4) e uma serpente-marinha (6).\n\n![](https://enem.dev/2021/questions/93/63fd588f-0f17-4c2b-b0cb-ed3acf8b7f70.png)\n\nNORMAN, M. D.; FINN, J.; TREGENZA, T. Dynamic mimicry in an Indo-Malayan octopus. In: Proceedings of the Royal Society B: Biological Sciences, n. 268, out. 2021.\n\nDisponível em: www.researchgate.net. Acesso em: 15 mar. 2014 (adaptado).",
+      "alternativas_introducao": "Do ponto de vista evolutivo, a capacidade apresentada se estabeleceu porque os polvos",
+      "alternativas": [
+        "A) Originaram-se do mesmo ancestral que esses animais.",
+        "B) Passaram por mutações similares a esses organismos.",
+        "C) Observaram esses animais em seus nichos ecológicos.",
+        "D) Resultaram de convergência adaptativa com essas espécies.",
+        "E) Sobrevivem às pressões seletivas com esses comportamentos"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q003_principal.png",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/93"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 4,
+      "titulo": "Questão 94 - ENEM 2021",
+      "enunciado": "A figura foi extraída de um antigo jogo de computadores, chamado _Bang! Bang!_\n\n![](https://enem.dev/2021/questions/94/5a37495e-68a2-43fb-ac41-13a2fcc55e79.png)\n\nNo jogo, dois competidores controlam os canhões  **A**  e  **B**  , disparando balas alternadamente com o objetivo de atingir o canhão do adversário; para isso, atribuem valores estimados para o módulo de velocidade inicial de disparo ![](https://enem.dev/2021/questions/94/435840f2-c28e-427b-82f4-c210044547ee.png)   e para o ângulo de disparo ![](https://enem.dev/2021/questions/94/708a0541-6e2f-4256-ab6e-24d3b0a9a668.png).\n\nEm determinado momento de uma partida, o competidor  **B**  deve disparar; ele sabe que a bala disparada anteriormente, = 53 °, Passou tangenciando o Ponto  **P**  .\n\nNo jogo,  ![](https://enem.dev/2021/questions/94/c86c266a-40df-44d7-bc37-00fb42361fd1.png) é igual a 10 m / s 2. Considere sen 53 ° = 0,8, cos 53 ° = 0,6 e desprezível a ação de dissipativas.\n\nDisponível em:  [http://mebdownloads.butzke.net.br](http://mebdownloads.butzke.net.br/) . Acesso em: 18 abr. 2015 (adaptado).\n\nCom base nas distâncias dadas e mantendo o último ângulo de disparo, qual deveria ser, aproximadamente, o menor valor de   ![](https://enem.dev/2021/questions/94/0fea5329-7b51-4107-b32c-9e80dbb06407.png) que permitiria ao disparo pelo canhão  **B**  atingir o canhão  **A?**",
+      "alternativas_introducao": "Com base nas distâncias dadas e mantendo o último ângulo de disparo, qual deveria ser, aproximadamente, o menor valor de que permitiria ao disparo pelo canhão  B  atingir o canhão  A?",
+      "alternativas": [
+        "A) 30 m/s",
+        "B) 35 m/s",
+        "C) 40 m/s",
+        "D) 45 m/s",
+        "E) 50 m/s"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q004_principal.png",
+      "imagens_extras": [
+        "enem/2021/img/q004_extra1.png",
+        "enem/2021/img/q004_extra2.png",
+        "enem/2021/img/q004_extra3.png",
+        "enem/2021/img/q004_extra4.png"
+      ],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/94"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 5,
+      "titulo": "Questão 95 - ENEM 2021",
+      "enunciado": "Os pesticidas organoclorados foram amplamente empregados na agricultura, contudo, em razão das suas elevadas toxicidades e persistências no meio ambiente, eles foram banidos. Considere a aplicação de 500 g de um pesticida organoclorado em uma cultura e que, em certas condições, o tempo de meia-vida do pesticida no solo seja de 5 anos.",
+      "alternativas_introducao": "A massa do pesticida no decorrer de 35 anos será mais próxima de",
+      "alternativas": [
+        "A) 3,9 g.",
+        "B) 31, 2 g.",
+        "C) 62,5 g.",
+        "D) 125,0 g.",
+        "E) 250,0 g."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/95"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 6,
+      "titulo": "Questão 96 - ENEM 2021",
+      "enunciado": "A sequência de nucleotídeos do RNA mensageiro presentes em um gene de um fungo, constituída de sete códons, está escrita a seguir\n\n![](https://enem.dev/2021/questions/96/5b6529ba-c1eb-4122-b4de-a281d26d7c5c.png)\n\nPesquisadores submeteram a sequência a mutações independentes. Sabe-se que os códons UAG e UAA são terminais, ou seja, indicam a interrupção da tradução.",
+      "alternativas_introducao": "Qual mutação produzirá a menor proteína?",
+      "alternativas": [
+        "A) Deleção de G no códon 3.",
+        "B) Substituição de C por U no códon 4.",
+        "C) Substituição de G por C no códon 6.",
+        "D) Substituição de A por G no códon 7.",
+        "E) Deleção dos dois primeiros nucleotídeos no códon 5."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q006_principal.png",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/96"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 7,
+      "titulo": "Questão 97 - ENEM 2021",
+      "enunciado": "A simples atitude de não jogar direto no lixo ou no ralo da pia o óleo de cozinha usado pode contribuir para a redução da poluição ambiental. Mas o que fazer com o óleo vegetal que não será mais usado? Não existe um modelo ideal de descarte, mas uma alternativa simples tem sido reaproveitá-lo para fazer sabão. Para isso, são necessários, além do próprio óleo, água e soda cáustica.\n\nLOBO, I. **Sabão feito com óleo de cozinha**. Disponível em: http://pga.pgr.mpf.gov.br. Acesso em: 29 fev. 2012 (adaptado).",
+      "alternativas_introducao": "Com base no texto, a reação química que permite o reaproveitamento do óleo vegetal é denominada",
+      "alternativas": [
+        "A) Redução.",
+        "B) Epoxidação.",
+        "C) Substituição.",
+        "D) Esterificação.",
+        "E) Saponificação."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/97"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 8,
+      "titulo": "Questão 98 - ENEM 2021",
+      "enunciado": "Durante o desenvolvimento embrionário humano ocorre uma comunicação entre os átrios direito e esquerdo através do forame oval (ou forame de Botal). Essa comunicação não causa prejuízos à circulação do bebê em formação, exceto se ela perdurar após o nascimento.",
+      "alternativas_introducao": "Os prejuízos no período embrionário são evitados porque a circulação fetal se assemelha à dos (as)",
+      "alternativas": [
+        "A) Aves, porque a pequena circulação e a grande circulação estão presentes.",
+        "B) Répteis, porque a mistura de sangue é minimizada por um metabolismo lento.",
+        "C) Crocodilianos, porque a separação dos ventrículos impede a mistura sanguínea.",
+        "D) Peixes, porque a circulação é simples, ocorrendo uma passagem única pelo coração.",
+        "E) Anfíbios, porque pressões diferenciais isolam temporalmente o sangue venoso do arterial."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/98"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 9,
+      "titulo": "Questão 99 - ENEM 2021",
+      "enunciado": "Na cidade de São Paulo, as ilhas de calor são responsáveis pela alteração da direção do fluxo da brisa marítima que deveria atingir a região de mananciais. Mas, ao cruzar a ilha de calor, a brisa marítima agora encontra um fluxo de ar vertical, que transfere para ela energia térmica absorvidas das superfícies quentes da cidade, deslocando-a para altas altitudes. Dessa maneira, há condensação e chuvas fortes no centro da cidade, em vez de na região de mananciais. A imagem apresenta os três subsistemas que trocam energia nesse fenômeno.\n\nNo processo de fortes chuvas no centro da cidade de São Paulo,  há dois mecanismos dominantes de transferência de calor: entre o Sol e ilha de calor, e entre a ilha de calor e a brisa marítima.\n\nVIVEIROS, M. **Ilhas de calor afastam chuvas de represas.**\n\nDisponível em: www2.feis.unesp.br. Acesso em: 3 de dez. 2019 (adaptado).\n\n![](https://enem.dev/2021/questions/99/0fa56a37-800a-48a2-9fea-f9447e6455eb.png)",
+      "alternativas_introducao": "Esses mecanismos são, respectivamente,",
+      "alternativas": [
+        "A) Irradiação e convecção.",
+        "B) Irradiação e irradiação.",
+        "C) Condução e irradiação.",
+        "D) Convecção e irradiação.",
+        "E) Convecção e convecção."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q009_principal.png",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/99"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 10,
+      "titulo": "Questão 100 - ENEM 2021",
+      "enunciado": "No seu estudo sobre a queda dos corpos, Aristóteles afirmava que se abandonarmos corpos leves e pesados de uma mesma altura, o mais pesado chegaria mais rápido ao solo. Essa ideia está apoiada em algo que é difícil de refutar, a observação direta da realidade baseada no senso comum.\n\nApós, uma aula de física, dois colegas estavam discutindo sobre a queda dos corpos, e um tentava convencer o outro de que tinha razão:\n\nColega A: “O corpo mais pesado cai mais rápido que um menos pesado, quando largado de uma mesma altura. Eu provo, largando uma pedra e uma rolha. A pedra chega antes. Pronto! Tá provado!”.\n\nColega B: “Eu não acho! Peguei uma folha de papel esticado e deixei cair. Quando amassei, ela caiu mais rápido. Como isso é possível? Se era a mesma folha de papel, deveria cair do mesmo jeito. Tem que ter outra explicação!”.\n\nHÜLSENDEGER, M. Uma análise das concepções dos alunos sobre a queda dos corpos. Caderno Brasileiro de Ensino de Física, n. 3, dez. 2004 (adaptado).",
+      "alternativas_introducao": "O aspecto físico comum que explica a diferença de comportamento dos corpos em queda nessa discussão é o(a)",
+      "alternativas": [
+        "A) Peso dos corpos.",
+        "B) Resistência do ar.",
+        "C) Massa dos corpos.",
+        "D) Densidade dos corpos.",
+        "E) Aceleração da gravidade."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/100"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 11,
+      "titulo": "Questão 101 - ENEM 2021",
+      "enunciado": "A obtenção de etanol utilizando a cana-de-açúcar envolve a fermentação dos monossacarídeos formadores da sacarose contida no melaço. Um desses formadores é a glicose (C6H12O6), cuja fermentação produz cerca de 50 g de etanol a partir de 100 g de glicose, conforme a equação química descrita.\n\n![](https://enem.dev/2021/questions/101/0fe7f1b0-85ec-430e-b869-2956e9707dba.png)\n\nEm uma condição específica de fermentação, obtém-se 80% de conversão em etanol que, após sua purificação, apresenta densidade igual a 0,80 g/mL. O melaço utilizado apresentou 50 kg de monossacarídeos na forma de glicose.",
+      "alternativas_introducao": "O volume de etanol, em litro, obtido nesse processo é mais próximo de",
+      "alternativas": [
+        "A) 16.",
+        "B) 20.",
+        "C) 25.",
+        "D) 64.",
+        "E) 100."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q011_principal.png",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/101"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 12,
+      "titulo": "Questão 102 - ENEM 2021",
+      "enunciado": "É possível ligar aparelhos elétricos de baixa corrente utilizando materiais comuns de laboratório no lugar das tradicionais pilhas. A ilustração apresenta uma montagem que faz funcionar um cronômetro digital.\n\n![](https://enem.dev/2021/questions/102/17f47198-3b4c-42ca-bedf-c8b41c41b0d6.jpg)",
+      "alternativas_introducao": "Utilizando a representação de projetos elétricos, o circuito equivalente a esse sistema é",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)",
+        "E)"
+      ],
+      "imagens_alternativas": [
+        "enem/2021/img/q012_altA.jpg",
+        "enem/2021/img/q012_altB.jpg",
+        "enem/2021/img/q012_altC.jpg",
+        "enem/2021/img/q012_altD.jpg",
+        "enem/2021/img/q012_altE.jpg"
+      ],
+      "imagem_principal": "enem/2021/img/q012_principal.jpg",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/102"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 13,
+      "titulo": "Questão 103 - ENEM 2021",
+      "enunciado": "Um técnico analisou um lote de analgésicos que supostamente estava fora das especificações. A composição prevista era 100mg de ácido acetilsalicílico por comprimido (princípio ativo, cuja estrutura está apresentada na figura), além do amido e da celulosa (componentes inertes). O técnico realizou os seguintes testes:\n\n1) obtenção da massa do comprimido;  \n2) medição da densidade do comprimido;  \n3) verificação do pH com papel indicador;  \n4) determinação da temperatura de fusão do comprimido;  \n5) titulação com solução aquosa de NaOH.\n\nApós a realização dos testes, o lote do medicamento foi reprovado porque a quantidade de ácido acetilsalicílico por comprimido foi de apenas 40% da esperada.\n\n![](https://enem.dev/2021/questions/103/6edd1246-645b-4642-8af9-1a528c701dfc.png)",
+      "alternativas_introducao": "O teste permitiu reprovar o lote de analgésicos foi o de número",
+      "alternativas": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 4",
+        "E) 5"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q013_principal.png",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/103"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 14,
+      "titulo": "Questão 104 - ENEM 2021",
+      "enunciado": "O rompimento da barragem de rejeitos de mineração no município mineiro de Mariana e o derramamento de produtos tóxicos nas águas do Rio Doce, ocorridos em 2015, ainda têm consequências para os organismos que habitam o Parque Nacional Marinho de Abrolhos, localizado a mais de 1 000 quilômetros de distância. Esse desastre ambiental afetou o fitoplâncton, as esponjas, as algas macroscópicas, os peixes herbívoros e os golfinhos.\n\nFRAINER, G.; SICILIANO, S.; TAVARES, D. C. Fransciscana calls for help: \\[…\\]. **International Whaling Commission, Conference Paper**, jun. 2016 (adaptado)",
+      "alternativas_introducao": "Concentrações mais elevadas dos compostos citados são encontradas em",
+      "alternativas": [
+        "A) Esponjas.",
+        "B) Golfinhos.",
+        "C) Fitoplâncton.",
+        "D) Peixes herbívoros.",
+        "E) Algas macroscópicas."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/104"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 15,
+      "titulo": "Questão 105 - ENEM 2021",
+      "enunciado": "Duas esferas carregadas com cargas iguais em módulo e sinais contrários estão ligadas por uma haste rígida isolante na forma de haltere. O sistema se movimenta sob ação da gravidade numa região que tem um campo magnético horizontal uniforme  ![](https://enem.dev/2021/questions/105/81f45a24-eda2-40b3-8e46-768ee75a8807.jpg), da esquerda para a direita. A imagem apresenta o sistema visto de cima para baixo, no mesmo sentido da aceleração da gravidade ![](https://enem.dev/2021/questions/105/57f95cd7-65b6-4b83-8f6d-f86599749ee5.jpg) que atua na região.\n\n![](https://enem.dev/2021/questions/105/6e9bf09f-092e-49cf-b2f9-2885d0f29c26.jpg)",
+      "alternativas_introducao": "Visto de cima, o diagrama esquemático das forças magnéticas que atuam no sistema, no momento inicial em que as cargas penetram na região de campo magnético, está representado em",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)"
+      ],
+      "imagens_alternativas": [
+        "enem/2021/img/q015_altA.jpg",
+        "enem/2021/img/q015_altB.jpg",
+        "enem/2021/img/q015_altC.jpg",
+        "enem/2021/img/q015_altD.jpg"
+      ],
+      "imagem_principal": "enem/2021/img/q015_principal.jpg",
+      "imagens_extras": [
+        "enem/2021/img/q015_extra1.jpg",
+        "enem/2021/img/q015_extra2.jpg"
+      ],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/105"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 16,
+      "titulo": "Questão 106 - ENEM 2021",
+      "enunciado": "A icterícia, popularmente conhecida por amarelão, é uma patologia frequente em recém-nascidos. Um bebê com icterícia não consegue metabolizar e excretar de forma eficiente a bilirrubina. Com isso, o acúmulo dessa substância deixa-o com a pele amarelada. A fototerapia é um tratamento de icterícia neonatal, que consiste na irradiação de luz no bebê. Na presença de luz, a bilirrubina é convertida no seu isômero lumirrubina que, por ser mais solúvel em água, é excretada pela bile ou pela urina. A imagem ilustra o que ocorre nesse tratamento.\n\nMOREIRA, M. et. al. O recém-nascido de alto risco: teoria e prática do cuidar \\[on-line\\]. Rio de Janeiro: Fiocruz, 2004 (adaptado).\n\n![](https://enem.dev/2021/questions/106/71d07d1a-9ecf-401c-bd00-2dae5366c8f8.png)",
+      "alternativas_introducao": "Na fototerapia, a luz provoca a conversão de bilirrubina no seu isômero",
+      "alternativas": [
+        "A) Ótico",
+        "B) Funcional",
+        "C) De cadeia",
+        "D) De posição",
+        "E) Geométrico"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q016_principal.png",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/106"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 17,
+      "titulo": "Questão 107 - ENEM 2021",
+      "enunciado": "Analisando a ficha técnica de um automóvel popular, verificam-se algumas características em relação ao seu desempenho. Considerando o mesmo automóvel em duas versões, uma delas funcionando a álcool e outra, a gasolina, tem-se os dados apresentados no quadro, em relação ao desempenho de cada motor.",
+      "alternativas_introducao": "Considerando desprezível a resistência do ar, qual versão apresenta a maior potência?",
+      "alternativas": [
+        "A) Como a versão a gasolina consegue a maior aceleração, esta é a que desenvolve a maior potência.",
+        "B) Como a versão a gasolina atinge a maior valor de energia cinética, esta é a que desenvolve a maior potência.",
+        "C) Como a versão a álcool apresenta a maior taxa de variação de energia cinética, esta é a que desenvolve a maior potência.",
+        "D) Como ambas as versões apresentam a mesma variação de velocidade no cálculo da aceleração, a potência desenvolvida é a mesma.",
+        "E) Como a versão a gasolina fica com o motor trabalhando por mais tempo para atingir os 100 km/h, esta é a que desenvolve a maior potência."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/107"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 18,
+      "titulo": "Questão 108 - ENEM 2021",
+      "enunciado": "**TEXTO I**\n\nNo cordel intitulado Senhor dos Anéis, de autoria de Gonçalo Ferreira da Silva, lê-se a sextilha:\n\nA distância em relação  \nAo nosso planeta amado  \nPouco menos que a do Sol  \nEle está distanciado  \nE menos denso que a água  \nQuando no normal estado\n\nMEDEIROS, A.; AGRA, J. T. M., A astronomia na literatura de cordel,\n\n**Física na Escola,** n. 1, abr. 2010 (fragmento)\n\n**TEXTO II**\n\nDistâncias médias dos planetas ao Sol e suas densidades médias\n\n**Características dos planetas.** Disponível em: www.astronoo.com.\n\nAcesso em: 8 de nov. 2019 (adaptado)",
+      "alternativas_introducao": "Considerando os versos de sextilha e as informações da tabela, a qual planeta o cordel faz referência?",
+      "alternativas": [
+        "A) Mercúrio",
+        "B) Júpiter",
+        "C) Urano",
+        "D) Saturno",
+        "E) Netuno"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/108"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 19,
+      "titulo": "Questão 109 - ENEM 2021",
+      "enunciado": "Cientistas da Universidade de New South Wales, na Austrália, demonstraram em 2012 que a Lei de Ohm é válida mesmo para fios finíssimos, cuja área da seção reta compreende alguns poucos átomos. A tabela apresenta as áreas e comprimentos de alguns dos fios construídos (respectivamente com as mesmas unidades de medida). Considere que a resistividade mantém-se constante para todas as geometrias (uma aproximação confirmada pelo estudo).\n\n![](https://enem.dev/2021/questions/109/0ab7fc90-d04f-4f68-b31e-61c943c94208.jpg)\n\nWEBER, S. B. et al. Ohm1s Law Survivers to the atomice sacle.\n\n**Science**, n. 335, jan. 2012 (adaptado)",
+      "alternativas_introducao": "As resistências elétricas dos fios, em ordem crescente, são",
+      "alternativas": [
+        "A) R1 < R2 < R3< R4",
+        "B) R2 < R1 < R3< R4",
+        "C) R2 < R3 < R1< R4",
+        "D) R4 < R1 < R3< R2",
+        "E) R4 < R3 < R2< R1"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q019_principal.jpg",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/109"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 20,
+      "titulo": "Questão 110 - ENEM 2021",
+      "enunciado": "Organismos autótrofos e heterótrofos realizam processos complementares que associam os ciclos do carbono e do oxigênio. O carbono fixado pela energia luminosa ou a partir de compostos inorgânicos é eventualmente degradado pelos organismos, resultando em fontes de carbono como metano ou gás carbônico. Ainda, outros compostos orgânicos são catabolizados pelos seres, com menor rendimento energético, produzindo compostos secundários (subprodutos) que podem funcionar como combustíveis ambientais.",
+      "alternativas_introducao": "O processo metabólico associado à expressão combustíveis ambientais é a",
+      "alternativas": [
+        "A) Fotossíntese.",
+        "B) Fermentação.",
+        "C) Quimiossíntese.",
+        "D) Respiração aeróbica.",
+        "E) Fosforilação oxidativa."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/110"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 21,
+      "titulo": "Questão 111 - ENEM 2021",
+      "enunciado": "Uma escola iniciou o processo educativo para implantação da coleta seletiva e destino de materiais recicláveis. Para atingir seus objetivos, a instituição planejou:\n\n1) Sensibilizar a comunidade escolar, desenvolvendo atividades em sala e extraclasse de maneira contínua;\n\n2) capacitar o pessoal responsável pela limpeza da escola quanto aos novos procedimentos adotados com a coleta seletiva; e\n\n3) distribuir coletores de materiais recicláveis específicos nas salas, pátio e outros ambientes para acondicionamento dos resíduos.",
+      "alternativas_introducao": "Para completar a ação proposta no ambiente escolar, o que falta ser inserido no planejamento?",
+      "alternativas": [
+        "A) Realizar campanhas educativas de sensibilização em bairros vizinhos para fortalecer a coleta seletiva.",
+        "B) Filmar parceria com a prefeitura ou cooperativa de catadores para recolhimento dos materiais recicláveis e destinação apropriada.",
+        "C) Organizar visitas ao lixão ou aterro local para identificar aspectos importantes sobre a disposição final do lixo.",
+        "D) Divulgar na rádio local, no local impresso e nas redes sociais que a escola está realizando a coleta seletiva.",
+        "E) Colocar recipientes coletores de lixo reciclável fora da escola para entrega voluntária pela população."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/111"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 22,
+      "titulo": "Questão 112 - ENEM 2021",
+      "enunciado": "Os búfalos são animais considerados rústicos pelos criadores e, por isso, são deixados no campo sem controle reprodutivo. Por causa desse tipo de criação, a consanguinidade é favorecida, proporcionando o aparecimento de enfermidades, como o albinismo, defeitos cardíacos, entre outros. Separar os animais de forma adequada minimizaria a ocorrência desses problemas.\n\nDAME,M. C. F. RIET-CORREA, F: SCHILF, A. L; **Pesq. Vet. Bras.**, n. 7. 2013 (adaptado).",
+      "alternativas_introducao": "Qual procedimento biotecnológico prévio é recomendado nessa situação?",
+      "alternativas": [
+        "A) Transgenia.",
+        "B) Terapia gênica.",
+        "C) Vacina de DNA.",
+        "D) Clonagem terapêutica.",
+        "E) Mapeamento genético."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/112"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 23,
+      "titulo": "Questão 113 - ENEM 2021",
+      "enunciado": "O ciclo do cobre é um experimento didático em que o cobre metálico é utilizado como reagente de partida. Após uma sequência de reações (I, II, III, IV e V), o cobre retorna ao seu estado inicial ao final do ciclo.\n\n![](https://enem.dev/2021/questions/113/38fbcbee-5f16-4758-a90a-94f670c1f5a0.png)",
+      "alternativas_introducao": "A reação de redução do cobre ocorre na etapa",
+      "alternativas": [
+        "A) I.",
+        "B) II.",
+        "C) III.",
+        "D) IV.",
+        "E) V."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q023_principal.png",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/113"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 24,
+      "titulo": "Questão 114 - ENEM 2021",
+      "enunciado": "Um dos exames clínicos mais tradicionais para medir a capacidade reflexa dos indivíduos é o exame do reflexo patelar. Esse exame consiste na estimulação da patela, um pequeno osso localizado na parte anterior da articulação do joelho, com um pequeno martelo. A resposta reflexa ao estímulo é caracterizada pelo levantamento da perna em que o estímulo foi aplicado.",
+      "alternativas_introducao": "Qual região específica do sistema nervoso coordena essa resposta?",
+      "alternativas": [
+        "A) Ponte.",
+        "B) Medula.",
+        "C) Cerebelo.",
+        "D) Hipotálamo.",
+        "E) Neuro-hipófise."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/114"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 25,
+      "titulo": "Questão 115 - ENEM 2021",
+      "enunciado": "Na montagem de uma cozinha para um restaurante, a escolha do material correto para as panelas é importante, pois a panela que conduz mais calor é capaz de cozinhar os alimentos mais rapidamente e, com isso, há economia de gás. A taxa de condução do calor depende da condutividade k do material da sua área A, da diferença de temperatura ![](https://enem.dev/2021/questions/115/2d6e91e5-edc0-42dc-8b15-14cf474b9dff.png)T e da espessura d do material, sendo dada pela relação ![](https://enem.dev/2021/questions/115/cdd13f89-f9a8-4c42-9a4b-2a687770790a.jpg). Em panelas com dois materiais, a taxa de condução é dada por ![](https://enem.dev/2021/questions/115/196bcb78-55e8-43c8-bd2c-4e6634418379.jpg), em que ![](https://enem.dev/2021/questions/115/e648c99c-9415-48a9-9b60-81d772fe7be5.jpg) e ![](https://enem.dev/2021/questions/115/db100305-3044-4e95-951d-2a7f9486e2fc.jpg) são as espessuras dos dois materiais, e ![](https://enem.dev/2021/questions/115/c00b2af8-4e60-4741-9aea-ec1ced38dc3c.jpg) e ![](https://enem.dev/2021/questions/115/03cf9ca5-959a-491c-bf13-23843a84270c.jpg) são as condutividades de cada material. Os materiais mais comuns no mercado para panelas são o alumínio (k = 20 W/m K), o ferro (k = 8 W/m K) e ao aço (k = 5 W/m K) combinado com o cobre (k = 40 W/m K).\n\nCompara-se uma panela de ferro, uma de alumínio e uma composta de ![](https://enem.dev/2021/questions/115/6022cc3f-b163-4fd4-b19d-c53afe7aa71b.jpg) da espessura em cobre e ![](https://enem.dev/2021/questions/115/6f91e72e-1734-445a-8e8d-13678bcefe0e.jpg) da espessura em aço, todas com a mesma espessura total e com a mesma área de fundo.",
+      "alternativas_introducao": "A ordem crescente da mais econômica para a menos econômica é",
+      "alternativas": [
+        "A) Cobre-aço, alumínio e ferro.",
+        "B) Alumínio, cobre-aço e ferro",
+        "C) Cobre-aço, ferro e alumínio",
+        "D) Alumínio, ferro e cobre-aço",
+        "E) Ferro, alumínio e cobre-aço"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q025_principal.png",
+      "imagens_extras": [
+        "enem/2021/img/q025_extra1.jpg",
+        "enem/2021/img/q025_extra2.jpg",
+        "enem/2021/img/q025_extra3.jpg",
+        "enem/2021/img/q025_extra4.jpg",
+        "enem/2021/img/q025_extra5.jpg",
+        "enem/2021/img/q025_extra6.jpg",
+        "enem/2021/img/q025_extra7.jpg",
+        "enem/2021/img/q025_extra8.jpg"
+      ],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/115"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 26,
+      "titulo": "Questão 116 - ENEM 2021",
+      "enunciado": "As águas subterrâneas têm sido contaminadas pelo uso de pesticidas na agricultura. Entre as várias substâncias usualmente encontradas, algumas são apresentadas na figura. A distinção dessas substâncias pode ser feita por meio de uma análise química qualitativa, ou seja, determinando sua presença mediante a adição de um reagente específico. O hidróxido de sódio é capaz de identificar a presença de um desses pesticidas pela reação ácido-base de Brönsted-Lowry.\n\n![](https://enem.dev/2021/questions/116/203d51e2-8b23-40bc-8962-2a8ad628c649.png)",
+      "alternativas_introducao": "O teste positivo será observado com o pesticida",
+      "alternativas": [
+        "A) I",
+        "B) II",
+        "C) III",
+        "D) IV",
+        "E) V"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q026_principal.png",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/116"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 27,
+      "titulo": "Questão 117 - ENEM 2021",
+      "enunciado": "Com o aumento da população de suínos no Brasil, torna-se necessária a adoção de métodos para reduzir o potencial poluidor dos resíduos dessa agroindústria, uma vez que, comparativamente ao esgoto doméstico, os dejetos suínos são 200 vezes mais poluentes. Sendo assim, a utilização desses resíduos como matéria-prima na obtenção de combustíveis é uma alternativa que permite diversificar a matriz energética nacional, ao mesmo tempo em que parte dos recursos hídricos do país são preservados.\n\nBECK, A. M. Resíduos suínos como alternativa energética sustentável. XXVII Encontro Nacional de Engenharia de Produção. Anais ENEGEP, Foz do Iguaçu, 2007 (adaptado).",
+      "alternativas_introducao": "O biocombustível a que se refere o texto é o",
+      "alternativas": [
+        "A) Etanol",
+        "B) Biogás",
+        "C) Butano",
+        "D) Metanol",
+        "E) Biodiesel"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/117"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 28,
+      "titulo": "Questão 118 - ENEM 2021",
+      "enunciado": "A curcumina, uma das substâncias que confere a cor alaranjada ao açafrão, pode auxiliar no combate à dengue quando adicionada à água de criadouros do mosquito transmissor. Essa substância acumula-se no intestino do inseto após ser ingerida com a água do criadouro e, quando ativada pela luz, induz a produção de espécies reativas de oxigênio que danificam de forma fatal o tecido do tubo digestório.\n\nTOLEDO, K. Corante do açafrão pode ser útil no combate à dengue. Disponível em: http://agencia.fapesp.br. Acesso em: 25 abr. 2015. (adaptado).",
+      "alternativas_introducao": "A forma de combate relatada tem como atividade o(a)",
+      "alternativas": [
+        "A) Morte do indivíduo adulto.",
+        "B) Redução da eclosão dos ovos.",
+        "C) Comprometimento da metamorfose.",
+        "D) Impedimento do desenvolvimento da larva.",
+        "E) Repelência da forma transmissora da doença."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/118"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 29,
+      "titulo": "Questão 119 - ENEM 2021",
+      "enunciado": "Com o objetivo de identificar a melhor espécie produtora de madeira para construção 9com resistência mecânica e à degradação), foram analisadas as estruturas anatômicas de cinco espécies, conforme o quadro.\n\n![](https://enem.dev/2021/questions/119/10bb6002-7436-4c10-b35c-8f90cd159c56.png)",
+      "alternativas_introducao": "Qual espécie corresponde ao objetivo proposto?",
+      "alternativas": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 4",
+        "E) 5"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q029_principal.png",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/119"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 30,
+      "titulo": "Questão 120 - ENEM 2021",
+      "enunciado": "No outono, as folhas de árvores mudam de cor, de verde para tons de amarelo, castanho, laranja e vermelho. A cor de verde das folhas deve-se ao pigmento clorofila. Nas plantas de folhas caducas, a produção de clorofila diminui e o tom verde desvanece, permitindo assim que outros pigmentos, como o caroteno, de coloração amarelo-alaranjado, e a antocianina, de tons avermelhados, passem a dominar a tonalidade das folhas. A coloração observada se dá em função da interação desses pigmentos com a radiação solar.\n\nConforme apresentado no espectro de absorção, as moléculas de clorofila absorvem a radiação solar nas regiões do azul e do vermelho, assim a luz refletida pelas folhas tem falta desses dois tons e as vemos na cor verde. Já as antocianinas absorvem a luz desde o azul até o verde. Nesse caso, a luz refletida pelas folhas que contêm antocianinas aparece conforme as cores complementares, ou seja, vermelho-alaranjado.\n\n![](https://enem.dev/2021/questions/120/958924b2-26fa-4dbd-b73e-385bb284062f.png)\n\nDisponível em: https://vidauniversoydemas.wordpress.com. Acesso em: 6 dez. 2017 (adaptado)",
+      "alternativas_introducao": "Em qual faixa do espectro visível os carotenos absorvem majoritariamente?",
+      "alternativas": [
+        "A) Entre o violeta e o azul.",
+        "B) Entre o azul e o verde.",
+        "C) Entre o verde e o amarelo.",
+        "D) Entre o amarelo e o laranja.",
+        "E) Entre o laranja e o vermelho."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q030_principal.png",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/120"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 31,
+      "titulo": "Questão 121 - ENEM 2021",
+      "enunciado": "Entre 2014 e 2016, as regiões central e oeste da África sofreram um grave epidemia de febre hemorrágica causada pelo vírus ebola, que se manifesta em até 21 dias após a infecção e cuja taxa de letalidade (enfermos que vão a óbito) pode chegar a 90%. Em regiões de clima tropical e subtropical, um outro vírus também pode causar febre hemorrágica: o vírus da dengue, que, embora tenha período de incubação menor (até 10 dias), apresenta taxa de letalidade abaixo de 1%.\n\nDisponível em: www.who.int. Acesso em: 1 fev. 2017 (adaptado).",
+      "alternativas_introducao": "Segundo as informações do texto e aplicando princípios de evolução biológica às relações do tipo patógeno-hospedeiro, qual dos dois vírus infecta seres humanos há mais tempo?",
+      "alternativas": [
+        "A) Ebola, pois o maior período de incubação reflete duração mais longa do processo de coevolução patógeno-hospedeiro.",
+        "B) Dengue, pois o menor período de incubação reflete duração mais longa do processo de coevolução patógeno-hospedeiro.",
+        "C) Ebola, cuja alta letalidade indica maior eficiência do vírus em parasitar seus hospedeiros, estabelecida ao longo de sua evolução.",
+        "D) Ebola, cujos surtos epidêmicos concentram-se no continente africano, reconhecido como berço da origem evolutiva dos seres humanos.",
+        "E) Dengue, cuja baixa letalidade indica maior eficiência do vírus em parasitar seus hospedeiros, estabelecida ao longo da coevolução patógeno-hospedeiro."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/121"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 32,
+      "titulo": "Questão 122 - ENEM 2021",
+      "enunciado": "A imagem apresenta as etapas do funcionamento de uma estação individual para tratamento do esgoto residencial.\n\n![](https://enem.dev/2021/questions/122/17802e92-7e27-4479-b0ba-f8a3b4c951a8.png)\n\nTAVARES, K. **Estações de tratamento de esgoto individuais permitem a reutilização da água.** Disponível em: https://extra.globo.com. Acesso em: 18 nov 2014 (adaptado).",
+      "alternativas_introducao": "Em qual etapa decanta-se o lodo a ser separado do esgoto residencial?",
+      "alternativas": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 5",
+        "E) 6"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q032_principal.png",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/122"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 33,
+      "titulo": "Questão 123 - ENEM 2021",
+      "enunciado": "O plantio por estaquia é um método de propagação de plantas no qual partes de um espécime são colocadas no solo para produzir novas gerações. Na floricultura, é comum utilizar o caule das roseiras para estaquia, pois a propagação da planta é positiva em razão da aplicação de auxinas na porção inferior do caule.",
+      "alternativas_introducao": "A utilização de auxinas no método de estaquia das roseiras contribui para",
+      "alternativas": [
+        "A) Floração da planta.",
+        "B) Produção de gemas laterais.",
+        "C) Formação de folhas maiores.",
+        "D) Formação de raízes adventícias.",
+        "E) Produção de compostos energéticos."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/123"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 34,
+      "titulo": "Questão 124 - ENEM 2021",
+      "enunciado": "O emprego de células de combustível a hidrogênio pode ser uma tecnologia adequada ao transporte automotivo. O quadro apresenta características de cinco tecnologias mais proeminentes de células de combustível.\n\n![](https://enem.dev/2021/questions/124/df5d7675-a414-4e3d-914e-116d7bd061ac.png)\n\nTestes operacionais com esses tipos de células têm indicado que as melhores alternativas para veículos são as que operam em baixos níveis de energia térmica, são formadas por membranas de eletrólitos poliméricos e ocorrem em meio ácido.\n\nTHOMAS, S; ZALBOWITZ, M. **Full cells**: green power. Losalamos National Laboratory. Los Alamos, NM, 1999 (adaptado).",
+      "alternativas_introducao": "A tecnologia testada mais adequada para o emprego em veículos automotivos é a célula de combustível",
+      "alternativas": [
+        "A) AFC.",
+        "B) MSFC.",
+        "C) PEM.",
+        "D) PAFC.",
+        "E) SOFC."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q034_principal.png",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/124"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 35,
+      "titulo": "Questão 125 - ENEM 2021",
+      "enunciado": "Considere a tirinha, na situação em que a temperatura do ambiente é inferior à temperatura corporal dos personagens.\n\n![](https://enem.dev/2021/questions/125/b977d1f8-d938-495f-9ead-68872c377b37.png)",
+      "alternativas_introducao": "O incômodo mencionado pelo personagem da tirinha deve-se ao fato de que, em dias úmidos,",
+      "alternativas": [
+        "A) A temperatura do vapor-d'água presente no ar é alta.",
+        "B) O suor apresenta maior dificuldade para evaporar do corpo.",
+        "C) A taxa de absorção de radiação pelo corpo torna-se maior.",
+        "D) O ar torna-se mau condutor e dificulta o processo de liberação de calor.",
+        "E) O vapor-d'água presente no ar condensa-se ao entrar em contato com a pele."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q035_principal.png",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/125"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 36,
+      "titulo": "Questão 126 - ENEM 2021",
+      "enunciado": "Um garoto precisa montar um circuito que acenda três lâmpadas de cores diferentes, uma de cada vez. Ele dispõe das lâmpadas, de fios, uma bateria e dois interruptores, como ilustrado, junto com seu símbolo de três pontos. Quando esse interruptor fecha AB, abre BC e vice-versa.\n\n![](https://enem.dev/2021/questions/126/0628bf6f-7d5c-4dc6-befa-149ef1567926.png)",
+      "alternativas_introducao": "O garoto fez cinco circuitos elétricos usando os dois interruptores, mas apenas um satisfaz a sua necessidade. Esse circuito é representado por",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)",
+        "E)"
+      ],
+      "imagens_alternativas": [
+        "enem/2021/img/q036_altA.png",
+        "enem/2021/img/q036_altB.png",
+        "enem/2021/img/q036_altC.png",
+        "enem/2021/img/q036_altD.png",
+        "enem/2021/img/q036_altE.png"
+      ],
+      "imagem_principal": "enem/2021/img/q036_principal.png",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/126"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 37,
+      "titulo": "Questão 127 - ENEM 2021",
+      "enunciado": "Estudo aponta que a extinção de preguiças-gigantes, cuja base da dieta eram frutos e sementes, provocou impactos consideráveis na vegetação do Pantanal brasileiro. A flora, embora não tenha desaparecido, tornou-se menos abundante que no passado, além de ocupar áreas mais restritas.\n\nBICUDO, F. Jardineiro da pesada. Ecologia. **Pesquisa Fapesp**, ed. 231, maio 2015 (adaptado).",
+      "alternativas_introducao": "O evento descrito com a flora ocorreu em razão da redução",
+      "alternativas": [
+        "A) Da produção de flores.",
+        "B) Do tamanho das plantas.",
+        "C) De fatores de disseminação das sementes.",
+        "D) Da quantidade de semente por fruto.",
+        "E) Dos hábitats disponíveis para as plantas."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/127"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 38,
+      "titulo": "Questão 128 - ENEM 2021",
+      "enunciado": "Carros elétricos estão cada vez mais baratos, no entanto, os órgãos governamentais e a indústria se preocupam com o tempo de recarga das baterias, que é muito mais  lento quando comparado ao tempo gasto para encher o tanque de combustível. Portanto, os usuários de transporte individual precisam se conscientizar dos ganhos ambientais dessa mudança e planejar com antecedência seus percursos, pensando em pausas necessárias para recargas.\n\nApós realizar um percurso de 110km, um motorista pretende recarregar as baterias de seu carro elétrico, que tem um desempenho médio de 5,0 km/kWh, usando um carregador ideal que opera a uma tensão de 220 V e é percorrido por uma corrente de 20 A.",
+      "alternativas_introducao": "Quantas horas são necessárias para recarregar a energia utilizadas nesse percurso?",
+      "alternativas": [
+        "A) 0,005",
+        "B) 0,125",
+        "C) 2,5",
+        "D) 5,0",
+        "E) 8,0"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/128"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 39,
+      "titulo": "Questão 129 - ENEM 2021",
+      "enunciado": "Nas angiospermas, além da fertilização da oosfera, existe uma segunda fertilização que resulta num tecido triploide.",
+      "alternativas_introducao": "Essa segunda fertilização foi importante evolutivamente, pois viabilizou a formação de um tecido de",
+      "alternativas": [
+        "A) Nutrição para o fruto.",
+        "B) Reserva para o embrião.",
+        "C) Revestimento para a semente.",
+        "D) Proteção para o megagametófito.",
+        "E) Vascularização para a planta jovem."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/129"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 40,
+      "titulo": "Questão 130 - ENEM 2021",
+      "enunciado": "Com o objetivo de proporcionar aroma e sabor a diversos alimentos, a indústria alimentícia se utiliza de flavorizantes. Em geral, essas substâncias são ésteres, como as apresentadas no quadro.\n\n![](https://enem.dev/2021/questions/130/dd0ea14c-aaa3-49b0-94c5-a514996ea0f6.png)",
+      "alternativas_introducao": "O aroma do flavorizante derivado do ácido etanoico e que apresenta cadeia carbônica saturada é de",
+      "alternativas": [
+        "A) Kiwi.",
+        "B) Banana.",
+        "C) Pêssego.",
+        "D) Rum.",
+        "E) Uva."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q040_principal.png",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/130"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 41,
+      "titulo": "Questão 131 - ENEM 2021",
+      "enunciado": "O eletrocardiograma é um exame cardíaco que mede a intensidade dos sinais elétricos advindo do coração.\n\n![](https://enem.dev/2021/questions/131/a87188b9-ef4f-48a8-bc38-b94443bea787.png)",
+      "alternativas_introducao": "De acordo com o eletrocardiograma apresentado, qual foi o número de batimentos cardíacos por minuto desse paciente durante o exame?",
+      "alternativas": [
+        "A) 30",
+        "B) 60",
+        "C) 100",
+        "D) 120",
+        "E) 180"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q041_principal.png",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/131"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 42,
+      "titulo": "Questão 132 - ENEM 2021",
+      "enunciado": "A deficiência de lipase ácida lisossômica é uma doença hereditária associada a um gene do cromossomo 10. Os pais dos pacientes podem não saber que são portadores dos genes da doença até o nascimento do primeiro filho afetado. Quando ambos os progenitores são portadores, existe uma chance, em quatro, de que seu bebê possa nascer com essa doença.\n\nANDERSON, R. A. et. al. In: Situ Localization of the Genetic Locus Encoding the Lysosomal Acid Lipase/Cholesteryl Esterase (LIPA) Deficient in Wolman Disease to Chromosome 10q23.2-q23.3. **Genomics**, n. 1, jan, 1993 (adaptado).",
+      "alternativas_introducao": "Essa é uma doença hereditária de caráter",
+      "alternativas": [
+        "A) Recessivo.",
+        "B) Dominante.",
+        "C) Codominante.",
+        "D) Poligênico.",
+        "E) Polialélico."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/132"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 43,
+      "titulo": "Questão 133 - ENEM 2021",
+      "enunciado": "O quadro lista alguns dispositivos eletrônicos que estão presentes no dia a dia, bem como a faixa de força eletromotriz necessária ao seu funcionamento.\n\n![](https://enem.dev/2021/questions/133/7c6e4c3d-7d86-480f-9b8d-7724ac2f3928.png)\n\nConsidere que uma bateria é construída pela associação em série de três pilhas de lítio-iodo, nas condições-padrão, conforme as semiequações de redução apresentadas.\n\n![](https://enem.dev/2021/questions/133/4e5f2e9f-79d3-4a10-a4dc-cbff60aaa875.png)",
+      "alternativas_introducao": "Essa bateria é adequada para o funcionamento de qual dispositivo eletrônico?",
+      "alternativas": [
+        "A) I",
+        "B) II",
+        "C) III",
+        "D) IV",
+        "E) V"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q043_principal.png",
+      "imagens_extras": [
+        "enem/2021/img/q043_extra1.png"
+      ],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/133"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 44,
+      "titulo": "Questão 134 - ENEM 2021",
+      "enunciado": "O alcoolômetro Gay Lussac é um instrumento destinado a medir o teor de álcool, em porcentagem de volume (v/v), de soluções de água e álcool na faixa de 0º GL a 100ºGL, com divisões de 0,1ºGL. A concepção do alcoolômetro se baseia no princípio de flutuabilidade de Arquimedes, semelhante ao funcionamento de um densímetro. A escala do instrumento é aferida a 20ºC, sendo necessária a correção da medida, caso a temperatura da solução não esteja na temperatura de aferição. É apresentada parte da tabela de correção de um alcoolômetro, com a temperatura.\n\n![](https://enem.dev/2021/questions/134/7c4c3c55-a6c0-4f80-a379-f316fb889544.png)\n\n**Manual alcoolômetro Gay Lussac**. Disponível em: www.incoterm.com.br. Acesso em: 4 dez. 2018 (adaptado).",
+      "alternativas_introducao": "É necessário a correção da medida do instrumento, pois um aumento na temperatura promove o(a)",
+      "alternativas": [
+        "A) Aumento da dissociação da água.",
+        "B) Aumento da densidade da água e do álcool.",
+        "C) Mudança do volume dos materiais por dilatação.",
+        "D) Aumento da concentração de álcool durante a medida.",
+        "E) Alteração das propriedades químicas da mistura álcool e água."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q044_principal.png",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/134"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 45,
+      "titulo": "Questão 135 - ENEM 2021",
+      "enunciado": "O Prêmio Nobel de Química de 2000 deveu-se à descoberta e ao desenvolvimento de polímeros condutores. Esses materiais têm ampla aplicação em novos dispositivos eletroluminescentes (LEDs), células fotovoltaicas etc. Uma propriedade-chave de um polímero condutor é a presença de ligações duplas conjugadas ao longo da cadeia principal do polímero.\n\nROCHA FILHO, R. C. Polímeros condutores: descoberta e aplicações. **Química Nova na Escola**. n. 12, 2000 (adaptado).",
+      "alternativas_introducao": "Um exemplo desse polímero é representado pela estrutura",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)",
+        "E)"
+      ],
+      "imagens_alternativas": [
+        "enem/2021/img/q045_altA.png",
+        "enem/2021/img/q045_altB.png",
+        "enem/2021/img/q045_altC.png",
+        "enem/2021/img/q045_altD.png",
+        "enem/2021/img/q045_altE.png"
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/135"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 46,
+      "titulo": "Questão 136 - ENEM 2021",
+      "enunciado": "Um segmento de reta está dividido em duas partes  \nna proporção áurea quando o todo está para uma das  \npartes na mesma razão em que essa parte está para a  \noutra. Essa constante de proporcionalidade é comumente  \nrepresentada pela letra grega ρ, e seu valor é dado pela  \nsolução positiva da equação ρ²=ρ+1\n\nAssim como a potência ρ², as potências superiores  \nde ρ podem ser expressas da forma aρ + b, em que a e b  \nsão inteiros positivos, como apresentad0o no quadro.\n\n![](https://enem.dev/2021/questions/136/291c6b71-3d02-4e67-af59-81f33cec15f5.png)",
+      "alternativas_introducao": "A potência ρ7, escrita na forma aρ+b (a e b são inteiros positivos), é",
+      "alternativas": [
+        "A) 5ρ+3",
+        "B) 7ρ+2",
+        "C) 9ρ+6",
+        "D) 11ρ+7",
+        "E) 13ρ+8"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q046_principal.png",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/136"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 47,
+      "titulo": "Questão 137 - ENEM 2021",
+      "enunciado": "O Atomiuim, representado na imagem é um  \ndos principais pontos turísticos de Bruxelas. Ele foi  \nconstruído em 1958 para a primeira grande exposição  \nmundial depois da Segunda Guerra Mundial, a Feira  \nMundial de Bruxelas.  \nTrata-se de uma estrutura metálica construída no  \nformato de um cubo. Essa estrutura está apoiada por um  \ndos vértices sobre uma base paralela ao plano do solo,  \ne a diagonal do cubo, contendo esse vértice, é ortogonal  \nao plano da base. Centradas nos vértices desse cubo,  \nforam construídas oito esferas metálicas, e uma outra  \nesfera foi construída centrada no ponto de interseção das  \ndiagonais do cubo. As oito esferas sobre os vértices são  \ninterligadas segundo suas arestas, e a esfera central se  \nconecta a elas pelas diagonais do cubo.  \nTodas essas interligações são feitas por tubos  \ncilíndricos que possuem escadas em seu interior,  \npermitindo o deslocamento de pessoas pela parte  \ninterna da estrutura. Na diagonal ortogonal à base, o  \ndeslocamento é feito por um elevador, que permite o  \ndeslocamento entre as esferas da base e a esfera do  \nponto mais alto, passando pela esfera central.\n\nConsidere um visitante que se deslocou pelo interior  \ndo Atomium sempre em linha reta e seguindo o menor trajeto entre dois vértices, passand0 por todas as arestas e todas as diagonais do cubo.\n\n![](https://enem.dev/2021/questions/137/adb90310-f1c2-41fa-a3a4-a250c1141a16.png)",
+      "alternativas_introducao": "A projeção ortogonal sobre o plano do solo do trajeto percorrido por esse visitante é representada por",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)",
+        "E)"
+      ],
+      "imagens_alternativas": [
+        "enem/2021/img/q047_altA.png",
+        "enem/2021/img/q047_altB.png",
+        "enem/2021/img/q047_altC.png",
+        "enem/2021/img/q047_altD.png",
+        "enem/2021/img/q047_altE.png"
+      ],
+      "imagem_principal": "enem/2021/img/q047_principal.png",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/137"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 48,
+      "titulo": "Questão 138 - ENEM 2021",
+      "enunciado": "A Copa do Brasil teve, até a edição de 2018, 15 times diferentes como campeões da competição, conforme  \napresentado na imagem. Suponha que, como homenagem aos times campeões, a Confederação Brasileira de Futebol  \n(CBF) pretenda colocar um painel na sua sede. Esse painel teria 6 linhas e, em cada uma delas, 5 placas, referentes  \na cada edição da competição, com o nome do time vencedor, o brasão e o ano do título. © painel deve ser fabricado  \nde modo que a primeira linha só tenha clubes gaúchos (Internacional, Grêmio e Juventude); a segunda, apenas times  \ncariocas (Flamengo, Vasco e Fluminense); a terceira, somente times mineiros (Cruzeiro e Atlético Mineiro);, a quarta,  \nexclusivamente clubes paulistas (Corinthians, Palmeiras, Santos, Paulista FC, Santo André), e as duas últimas sem  \nnenhuma restrição.\n\n![](https://enem.dev/2021/questions/138/d0a6a844-fff4-400b-9b0c-d1afbc285b3c.png)",
+      "alternativas_introducao": "Qual a expressão determina a quantidade de painéis diferentes que a CBF poderá montar",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)",
+        "E)"
+      ],
+      "imagens_alternativas": [
+        "enem/2021/img/q048_altA.png",
+        "enem/2021/img/q048_altB.png",
+        "enem/2021/img/q048_altC.png",
+        "enem/2021/img/q048_altD.png",
+        "enem/2021/img/q048_altE.png"
+      ],
+      "imagem_principal": "enem/2021/img/q048_principal.png",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/138"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 49,
+      "titulo": "Questão 139 - ENEM 2021",
+      "enunciado": "Uma rede de hamburgueria tem três franquias em  \ncidades distintas. Visando incluir um novo tipo de lanche  \nno cardápio, o gerente de marketing da rede sugeriu que  \nfossem colocados à venda cinco novos tipos de lanche,  \nem edições especiais. Os lanches foram oferecidos pelo  \nmesmo período de tempo em todos os franqueados,  \nO tipo que apresentasse a maior média por franquia  \nseria incluído definitivamente no cardápio. Terminado o  \nperíodo de experiência, a gerência recebeu um relatório  \ndescrevendo as quantidades vendidas, em unidade, de  \ncada um dos cinco tipos de lanche nas três franquias\n\n![](https://enem.dev/2021/questions/139/0c2cb7d1-b950-436a-8eab-6051b344e8ab.png)",
+      "alternativas_introducao": "Com base nessas informações, a gerência decidiu incluir no cardápio o lanche de tipo",
+      "alternativas": [
+        "A) I.",
+        "B) II.",
+        "C) III.",
+        "D) IV.",
+        "E) V."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q049_principal.png",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/139"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 50,
+      "titulo": "Questão 140 - ENEM 2021",
+      "enunciado": "Uma grande rede de supermercados adota um sistema de avaliação dos faturamentos de suas filiais, considerando a média de faturamento mensal em milhão. A matriz da rede paga uma comissão para os representantes dos supermercados que atingirem uma média de faturamento mensal (_M_), conforme apresentado no quadro.\n\n![](https://enem.dev/2021/questions/140/cbdf6628-0ce6-4923-adc0-4a603e947ba4.jpg)\n\nUm supermercado da rede obteve os faturamentos num dado ano, conforme apresentado no quadro.\n\n![](https://enem.dev/2021/questions/140/8211832d-2fa2-4b4f-b408-002d118ffe73.png)",
+      "alternativas_introducao": "Nas condições apresentadas, os representantes desse supermercado avaliam que receberão, no ano seguinte a comissão de tipo",
+      "alternativas": [
+        "A) I.",
+        "B) II.",
+        "C) III.",
+        "D) IV.",
+        "E) V"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q050_principal.jpg",
+      "imagens_extras": [
+        "enem/2021/img/q050_extra1.png"
+      ],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/140"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 51,
+      "titulo": "Questão 141 - ENEM 2021",
+      "enunciado": "Aplicativos que gerenciam serviços de hospedagem  \ntêm ganhado espaço no Brasil e no mundo por oferecer  \nopções diferenciadas em termos de localização e valores  \nde hospedagem. Em um desses aplicativos, o preço P a  \nser pago pela hospedagem é calculado considerando um  \npreço por diária d, acrescido de uma taxa fixa de limpeza L  \ne de uma taxa de serviço. Essa taxa de serviço é um valor  \npercentual s calculado sobre o valor pago pelo total das  \ndiárias.",
+      "alternativas_introducao": "Nessa situação, o preço a ser pago ao aplicativo para uma hospedagem de n diárias pode ser obtido pela expressão",
+      "alternativas": [
+        "A) P=d.n + L + d.n.s",
+        "B) P=d.n + L + d.s",
+        "C) P= d+ L +s",
+        "D) P= d.n.s + L",
+        "E) P= d.n + L +s"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/141"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 52,
+      "titulo": "Questão 142 - ENEM 2021",
+      "enunciado": "O organizador de uma competição de lançamento de  \ndados pretende tornar o campeonato mais competitivo.  \nPelas regras atuais da competição, numa rodada, o  \njogador lança 3 dardos e pontua caso acerte pelo menos um deles no alvo. O organizador considera que, em média, os jogadores tem, em cada lançamento, 1/2 de probabilidade de acertar um dardo no alvo.  \nA fim de tornar o jogo mais atrativo, planeja modificar  \nas regras de modo que a probabilidade de um jogador  \npontuar em uma rodada seja igual ou superior a 9/10. Para  \nisso, decide aumentar a quantidade de dardos a serem  \nlançados em cada rodada.",
+      "alternativas_introducao": "Com base nos valores considerados pelo organizador da competição, a quantidade mínima de dardos que devem ser disponibilizados em uma rodada para tornar o jogo mais atrativo é",
+      "alternativas": [
+        "A) 2",
+        "B) 4",
+        "C) 6",
+        "D) 9",
+        "E) 10"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/142"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 53,
+      "titulo": "Questão 143 - ENEM 2021",
+      "enunciado": "O gráfico apresenta o nível de ocupação dos cinco reservatórios de água que abasteciam uma cidade em 2 de Fevereiro de 2015.\n\n![](https://enem.dev/2021/questions/143/6658b31a-c862-4622-87b2-28e09d19a6d0.png)",
+      "alternativas_introducao": "Nessa data, o reservatório com o maior volume de água era o",
+      "alternativas": [
+        "A) I.",
+        "B) II.",
+        "C) III.",
+        "D) IV.",
+        "E) V."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q053_principal.png",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/143"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 54,
+      "titulo": "Questão 144 - ENEM 2021",
+      "enunciado": "Uma pessoa realizou uma pesquisa com alguns alunos de uma escola, coletando suas idades, e organizou esses dados no gráfico.\n\n![](https://enem.dev/2021/questions/144/0f754876-c1f5-41b1-bea6-3935cb1a5304.png)",
+      "alternativas_introducao": "Qual é a média das idades, em ano, desses alunos?",
+      "alternativas": [
+        "A) 9",
+        "B) 12",
+        "C) 18",
+        "D) 19",
+        "E) 27"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q054_principal.png",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/144"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 55,
+      "titulo": "Questão 145 - ENEM 2021",
+      "enunciado": "Em um estudo realizado pelo IBGE em quatro estados e no Distrito Federal, com mais de 5 mil pessoas com 10 anos ou mais, observou-se que a leitura ocupa, em média, apenas seis minutos do dia de cada pessoa.  \nNa faixa de idade de 10 a 24 anos, a média diária é de três minutos. No entanto, no grupo de idades entre 24 e 60 anos, o tempo médio diário dedicado à leitura é de 5 minutos. Entre os mais velhos, com 60 anos ou mais, a média é de 12 minutos.  \nA quantidade de pessoas entrevistadas de cada faixa de idade seguiu a distribuição percentual descrita no quadro.\n\n![](https://enem.dev/2021/questions/145/9fa287d2-647c-4f7e-87a9-e58f5130bed7.png)",
+      "alternativas_introducao": "Os valores de x e y do quadro são, respectivamente, iguais a",
+      "alternativas": [
+        "A) 10 e 80.",
+        "B) 10 e 90.",
+        "C) 20 e 60.",
+        "D) 20 e 80.",
+        "E) 25 e 5"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q055_principal.png",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/145"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 56,
+      "titulo": "Questão 146 - ENEM 2021",
+      "enunciado": "Um zootecnista pretende testar se uma nova ração  \npara coelhos é mais eficiente do que a que ele vem  \nutilizando atualmente. A ração atual proporciona uma  \nmassa média de 10 kg por coelho, com um desvio padrão  \nde 1 kg, alimentado com essa ração durante um período  \nde três meses.  \nO zootecnista selecionou uma amostra de coelhos e  \nos alimentou com a nova ração pelo mesmo período de  \ntempo. Ao final, anotou a massa de cada coelho, obtendo  \num desvio padrão de 1,5 kg para a distribuição das  \nmassas dos coelhos dessa amostra.  \nPara avaliar a eficiência dessa ração, ele utilizará  \no coeficiente de variação (CV) que é uma medida de  \ndispersão definida por CV =S/X, em que s representa o  \ndesvio padrão X, a média das massas dos coelhos que  \nforam alimentados com uma determinada ração.  \nO zootecnista substituirá a ração que vinha utilizando  \npela nova, caso o coeficiente de variação da distribuição  \ndas massas dos coelhos que foram alimentados com a  \nnova ração for menor do que o coeficiente de variação  \nda distribuição das massas dos coelhos que foram  \nalimentados com a ração atual.",
+      "alternativas_introducao": "A substituição da ração ocorrerá se a média da distribuição das massas dos coelhos da amostra, em quilograma, for superior",
+      "alternativas": [
+        "A) 5,0.",
+        "B) 9,5.",
+        "C) 10,0.",
+        "D) 10,5.",
+        "E) 15,0."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/146"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 57,
+      "titulo": "Questão 147 - ENEM 2021",
+      "enunciado": "A Cifra de César é um exemplo de um método de codificação de mensagens usado por Júlio César para se comunicar com seus generais.  \nNo método, cada letra era trocada por uma letra que aparecia no alfabeto um número fixo de casas adiante (ou atrás) de forma cíclica. A seguir temos um exemplo em que cada letra é substituída pela que vem três posições à frente.\n\n![](https://enem.dev/2021/questions/147/114ddf31-06d9-41cf-a588-a987226385e6.png)\n\nPara quebrar um código como esse, a análise de frequências das letras de um texto é uma ferramenta importante.  \nUma análise do texto do romance O guarani, de José de Alencar, que é composto por 491 631 letras, gerou o seguinte gráfico de frequências:\n\n![](https://enem.dev/2021/questions/147/a5256e30-3984-4503-aaa0-41b95d681d71.png)",
+      "alternativas_introducao": "Após codificar esse texto com a regra do exemplo fornecido, faz-se nova analise de frequência no texto codificado.\nAs quatro letras mais frequentes, em ordem decrescente de frequência, do texto codificado são",
+      "alternativas": [
+        "A) A,E,O e S.",
+        "B) D, E, F e G.",
+        "C) D, E, F e G.",
+        "D) D,H,R e V.",
+        "E) X, B L e P."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q057_principal.png",
+      "imagens_extras": [
+        "enem/2021/img/q057_extra1.png"
+      ],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/147"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 58,
+      "titulo": "Questão 148 - ENEM 2021",
+      "enunciado": "O quadro apresenta o número de terremotos de magnitude maior ou igual a 7, na escala de Richter, ocorridos em nosso planeta nos anos 2000 e 2011.\n\n![](https://enem.dev/2021/questions/148/4e954c86-a11f-49f4-b82b-b9cee8375883.png)",
+      "alternativas_introducao": "Um pesquisador acredita que a mediana representa bem o número anual típico de terremotos em um período. Segundo esse pesquisador, o número anual típico de terremotos de magnitude maior ou igual a 7 é",
+      "alternativas": [
+        "A) 11.",
+        "B) 15.",
+        "C) 15,5.",
+        "D) 15,7.",
+        "E) 17,5."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q058_principal.png",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/148"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 59,
+      "titulo": "Questão 149 - ENEM 2021",
+      "enunciado": "A receita R de uma empresa ao final de um mês é o volume de dinheiro captado com a venda de mercadorias ou com a prestação de serviços nesse mês, e a despesa D é todo a dinheiro utilizado para pagamento de salários, contas de água e luz, impostos, entre outros. O lucro mensal obtido ao final do mês é a diferença entre a receita e a despesa registradas no mês. O gráfico apresenta as receitas e despesas, em milhão de real, de uma empresa ao final dos cinco primeiros meses de um dado ano\n\n![](https://enem.dev/2021/questions/149/2586c4f9-b00d-4ccf-8828-8e86a105d85b.png)",
+      "alternativas_introducao": "A previsão para os próximos meses é que o lucro mensal não seja inferior ao maior lucro obtido até o mês de Maio.\nNessas condições, o lucro mensal para os próximos meses deve ser maior ou igual ao do mês de",
+      "alternativas": [
+        "A) Janeiro.",
+        "B) Fevereiro.",
+        "C) Março.",
+        "D) Abril.",
+        "E) Maio."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q059_principal.png",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/149"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 60,
+      "titulo": "Questão 150 - ENEM 2021",
+      "enunciado": "A depressão caracteriza-se por um desequilíbrio na química cerebral. Os neurônios de um deprimido não respondem bem as estímulos dos neurotransmissores.  \nOs remédios que combatem a depressão têm o objetivo de restabelecer a química cerebral. Com o aumento gradativo de casos de depressão, a venda desses medicamentos está em crescente evolução, conforme ilustra o gráfico.\n\n![](https://enem.dev/2021/questions/150/76a52739-74da-4cbd-9cf8-c62522ed889f.png)",
+      "alternativas_introducao": "No período de 2005 a 2009, o aumento percentual no volume de vendas foi de",
+      "alternativas": [
+        "A) 45,4.",
+        "B) 54,5.",
+        "C) 120.",
+        "D) 220.",
+        "E) 283,2."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q060_principal.png",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/150"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 61,
+      "titulo": "Questão 151 - ENEM 2021",
+      "enunciado": "Um casal está planejando comprar um apartamento  \nde dois quartos num bairro de uma cidade e consultou  \na página de uma corretora de imóveis, encontrando  \n105 apartamentos de dois quartos à venda no bairro  \ndesejado. Eles usaram um aplicativo da corretora para  \ngerar a distribuição dos preços do conjunto de imóveis  \nselecionados.  \nO gráfico ilustra a distribuição de frequências dos  \npreços de venda dos apartamentos dessa lista (em  \nmil reais), no qual as faixas de preço são dadas por  \n\\]300, 400\\], \\]400, 5001, \\]500, 600\\], \\]00, 700\\], \\]700, 800\\],  \n\\]800, 900\\], \\]900, 1 000\\], \\]1 000, 1 100\\], \\]1 100, 1 200\\] e  \n\\]1 200, 1 300\\].  \nA mesma corretora anuncia que cerca de 50% dos  \napartamentos de dois quartos nesse bairro, publicados  \nem sua página, têm preço de venda inferior a 550 mil reais.  \nNo entanto, o casal achou que essa última informação  \nnão era compatível com o gráfico obtido.\n\n![](https://enem.dev/2021/questions/151/53a174a0-d119-4132-ade4-2cc79b864ee2.png)",
+      "alternativas_introducao": "Com base no gráfico obtido, o menor preço, p (em mil reais), para o qual pelo menos 50% dos apartamentos apresenta preço inferior a p",
+      "alternativas": [
+        "A) 600.",
+        "B) 700.",
+        "C) 800.",
+        "D) 900.",
+        "E) 1000."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q061_principal.png",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/151"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 62,
+      "titulo": "Questão 152 - ENEM 2021",
+      "enunciado": "Para a comunicação entre dois navios é utilizado um sistema de codificação com base em valores numéricos. Para isso, são consideradas as operações triângulo ![](https://enem.dev/2021/questions/152/566c5d72-c957-4664-b7f7-e1b92f024e70.png) e estrela \\*, definidas sobre o conjunto dos números reais por x![](https://enem.dev/2021/questions/152/60957aae-73c8-44ad-8f75-7191b1d65c70.png)y = x² + xy – y² e x \\* y = xy + x.\n\nO navio que deseja enviar uma mensagem deve fornecer um valor de entrada b, que irá gerar um valor de saída, a ser enviado ao navio receptor, dado pela soma da duas maiores soluções da equação (a![](https://enem.dev/2021/questions/152/b78eb0e6-f154-443d-a6f5-1ffeb2ff1252.png)b)\\*(b![](https://enem.dev/2021/questions/152/54a56c94-9682-42f3-98b2-fc5a0fef2dba.png)a) = 0. Cada valor possível de entrada e saída representa uma mensagem diferente já conhecida pelos dois navios.\n\nUm navio deseja enviar ao outro a mensagem “ATENÇÃO!”. Para isso, deve utilizar o valor de entrada b=1.",
+      "alternativas_introducao": "Dessa forma, o valor recebido pelo navio receptor será",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)",
+        "E)"
+      ],
+      "imagens_alternativas": [
+        "enem/2021/img/q062_altA.png",
+        "enem/2021/img/q062_altB.png",
+        "enem/2021/img/q062_altC.png",
+        "enem/2021/img/q062_altD.png",
+        "enem/2021/img/q062_altE.png"
+      ],
+      "imagem_principal": "enem/2021/img/q062_principal.png",
+      "imagens_extras": [
+        "enem/2021/img/q062_extra1.png",
+        "enem/2021/img/q062_extra2.png",
+        "enem/2021/img/q062_extra3.png"
+      ],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/152"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 63,
+      "titulo": "Questão 153 - ENEM 2021",
+      "enunciado": "Um parque temático brasileiro construiu uma réplica em miniatura do castelo de Liechtenstein. O castelo original, representado na imagem, está situado na Alemanha e foi reconstruído entre os anos de 1840 e 1842, após duas destruições causadas por guerras.\n\n![](https://enem.dev/2021/questions/153/6826c1c9-9c1c-401f-b721-af14ad303f2e.jpg)\n\nO castelo possui uma ponte de 38,4m de comprimento e 1,68m de largura. O artesão que trabalhou para o parque produziu a réplica do castelo, em escala. Nessa obra, as medidas do comprimento e da largura da ponte eram, respectivamente, 160cm e 7 cm.",
+      "alternativas_introducao": "A escala utilizada para fazer a réplica é",
+      "alternativas": [
+        "A) 1 : 576",
+        "B) 1 : 240",
+        "C) 1 : 24",
+        "D) 1 : 4,2",
+        "E) 1 : 2,4"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q063_principal.jpg",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/153"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 64,
+      "titulo": "Questão 154 - ENEM 2021",
+      "enunciado": "A demografia médica é o estudo da população de médicos no Brasil nos aspectos quantitativo e qualitativo, sendo um dos seus objetivos fazer projeções sobre a necessidade da formação de novos médicos. Um desses estudos gerou um conjunto de dados que aborda a evolução do número de médicos e da população brasileira por várias décadas. O quadro apresenta parte desses dados.\n\n![](https://enem.dev/2021/questions/154/06fed6e4-4341-487f-8c3a-6352bba5bfd1.jpg)\n\nSegundo uma projeção estatística, a variação do número de médicos e o da população brasileira de 2010 para 2020 será a média entre a variação de 1990 para 2000 e a de 2000 para 2010. Com o resultado dessa projeção, determina-se o número de médicos por mil habitantes no ano de 2020.\n\nDisponível em: www.cremesp.org.br. Acesso em: 24 jun. 2015 (adaptado)",
+      "alternativas_introducao": "O número, com duas casas na parte decimal, mais próximo do número de médicos por mil habitantes no ano de 2020 seria de",
+      "alternativas": [
+        "A) 0,17",
+        "B) 0,49",
+        "C) 1,71",
+        "D) 2,06",
+        "E) 3,32"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q064_principal.jpg",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/154"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 65,
+      "titulo": "Questão 155 - ENEM 2021",
+      "enunciado": "Um atleta produz sua própria refeição com custo fixo de R$ 10,00. Ela é composta por 400g de frango, 600g de batata-doce e uma hortaliça. Atualmente, os preços dos produtos para essa refeição são:\n\n![](https://enem.dev/2021/questions/155/0eb41d8c-7cd8-4398-96c2-b160d666be33.png)\n\nEm relação a esses preços, haverá um aumento de 50% no preço do quilograma de batata-doce, e os outros preços não serão alterados. O atleta deseja manter o custo da refeição, a quantidade de batata-doce e a hortaliça. Portanto, terá que reduzir a quantidade de frango.",
+      "alternativas_introducao": "Qual deve ser a redução percentual da quantidade de frango para que o atleta alcance seu objetivo?",
+      "alternativas": [
+        "A) 12,5",
+        "B) 28,0",
+        "C) 30,0",
+        "D) 50,0",
+        "E) 70,0"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q065_principal.png",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/155"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 66,
+      "titulo": "Questão 156 - ENEM 2021",
+      "enunciado": "Uma mola é solta da posição distendida conforme a figura. A figura à direita representa o gráfico da posição _P_ (em cm) da massa m em função do tempo _t_ (em segundo) em um sistema de coordenadas cartesianas. Esse movimento periódico é descrito por uma expressão do tipo P(t) = ![](https://enem.dev/2021/questions/156/22072ec1-3b3b-4ad6-a4b6-dffd6253a376.png) ou P(t) = ![](https://enem.dev/2021/questions/156/86b2ce7b-d131-40db-9629-e618470679c7.png), em que A>0 é a amplitude de deslocamento máximo e ![](https://enem.dev/2021/questions/156/f1cfe3fa-6396-47ed-b60b-48d48194225e.png) é a frequência, que se relaciona com o período T pela fórmula ![](https://enem.dev/2021/questions/156/38bd8acb-9ed5-402c-a6df-271fb1614213.png).\n\nConsidere a ausência de quaisquer forças dissipativas.\n\n![](https://enem.dev/2021/questions/156/9e69ba46-7bc0-40c9-b81e-bdae664b1ae1.png)",
+      "alternativas_introducao": "A expressão algébrica que representa as posições P(t) da massa m, ao longo do tempo, no gráfico, é",
+      "alternativas": [
+        "A) -3 cos (2t)",
+        "B) -3 sen (2t)",
+        "C) 3 cos (2t)",
+        "D) -6 cos (2t)",
+        "E) 6 cos (2t)"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q066_principal.png",
+      "imagens_extras": [
+        "enem/2021/img/q066_extra1.png",
+        "enem/2021/img/q066_extra2.png",
+        "enem/2021/img/q066_extra3.png",
+        "enem/2021/img/q066_extra4.png"
+      ],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/156"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 67,
+      "titulo": "Questão 157 - ENEM 2021",
+      "enunciado": "Uma construtora, pretendendo investir na construção de imóveis em uma metrópole com cinco grandes regiões, fez uma pesquisa sobre a quantidade de famílias que mudaram de uma região para outra, de modo a determinar qual região foi o destino do maior fluxo de famílias, sem levar em consideração o número de famílias que deixaram a região. Os valores da pesquisa estão dispostos em uma matriz A = ![](https://enem.dev/2021/questions/157/8c6e4e74-df9c-40f8-8252-dbdeaea6b052.png), i, j ![](https://enem.dev/2021/questions/157/be8d14c5-515d-49fd-ac32-96ff68aec07f.png) {1, 2, 3, 4, 5}, em que o elemento ![](https://enem.dev/2021/questions/157/d9158cca-6b4e-48a2-bfdb-ffe3e0bc450d.png) corresponde ao total de famílias (em dezena) que se mudaram da região i para a região j durante um certo período, e o elemento ![](https://enem.dev/2021/questions/157/9e0b26da-8c61-4aad-b6d1-2266960860e0.png) é considerado nulo, uma vez que somente são consideradas mudanças entre regiões distintas. A seguir, está apresentada a matriz com os dados da pesquisa.\n\n![](https://enem.dev/2021/questions/157/7d732410-1899-40e4-ab0d-c9cac5de4aeb.png)",
+      "alternativas_introducao": "Qual região foi selecionada para o investimento da construtora?",
+      "alternativas": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 4",
+        "E) 5"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q067_principal.png",
+      "imagens_extras": [
+        "enem/2021/img/q067_extra1.png",
+        "enem/2021/img/q067_extra2.png",
+        "enem/2021/img/q067_extra3.png",
+        "enem/2021/img/q067_extra4.png"
+      ],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/157"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 68,
+      "titulo": "Questão 158 - ENEM 2021",
+      "enunciado": "Para realizar um voo entre duas cidades que distam 2 000 km uma da outra, uma companhia aérea utilizava um modelo de aeronave A, capaz de transportar até 200 passageiros. Quando uma dessas aeronaves está lotada de passageiros, o consumo de combustível é de 0,02 litro por quilômetro e por passageiro. Essa companhia resolveu trocar o modelo de aeronave A pelo modelo de aeronave B, que é capaz de transportar 10% de passageiros a mais do que o modelo A, mas consumindo 10% menos combustível por quilômetro e por passageiro.",
+      "alternativas_introducao": "A quantidade de combustível consumida pelo modelo de aeronave B, em relação à do modelo de aeronave B, em relação à do modelo de aeronave A, em um voo lotado entre as duas cidades, é",
+      "alternativas": [
+        "A) 10% menor",
+        "B) 1% menor",
+        "C) Igual",
+        "D) 1% maior",
+        "E) 11% maior"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/158"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 69,
+      "titulo": "Questão 159 - ENEM 2021",
+      "enunciado": "Em uma corrida automobilística, os carros podem fazer paradas nos boxes para efetuar trocar de pneus. Nessas trocas, o trabalho é feito por um grupo de três pessoas em cada pneu. Considere que os grupos iniciam o trabalho no mesmo instante, trabalham à mesma velocidade e cada grupo trabalha em um único pneu. Com os quatro grupos completos, são necessários 4 segundos para que a troca seja efetuada. O tempo gasto por um grupo para trocar um pneu é inversamente proporcional ao número de pessoas trabalhando nele. Em uma dessas paradas, um dos trabalhadores passou mal, não pôde participar da troca e nem foi substituído, de forma que um dos quatro grupos de troca ficou reduzido.",
+      "alternativas_introducao": "Nessa parada específica, com um dos grupos reduzido, qual foi o tempo gasto, em segundo, para trocar os quatro pneus?",
+      "alternativas": [
+        "A) 6,0",
+        "B) 5,7",
+        "C) 5,0",
+        "D) 4,5",
+        "E) 4,4"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/159"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 70,
+      "titulo": "Questão 160 - ENEM 2021",
+      "enunciado": "Um  nutricionista verificou, na dieta diária do seu cliente, a falta de 800mg do mineral A, de 1 000 mg do mineral B e de 1 200 mg do mineral C. Por isso, recomendou a compra de suplementos alimentares que forneçam os minerais faltantes e informou que não haveria problema se consumisse mais desses minerais do que o recomendado.\n\nO cliente encontrou cinco suplementos, vendidos em sachês unitários, cujos preços e as quantidades dos minerais estão apresentados a seguir:\n\n*   Suplemento I: contém 50mg do mineral A, 100mg do mineral B e 200 mg do mineral C e custa R$2,00;\n*   Suplemento II: contém 800mg do mineral A, 250mg do mineral B e 200 mg do mineral C e custa R$3,00;\n*   Suplemento III: contém 250mg do mineral A, 1 000mg do mineral B e 300 mg do mineral C e custa R$5,00;\n*   Suplemento IV: contém 600mg do mineral A, 500mg do mineral B e 1 000 mg do mineral C e custa R$6,00;\n*   Suplemento V: contém 400mg do mineral A, 800mg do mineral B e 1 200 mg do mineral C e custa R$8,00;\n\nO cliente decidiu comprar sachês de um único suplemento no qual gastasse menos dinheiro e ainda suprisse a falta de minerais indicada pelo nutricionista, mesmo que consumisse alguns deles além de sua necessidade.",
+      "alternativas_introducao": "Nessas condições, o cliente deverá comprar sachês do suplemento",
+      "alternativas": [
+        "A) I",
+        "B) II",
+        "C) III",
+        "D) IV",
+        "E) V"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/160"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 71,
+      "titulo": "Questão 161 - ENEM 2021",
+      "enunciado": "O administrador de um teatro percebeu que, com o ingresso do evento a R$20,00, um show conseguia atrair 200 pessoas e que, a cada R$1,00 de redução no preço do ingresso, o número de pessoas aumentava em 40. Ele sabe que os donos do teatro só admitem trabalhar com valores inteiros para os ingressos, pela dificuldade de disponibilizar troco, e pretende convencê-los a diminuir o preço do ingresso. Assim, apresentará um gráfico da arrecadação em função do valor do desconto no preço atual do ingresso.",
+      "alternativas_introducao": "O gráfico que mais se assemelha ao que deve ser elaborado pelo administrador é",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)",
+        "E)"
+      ],
+      "imagens_alternativas": [
+        "enem/2021/img/q071_altA.png",
+        "enem/2021/img/q071_altB.png",
+        "enem/2021/img/q071_altC.png",
+        "enem/2021/img/q071_altD.png",
+        "enem/2021/img/q071_altE.png"
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/161"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 72,
+      "titulo": "Questão 162 - ENEM 2021",
+      "enunciado": "O quadro representa a relação entre o preço de um produto (R) e seu respectivo imposto devido (l).\n\n![](https://enem.dev/2021/questions/162/cc601335-5c45-493b-aa9d-b7c58c7b107a.png)",
+      "alternativas_introducao": "O gráfico que melhor representa essa relação é",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)",
+        "E)"
+      ],
+      "imagens_alternativas": [
+        "enem/2021/img/q072_altA.png",
+        "enem/2021/img/q072_altB.png",
+        "enem/2021/img/q072_altC.png",
+        "enem/2021/img/q072_altD.png",
+        "enem/2021/img/q072_altE.png"
+      ],
+      "imagem_principal": "enem/2021/img/q072_principal.png",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/162"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 73,
+      "titulo": "Questão 163 - ENEM 2021",
+      "enunciado": "A relação de Newton-Laplace estabelece que o módulo volumétrico de um fluído é diretamente proporcional ao quadrado da velocidade do som (em metro por segundo) no fluido e à sua densidade (em quilograma por meto cúbico), com uma constante de proporcionalidade adimensional.",
+      "alternativas_introducao": "Nessa relação, a unidade de medida adequada para o módulo volumétrico é",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)",
+        "E)"
+      ],
+      "imagens_alternativas": [
+        "enem/2021/img/q073_altA.png",
+        "enem/2021/img/q073_altB.png",
+        "enem/2021/img/q073_altC.png",
+        "enem/2021/img/q073_altD.png",
+        "enem/2021/img/q073_altE.png"
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/163"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 74,
+      "titulo": "Questão 164 - ENEM 2021",
+      "enunciado": "Uma pessoa pretende viajar por uma companhia aérea que despacha gratuitamente uma mala com até 10kg.\n\nEm duas viagens que realizou, essa pessoa utilizou a mesma mala e conseguiu 10 kg com as seguintes combinações de itens:\n\n![](https://enem.dev/2021/questions/164/eab2c90e-a45f-482b-997d-a5c2f6931726.png)\n\nPara ter certeza de que sua bagagem terá massa de 10 kg, ela decide levar essa mala com duas calças, um sapato e o máximo de camisetas, admitindo que itens do mesmo tipo têm a mesma massa.",
+      "alternativas_introducao": "Qual a quantidade máxima de camisetas que essa pessoa poderá levar?",
+      "alternativas": [
+        "A) 22",
+        "B) 24",
+        "C) 26",
+        "D) 33",
+        "E) 39"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q074_principal.png",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/164"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 75,
+      "titulo": "Questão 165 - ENEM 2021",
+      "enunciado": "Um automóvel apresenta um desempenho médio de 16 km/L. Um engenheiro desenvolveu um novo motor a combustão que economiza, em relação ao consumo do motor anterior, 0,1 L de combustível a cada 10 km percorridos.",
+      "alternativas_introducao": "O valor do desempenho médio do automóvel com o novo motor, em quilômetro por litro, expresso com uma casa decimal, é",
+      "alternativas": [
+        "A) 15,9",
+        "B) 16,1",
+        "C) 16,4",
+        "D) 17,4",
+        "E) 18,0"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/165"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 76,
+      "titulo": "Questão 166 - ENEM 2021",
+      "enunciado": "O projeto de um contêiner, em forma de paralelepípedo reto retangular, previa a pintura dos dois lados (interno e externo) de cada uma das quatro paredes com tinta acrílica e a pintura do piso interno com tinta epóxi. O construtor havia pedido, a cinco fornecedores diferentes, orçamentos das tintas necessárias, mas, antes de iniciar a obra, resolveu mudar o projeto original, alterando o comprimento e a largura para o dobro do originalmente previsto, mantendo inalterada a altura. Ao pedir novos orçamentos aos fornecedores, para as novas dimensões, cada um deu uma resposta diferente sobre as novas quantidades de tinta necessárias.\n\nEm relação ao previsto para o projeto original, as novas quantidades de tinta necessárias informadas pelos fornecedores foram as seguintes:\n\n–  Fornecedor I: “O dobro, tanto para as paredes quanto para o piso”.\n\n– Fornecedor II: “O dobro para as paredes e quatro vezes para o piso”.\n\n– Fornecedor III: “Quatro vezes, tanto para as paredes quanto para o piso.”\n\n– Fornecedor IV: “Quatro vezes para as paredes e o dobro para o piso.”\n\n– Fornecedor V: “Oito vezes para as paredes e quatro vezes para o piso.”\n\nAnalisando as informações dos fornecedores, o construtor providenciará a quantidade adequada de material. Considere a porta de acesso do contêiner como parte de uma das paredes.",
+      "alternativas_introducao": "Qual dos fornecedores prestou as informações adequadas, devendo ser o escolhido pelo construtor para aquisição do material?",
+      "alternativas": [
+        "A) I",
+        "B) II",
+        "C) III",
+        "D) IV",
+        "E) V"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/166"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 77,
+      "titulo": "Questão 167 - ENEM 2021",
+      "enunciado": "Um povoado com 100 habitantes está passando por uma situação de seca prolongada e os responsáveis pela administração pública local decidem contratar a construção de um reservatório. Ele deverá ter a forma de um cilindro circular reto, cuja base tenha 5 metros de diâmetro interno, e atender à demanda de água da população por um período de exatamente sete dias consecutivos. No oitavo dia, o reservatório vazio é completamente reabastecido por carros-pipa.\n\nConsidere que o consumo médio diário por habitante é de 120 litros de água. Use 3 como aproximação para ![](https://enem.dev/2021/questions/167/42cbdc11-82db-44e3-8f1b-367c1b0e5853.png)",
+      "alternativas_introducao": "Nas condições apresentadas, o reservatório deverá ser construído com uma altura interna mínima, em metro, igual a",
+      "alternativas": [
+        "A) 1,12",
+        "B) 3,10",
+        "C) 4,35",
+        "D) 4,48",
+        "E) 5,60"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q077_principal.png",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/167"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 78,
+      "titulo": "Questão 168 - ENEM 2021",
+      "enunciado": "Num octaedro regular, duas faces são consideradas opostas quando não têm nem arestas, nem vértices em comum. Na figura, observa-se um octaedro regular e uma de suas planificações, na qual há uma face colorida na cor cinza escuro e outras quatro faces numeradas.\n\n![](https://enem.dev/2021/questions/168/71fccb41-8caa-485c-b7af-c1c537c4148b.png)",
+      "alternativas_introducao": "Qual(is) face(s) ficará(ão) oposta(s) à face de cor cinza escuro, quando o octaedro for reconstruído a partir da planificação dada?",
+      "alternativas": [
+        "A) 1, 2, 3 e 4",
+        "B) 1 e 3",
+        "C) 1",
+        "D) 2",
+        "E) 4"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q078_principal.png",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/168"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 79,
+      "titulo": "Questão 169 - ENEM 2021",
+      "enunciado": "O instrumento da percussão conhecido como triângulo é composto por uma barra fina de aço, dobrada em um formato que se assemelha a um triângulo, com uma abertura e uma haste, conforme ilustra a Figura 1.\n\n![](https://enem.dev/2021/questions/169/d9c2223e-0155-480d-bfd2-0d0fd39cb200.png)\n\nUma empresa de brindes promocionais contrata uma fundição para a produção de miniaturas de instrumentos desse tipo. A fundição produz, inicialmente, peças com o formato de uma triângulo equilátero de altura h, conforme ilustra a Figura 2. Após esse processo, cada peça é aquecida, deformando os cantos, e cortada em um dos vértices, dando origem à miniatura. Assuma que não ocorram perdas de material no processo de produção, de forma que o comprimento da barra utilizada seja igual ao perímetro do triângulo equilátero representado na Figura 2.\n\nConsidere 1,7 como valor aproximado para √3.\n\nNessas condições, o valor que mais se aproxima da medida do comprimento da barra, em centímetro, é",
+      "alternativas_introducao": "Nessas condições, o valor que mais se aproxima da medida do comprimento da barra, em centímetro, é:",
+      "alternativas": [
+        "A) 9,07.",
+        "B) 13,60.",
+        "C) 20,40.",
+        "D) 27,18.",
+        "E) 36,24."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q079_principal.png",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/169"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 80,
+      "titulo": "Questão 170 - ENEM 2021",
+      "enunciado": "Uma pessoa comprou uma caneca para tomar sopa, conforme ilustração.\n\n![](https://enem.dev/2021/questions/170/4b81cbbc-0e2d-486f-9a21-2cbe5160b172.png)\n\nSabe-se que 1 cm³ = 1 mL e que o topo da caneca é uma circunferência de diâmetro (D) medindo 10 cm, e a base é um círculo de diâmetro (d) medindo 8 cm. Além disso, sabe-se que a altura (h) dessa caneca mede 12 cm (distância entre o centro das circunferências do topo e da base).\n\nUtilize 3 como aproximação para π.",
+      "alternativas_introducao": "Qual é a capacidade volumétrica, em milimitro, dessa caneca?",
+      "alternativas": [
+        "A) 216",
+        "B) 408",
+        "C) 732",
+        "D) 2196",
+        "E) 2928"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q080_principal.png",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/170"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 81,
+      "titulo": "Questão 171 - ENEM 2021",
+      "enunciado": "O dono de uma loja pretende usar cartões imantados para a sua divulgação de sua loja. A empresa que fornecerá o serviço lhe informa que o custo de fabricação do cartão é de R$0,01 por centímetro quadrado e que disponibiliza modelos tendo como faces úteis para impressão:\n\n*   um triângulo equilátero de lado 12 cm;\n*   um quadrado de lado 8 cm;\n*   um retângulo de lados 11 cm e 8 cm;\n*   um hexágono regular de lado 6cm;\n*   um círculo de diâmetro 10 cm.\n\nO dono da loja está disposto a pagar, no máximo, R$0,80 por cartão. Ele escolherá, dentro desse limite de preço, o modelo que tiver maior área de impressão.\n\nUse 3 como aproximação para π e use 1,7 como aproximação para √3.",
+      "alternativas_introducao": "Nessas condições, o modelo que deverá ser escolhido tem como face útil para impressão um",
+      "alternativas": [
+        "A) Triângulo",
+        "B) Quadrado",
+        "C) Retângulo",
+        "D) Hexágono",
+        "E) Círculo"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/171"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 82,
+      "titulo": "Questão 172 - ENEM 2021",
+      "enunciado": "Um ciclista amador de 61 anos de idade utilizou um monitor cardíaco para medir suas frequências cardíacas em quatro diferentes tipos de trechos do percurso. Os resultados das frequências cardíacas máximas alcançadas nesses trechos foram:\n\n![](https://enem.dev/2021/questions/172/604532ed-546c-43dc-a7eb-3b0b3bfca440.png)\n\nSabe-se que a faixa aeróbica ideal para o ganho de condicionamento físico é entre 65% e 85% da frequência cardíaca máxima (Fc máx), que, por sua vez, é determinada pela fórmula:\n\nFc máx. = 220 – idades,\n\nem que a idade é dada em ano e Fc máx. é dada em bpm (batimento por minuto).",
+      "alternativas_introducao": "Os trechos do percurso nos quais esse ciclista se mantém dentro de sua faixa aeróbica ideal, para o ganho de condicionamento físico, são:",
+      "alternativas": [
+        "A) Leve no plano, forte no plano, subida moderada e subida forte.",
+        "B) Leve no plano, forte no plano e subida moderada.",
+        "C) Forte no plano, subida moderada e subida forte.",
+        "D) Forte no plano e subida moderada.",
+        "E) Leve no plano e subida forte."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q082_principal.png",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/172"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 83,
+      "titulo": "Questão 173 - ENEM 2021",
+      "enunciado": "Um lava-rápido oferece dois tipos de lavagem de veículos: lavagem simples, ao preço de R$ 20,00, e lavagem completa, ao preço de R$35,00. Para cobrir as despesas com produtos e funcionários, e não ter prejuízos, o lava-rápido deve ter uma receita diária de, pelo menos, R$300,00.",
+      "alternativas_introducao": "Para não ter prejuízo, o menor número de lavagens diárias que o lava rápido deve efetuar é",
+      "alternativas": [
+        "A) 6",
+        "B) 8",
+        "C) 9",
+        "D) 15",
+        "E) 20"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/173"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 84,
+      "titulo": "Questão 174 - ENEM 2021",
+      "enunciado": "Após a consulta médica, um paciente deve seguir um tratamento composto por três medicamentos: X, Y e Z. O paciente, para adquirir os três medicamentos, faz um orçamento em três farmácias diferentes, conforme o quadro.\n\n![](https://enem.dev/2021/questions/174/a9b99537-f174-43b1-9ee0-90b5bdfe57ad.png)\n\nDessas farmácias, algumas oferecem descontos:\n\n*   na compra dos medicamentos X e Y na Farmácia 2, recebe-se um desconto de 20% em ambos os produtos, independentemente da compra do medicamento Z, e não há desconto para o medicamento Z;\n*   na compra dos 3 medicamentos na Farmácia 3, recebe-se 20% de desconto no valor total da compra.\n\nO paciente deseja efetuar a compra de modo a minimizar duas despesa com os medicamentos.",
+      "alternativas_introducao": "De acordo com as informações fornecidas, o paciente deve comprar os medicamentos da seguinte forma:",
+      "alternativas": [
+        "A) X, Y e Z na Farmácia 1.",
+        "B) X e Y na Farmácia 1, e Z na Farmácia 3.",
+        "C) X e Y na Farmácia 2, e Z na Farmácia 3.",
+        "D) X na Farmácia 2, e Y e Z na Farmácia 3.",
+        "E) X, Y e Z na Farmácia 3."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q084_principal.png",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/174"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 85,
+      "titulo": "Questão 175 - ENEM 2021",
+      "enunciado": "Muitos brinquedos que frequentemente são encontrados em praças e parques públicos apresentam formatos de figuras geométricas bidimensionais e tridimensionais. Uma empresa foi contratada para desenvolver uma nova forma de brinquedo. A proposta apresentada pela empresa foi de uma estrutura formada apenas por hastes metálicas, conectadas umas às outras, como apresentado na figura. As hastes de mesma tonalidade e espessura são congruentes.\n\n![](https://enem.dev/2021/questions/175/604fdc09-c098-44f6-9b6f-002210df4c34.png)",
+      "alternativas_introducao": "Com base na proposta apresentada, quantas figuras geométricas planas de cada tipo são formadas pela união das hastes?",
+      "alternativas": [
+        "A) 12 trapézios isósceles e 12 quadrados.",
+        "B) 24 trapézios isósceles e 12 quadrados.",
+        "C) 12 paralelogramos e 12 quadrados.",
+        "D) 8 trapézios isósceles"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q085_principal.png",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/175"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 86,
+      "titulo": "Questão 176 - ENEM 2021",
+      "enunciado": "O sistema de numeração romano ainda é utilizado na indicação de capítulos e volumes de livros, na designação de séculos e, em ordem cronológica, de papas e reis de mesmo nome. São utilizadas sete letras do alfabeto:  \nQuatro fundamentais: I (vale 1); X (vale 10); C (vale 100) e M (vale 1 000).  \nTrês secundárias: V (vale 5); L (vale 50); e D (vale 500).\n\nAs regras para escrever números romanos são:  \n1\\. Não existe símbolo correspondente ao zero;  \n2\\. Os símbolos fundamentais podem ser repetidos até três vezes e seus valores são adicionados. Exemplo: XXX = 30;  \n3\\. Uma letra posta à esquerda de outra de maior valor indica subtração dos respectivos valores. Exemplo: IX = 10 – 1 = 9;  \n4\\. Uma letra posta à direita de outra de maior valor indica adição dos respectivos valores. Exemplo: XI = 10 + 1 = 11\n\nEm uma cidade europeia há uma placa indicando o ano de sua fundação: MCDLXIX.",
+      "alternativas_introducao": "Quantos anos de fundação essa cidade comemorará em 2050?",
+      "alternativas": [
+        "A) 379",
+        "B) 381",
+        "C) 579",
+        "D) 581",
+        "E) 601"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/176"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 87,
+      "titulo": "Questão 177 - ENEM 2021",
+      "enunciado": "Uma das bases mais utilizadas para representar um número é a base decimal. Entretanto, os computadores trabalham com números na base binária. Nessa base, qualquer número natural é representado usando apenas os algarismos 0 e 1. Por exemplo, as representações dos números 9 e 12, na base binárias, são 1001 e 1100, respectivamente. A operação de adição, na base binária, segue um algoritmo similar ao utilizado na base decimal, como detalhado no quadro:\n\nPor exemplo, na base binária, a soma dos números 10 e 10 é 100, como apresentado:\n\n![](https://enem.dev/2021/questions/177/e82478b8-f2bb-43db-88d0-49359625343c.png)",
+      "alternativas_introducao": "Considerando as informações do texto, o resultado da adição 9 + 12 será representado, na base binária, por",
+      "alternativas": [
+        "A) 101",
+        "B) 1101",
+        "C) 1111",
+        "D) 10101",
+        "E) 11001"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2021/img/q087_principal.png",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/177"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 88,
+      "titulo": "Questão 178 - ENEM 2021",
+      "enunciado": "Uma unidade de medida comum usada para a expressar áreas de terrenos de grandes dimensões é o hectare, que equivale a 10 000 m². Um fazendeiro decide fazer um loteamento utilizando 3 hectares de sua fazenda, dos quais 0,9 hectare será usado para a construção de ruas e calçadas e o restante será dividido em terrenos com área de 300 m² cada um. Os 20 primeiros terrenos vendidos terão preços promocionais de R$ 20 000,00 cada, e os demais, R$ 30 000,00 cada.",
+      "alternativas_introducao": "Nas condições estabelecidas, o valor total, em real, obtido, pelo fazendeiro com a venda de todos os terrenos será igual a",
+      "alternativas": [
+        "A) 700 000",
+        "B) 1 600 000",
+        "C) 1 900 000",
+        "D) 2 200 000",
+        "E) 2 800 000"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/178"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 89,
+      "titulo": "Questão 179 - ENEM 2021",
+      "enunciado": "Uma pessoa produzirá uma fantasia utilizando como materiais: 2 tipos de tecidos diferentes e 5 tipos distintos de pedras ornamentais. Essa pessoa tem à sua disposição 6 tecidos diferentes e 15 pedras ornamentais distintas.",
+      "alternativas_introducao": "A quantidade de fantasias com materiais diferentes que podem ser produzidas é representada pela expressão",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)",
+        "E)"
+      ],
+      "imagens_alternativas": [
+        "enem/2021/img/q089_altA.png",
+        "enem/2021/img/q089_altB.png",
+        "enem/2021/img/q089_altC.png",
+        "enem/2021/img/q089_altD.png",
+        "enem/2021/img/q089_altE.png"
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/179"
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "numero": 90,
+      "titulo": "Questão 180 - ENEM 2021",
+      "enunciado": "Os diretores de uma escola precisam construir um laboratório para uso dos alunos. Há duas possibilidades:\n\n(i) um laboratório do tipo A, com capacidade para 100 usuário, a um custo de 180 mil reais e gastos de 60 mil reais por ano para manutenção;\n\n(ii) um laboratório do tipo B, com capacidade para 80 usuários, a um custo de 120 mil reais e gastos com manutenção de 16 mil reais por ano.\n\nConsidera-se que, em qualquer caso, o laboratório implantado será utilizado na totalidade de sua capacidade.",
+      "alternativas_introducao": "A economia da escola, na utilização de um laboratório tipo B, em vez de um laboratório tipo A, num período de 4 anos, por usuário, será de",
+      "alternativas": [
+        "A) 1,31 mil reais",
+        "B) 1,90 mil reais",
+        "C) 2,30 mil reais",
+        "D) 2,36 mil reais",
+        "E) 2,95 mil reais"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2021/questions/180"
+    }
+  ]
+}

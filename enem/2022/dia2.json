@@ -1,0 +1,2565 @@
+{
+  "ano": 2022,
+  "dia": 2,
+  "total": 90,
+  "geradoEm": "2026-05-09T05:54:41Z",
+  "questoes": [
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 1,
+      "titulo": "Questão 91 - ENEM 2022",
+      "enunciado": "A figura ilustra esquematicamente um processo de  \nremediação de solos contaminados com tricloroeteno  \n(TCE), um agente desengraxante. Em razão de  \nvazamentos de tanques de estocagem ou de manejo  \ninapropriado de resíduos industriais, ele se encontra  \npresente em águas subterrâneas, nas quais forma  \numa fase líquida densa não aquosa (DNAPL) que se  \ndeposita no fundo do aquífero. Essa tecnologia de  \ndescontaminação emprega o íon persulfato (S2  \nO8  \n2−), que  \né convertido no radical •SO4  \n− por minerais que contêm  \nFe(III). O esquema representa de forma simplificada o  \nmecanismo de ação química sobre o TCE e a formação  \ndos produtos de degradação.\n\n![](https://enem.dev/2022/questions/91/0c8a2451-b60e-4a4f-9eb8-4cac8fe9536d.png)\n\nBERTAGI, L. T.; BASÍLIO, A. O.; PERALTA-ZAMORA, P. Aplicações ambientais de persulfato:  \nremediação de águas subterrâneas e solos contaminados. Química Nova, n. 9, 2021 (adaptado)",
+      "alternativas_introducao": "Esse procedimento de remediação de águas subterrâneas\nbaseia-se em reações de",
+      "alternativas": [
+        "A) Oxirredução",
+        "B) Substituição",
+        "C) Precipitação",
+        "D) Desidratação",
+        "E) Neutralização"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2022/img/q001_principal.png",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/91"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 2,
+      "titulo": "Questão 92 - ENEM 2022",
+      "enunciado": "De acordo com a Organização Mundial da Saúde, a filariose e a leishmaniose são consideradas doenças  \ntropicais infecciosas e constituem uma preocupação para a saúde pública por ser alto o índice de mortalidade a elas associado.",
+      "alternativas_introducao": "Uma medida profilática comum a essas duas doenças é o(a)",
+      "alternativas": [
+        "A) Incineração do lixo orgânico.",
+        "B) Construção de rede de esgoto.",
+        "C) Uso de vermífugo pela população.",
+        "D) Controle das populações dos vetores.",
+        "E) Consumo de carnes vermelhas bem cozidas."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/92"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 3,
+      "titulo": "Questão 93 - ENEM 2022",
+      "enunciado": "Em 2017, foi inaugurado, no estado da Bahia, o Parque Solar Lapa, composto por duas usinas (Bom Jesus  \nda Lapa e Lapa) e capaz de gerar cerca de 300 GWh de energia por ano. Considere que cada usina apresente potência igual a 75 MW, com o parque totalizando uma potência instalada de 150 MW. Considere ainda que a irradiância solar média é de 1 500 W/m² e que a eficiência dos painéis é de 20%.\n\n**Parque Solar Lapa entra em operação**. Disponível em: www.canalbioenergia.com.br. Acesso em: 9 jun. 2022 (adaptado).",
+      "alternativas_introducao": "Nessas condições, a área total dos painéis solares que compõem o Parque Solar Lapa é mais próxima de:",
+      "alternativas": [
+        "A) 1 000 000 m²",
+        "B) 500 000 m²",
+        "C) 250 000 m²",
+        "D) 100 000 m²",
+        "E) 20 000 m²"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/93"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 4,
+      "titulo": "Questão 94 - ENEM 2022",
+      "enunciado": "![](https://enem.dev/2022/questions/94/a62bc797-e3bd-4754-bc9b-433469b0a49f.png)\n\nOs riscos apresentados pelos produtos dependem de suas propriedades e da reatividade quando em contato com outras substâncias. Para prevenir os riscos devido à natureza química dos produtos, devemos conhecer a lista de substâncias incompatíveis e de uso cotidiano em fábricas, hospitais e laboratórios, a fim de observar cuidados na estocagem, manipulação e descarte. O quadro elenca algumas dessas incompatibilidades, que podem levar à ocorrência de acidentes.\n\nConsidere que houve o descarte indevido de dois conjuntos de substâncias:  \n(1) ácido clorídrico concentrado com cianeto de potássio;  \n(2) ácido nítrico concentrado com sacarose.\n\nDisponível em: www.fiocruz.br. Acesso em: 6 dez. 2017 (adaptado).",
+      "alternativas_introducao": "O descarte dos conjuntos (1) e (2) resultará, respectivamente, em",
+      "alternativas": [
+        "A) Liberação de gás tóxico e reação oxidativa forte.",
+        "B) Reação oxidativa forte e liberação de gás tóxico.",
+        "C) Formação de sais tóxicos e reação oxidativa forte.",
+        "D) Liberação de gás tóxico e liberação de gás oxidante.",
+        "E) Formação de sais tóxicos e liberação de gás oxidante."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2022/img/q004_principal.png",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/94"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 5,
+      "titulo": "Questão 95 - ENEM 2022",
+      "enunciado": "O físico Hans C. Oersted observou que um fio transportando corrente elétrica produz um campo magnético. A presença  \ndo campo magnético foi verificada ao aproximar uma bússola de um fio conduzindo corrente elétrica.  \nA figura ilustra um fio percorrido por uma corrente elétrica i, constante e com sentido para cima. Os pontos A, B e C  \nestão num plano transversal e equidistantes do fio. Em cada ponto foi colocada uma bússola.\n\n![](https://enem.dev/2022/questions/95/2a216ed1-eeab-4213-bcac-34e5166e97dd.png)",
+      "alternativas_introducao": "Considerando apenas o campo magnético por causa da corrente i, as respectivas configurações das bússolas nos pontos A, B e C serão",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)",
+        "E)"
+      ],
+      "imagens_alternativas": [
+        "enem/2022/img/q005_altA.png",
+        "enem/2022/img/q005_altB.png",
+        "enem/2022/img/q005_altC.png",
+        "enem/2022/img/q005_altD.png",
+        "enem/2022/img/q005_altE.png"
+      ],
+      "imagem_principal": "enem/2022/img/q005_principal.png",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/95"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 6,
+      "titulo": "Questão 96 - ENEM 2022",
+      "enunciado": "![](https://enem.dev/2022/questions/96/970c1d36-8b55-4012-b912-db3efb32fbe4.png)\n\nO quadro mostra valores de corrente elétrica e seus efeitos sobre o corpo humano.\n\nA corrente elétrica que percorrerá o corpo de um indivíduo depende da tensão aplicada e da resistência  \nelétrica média do corpo humano. Esse último fator está intimamente relacionado com a umidade da pele, que seca apresenta resistência elétrica da ordem de 500 kΩ, mas, se molhada, pode chegar a apenas 1 kΩ.  \nApesar de incomum, é possível sofrer um acidente utilizando baterias de 12 V. Considere que um indivíduo com a pele molhada sofreu uma parada respiratória ao tocar simultaneamente nos pontos A e B de uma associação de duas dessas baterias.\n\nDURAN, J. E. R. **Biofísica: fundamentos e aplicações**. São Paulo: Pearson Prentice Hall, 2003 (adaptado).",
+      "alternativas_introducao": "Qual associação de baterias foi responsável pelo acidente?",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)",
+        "E)"
+      ],
+      "imagens_alternativas": [
+        "enem/2022/img/q006_altA.png",
+        "enem/2022/img/q006_altB.png",
+        "enem/2022/img/q006_altC.png",
+        "enem/2022/img/q006_altD.png",
+        "enem/2022/img/q006_altE.png"
+      ],
+      "imagem_principal": "enem/2022/img/q006_principal.png",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/96"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 7,
+      "titulo": "Questão 97 - ENEM 2022",
+      "enunciado": "O urânio é empregado como fonte de energia em reatores nucleares. Para tanto, o seu mineral deve  \nser refinado, convertido a hexafluoreto de urânio e posteriormente enriquecido, para aumentar de 0,7% a 3% a abundância de um isótopo específico — o urânio-235. Uma das formas de enriquecimento utiliza a pequena diferença de massa entre os hexafluoretos de urânio-235 e de urânio-238 para separá-los por efusão, precedida pela vaporização. Esses vapores devem efundir repetidamente  \nmilhares de vezes através de barreiras porosas formadas por telas com grande número de pequenos orifícios. No entanto, devido à complexidade e à grande quantidade de energia envolvida, cientistas e engenheiros continuam a pesquisar procedimentos alternativos de enriquecimento.\n\nATKINS, P.; JONES, L. **Princípios de química**: questionando a vida moderna e o meio ambiente. Porto Alegre: Bookman, 2006 (adaptado).",
+      "alternativas_introducao": "Considerando a diferença de massa mencionada entre os dois isótopos, que tipo de procedimento alternativo ao da efusão pode ser empregado para tal finalidade?",
+      "alternativas": [
+        "A) Peneiração.",
+        "B) Centrifugação.",
+        "C) Extração por solvente.",
+        "D) Destilação fracionada.",
+        "E) Separação magnética."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/97"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 8,
+      "titulo": "Questão 98 - ENEM 2022",
+      "enunciado": "A Agência Nacional de Vigilância Sanitária (Anvisa) aprovou um produto de terapia gênica no país, indicado para o tratamento da distrofia hereditária da retina. O procedimento é recomendado para crianças acima de 12 meses e adultos com perda de visão causada pela mutação do gene humano RPE65. O produto, elaborado por engenharia genética, é composto por um vírus, no qual foi inserida uma cópia do gene normal humano RPE65 para corrigir o funcionamento das células da retina.\n\nANVISA. Disponível em: www.gov.br/anvisa. Acesso em: 4 dez. 2021 (adaptado)",
+      "alternativas_introducao": "O sucesso dessa terapia advém do fato de que o produto favorecerá a",
+      "alternativas": [
+        "A) Correção do código genético para a tradução da proteína.",
+        "B) Alteração do RNA ribossômico ligado à síntese da proteína.",
+        "C) Produção de mutações benéficas para a correção do problema.",
+        "D) Liberação imediata da proteína normal na região ocular humana.",
+        "E) Expressão do gene responsável pela produção da enzima normal."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/98"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 9,
+      "titulo": "Questão 99 - ENEM 2022",
+      "enunciado": "A extinção de espécies é uma ameaça real que afeta diversas regiões do país. A introdução de espécies exóticas pode ser considerada um fator maximizador desse processo. A jaqueira (_Artocarpus heterophyllus_), por exemplo, é uma árvore originária da Índia e de regiões do Sudeste Asiático que foi introduzida ainda na era colonial e se aclimatou muito bem em praticamente todo o território nacional.",
+      "alternativas_introducao": "Casos como o dessa árvore podem provocar a redução da biodiversidade, pois elas",
+      "alternativas": [
+        "A) Ocupam áreas de vegetação nativa e substituem parcialmente a flora original.",
+        "B) Estimulam a competição por seus frutos entre animais típicos da região e eliminam as espécies perdedoras.",
+        "C) Alteram os nichos e aumentam o número de possibilidades de relações entre os seres vivos daquele ambiente.",
+        "D) Apresentam alta taxa de reprodução e se mantêm com um número de indivíduos superior à capacidade suporte do ambiente.",
+        "E) Diminuem a relação de competição entre os polinizadores e facilitam a ação de dispersores de sementes de espécies nativas."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/99"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 10,
+      "titulo": "Questão 100 - ENEM 2022",
+      "enunciado": "Em um dia de calor intenso, dois colegas estão a brincar com a água da mangueira. Um deles quer saber até que altura o jato de água alcança, a partir da saída de água, quando a mangueira está posicionada totalmente na direção vertical. O outro colega propõe então o seguinte experimento: eles posicionarem a saída de água da mangueira na direção horizontal, a 1 m de altura em relação ao chão, e então medirem a distância horizontal entre a mangueira e o local onde a água atinge o chão. A medida dessa distância foi de 3 m, e a partir disso eles calcularam o alcance vertical do jato de água. Considere a aceleração da gravidade de 10 m ![](https://enem.dev/2022/questions/100/109f2a39-f073-4841-9cec-bed51e1c1f12.png)",
+      "alternativas_introducao": "O resultado que eles obtiveram foi de",
+      "alternativas": [
+        "A) 1,50 m.",
+        "B) 2,25 m.",
+        "C) 4,00 m.",
+        "D) 4,50 m.",
+        "E) 5,00 m."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2022/img/q010_principal.png",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/100"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 11,
+      "titulo": "Questão 101 - ENEM 2022",
+      "enunciado": "O etanol é um combustível produzido a partir da fermentação da sacarose presente no caldo de cana-de-açúcar. Um dos fatores que afeta a produção desse álcool é o grau de deterioração da sacarose, que se inicia após o corte, por causa da ação de microrganismos. Foram analisadas cinco amostras de diferentes tipos de cana-de-açúcar e cada uma recebeu um código de identificação.\n\nNo quadro são apresentados os dados de concentração de sacarose e de microrganismos presentes nessas amostras.\n\n![](https://enem.dev/2022/questions/101/afa4fc86-8d89-4713-a690-8306324d23ed.png)\n\nPretende-se escolher o tipo de cana-de-açúcar que conterá o maior teor de sacarose 10 horas após o corte e que, consequentemente, produzirá a maior quantidade de etanol por fermentação. Considere que existe uma redução de aproximadamente 50% da concentração de sacarose nesse tempo, para cada 1,0 mg ![](https://enem.dev/2022/questions/101/d492e2a3-b988-4c38-802d-20d5f73c3b72.png) de microrganismos presentes na cana-de-açúcar.\n\nDisponível em: www.inovacao.unicamp.br. Acesso em: 11 ago. 2012 (adaptado).",
+      "alternativas_introducao": "Qual tipo de cana-de-açúcar deve ser escolhido?",
+      "alternativas": [
+        "A) RB72",
+        "B) RB84",
+        "C) RB92",
+        "D) SP79",
+        "E) SP80"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2022/img/q011_principal.png",
+      "imagens_extras": [
+        "enem/2022/img/q011_extra1.png"
+      ],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/101"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 12,
+      "titulo": "Questão 102 - ENEM 2022",
+      "enunciado": "Entre as diversas técnicas para diagnóstico da covid-19, destaca-se o teste genético. Considerando as diferentes variantes e cargas virais, um exemplo é a PCR, reação efetuada por uma enzima do tipo polimerase. Essa técnica permite identificar, com confiabilidade, o material genético do SARS-CoV-2, um vírus de RNA.  \nPara comprovação da infecção por esse coronavírus, são coletadas amostras de secreções do indivíduo. Uma etapa que antecede a reação de PCR precisa ser realizada para permitir a amplificação do material genético do vírus.",
+      "alternativas_introducao": "Essa etapa deve ser realizada para",
+      "alternativas": [
+        "A) Concentrar o RNA viral para otimizar a técnica.",
+        "B) Identificar nas amostras anticorpos anti-SARS-CoV-2.",
+        "C) Proliferar o vírus em culturas, aumentando a carga viral.",
+        "D) Purificar ácidos nucleicos virais, facilitando a ação da enzima.",
+        "E) Obter moléculas de cDNAviral por meio da transcrição reversa."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/102"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 13,
+      "titulo": "Questão 103 - ENEM 2022",
+      "enunciado": "Tribologia é o estudo da interação entre duas superfícies em contato, como desgaste e atrito, sendo de extrema importância na avaliação de diferentes  \nprodutos e de bens de consumo em geral. Para testar a conformidade de uma muleta, realiza-se um ensaio tribológico, pressionando-a verticalmente contra o piso com uma força ![](https://enem.dev/2022/questions/103/731a52b0-b8d4-4a15-8a7c-aabc67d6dcde.jpg), conforme ilustra a imagem, em que CM representa o centro de massa da muleta.\n\nMantendo-se a força ![](https://enem.dev/2022/questions/103/04cf32d8-f517-483e-b0d5-189de111bc7a.jpg) paralela à muleta, varia-se lentamente o ângulo entre a muleta e a vertical, até o máximo ângulo imediatamente anterior ao de escorregamento, denominado ângulo crítico. Esse ângulo também pode ser calculado a partir da identificação dos pontos de aplicação, da direção e do sentido das forças peso ![](https://enem.dev/2022/questions/103/9027d4f1-c0a1-4b18-ac9f-2639e6b4360b.jpg), normal ![](https://enem.dev/2022/questions/103/e11f6a77-dda3-4525-a045-894baf71d307.jpg) e de atrito estático ![](https://enem.dev/2022/questions/103/d65b67dc-a285-43d4-a72b-a9c1b521c3b5.jpg).\n\n![](https://enem.dev/2022/questions/103/7cfea492-83f7-4ea1-bf6a-a3dc29d4edb9.jpg)",
+      "alternativas_introducao": "O esquema que representa corretamente todas as forças que atuam sobre a muleta quando ela atinge o ângulo crítico é:",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)",
+        "E)"
+      ],
+      "imagens_alternativas": [
+        "enem/2022/img/q013_altA.jpg",
+        "enem/2022/img/q013_altB.jpg",
+        "enem/2022/img/q013_altC.jpg",
+        "enem/2022/img/q013_altD.jpg",
+        "enem/2022/img/q013_altE.jpg"
+      ],
+      "imagem_principal": "enem/2022/img/q013_principal.jpg",
+      "imagens_extras": [
+        "enem/2022/img/q013_extra1.jpg",
+        "enem/2022/img/q013_extra2.jpg",
+        "enem/2022/img/q013_extra3.jpg",
+        "enem/2022/img/q013_extra4.jpg",
+        "enem/2022/img/q013_extra5.jpg"
+      ],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/103"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 14,
+      "titulo": "Questão 104 - ENEM 2022",
+      "enunciado": "Diversas substâncias são empregadas com a intenção de incrementar o desempenho esportivo de atletas de alto nível. O chamado _doping_ sanguíneo, por exemplo, pela utilização da eritropoietina, é proibido pelas principais federações de esportes no mundo. A eritropoietina é um hormônio produzido pelos rins e fígado e sua principal ação é regular o processo de eritropoiese. Seu uso administrado intravenosamente em quantidades superiores àquelas presentes naturalmente no organismo permite que o indivíduo aumente a sua capacidade de realização de exercícios físicos.",
+      "alternativas_introducao": "Esse tipo de doping está diretamente relacionado ao aumento da",
+      "alternativas": [
+        "A) Frequência cardíaca.",
+        "B) Capacidade pulmonar.",
+        "C) Massa muscular do indivíduo.",
+        "D) Atividade anaeróbica da musculatura.",
+        "E) Taxa de transporte de oxigênio pelo sangue."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/104"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 15,
+      "titulo": "Questão 105 - ENEM 2022",
+      "enunciado": "Em um autódromo, os carros podem derrapar em uma curva e bater na parede de proteção. Para diminuir o impacto de uma batida, pode-se colocar na parede uma barreira de pneus, isso faz com que a colisão seja mais demorada e o carro retorne com velocidade reduzida. Outra opção é colocar uma barreira de blocos de um material que se deforma, tornando-a tão demorada quanto a colisão com os pneus, mas que não permite a volta do carro após a colisão.",
+      "alternativas_introducao": "Comparando as duas situações, como ficam a força média exercida sobre o carro e a energia mecânica dissipada?",
+      "alternativas": [
+        "A) A força é maior na colisão com a barreira de pneus, e a energia dissipada é maior na colisão com a barreira de blocos.",
+        "B) A força é maior na colisão com a barreira de blocos, e a energia dissipada é maior na colisão com a barreira de pneus.",
+        "C) A força é maior na colisão com a barreira de blocos, e a energia dissipada é a mesma nas duas situações.",
+        "D) A força é maior na colisão com a barreira de pneus, e a energia dissipada é maior na colisão com a barreira de pneus.",
+        "E) A força é maior na colisão com a barreira de blocos, e a energia dissipada é maior na colisão com a barreira de blocos."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/105"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 16,
+      "titulo": "Questão 106 - ENEM 2022",
+      "enunciado": "A penicilamina é um medicamento de uso oral utilizado no tratamento de várias doenças. Esse composto é excretado na urina, cujo pH se situa entre 5 e 7. A penicilamina, cuja fórmula estrutural plana está apresentada, possui três grupos funcionais que podem ser ionizados:\n\n![](https://enem.dev/2022/questions/106/836c6396-bd57-477b-b379-b509c4b99242.png)",
+      "alternativas_introducao": "Qual estrutura derivada da penicilamina é predominantemente encontrada na urina?",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)",
+        "E)"
+      ],
+      "imagens_alternativas": [
+        "enem/2022/img/q016_altA.png",
+        "enem/2022/img/q016_altB.png",
+        "enem/2022/img/q016_altC.png",
+        "enem/2022/img/q016_altD.png",
+        "enem/2022/img/q016_altE.png"
+      ],
+      "imagem_principal": "enem/2022/img/q016_principal.png",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/106"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 17,
+      "titulo": "Questão 107 - ENEM 2022",
+      "enunciado": "A biomassa celulósica pode ser utilizada para a produção de etanol de segunda geração. Entretanto, é necessário que os polissacarídeos sejam convertidos em mono e dissacarídeos, processo que pode ser conduzido em meio ácido, conforme mostra o esquema:\n\n![](https://enem.dev/2022/questions/107/d19f3bc6-e4ed-4f93-9a0b-55f98ab20380.jpg)\n\nOGEDA, T. L.; PETRI, D. F. S. \\[…\\] **Química Nova**, n. 7, 2010 (adaptado).",
+      "alternativas_introducao": "Nessa conversão de polissacarídeos, a função do íon H+ é",
+      "alternativas": [
+        "A) Dissolver os reagentes.",
+        "B) Deslocar o equilíbrio químico.",
+        "C) Aumentar a velocidade da reação.",
+        "D) Mudar a constante de equilíbrio da reação.",
+        "E) Formar ligações de hidrogênio com o polissacarídeo."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2022/img/q017_principal.jpg",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/107"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 18,
+      "titulo": "Questão 108 - ENEM 2022",
+      "enunciado": "O ácido tartárico é o principal ácido do vinho e está diretamente relacionado com sua qualidade. Na avaliação de um vinho branco em produção, uma analista neutralizou uma alíquota de 25,0 mL do vinho com NaOH a 0,10 mol L−1, consumindo um volume igual a 8,0 mL dessa base. A reação para esse processo de titulação é representada pela equação química:\n\n![](https://enem.dev/2022/questions/108/9210b1e4-7666-4817-9757-f1642ea64a91.jpg)",
+      "alternativas_introducao": "A concentração de ácido tartárico no vinho analisado é mais próxima de:",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)",
+        "E)"
+      ],
+      "imagens_alternativas": [
+        "enem/2022/img/q018_altA.jpg",
+        "enem/2022/img/q018_altB.jpg",
+        "enem/2022/img/q018_altC.jpg",
+        "enem/2022/img/q018_altD.jpg",
+        "enem/2022/img/q018_altE.jpg"
+      ],
+      "imagem_principal": "enem/2022/img/q018_principal.jpg",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/108"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 19,
+      "titulo": "Questão 109 - ENEM 2022",
+      "enunciado": "Oelementoiodo(I)temfunçãobiológicaeéacumulado  \nna tireoide. Nos acidentes nucleares de Chernobyl e  \nFukushima, ocorreu a liberação para a atmosfera do  \nradioisótopo 131I, responsável por enfermidades nas  \npessoas que foram expostas a ele. O decaimento de uma  \nmassa de 12 microgramas do isótopo 131I foi monitorado  \npor 14 dias, conforme o quadro.\n\n![](https://enem.dev/2022/questions/109/354aeb9d-9351-404a-b131-174ac378eaaf.png)",
+      "alternativas_introducao": "Após o período de 40 dias, a massa residual desse\nisótopo é mais próxima de",
+      "alternativas": [
+        "A) 2,4 µg.",
+        "B) 1,5 µg.",
+        "C) 0,8 µg.",
+        "D) 0,4 µg.",
+        "E) 0,2 µg."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2022/img/q019_principal.png",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/109"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 20,
+      "titulo": "Questão 110 - ENEM 2022",
+      "enunciado": "Desde a proposição da teoria de seleção natural  \npor Darwin, os seres vivos nunca mais foram olhados  \nda mesma forma. No que diz respeito à reprodução de  \nanfíbios anuros, os cientistas já descreveram diferentes  \npadrões reprodutivos, como os exemplificados a seguir:  \nEspécie 1 – As fêmeas produzem cerca de  \n5 000 gametas, que são fecundados na água, em  \nlagoas temporárias de estação chuvosa. Todo o  \ndesenvolvimento embrionário, do ovo à metamorfose,  \nocorre, nesse ambiente, independente dos pais.  \nEspécie 2 – As fêmeas produzem aproximadamente  \n200 gametas, que são depositados em poças próximas a  \ncorpos-d’água. Os embriões são vigiados pelos machos  \ndurante boa parte do seu desenvolvimento.  \nEspécie 3 – As fêmeas produzem por volta de  \n20 gametas, que são fecundados sobre a superfície das  \nfolhas de plantas cujos galhos estão dispostos acima da  \nsuperfície de corpos-d’água e aí se desenvolvem até  \na eclosão.  \nEspécie 4 – As fêmeas produzem poucos gametas  \nque, quando fecundados, são “abocanhados” pelos  \nmachos. Os embriões se desenvolvem no interior do  \nsaco vocal do macho até a metamorfose, quando saem  \natravés da boca do pai.",
+      "alternativas_introducao": "Os padrões descritos evidenciam que",
+      "alternativas": [
+        "A) As fêmeas influenciam o comportamento dos machos.",
+        "B) O cuidado parental é necessário para o desenvolvimento",
+        "C) O grau de evolução determina o comportamento reprodutivo.",
+        "D) O sucesso reprodutivo pode ser garantido por estratégias diferentes.",
+        "E) O ambiente induz modificação na produção do número de gametas femininos."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/110"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 21,
+      "titulo": "Questão 111 - ENEM 2022",
+      "enunciado": "O eixo de rotação da Terra apresenta uma inclinação  \nem relação ao plano de sua órbita em torno do Sol,  \ninterferindo na duração do dia e da noite ao longo do ano.\n\n![](https://enem.dev/2022/questions/111/12bd97ef-3334-4258-aec9-17981bd0b299.png)\n\nUma pessoa instala em sua residência uma placa  \nfotovoltaica, que transforma energia solar em elétrica.  \nEla monitora a energia total produzida por essa placa  \nem 4 dias do ano, ensolarados e sem nuvens, e lança os  \nresultados no gráfico.\n\n![](https://enem.dev/2022/questions/111/b90aa72c-e072-4867-955a-bb795396fd8e.png)\n\nDisponível em: www.fisica.ufpr.br. Acesso em: 27 maio 2022 (adaptado)",
+      "alternativas_introducao": "Próximo a que região se situa a residência onde as placas\nforam instaladas?",
+      "alternativas": [
+        "A) Trópico de Capricórnio.",
+        "B) Trópico de Câncer.",
+        "C) Polo Norte.",
+        "D) Polo Sul.",
+        "E) Equador"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2022/img/q021_principal.png",
+      "imagens_extras": [
+        "enem/2022/img/q021_extra1.png"
+      ],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/111"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 22,
+      "titulo": "Questão 112 - ENEM 2022",
+      "enunciado": "Um pai faz um balanço utilizando dois segmentos paralelos e iguais da mesma corda para fixar uma tábua a uma barra horizontal. Por segurança, opta por um tipo de corda cuja tensão de ruptura seja 25% superior à tensão máxima calculada nas seguintes condições:\n\n• O ângulo máximo atingido pelo balanço em relação  \nà vertical é igual a 90°;\n\n• Os filhos utilizarão o balanço até que tenham uma  \nmassa de 24 kg.\n\nAlém disso, ele aproxima o movimento do balanço para o movimento circular uniforme, considera que a aceleração da gravidade é igual a 10  m/s² se despreza forças dissipativas.",
+      "alternativas_introducao": "Qual é a tensão de ruptura da corda escolhida?",
+      "alternativas": [
+        "A) 120 N",
+        "B) 300 N",
+        "C) 360 N",
+        "D) 450 N",
+        "E) 900 N"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/112"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 23,
+      "titulo": "Questão 113 - ENEM 2022",
+      "enunciado": "A nanotecnologia é responsável pelo aprimoramento de diversos materiais, incluindo os que são impactados com a presença de poluentes e da umidade na atmosfera, causadores de corrosão. O processo de corrosão é espontâneo e provoca a deterioração de metais como o ferro, que, em presença de oxigênio e água, sofre oxidação, conforme ilustra a equação química:\n\n![](https://enem.dev/2022/questions/113/0e055873-ce28-47e0-a1d2-5b5f817a3363.png)\n\nUma forma de garantir a durabilidade da estrutura metálica e a sua resistência à umidade consiste na deposição de filmes finos nanocerâmicos à base de zircônia (ZrO2) e alumina (Al2O3) sobre a superfície do objeto que se deseja proteger.\n\nCLEMENTE, G. A. B. F. et al. O uso de materiais híbridos ou nanocompósitos como revestimentos anticorrosivos do aço. **Química Nova**, n. 9, 2021 (adaptado)",
+      "alternativas_introducao": "Essa nanotecnologia aplicada na proteção contra a corrosão se baseia no(a)",
+      "alternativas": [
+        "A) Proteção catódica, que utiliza um metal fortemente redutor.",
+        "B) Uso de metais de sacrifício, que se oxidam no lugar do ferro.",
+        "C) Passivação do ferro, que fica revestido pelo seu próprio óxido.",
+        "D) Efeito de barreira, que impede o contato com o agente oxidante.",
+        "E) Galvanização, que usa outros metais de menor potencial de redução."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2022/img/q023_principal.png",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/113"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 24,
+      "titulo": "Questão 114 - ENEM 2022",
+      "enunciado": "As células da epiderme da folha da _Tradescantia pallida purpurea_, uma herbácea popularmente conhecida como trapoeraba-roxa, contém um vacúolo onde se encontra um pigmento que dá a coloração arroxeada a esse tecido. Em um experimento, um corte da epiderme de uma folha da trapoeraba-roxa foi imerso em ambiente hipotônico e, logo em seguida, foi colocado em uma lâmina e observado em microscópio óptico.",
+      "alternativas_introducao": "Durante a observação desse corte, foi possível identificar o(a)",
+      "alternativas": [
+        "A) Acúmulo do solvente com fragmentação da organela.",
+        "B) Rompimento da membrana celular com liberação do citosol.",
+        "C) Aumento do vacúolo com diluição do pigmento no seu interior.",
+        "D) Quebra da parede celular com extravasamento do pigmento.",
+        "E) Murchamento da célula com expulsão do pigmento do vacúolo."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/114"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 25,
+      "titulo": "Questão 115 - ENEM 2022",
+      "enunciado": "A variação da incidência de radiação solar sobre a superfície da Terra resulta em uma variação de temperatura ao longo de um dia denominada amplitude térmica. Edificações e pavimentações realizadas nas áreas urbanas contribuem para alterar as amplitudes térmicas dessas regiões, em comparação com regiões que mantêm suas características naturais, com presença de vegetação e água, já que o calor específico do concreto é inferior ao da água. Assim, parte da avaliação do impacto ambiental que a presença de concreto proporciona às áreas urbanas consiste em considerar a substituição da área concretada por um mesmo volume de água e comparar as variações de temperatura devido à absorção da radiação solar nas duas situações (concretada e alagada). Desprezando os efeitos da evaporação e considerando que toda a radiação é absorvida, essa avaliação pode ser realizada com os seguintes dados\n\n![](https://enem.dev/2022/questions/115/f65d0159-593c-4da2-84b5-1a0f297f96f9.png)\n\nROMERO, M. A. B. et al. **Mudanças climáticas e ilhas de calor urbanas**. Brasília: UnB; ETB, 2019 (adaptado)",
+      "alternativas_introducao": "A razão entre as variações de temperatura nas áreas concretada e alagada é mais próxima de",
+      "alternativas": [
+        "A) 1,0.",
+        "B) 2,1.",
+        "C) 2,5.",
+        "D) 5,3.",
+        "E) 13,1."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2022/img/q025_principal.png",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/115"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 26,
+      "titulo": "Questão 116 - ENEM 2022",
+      "enunciado": "O manual de uma ducha elétrica informa que seus três níveis de aquecimento (morno, quente e superquente) apresentam as seguintes variações de temperatura da água em função de sua vazão:\n\n![](https://enem.dev/2022/questions/116/f941cbba-7b0c-4b5d-98db-2616e2001f8c.png)\n\nUtiliza-se um disjuntor para proteger o circuito dessa ducha contra sobrecargas elétricas em qualquer nível de aquecimento. Por padrão, o disjuntor é especificado pela corrente nominal igual ao múltiplo de 5 A imediatamente superior à corrente máxima do circuito. Considere que a ducha deve ser ligada em 220 V e que toda a energia é dissipada através da resistência do chuveiro e convertida em energia térmica transferida para a água, que apresenta calor específico de 4,2 e J/gº C densidade de 1 000 g/L",
+      "alternativas_introducao": "O disjuntor adequado para a proteção dessa ducha é especificado por:",
+      "alternativas": [
+        "A) 60 A",
+        "B) 30 A",
+        "C) 20 A",
+        "D) 10 A",
+        "E) 5 A"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2022/img/q026_principal.png",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/116"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 27,
+      "titulo": "Questão 117 - ENEM 2022",
+      "enunciado": "Um grupo de alunos realizou um experimento para observar algumas propriedades dos ácidos, adicionando um pedaço de mármore (CaCO3 ) a uma solução aquosa de ácido clorídrico (HCl), observando a liberação de um gás e o aumento da temperatura.\n\n![](https://enem.dev/2022/questions/117/d1b41872-c2bd-4e00-8425-9dc4e5436395.png)",
+      "alternativas_introducao": "O gás obtido no experimento é o:",
+      "alternativas": [
+        "A) H2",
+        "B) O2",
+        "C) CO2",
+        "D) CO",
+        "E) Cl2"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2022/img/q027_principal.png",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/117"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 28,
+      "titulo": "Questão 118 - ENEM 2022",
+      "enunciado": "Em 2002, foi publicado um artigo científico que  \nrelacionava alterações na produção de hormônios sexuais  \nde sapos machos expostos à atrazina, um herbicida, com  \no desenvolvimento anômalo de seus caracteres sexuais  \nprimários e secundários. Entre os animais sujeitos à  \ncontaminação, observaram-se casos de hermafroditismo  \ne desmasculinização da laringe. O estudo em questão  \ncomparou a concentração de um hormônio específico  \nno sangue de machos expostos ao agrotóxico com a de  \noutros machos e fêmeas que não o foram (controles).  \nOs resultados podem ser vistos na figura.\n\n![](https://enem.dev/2022/questions/118/e51b0279-7825-425e-86cf-f1e144cd023e.png)\n\nHAYES, T. B. et al. Hermaphroditic, Demasculinized Frogs After Exposure to  \nthe Herbicide Atrazine at Low Ecologically Relevant Doses. **Proceedings of**  \n**the National Academy of Sciences**, n. 8, 2002 (adaptado).",
+      "alternativas_introducao": "Com base nas informações do texto, qual é o hormônio\ncujas concentrações estão representadas na figura?",
+      "alternativas": [
+        "A) Estrogênio",
+        "B) Feromônio",
+        "C) Testosterona.",
+        "D) Somatotrofina",
+        "E) Hormônio folículo estimulante."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2022/img/q028_principal.png",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/118"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 29,
+      "titulo": "Questão 119 - ENEM 2022",
+      "enunciado": "Uma lanterna funciona com três pilhas de resistência interna igual a 0,5 Ω cada, ligadas em série. Quando posicionadas corretamente, devem acender a lâmpada incandescente de especificações 4,5 W e 4,5 V. Cada pilha na posição correta gera uma f.e.m. (força eletromotriz) de 1,5 V. Uma pessoa, ao trocar as pilhas da lanterna, comete o equívoco de inverter a posição de uma das pilhas. Considere que as pilhas mantêm contato independentemente da posição.",
+      "alternativas_introducao": "Com esse equívoco, qual é a intensidade de corrente que passa pela lâmpada ao se ligar a lanterna?",
+      "alternativas": [
+        "A) 0,25 A",
+        "B) 0,33 A",
+        "C) 0,75 A",
+        "D) 1,00 A",
+        "E) 1,33 A"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/119"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 30,
+      "titulo": "Questão 120 - ENEM 2022",
+      "enunciado": "Em uma aula prática de bioquímica, para medir a atividade catalítica da enzima catalase, foram realizados seis ensaios independentes, nas mesmas condições, variando-se apenas a temperatura. A catalase decompõe o peróxido de hidrogênio (H2O2), produzindo água e oxigênio. Os resultados dos ensaios estão apresentados no quadro.\n\n![](https://enem.dev/2022/questions/120/b54f40a5-6770-42c7-8756-63acaa5dcbd1.jpg)",
+      "alternativas_introducao": "Os diferentes resultados dos ensaios justificam-se pelo(a)",
+      "alternativas": [
+        "A) Variação do pH do meio.",
+        "B) Aumento da energia de ativação.",
+        "C) Consumo da enzima durante o ensaio.",
+        "D) Diminuição da concentração do substrato.",
+        "E) Modificação da estrutura tridimensional da enzima."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2022/img/q030_principal.jpg",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/120"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 31,
+      "titulo": "Questão 121 - ENEM 2022",
+      "enunciado": "Antimicrobianos são substâncias naturais ou sintéticas que têm capacidade de matar ou inibir o crescimento de microrganismos. A tabela apresenta uma lista de antimicrobianos hipotéticos, bem como suas ações e efeitos sobre o metabolismo microbiano.\n\n![](https://enem.dev/2022/questions/121/e95c1ba6-6673-4d72-b19e-9f022900d737.jpg)",
+      "alternativas_introducao": "Qual dos antimicrobianos deve ser utilizado para curar uma infecção causada por um fungo sem afetar as bactérias da microbiota normal do organismo?",
+      "alternativas": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 4",
+        "E) 5"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2022/img/q031_principal.jpg",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/121"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 32,
+      "titulo": "Questão 122 - ENEM 2022",
+      "enunciado": "O veneno da cascavel pode causar hemorragia com risco de morte a quem é picado pela serpente. No entanto, pesquisadores do Brasil e da Bélgica desenvolveram uma molécula de interesse farmacêutico, a PEG-collineína-1,  \na partir de uma proteína encontrada no veneno dessa cobra, capaz de modular a coagulação sanguínea. Embora a técnica não seja nova, foi a primeira vez que o método foi usado a partir de uma toxina animal na sua forma recombinante, ou seja, produzida em laboratório por um fungo geneticamente modificado.\n\nJULIÃO, A. **Técnica modifica proteína do veneno de cascavel e permite**  \n**criar fármaco que modula a coagulação sanguínea**. Disponível em:  \nhttps://agencia.fapesp.br. Acesso em: 22 nov. 2021 (adaptado).",
+      "alternativas_introducao": "Esse novo medicamento apresenta potencial aplicação para",
+      "alternativas": [
+        "A) Impedir a formação de trombos, típicos em alguns casos de acidente vascular cerebral.",
+        "B) Tratar consequências da anemia profunda, em razão da perda de grande volume de sangue.",
+        "C) Evitar a manifestação de urticárias, comumente relacionadas a processos alérgicos.",
+        "D) Reduzir o inchaço dos linfonodos, parte da resposta imunitária de diferentes infecções.",
+        "E) Regular a oscilação da pressão arterial, característica dos quadros de hipertensão."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/122"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 33,
+      "titulo": "Questão 123 - ENEM 2022",
+      "enunciado": "Um Buraco Negro é um corpo celeste que possui uma grande quantidade de matéria concentrada em uma pequena região do espaço, de modo que sua força gravitacional é tão grande que qualquer partícula fica aprisionada em sua superfície, inclusive a luz. O raio dessa região caracteriza uma superfície-limite, chamada de horizonte de eventos, da qual nada consegue escapar. Considere que o Sol foi instantaneamente substituído por um Buraco Negro com a mesma massa solar, de modo que o seu horizonte de eventos seja de aproximadamente 3,0 km.\n\nSCHWARZSCHILD, K. **On the Gravitational Field of a Mass Point According to** **Einstein’s Theory**. Disponível em: arxiv.org. Acesso em: 26 maio 2022 (adaptado).",
+      "alternativas_introducao": "Após a substituição descrita, o que aconteceria aos planetas do Sistema Solar?",
+      "alternativas": [
+        "A) Eles se moveriam em órbitas espirais, aproximando-se sucessivamente do Buraco Negro.",
+        "B) Eles oscilariam aleatoriamente em torno de suas órbitas elípticas originais.",
+        "C) Eles se moveriam em direção ao centro do Buraco Negro.",
+        "D) Eles passariam a precessionar mais rapidamente.",
+        "E) Eles manteriam suas órbitas inalteradas."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/123"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 34,
+      "titulo": "Questão 124 - ENEM 2022",
+      "enunciado": "Durante o ano de 2020, impulsionado pela necessidade de respostas rápidas e eficientes para desinfectar ambientes de possíveis contaminações com o SARS-CoV-2, causador da covid-19, diversas alternativas foram buscadas para  \nos procedimentos de descontaminação de materiais e ambientes. Entre elas, o uso de ozônio em meio aquoso como agente sanitizante para pulverização em humanos e equipamentos de proteção em câmaras ou túneis, higienização de automóveis e de ambientes fechados e descontaminação de trajes. No entanto, pouca atenção foi dada à toxicidade do ozônio, à formação de subprodutos, ao  \nnível de concentração segura e às precauções necessárias.\n\nLIMA, M. J. A.; FELIX, E. P.; CARDOSO, A. A. Aplicações e implicações do ozônio na indústria, ambiente e saúde. Química Nova, n. 9, 2021 (adaptado).",
+      "alternativas_introducao": "O grande risco envolvido no emprego indiscriminado dessa substância deve-se à sua ação química como",
+      "alternativas": [
+        "A) Catalisador.",
+        "B) Oxidante.",
+        "C) Redutor.",
+        "D) Ácido.",
+        "E) Base."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/124"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 35,
+      "titulo": "Questão 125 - ENEM 2022",
+      "enunciado": "Na figura está representado o mosaicismo em função da inativação aleatória de um dos cromossomos X, que ocorre em todas as mulheres sem alterações  patológicas.\n\n![](https://enem.dev/2022/questions/125/310a2901-c53f-4fd3-86bd-17c5a2aa0b83.jpg)",
+      "alternativas_introducao": "Entre mulheres heterozigotas para doenças determinadas por genes recessivos ligados ao sexo, essa inativação tem como consequência a ocorrência de",
+      "alternativas": [
+        "A) Pleiotropia.",
+        "B) Mutação gênica.",
+        "C) Interação gênica.",
+        "D) Penetrância incompleta.",
+        "E) Expressividade variável."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2022/img/q035_principal.jpg",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/125"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 36,
+      "titulo": "Questão 126 - ENEM 2022",
+      "enunciado": "A água bruta coletada de mananciais apresenta alto índice de sólidos suspensos, o que a deixa com um aspecto turvo. Para se obter uma água límpida e potável, ela deve passar por um processo de purificação numa estação de tratamento de água. Nesse processo, as principais etapas são, nesta ordem: coagulação, decantação, filtração, desinfecção e fluoretação.",
+      "alternativas_introducao": "Qual é a etapa de retirada de grande parte desses sólidos?",
+      "alternativas": [
+        "A) Coagulação.",
+        "B) Decantação.",
+        "C) Filtração.",
+        "D) Desinfecção.",
+        "E) Fluoretação."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/126"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 37,
+      "titulo": "Questão 127 - ENEM 2022",
+      "enunciado": "Os ursos, por não apresentarem uma hibernação verdadeira, acordam por causa da presença de termogenina, uma proteína mitocondrial que impede a chegada dos prótons até a ATP sintetase, gerando calor. Esse calor é importante para aquecer o organismo, permitindo seu despertar.\n\nSADAVA, D. et al. Vida: a ciência da biologia. Porto Alegre: Artmed, 2009 (adaptado).",
+      "alternativas_introducao": "Em qual etapa do metabolismo energético celular a termogenina interfere?",
+      "alternativas": [
+        "A) Glicólise.",
+        "B) Fermentação lática.",
+        "C) Ciclo do ácido cítrico.",
+        "D) Oxidação do piruvato.",
+        "E) Fosforilação oxidativa."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/127"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 38,
+      "titulo": "Questão 128 - ENEM 2022",
+      "enunciado": "A fim de classificar as melhores rotas em um aplicativo de trânsito, um pesquisador propõe um modelo com base em circuitos elétricos. Nesse modelo, a corrente representa o número de carros que passam por um ponto da pista no intervalo de 1 s. A diferença de potencial (d.d.p.) corresponde à quantidade de energia por carro necessária para o deslocamento de 1 m. De forma análoga à lei de Ohm, cada via é classificada pela sua resistência, sendo a de maior resistência a mais congestionada. O aplicativo mostra as rotas em ordem crescente, ou seja, da rota de menor para a de maior resistência.  \nComo teste para o sistema, são utilizadas três possíveis vias para uma viagem de A até B, com os valores de d.d.p. e corrente conforme a tabela.\n\n![](https://enem.dev/2022/questions/128/3e38e718-2857-4d65-849c-ddc36f19f455.png)",
+      "alternativas_introducao": "Nesse teste, a ordenação das rotas indicadas pelo aplicativo será:",
+      "alternativas": [
+        "A) 1, 2, 3.",
+        "B) 1, 3, 2.",
+        "C) 2, 1, 3.",
+        "D) 3, 1, 2.",
+        "E) 3, 2, 1."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2022/img/q038_principal.png",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/128"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 39,
+      "titulo": "Questão 129 - ENEM 2022",
+      "enunciado": "O esquema representa o ciclo do nitrogênio:\n\n![](https://enem.dev/2022/questions/129/dceda47e-3511-452d-b376-b192e2b975f6.png)\n\nA chuva ácida interfere no ciclo do nitrogênio, principalmente, por proporcionar uma diminuição do pH do solo e da atmosfera, alterando a concentração dos compostos presentes nesse ciclo.\n\nDisponível em: http://scienceprojectideasforkids.com. Acesso em: 6 ago. 2012 (adaptado).",
+      "alternativas_introducao": "Em um solo de menor pH, será favorecida a formação de:",
+      "alternativas": [
+        "A) N2",
+        "B) NH3",
+        "C) NH4 +",
+        "D) NO2 −",
+        "E) NO3"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2022/img/q039_principal.png",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/129"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 40,
+      "titulo": "Questão 130 - ENEM 2022",
+      "enunciado": "No processo de captação da luz pelo olho para a formação de imagens estão envolvidas duas estruturas celulares: os cones e os bastonetes. Os cones são sensíveis à energia dos fótons, e os bastonetes, à quantidade de fótons incidentes. A energia dos fótons que compõem os raios luminosos está associada à sua frequência, e a intensidade, ao número de fótons incidentes.",
+      "alternativas_introducao": "Um animal que tem bastonetes mais sensíveis irá",
+      "alternativas": [
+        "A) Apresentar daltonismo.",
+        "B) Perceber cores fora do espectro do visível.",
+        "C) Enxergar bem em ambientes mal iluminados.",
+        "D) Necessitar de mais luminosidade para enxergar.",
+        "E) Fazer uma pequena distinção de cores em ambientes iluminados."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/130"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 41,
+      "titulo": "Questão 131 - ENEM 2022",
+      "enunciado": "De modo geral, a palavra “aromático” invoca associações agradáveis, como cheiro de café fresco ou de um pão doce de canela.Associações similares ocorriam no passadoda história da químicaorgânica, quando os compostosditos “aromáticos” apresentavam um odor agradável e foram isolados de óleos naturais. À medida que as estruturas desses compostos eram elucidadas, foi se descobrindo que vários deles continham uma unidade estrutural específica. Os compostos aromáticos que continham essa unidade estrutural tornaram-se parte de uma grande família, muito mais com base em suas estruturas eletrônicas do que nos seus cheiros, como as substâncias a seguir, encontradas em óleos vegetais.\n\n![](https://enem.dev/2022/questions/131/ffcbcff6-5bd4-4fa3-a11b-17bd34a48ade.png)\n\nSOLOMONS, T. W. G.; FRYHLE, C. B. Química orgânica. Rio de Janeiro: LTC, 2009 (adaptado).",
+      "alternativas_introducao": "A característica estrutural dessa família de compostos é a presença de",
+      "alternativas": [
+        "A) Ramificações.",
+        "B) Insaturações.",
+        "C) Anel benzênico.",
+        "D) Átomos de oxigênio.",
+        "E) Carbonos assimétricos."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2022/img/q041_principal.png",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/131"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 42,
+      "titulo": "Questão 132 - ENEM 2022",
+      "enunciado": "Os resultados de um ensaio clínico randomizado na Indonésia apontaram uma redução de 77% dos casos de dengue nas áreas que receberam o mosquito _Aedes aegypti_ infectado com a bactéria _Wolbachia_. Trata-se da mesma técnica utilizada no Brasil pelo Método _Wolbachia_, iniciativa conduzida pela Fundação Oswaldo Cruz — Fiocruz. Essa bactéria induz a redução da carga viral no mosquito e, consequentemente, o número de casos de dengue na área, sendo repassada por meio do cruzamento entre os insetos. Como essa bactéria é um organismo intracelular e o vírus também precisa entrar nas células para se reproduzir, ambos necessitarão de recursos comuns.\n\nCOSTA, G. Agência Fiocruz de Notícias. Estudo confirma eficácia do Método Wolbachia para dengue. Disponível em: https://portal.fiocruz.br. Acesso em: 3 jun. 2022 (adaptado).",
+      "alternativas_introducao": "Essa tecnologia utilizada no combate à dengue consiste na",
+      "alternativas": [
+        "A) Predação do vírus pela bactéria.",
+        "B) Esterilização de mosquitos infectados.",
+        "C) Alteração no genótipo do mosquito pela bactéria.",
+        "D) Ompetição do vírus e da bactéria no hospedeiro.",
+        "E) Inserção de material genético do vírus na bactéria"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/132"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 43,
+      "titulo": "Questão 133 - ENEM 2022",
+      "enunciado": "O protozoário Trypanosoma cruzi, causador da doença de Chagas, pode ser a nova arma da medicina contra o câncer. Pesquisadores brasileiros conseguiram criar uma vacina contra a doença usando uma variação do protozoário incapaz de desencadear a patologia (não patogênico). Para isso, realizaram uma modificação genética criando um T. cruzi capaz de produzir também moléculas fabricadas pelas células tumorais. Quando o organismo inicia o combate ao protozoário, entra em contato também com a molécula tumoral, que passa a ser  \nvista também pelo sistema imune como um indicador de células do protozoário. Depois de induzidas as defesas, estas passam a destruir todas as células com a molécula tumoral, como se lutassem apenas contra o protozoário.\n\nDisponível em: www.estadao.com.br. Acesso em: 1 mar. 2012 (adaptado).",
+      "alternativas_introducao": "Qual o mecanismo utilizado no experimento para enganar as células de defesa, fazendo com que ataquem o tumor?",
+      "alternativas": [
+        "A) Autoimunidade.",
+        "B) Hipersensibilidade.",
+        "C) Ativação da resposta inata.",
+        "D) Apresentação de antígeno específico.",
+        "E) Desencadeamento de processo anti-inflamatório."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/133"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 44,
+      "titulo": "Questão 134 - ENEM 2022",
+      "enunciado": "O sinal sonoro oriundo da queda de um grande bloco de gelo de uma geleira é detectado por dois dispositivos situados em um barco, sendo que o detector A está imerso em água e o B, na proa da embarcação. Sabe-se que a velocidade do som na água é de 1 540 m/s e no ar é de 340 m/s.\n\n![](https://enem.dev/2022/questions/134/6f7c3bcf-80c1-4d07-b043-70cbb639bb8f.jpg)\n\nOs gráficos indicam, em tempo real, o sinal sonoro detectado pelos dois dispositivos, os quais foram ligados simultaneamente em um instante anterior à queda do bloco de gelo. Ao comparar pontos correspondentes desse sinal em cada dispositivo, é possível obter informações sobre a onda sonora.\n\n![](https://enem.dev/2022/questions/134/01e05752-c516-4e12-a9f8-bcbe4b1e0296.jpg)",
+      "alternativas_introducao": "A distância L, em metro, entre o barco e a geleira é mais próxima de",
+      "alternativas": [
+        "A) 339 000.",
+        "B) 78 900.",
+        "C) 14 400.",
+        "D) 5 240.",
+        "E) 100."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2022/img/q044_principal.jpg",
+      "imagens_extras": [
+        "enem/2022/img/q044_extra1.jpg"
+      ],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/134"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 45,
+      "titulo": "Questão 135 - ENEM 2022",
+      "enunciado": "Em 2002, um mecânico da cidade mineira de Uberaba (MG) teve uma ideia para economizar o consumo de energia elétrica e iluminar a própria casa num dia de sol. Para isso, ele utilizou garrafas plásticas PET com água e cloro, conforme ilustram as figuras. Cada garrafa foi fixada ao telhado de sua casa em um buraco com diâmetro igual ao da garrafa, muito maior que o comprimento de onda da luz. Nos últimos dois anos, sua ideia já alcançou diversas partes do mundo e deve atingir a marca de 1 milhão de casas utilizando a “luz engarrafada”.\n\n![](https://enem.dev/2022/questions/135/c20e9e98-446f-4342-bf88-a8069abe0fb9.png)\n\nZOBEL, G. Brasileiro inventor de “Iuz engarrafada” tem ideia espalhada pelo mundo.  \nDisponível em: www.bbc.com. Acesso em 23 jun. 2022 (adaptado)",
+      "alternativas_introducao": "Que fenômeno óptico explica o funcionamento da “luz engarrafada”?",
+      "alternativas": [
+        "A) Difração.",
+        "B) Absorção.",
+        "C) Polarização.",
+        "D) Reflexão.",
+        "E) Refração."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2022/img/q045_principal.png",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/135"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 46,
+      "titulo": "Questão 136 - ENEM 2022",
+      "enunciado": "Uma máquina em operação tem sua temperatura T monitorada por meio de um registro gráfico, ao longo do tempo t. Essa máquina possui um pistão cuja velocidade V varia com a temperatura T da máquina, de acordo com a expressão V=T²−4. Após a máquina funcionar durante o intervalo de tempo de 10 horas, o seu operador analisa o registro gráfico, apresentado na figura, para avaliar a necessidade de eventuais ajustes, sabendo que a máquina apresenta falhas de funcionamento quando a velocidade do pistão se anula.\n\n![](https://enem.dev/2022/questions/136/44fff3b7-9ad8-4f02-8262-5b4c015a8228.png)",
+      "alternativas_introducao": "Quantas vezes a velocidade do pistão se anulou durante as 10 horas de funcionamento?",
+      "alternativas": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 4",
+        "E) 5"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2022/img/q046_principal.png",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/136"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 47,
+      "titulo": "Questão 137 - ENEM 2022",
+      "enunciado": "A World Series é a decisão do campeonato norte-americano de beisebol. Os dois times que chegam  \na essa fase jogam, entre si, até sete partidas. O primeiro desses times que completar quatro vitórias é declarado campeão.\n\nConsidere que, em todas as partidas, a probabilidade de qualquer um dos dois times vencer é sempre ![](https://enem.dev/2022/questions/137/091aafba-f2dd-4f19-9655-73e6bd1599b6.png)",
+      "alternativas_introducao": "Qual é a probabilidade de o time campeão ser aquele que venceu a primeira partida da World Series?",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)",
+        "E)"
+      ],
+      "imagens_alternativas": [
+        "enem/2022/img/q047_altA.png",
+        "enem/2022/img/q047_altB.png",
+        "enem/2022/img/q047_altC.png",
+        "enem/2022/img/q047_altD.png",
+        "enem/2022/img/q047_altE.png"
+      ],
+      "imagem_principal": "enem/2022/img/q047_principal.png",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/137"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 48,
+      "titulo": "Questão 138 - ENEM 2022",
+      "enunciado": "O gráfico apresenta os totais de receitas e despesas de uma empresa, expressos em milhão de reais, no  \ndecorrer dos meses de um determinado ano. A empresa obtém lucro quando a diferença entre receita e despesa é positiva e tem prejuízo quando essa diferença é negativa.\n\n![](https://enem.dev/2022/questions/138/d738a15a-a083-4720-af91-80d2b3259c9f.png)",
+      "alternativas_introducao": "Qual é a mediana, em milhão de reais, dos valores dos lucros apurados pela empresa nesse ano?",
+      "alternativas": [
+        "A) 1,5",
+        "B) 2,0",
+        "C) 2,9",
+        "D) 3,0",
+        "E) 5,5"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2022/img/q048_principal.png",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/138"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 49,
+      "titulo": "Questão 139 - ENEM 2022",
+      "enunciado": "Um casal está reformando a cozinha de casa e decidiu comprar um refrigerador novo. Observando a planta da nova cozinha, desenhada na escala de 1: 50, notaram que o espaço destinado ao refrigerador tinha 3,8 cm de altura e 1,6 cm de largura. Eles sabem que os fabricantes de refrigeradores indicam que, para um bom funcionamento e fácil manejo na limpeza, esses eletrodomésticos devem ser colocados em espaços que permitam uma distância de, pelo menos, 10 cm de outros móveis ou paredes, tanto na parte superior quanto nas laterais. O casal comprou um refrigerador que caberia no local a ele destinado na nova cozinha, seguindo as instruções do fabricante.",
+      "alternativas_introducao": "Esse refrigerador tem altura e largura máximas, em metro, respectivamente, iguais a",
+      "alternativas": [
+        "A) 1,80 e 0,60.",
+        "B) 1,80 e 0,70.",
+        "C) 1,90 e 0,80.",
+        "D) 2,00 e 0,90.",
+        "E) 2,00 e 1,00."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/139"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 50,
+      "titulo": "Questão 140 - ENEM 2022",
+      "enunciado": "Foram convidadas 32 equipes para um torneio de futebol, que foram divididas em 8 grupos com 4 equipes, sendo que, dentro de um grupo, cada equipe disputa uma única partida contra cada uma das demais equipes de seu grupo. A primeira e a segunda colocadas de cada grupo seguem para realizar as 8 partidas da próxima fase do torneio, chamada oitavas de final. Os vencedores das partidas das oitavas de final seguem para jogar as 4 partidas das quartas de final. Os vencedores das quartas de final disputam as 2 partidas das semifinais, e os vencedores avançam para a grande final, que define a campeã do torneio.\n\nPelas regras do torneio, cada equipe deve ter um período de descanso de, no mínimo, 3 dias entre dois jogos por ela disputados, ou seja, se um time disputar uma partida, por exemplo, num domingo, só poderá disputar a partida seguinte a partir da quinta-feira da mesma semana.",
+      "alternativas_introducao": "O número mínimo de dias necessários para a realização desse torneio é",
+      "alternativas": [
+        "A) 22.",
+        "B) 25.",
+        "C) 28.",
+        "D) 48.",
+        "E) 64."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/140"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 51,
+      "titulo": "Questão 141 - ENEM 2022",
+      "enunciado": "Em um jogo de bingo, as cartelas contêm 16 quadrículas dispostas em linhas e colunas. Cada quadrícula tem impresso um número, dentre os inteiros de 1 a 50, sem repetição de número. Na primeira rodada, um número é sorteado, aleatoriamente, dentre os 50 possíveis. Em todas as rodadas, o número sorteado é descartado e não participa dos sorteios das rodadas seguintes. Caso o jogador tenha em sua cartela o número sorteado, ele o assinala na cartela. Ganha o jogador que primeiro conseguir preencher quatro quadrículas que formam uma linha, uma coluna ou uma diagonal, conforme os tipos de situações ilustradas na Figura 1.\n\n![](https://enem.dev/2022/questions/141/e8e788ea-4e28-4ceb-b928-494d2ca68033.png)\n\nO jogo inicia e, nas quatro primeiras rodadas, foram sorteados os seguintes números: 03, 27, 07 e 48. Ao final da quarta rodada, somente Pedro possuía uma cartela que continha esses quatro números sorteados, sendo que todos os demais jogadores conseguiram assinalar, no máximo, um desses números em suas cartelas. Observe na Figura 2 o cartão de Pedro após as quatro primeiras rodadas.\n\n![](https://enem.dev/2022/questions/141/1e77b1bf-38e6-4145-b78b-91be4088bc11.png)",
+      "alternativas_introducao": "A probabilidade de Pedro ganhar o jogo em uma das duas próximas rodadas é",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)",
+        "E)"
+      ],
+      "imagens_alternativas": [
+        "enem/2022/img/q051_altA.png",
+        "enem/2022/img/q051_altB.png",
+        "enem/2022/img/q051_altC.png",
+        "enem/2022/img/q051_altD.png",
+        "enem/2022/img/q051_altE.png"
+      ],
+      "imagem_principal": "enem/2022/img/q051_principal.png",
+      "imagens_extras": [
+        "enem/2022/img/q051_extra1.png"
+      ],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/141"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 52,
+      "titulo": "Questão 142 - ENEM 2022",
+      "enunciado": "Uma montadora de automóveis divulgou que oferta a seus clientes mais de 1 000 configurações diferentes de carro, variando o modelo, a motorização, os opcionais e a cor do veículo. Atualmente, ela oferece 7 modelos de carros com 2 tipos de motores: 1.0 e 1.6. Já em relação aos opcionais, existem 3 escolhas possíveis: central multimídia, rodas de liga leve e bancos de couro, podendo o cliente optar por incluir um, dois, três ou nenhum dos opcionais disponíveis.",
+      "alternativas_introducao": "Para ser fiel à divulgação feita, a quantidade mínima de cores que a montadora deverá disponibilizar a seus clientes é",
+      "alternativas": [
+        "A) 8.",
+        "B) 9.",
+        "C) 11.",
+        "D) 18.",
+        "E) 24."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/142"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 53,
+      "titulo": "Questão 143 - ENEM 2022",
+      "enunciado": "Dentre as diversas planificações possíveis para o cubo, uma delas é a que se encontra apresentada na Figura 1.\n\n![](https://enem.dev/2022/questions/143/4da64c40-da53-4205-b673-aa5b6274e3e2.jpg)\n\nEm um cubo, foram pintados, em três de suas faces, quadrados de cor cinza escura, que ocupam um quarto dessas faces, tendo esses três quadrados um vértice em comum, conforme ilustrado na Figura 2.\n\n![](https://enem.dev/2022/questions/143/a05cd294-5321-4c85-a081-a86ed7aa3e39.jpg)",
+      "alternativas_introducao": "A planificação do cubo da Figura 2, conforme o tipo de planificação apresentada na Figura 1, é",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)",
+        "E)"
+      ],
+      "imagens_alternativas": [
+        "enem/2022/img/q053_altA.jpg",
+        "enem/2022/img/q053_altB.jpg",
+        "enem/2022/img/q053_altC.jpg",
+        "enem/2022/img/q053_altD.jpg",
+        "enem/2022/img/q053_altE.jpg"
+      ],
+      "imagem_principal": "enem/2022/img/q053_principal.jpg",
+      "imagens_extras": [
+        "enem/2022/img/q053_extra1.jpg"
+      ],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/143"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 54,
+      "titulo": "Questão 144 - ENEM 2022",
+      "enunciado": "Cada número que identifica uma agência bancária tem quatro dígitos: ![](https://enem.dev/2022/questions/144/2c8c344f-3729-4f6b-bbb9-24097d77f58a.jpg),![](https://enem.dev/2022/questions/144/6af5740b-feed-4fd4-bde9-486ad2f96240.jpg),![](https://enem.dev/2022/questions/144/4af33750-a0d5-4acc-abe1-c004f5d8451e.jpg),![](https://enem.dev/2022/questions/144/ea762333-b644-495d-bd01-3c0bf752599a.jpg) mais um dígito verificador ![](https://enem.dev/2022/questions/144/f4712f57-56ec-4a65-9e2e-f7c34f4b775f.jpg).\n\n![](https://enem.dev/2022/questions/144/f88bc2d5-7b64-49cf-bd9d-28ddde048358.jpg)\n\nTodos esses dígitos são números naturais pertencentes ao conjunto {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. Para a determinação de N5, primeiramente multiplica-se  \nordenadamente os quatro primeiros dígitos do número da agência por 5, 4, 3 e 2, respectivamente, somam-se os resultados e obtém-se S = 5 ![](https://enem.dev/2022/questions/144/981157e8-d269-4be5-8aba-f496109d3f31.jpg)\\+ 4 ![](https://enem.dev/2022/questions/144/89772d85-6273-49c5-95e4-569b4014ca22.jpg)\\+ 3 ![](https://enem.dev/2022/questions/144/164c2b6f-8be5-4ca3-88f7-12fe5a5e872c.jpg)\\+ 2 ![](https://enem.dev/2022/questions/144/ad29c509-a515-4ae6-9d86-451780d68e14.jpg). Posteriormente, encontra-se o resto da divisão de S por 11, denotando por R esse resto. Dessa forma, N5 é a diferença 11 − R.  \nConsidere o número de uma agência bancária cujos quatro primeiros dígitos são 0100.",
+      "alternativas_introducao": "Qual é o dígito verificador N5 dessa agência bancária?",
+      "alternativas": [
+        "A) 6",
+        "B) 7",
+        "C) 8",
+        "D) 9"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2022/img/q054_principal.jpg",
+      "imagens_extras": [
+        "enem/2022/img/q054_extra1.jpg",
+        "enem/2022/img/q054_extra2.jpg",
+        "enem/2022/img/q054_extra3.jpg",
+        "enem/2022/img/q054_extra4.jpg",
+        "enem/2022/img/q054_extra5.jpg",
+        "enem/2022/img/q054_extra6.jpg",
+        "enem/2022/img/q054_extra7.jpg",
+        "enem/2022/img/q054_extra8.jpg",
+        "enem/2022/img/q054_extra9.jpg"
+      ],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/144"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 55,
+      "titulo": "Questão 145 - ENEM 2022",
+      "enunciado": "O pacote básico de um jogo para smartphone, que é vendido a R$ 50,00, contém 2 000 gemas e 100 000 moedas de ouro, que são itens utilizáveis nesse jogo.  \nA empresa que comercializa esse jogo decidiu criar um pacote especial que será vendido a R$ 100,00 e que se diferenciará do pacote básico por apresentar maiores quantidades de gemas e moedas de ouro. Para estimular as vendas desse novo pacote, a empresa decidiu inserir nele 6 000 gemas a mais, em relação ao que o cliente teria caso optasse por comprar, com a mesma quantia, dois pacotes básicos.",
+      "alternativas_introducao": "A quantidade de moedas de ouro que a empresa deverá inserir ao pacote especial, para que seja mantida a mesma proporção existente entre as quantidades de gemas e de moedas de ouro contidas no pacote básico, é",
+      "alternativas": [
+        "A) 50 000.",
+        "B) 100 000.",
+        "C) 200 000.",
+        "D) 300 000.",
+        "E) 400 000."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/145"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 56,
+      "titulo": "Questão 146 - ENEM 2022",
+      "enunciado": "Um parque tem dois circuitos de tamanhos diferentes para corridas. Um corredor treina nesse parque e, no primeiro dia, inicia seu treino percorrendo  \n3 voltas em torno do circuito maior e 2 voltas em torno do menor, perfazendo um total de 1 800 m. Em seguida, dando continuidade a seu treino, corre mais 2 voltas em torno do circuito maior e 1 volta em torno do menor,  \npercorrendo mais 1 100 m.\n\nNo segundo dia, ele pretende percorrer 5 000 m nos circuitos do parque, fazendo um número inteiro de voltas em torno deles e de modo que o número de voltas seja o maior possível.",
+      "alternativas_introducao": "A soma do número de voltas em torno dos dois circuitos, no segundo dia, será",
+      "alternativas": [
+        "A) 10.",
+        "B) 13.",
+        "C) 14.",
+        "D) 15.",
+        "E) 16"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/146"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 57,
+      "titulo": "Questão 147 - ENEM 2022",
+      "enunciado": "Uma equipe de marketing digital foi contratada para aumentar as vendas de um produto ofertado em um site de comércio eletrônico. Para isso, elaborou um anúncio que, quando o cliente clica sobre ele, é direcionado  \npara a página de vendas do produto. Esse anúncio foi divulgado em duas redes sociais, A e B, e foram obtidos os seguintes resultados:\n\n• rede social A: o anúncio foi visualizado por 3 000 pessoas; 10% delas clicaram sobre o anúncio e foram redirecionadas para o site; 3% das que clicaram sobre o anúncio compraram o produto. O investimento feito para a publicação do anúncio nessa rede foi de R$ 100,00;\n\n• rede social B: o anúncio foi visualizado por 1 000 pessoas; 30% delas clicaram sobre o anúncio e foram redirecionadas para o site; 2% das que  \nclicaram sobre o anúncio compraram o produto. O investimento feito para a publicação do anúncio nessa rede foi de R$ 200,00.\n\nPor experiência, o pessoal da equipe de marketing considera que a quantidade de novas pessoas que verão o anúncio é diretamente proporcional ao investimento realizado, e que a quantidade de pessoas que comprarão o produto também se manterá proporcional à quantidade de pessoas que clicarão sobre o anúncio.  \nO responsável pelo produto decidiu, então, investir mais R$ 300,00 em cada uma das duas redes sociais para a divulgação desse anúncio e obteve, de fato, o aumento proporcional esperado na quantidade de clientes que compraram esse produto. Para classificar o aumento obtido na quantidade (Q) de compradores desse produto, em consequência dessa segunda divulgação, em relação aos resultados observados na primeira divulgação, o  \nresponsável pelo produto adotou o seguinte critério:\n\n• Q ≤ 60%: não satisfatório;  \n• 60% < Q ≤ 100%: regular;  \n• 100% < Q ≤ 150%: bom;  \n• 150% < Q ≤ 190%: muito bom;  \n• 190% < Q ≤ 200%: excelente",
+      "alternativas_introducao": "O aumento na quantidade de compradores, em consequência dessa segunda divulgação, em relação\nao que foi registrado com a primeira divulgação, foi classificado como",
+      "alternativas": [
+        "A) Não satisfatório.",
+        "B) Regular.",
+        "C) Bom.",
+        "D) Muito bom.",
+        "E) Excelente."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/147"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 58,
+      "titulo": "Questão 148 - ENEM 2022",
+      "enunciado": "A luminosidade _L_ de uma estrela está relacionada com o raio _R_ e com a temperatura _T_ dessa estrela segundo a Lei de Stefan-Boltzmann: ![](https://enem.dev/2022/questions/148/00e98ef8-6901-4d38-91f1-1fa1afda8b14.png) em que c é uma constante igual para todas as estrelas.\n\nDisponível em: http://ciencia.hsw.uol.com.br. Acesso em: 22 nov. 2013 (adaptado)\n\nConsidere duas estrelas _E_ e _F_, sendo que a estrela _E_ tem metade do raio da estrela _F_ e o dobro da temperatura de _F_.",
+      "alternativas_introducao": "Indique por LE  e LF suas respectivas luminosidades.\nA relação entre as luminosidades dessas duas estrelas é dada por",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)",
+        "E)"
+      ],
+      "imagens_alternativas": [
+        "enem/2022/img/q058_altA.png",
+        "enem/2022/img/q058_altB.png",
+        "enem/2022/img/q058_altC.png",
+        "enem/2022/img/q058_altD.png",
+        "enem/2022/img/q058_altE.png"
+      ],
+      "imagem_principal": "enem/2022/img/q058_principal.png",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/148"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 59,
+      "titulo": "Questão 149 - ENEM 2022",
+      "enunciado": "Uma das informações que pode auxiliar no dimensionamento do número de pediatras que devem atender em uma Unidade Básica de Saúde (UBS) é o número que representa a mediana da quantidade de crianças por família existente na região sob sua responsabilidade. O quadro mostra a distribuição das frequências do número de crianças por família na região de responsabilidade de uma UBS.\n\n![](https://enem.dev/2022/questions/149/d92eba46-c91d-43d9-accf-ec06c4506ac1.png)",
+      "alternativas_introducao": "O número que representa a mediana da quantidade de crianças por família nessa região é",
+      "alternativas": [
+        "A) 1,0.",
+        "B) 1,5.",
+        "C) 1,9.",
+        "D) 2,1.",
+        "E) 2,5."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2022/img/q059_principal.png",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/149"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 60,
+      "titulo": "Questão 150 - ENEM 2022",
+      "enunciado": "Em jogos de voleibol, um saque é invalidado se a bola atingir o teto do ginásio onde ocorre o jogo. Um jogador de uma equipe tem um saque que atinge uma grande altura. Seu recorde foi quando a batida do saque se iniciou a uma altura de 1,5 m do piso da quadra, e a trajetória da bola foi descrita pela parábola ![](https://enem.dev/2022/questions/150/764fcc6a-f737-404f-867b-7caacf69134e.png) , em que y representa a altura da bola em relação ao eixo x (das abscissas) que está localizado a 1,5 m do piso da quadra, como representado na figura. Suponha que em todas as partidas algum saque desse jogador atinja a mesma altura do seu recorde.\n\n![](https://enem.dev/2022/questions/150/0964fd1c-cef0-4132-981d-c148bd70f0aa.png)\n\nA equipe desse jogador participou de um torneio de voleibol no qual jogou cinco partidas, cada uma delas  \nem um ginásio diferente. As alturas dos tetos desses ginásios, em relação aos pisos das quadras, são:  \n• ginásio I: 17 m;  \n• ginásio II: 18 m;  \n• ginásio III: 19 m;  \n• ginásio IV: 21 m;  \n• ginásio V: 40 m.",
+      "alternativas_introducao": "O saque desse atleta foi invalidado",
+      "alternativas": [
+        "A) Apenas no ginásio I.",
+        "B) Apenas nos ginásios I e II.",
+        "C) Apenas nos ginásios I, II e III.",
+        "D) Apenas nos ginásios I, II, III e IV.",
+        "E) Em todos os ginásios."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2022/img/q060_principal.png",
+      "imagens_extras": [
+        "enem/2022/img/q060_extra1.png"
+      ],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/150"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 61,
+      "titulo": "Questão 151 - ENEM 2022",
+      "enunciado": "Um médico faz o acompanhamento clínico de um grupo de pessoas que realizam atividades físicas diariamente. Ele observou que a perda média de massa dessas pessoas para cada hora de atividade física era de 1,5 kg. Sabendo que a massa de 1 L de água é de 1 kg, ele recomendou que ingerissem, ao longo das 3 horas seguintes ao final da atividade, uma quantidade total de água correspondente a 40% a mais do que a massa perdida na atividade física, para evitar desidratação.\n\nSeguindo a recomendação médica, uma dessas pessoas ingeriu, certo dia, um total de 1,7 L de água após  \nterminar seus exercícios físicos.",
+      "alternativas_introducao": "Para que a recomendação médica tenha efetivamente sido respeitada, a atividade física dessa pessoa, nesse dia, durou",
+      "alternativas": [
+        "A) 30 minutos ou menos.",
+        "B) Mais de 35 e menos de 45 minutos.",
+        "C) Mais de 45 e menos de 55 minutos.",
+        "D) Mais de 60 e menos de 70 minutos.",
+        "E) 70 minutos ou mais."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/151"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 62,
+      "titulo": "Questão 152 - ENEM 2022",
+      "enunciado": "Em uma sala de cinema, para garantir que os espectadores vejam toda a imagem projetada na tela, a disposição das poltronas deve obedecer à norma técnica da Associação Brasileira de Normas Técnicas (ABNT), que faz as seguintes indicações:  \n• Distância mínima (Dmín) entre a tela de projeção e o encosto da poltrona da primeira fileira deve ser de, pelo menos, 60% da largura (L) da tela.  \n• Distância máxima (Dmáx) entre a tela de projeção e o encosto da poltrona da última fileira deve ser o dobro da largura (L) da tela, sendo aceitável uma distância de até 2,9 vezes a largura (L) da tela.  \nPara o espaçamento entre as fileiras de poltronas, é considerada a distância de 1 metro entre os encostos de poltronas em duas fileiras consecutivas.\n\nDisponível em: www.ctav.gov.br. Acesso em: 14 nov. 2013.\n\nDisponível em: www.ctav.gov.br. Acesso em: 14 nov. 2013.\n\n![](https://enem.dev/2022/questions/152/f182fb95-a05f-4d8d-bd7d-bbf7adf3d95b.png)\n\nPretende-se ampliar essa sala, mantendo-se na mesma posição a tela e todas as poltronas já instaladas,  \nampliando-se ao máximo a sala para os fundos (área de instalação de novas poltronas), respeitando-se o limite aceitável da norma da ABNT. A intenção é aumentar, ao máximo, a quantidade de poltronas da sala, instalando-se novas unidades, iguais às já instaladas.",
+      "alternativas_introducao": "Quantas fileiras de poltronas a sala comportará após essa ampliação?",
+      "alternativas": [
+        "A) 26",
+        "B) 27",
+        "C) 28",
+        "D) 29",
+        "E) 35"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2022/img/q062_principal.png",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/152"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 63,
+      "titulo": "Questão 153 - ENEM 2022",
+      "enunciado": "![](https://enem.dev/2022/questions/153/f85bbaf3-e20e-48e7-8a5f-143804fa1743.png)\n\nUma empresa produz e vende um tipo de chocolate, maciço, em formato de cone circular reto com as medidas do diâmetro da base e da altura iguais a 8 cm e 10 cm, respectivamente, como apresenta a figura.\n\nDevido a um aumento de preço dos ingredientes utilizados na produção desse chocolate, a empresa  \ndecide produzir esse mesmo tipo de chocolate com um volume 19% menor, no mesmo formato de cone circular reto com altura de 10 cm.",
+      "alternativas_introducao": "Para isso, a empresa produzirá esses novos chocolates com medida do raio da base, em centímetro, igual a",
+      "alternativas": [
+        "A) 1,52.",
+        "B) 3,24.",
+        "C) 3,60.",
+        "D) 6,48.",
+        "E) 7,20."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2022/img/q063_principal.png",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/153"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 64,
+      "titulo": "Questão 154 - ENEM 2022",
+      "enunciado": "Em janeiro de 2013, foram declaradas 1 794 272 admissões e 1 765 372 desligamentos no Brasil, ou seja,  \nforam criadas 28 900 vagas de emprego, segundo dados do Cadastro Geral de Empregados e Desempregados (Caged), divulgados pelo Ministério do Trabalho e Emprego (MTE). Segundo o Caged, o número de vagas criadas em janeiro de 2013 sofreu uma queda de 75%, quando comparado com o mesmo período de 2012.\n\nDisponível em: http://portal.mte.gov.br. Acesso em: 23 fev. 2013 (adaptado).",
+      "alternativas_introducao": "De acordo com as informações dadas, o número de vagas criadas em janeiro de 2012 foi",
+      "alternativas": [
+        "A) 16 514.",
+        "B) 86 700.",
+        "C) 115 600.",
+        "D) 441 343.",
+        "E) 448 568."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/154"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 65,
+      "titulo": "Questão 155 - ENEM 2022",
+      "enunciado": "Um prédio, com 9 andares e 8 apartamentos de 2 quartos por andar, está com todos os seus apartamentos à venda. Os apartamentos são identificados por números formados por dois algarismos, sendo que a dezena indica o andar onde se encontra o apartamento, e a unidade, um algarismo de 1 a 8, que diferencia os apartamentos de um mesmo andar. Quanto à incidência de sol nos quartos desses apartamentos, constatam-se as seguintes características, em função de seus números de identificação:  \n• naqueles que finalizam em 1 ou 2, ambos os quartos recebem sol apenas na parte da manhã;  \n• naqueles que finalizam em 3, 4, 5 ou 6, apenas um dos quartos recebe sol na parte da manhã;  \n• naqueles que finalizam em 7 ou 8, ambos os quartos recebem sol apenas na parte da tarde.\n\nUma pessoa pretende comprar 2 desses apartamentos em um mesmo andar, mas quer que, em ambos, pelo menos um dos quartos receba sol na parte da manhã.",
+      "alternativas_introducao": "De quantas maneiras diferentes essa pessoa poderá escolher 2 desses apartamentos para compra nas condições desejadas?",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)",
+        "E)"
+      ],
+      "imagens_alternativas": [
+        "enem/2022/img/q065_altA.png",
+        "enem/2022/img/q065_altB.png",
+        "enem/2022/img/q065_altC.png",
+        "enem/2022/img/q065_altD.png",
+        "enem/2022/img/q065_altE.png"
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/155"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 66,
+      "titulo": "Questão 156 - ENEM 2022",
+      "enunciado": "O professor de artes orientou seus estudantes a realizarem a seguinte sequência de atividades:  \n• Dobrar uma folha de papel em formato quadrado duas vezes, em sequência, ao longo das linhas tracejadas, conforme ilustrado nas figuras 1 e 2, para obter o papel dobrado, conforme Figura 3.\n\n![](https://enem.dev/2022/questions/156/2b1f4d30-ed72-40af-824d-6d394c9d948d.png)\n\n• Em seguida, no papel dobrado da Figura 3, considerar o ponto _R_, sobre o segmento _OM_, sendo  o ponto médio do lado do quadrado original, de modo que ![](https://enem.dev/2022/questions/156/2a89a0e4-1a8b-4b3f-a678-97fa60066bcc.png), traçar um arco de circunferência de raio medindo ![](https://enem.dev/2022/questions/156/1665e780-8437-449e-b389-8d9729b2980c.png) com centro no ponto _R_, obtendo a Figura 4. Por último, recortar o papel ao longo do arco de circunferência e excluir a parte que contém o setor circular, obtendo o papel dobrado, conforme Figura 5.\n\n![](https://enem.dev/2022/questions/156/bf9a172b-bd1e-4e83-9d95-6bc3fd29eadc.png)",
+      "alternativas_introducao": "Após desdobrado o papel que restou na Figura 5, a figura plana que os estudantes obterão será",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)",
+        "E)"
+      ],
+      "imagens_alternativas": [
+        "enem/2022/img/q066_altA.png",
+        "enem/2022/img/q066_altB.png",
+        "enem/2022/img/q066_altC.png",
+        "enem/2022/img/q066_altD.png",
+        "enem/2022/img/q066_altE.png"
+      ],
+      "imagem_principal": "enem/2022/img/q066_principal.png",
+      "imagens_extras": [
+        "enem/2022/img/q066_extra1.png",
+        "enem/2022/img/q066_extra2.png",
+        "enem/2022/img/q066_extra3.png"
+      ],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/156"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 67,
+      "titulo": "Questão 157 - ENEM 2022",
+      "enunciado": "O funcionário de uma loja tem seu salário mensal formado por uma parcela fixa de 675 reais mais uma comissão que depende da quantidade de peças vendidas por ele no mês. O cálculo do valor dessa comissão é feito de acordo com estes critérios:  \n• até a quinquagésima peça vendida, paga-se 5 reais por peça;  \n• a partir da quinquagésima primeira peça vendida, o valor pago é de 7 reais por peça.  \nRepresente por q a quantidade de peças vendidas no mês por esse funcionário, e por S(q) o seu salário mensal, em real, nesse mês.",
+      "alternativas_introducao": "A expressão algébrica que descreve S(q) em função de q é",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)",
+        "E)"
+      ],
+      "imagens_alternativas": [
+        "enem/2022/img/q067_altA.png",
+        "enem/2022/img/q067_altB.png",
+        "enem/2022/img/q067_altC.png",
+        "enem/2022/img/q067_altD.png",
+        "enem/2022/img/q067_altE.png"
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/157"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 68,
+      "titulo": "Questão 158 - ENEM 2022",
+      "enunciado": "Ao analisar os dados de uma epidemia em uma cidade, peritos obtiveram um modelo que avalia a quantidade de pessoas infectadas a cada mês, ao longo de um ano. O modelo é dado por ![](https://enem.dev/2022/questions/158/94d1c253-bab8-44b6-aa7a-7bd9552dc398.png), sendo t um número natural, variando de 1 a 12, que representa os meses do ano, e p(t) a quantidade de pessoas infectadas no mês t do ano. Para tentar diminuir o número de infectados no próximo ano, a Secretaria Municipal de Saúde decidiu intensificar a propaganda oficial sobre os cuidados com a epidemia. Foram apresentadas cinco propostas (I, II, III, IV e V), com diferentes períodos de intensificação das propagandas:\n\n![](https://enem.dev/2022/questions/158/e0b502d3-500e-42da-8e2b-431e83be58ff.png)\n\nA sugestäo dos peritos é que seja escolhida a proposta cujo período de intensificação da propaganda englobe o mês em que, sequndo o modelo, há a maior quantidade de infectados. A sugestão foi aceita.",
+      "alternativas_introducao": "A proposta escolhida foi a",
+      "alternativas": [
+        "A) I.",
+        "B) II.",
+        "C) III.",
+        "D) IV.",
+        "E) V."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2022/img/q068_principal.png",
+      "imagens_extras": [
+        "enem/2022/img/q068_extra1.png"
+      ],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/158"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 69,
+      "titulo": "Questão 159 - ENEM 2022",
+      "enunciado": "Um atleta iniciou seu treinamento visando as competições de fim de ano. Seu treinamento consiste em cinco tipos diferentes de treinos: treino ![](https://enem.dev/2022/questions/159/1de0b45e-d38b-4536-8661-c1c388ecd03d.png),  treino ![](https://enem.dev/2022/questions/159/0ab1a35f-7889-478e-a862-0edb86d335e6.png), treino  ![](https://enem.dev/2022/questions/159/8b00bc00-9af3-465a-89f2-3345b604b54b.png), treino ![](https://enem.dev/2022/questions/159/14be4d1d-8e19-41a5-bb02-cec32e90d007.png) e treino ![](https://enem.dev/2022/questions/159/136e1c72-59e2-41e7-95d7-b55e4ae92da3.png). A sequência dos treinamentos deve seguir esta ordem:\n\n![](https://enem.dev/2022/questions/159/1c8945f7-b377-4bf6-9eb8-2a44c3c69e2a.png)\n\nA letra R significa repouso. Após completar a sequência de treinamentos, o atleta começa novamente a sequência a partir do treino ![](https://enem.dev/2022/questions/159/660fa349-2c52-41aa-adae-bcd4adaad92e.png), e segue a ordem descrita. Após 24 semanas completas de treinamento, se dará o inicio das competições.\n\nPlease select text to grab.\n\nCopyfish\n\nestöes20112Fonteestões2011\n\nOCR successful\n\n##### OCR Result(Auto-Detect)\n\nN/A\n\n##### Translated(English)\n\nRedo OCR Recapture Re-Translate Copy to clipboard",
+      "alternativas_introducao": "A sequência de treinamentos que o atleta realizará na 24ª semana de treinos é",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)",
+        "E)"
+      ],
+      "imagens_alternativas": [
+        "enem/2022/img/q069_altA.png",
+        "enem/2022/img/q069_altB.png",
+        "enem/2022/img/q069_altC.png",
+        "enem/2022/img/q069_altD.png",
+        "enem/2022/img/q069_altE.png"
+      ],
+      "imagem_principal": "enem/2022/img/q069_principal.png",
+      "imagens_extras": [
+        "enem/2022/img/q069_extra1.png",
+        "enem/2022/img/q069_extra2.png",
+        "enem/2022/img/q069_extra3.png",
+        "enem/2022/img/q069_extra4.png",
+        "enem/2022/img/q069_extra5.png",
+        "enem/2022/img/q069_extra6.png"
+      ],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/159"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 70,
+      "titulo": "Questão 160 - ENEM 2022",
+      "enunciado": "Um robô, que tem um ímã em sua base, se desloca sobre a superfície externa de um cubo metálico, ao longo de segmentos de reta cujas extremidades são pontos médios de arestas e centros de faces. Ele inicia seu deslocamento no ponto **P**, centro da face superior do cubo, segue para o centro da próxima face, converte à esquerda e segue para o centro da face seguinte, converte à direita e continua sua movimentação, sempre alternando entre conversões à esquerda e à direita quando alcança o centro de uma face. O robô só termina sua movimentação quando retorna ao ponto **P**. A figura apresenta os deslocamentos iniciais desse robô.\n\n![](https://enem.dev/2022/questions/160/c9e8168c-5f91-45a5-82a3-c5a2948bf0a9.png)",
+      "alternativas_introducao": "A projeção ortogonal do trajeto descrito por esse robô sobre o plano da base, após terminada sua movimentação, visualizada da posição em que se está enxergando esse cubo, é",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)",
+        "E)"
+      ],
+      "imagens_alternativas": [
+        "enem/2022/img/q070_altA.png",
+        "enem/2022/img/q070_altB.png",
+        "enem/2022/img/q070_altC.png",
+        "enem/2022/img/q070_altD.png",
+        "enem/2022/img/q070_altE.png"
+      ],
+      "imagem_principal": "enem/2022/img/q070_principal.png",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/160"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 71,
+      "titulo": "Questão 161 - ENEM 2022",
+      "enunciado": "Uma empresa de engenharia projetou uma casa com a forma de um retângulo para um de seus clientes. Esse cliente solicitou a inclusão de uma varanda em forma de L. A figura apresenta a planta baixa desenhada pela empresa, já com a varanda incluída, cujas medidas, indicadas em centímetro, representam os valores das dimensões da varanda na escala de 1 : 50.\n\n![](https://enem.dev/2022/questions/161/e1e86e81-76dc-4763-a118-273941076831.png)",
+      "alternativas_introducao": "A medida real da área da varanda, em metro quadrado, é",
+      "alternativas": [
+        "A) 33,40",
+        "B) 66,80",
+        "C) 89,24",
+        "D) 133,60",
+        "E) 534,40"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2022/img/q071_principal.png",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/161"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 72,
+      "titulo": "Questão 162 - ENEM 2022",
+      "enunciado": "Uma loja de roupas fixou uma meta de vendas de 77 000 reais para um determinado mês de 30 dias. O gráfico mostra o volume de vendas dessa loja, em real, nos dez primeiros dias do mês e entre o dia dez e o dia vinte desse mês, nos seus dois únicos setores (infantil e adulto). Suponha que a variação no volume de vendas, para o período registrado, tenha se dado de forma linear, como mostrado no gráfico, e que essa tendência se mantenha a mesma para os próximos dez dias.\n\n![](https://enem.dev/2022/questions/162/0942383a-b8ee-4c44-a9ad-ae50d4204c0c.png)",
+      "alternativas_introducao": "Ao final do trigésimo dia, quanto faltará no volume de vendas, em real, para que a meta fixada para o mês seja alcançada?",
+      "alternativas": [
+        "A) 5 000",
+        "B) 7 000",
+        "C) 11 000",
+        "D) 18 000",
+        "E) 29 000"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2022/img/q072_principal.png",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/162"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 73,
+      "titulo": "Questão 163 - ENEM 2022",
+      "enunciado": "Em uma universidade, atuam professores que estão enquadrados funcionalmente pela sua maior titulação: mestre ou doutor. Nela há, atualmente, 60 mestres e 40 doutores. Os salários mensais dos professores mestres e dos doutores são, respectivamente, R$ 8 000,00 e  \nR$ 12 000,00.  \nA diretoria da instituição pretende proporcionar um aumento salarial diferenciado para o ano seguinte, de tal forma que o salário médio mensal dos professores dessa instituição não ultrapasse R$ 12 240,00. A universidade já estabeleceu que o aumento salarial será de 25% para os mestres e precisa ainda definir o percentual de reajuste para os doutores.",
+      "alternativas_introducao": "Mantido o número atual de professores com suas atuais titulações, o aumento salarial, em porcentagem, a ser concedido aos doutores deverá ser de, no máximo,",
+      "alternativas": [
+        "A) 14,4.",
+        "B) 20,7.",
+        "C) 22,0.",
+        "D) 30,0.",
+        "E) 37,5"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/163"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 74,
+      "titulo": "Questão 164 - ENEM 2022",
+      "enunciado": "Um borrifador de atuação automática libera, a cada acionamento, uma mesma quantidade de inseticida. O recipiente desse produto, quando cheio, contém 360 mL de inseticida, que duram 60 dias se o borrifador permanecer ligado ininterruptamente e for acionado a cada 48 minutos.",
+      "alternativas_introducao": "A quantidade de inseticida que é liberada a cada acionamento do borrifador, em mililitro, é",
+      "alternativas": [
+        "A) 0,125.",
+        "B) 0,200.",
+        "C) 4,800.",
+        "D) 6,000.",
+        "E) 12,000."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/164"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 75,
+      "titulo": "Questão 165 - ENEM 2022",
+      "enunciado": "Definem-se o dia e o ano de um planeta de um sistema solar como sendo, respectivamente, o tempo que o planeta leva para dar 1 volta completa em torno de seu próprio eixo de rotação e o tempo para dar 1 volta completa em torno de seu Sol.  \nSuponha que exista um planeta Z, em algum sistema solar, onde um dia corresponda a 73 dias terrestres e que 2 de seus anos correspondam a 1 ano terrestre. Considere que 1 ano terrestre tem 365 de seus dias.",
+      "alternativas_introducao": "No planeta Z, seu ano corresponderia a quantos de seus dias?",
+      "alternativas": [
+        "A) 2,5",
+        "B) 10,0",
+        "C) 730,0",
+        "D) 13 322,5",
+        "E) 53 290,0"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/165"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 76,
+      "titulo": "Questão 166 - ENEM 2022",
+      "enunciado": "Em uma competição de velocidade, diz-se que há uma ultrapassagem quando um veículo que está atrás de outro passa à sua frente, com ambos se deslocando no mesmo sentido. Considere uma competição automobilística entre cinco carros em uma pista com 100 m de comprimento, onde todos largam no mesmo instante e da mesma linha.  \nO gráfico mostra a variação da distância percorrida por cada  \nveículo, em função do tempo, durante toda a competição.\n\n![](https://enem.dev/2022/questions/166/efa5ccf4-a844-4c87-b110-7a675585a779.png)",
+      "alternativas_introducao": "Qual o número de ultrapassagens, após o início da competição, efetuadas pelo veículo que chegou em\núltimo lugar?",
+      "alternativas": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 4"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2022/img/q076_principal.png",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/166"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 77,
+      "titulo": "Questão 167 - ENEM 2022",
+      "enunciado": "Em uma loja, o preço promocional de uma geladeira é de R$ 1 000,00 para pagamento somente em dinheiro. Seu preço normal, fora da promoção, é 10% maior. Para pagamento feito com o cartão de crédito da loja, é dado um desconto de 2% sobre o preço normal.  \nUma cliente decidiu comprar essa geladeira, optando pelo pagamento com o cartão de crédito da loja. Ela calculou que o valor a ser pago seria o preço promocional acrescido de 8%. Ao ser informada pela loja do valor a  \npagar, segundo sua opção, percebeu uma diferença entre seu cálculo e o valor que lhe foi apresentado",
+      "alternativas_introducao": "O valor apresentado pela loja, comparado ao valor calculado pela cliente, foi",
+      "alternativas": [
+        "A) R$ 2,00 menor.",
+        "B) R$ 100,00 menor.",
+        "C) R$ 200,00 menor.",
+        "D) R$ 42,00 maior.",
+        "E) R$ 80,00 maior."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/167"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 78,
+      "titulo": "Questão 168 - ENEM 2022",
+      "enunciado": "Uma pessoa precisa se deslocar de automóvel do ponto P para o ponto Q, indicados na figura, na qual as linhas verticais e horizontais simbolizam ruas\n\n![](https://enem.dev/2022/questions/168/5c7c6e9a-c900-4910-a9d0-af84f8f5b8c4.png)\n\nPor causa do sentido de tráfego nessas ruas, o caminho poligonal destacado é a possibilidade mais curta de efetuar esse deslocamento. Para descrevê-lo, deve-se especificar qual o sentido a ser tomado em cada cruzamento de ruas, em relação à direção de deslocamento do automóvel, que se movimentará continuamente. Para isso, empregam-se as letras E, F e D para indicar  \n“vire à esquerda”, “siga em frente” e “vire à direita”, respectivamente.",
+      "alternativas_introducao": "A sequência de letras que descreve o caminho poligonal destacado é",
+      "alternativas": [
+        "A) DDEFDDEEFFD.",
+        "B) DFEFDDDEFFD.",
+        "C) DFEFDDEEFFD.",
+        "D) EFDFEEDDFFE.",
+        "E) EFDFEEEDFFE."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2022/img/q078_principal.png",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/168"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 79,
+      "titulo": "Questão 169 - ENEM 2022",
+      "enunciado": "Uma loja comercializa cinco modelos de caixas-d’água (I, II, III, IV e V), todos em formato de cilindro reto de base circular. Os modelos II, III, IV e V têm as especificações de suas dimensões dadas em relação às dimensões do modelo I, cuja profundidade é P e área da base é Ab, como segue:\n\n• modelo II: o dobro da profundidade e a metade da  \nárea da base do modelo I;  \n• modelo III: o dobro da profundidade e a metade do  \nraio da base do modelo I;  \n• modelo IV: a metade da profundidade e o dobro da  \nárea da base do modelo I;  \n• modelo V: a metade da profundidade e o dobro do  \nraio da base do modelo I.\n\nUma pessoa pretende comprar nessa loja o modelo  \nde caixa-d’água que ofereça a maior capacidade  \nvolumétrica",
+      "alternativas_introducao": "O modelo escolhido deve ser o",
+      "alternativas": [
+        "A) I.",
+        "B) II.",
+        "C) III.",
+        "D) IV.",
+        "E) V."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/169"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 80,
+      "titulo": "Questão 170 - ENEM 2022",
+      "enunciado": "No período de 2005 a 2013, o valor de venda dos imóveis em uma cidade apresentou alta, o que resultou no aumento dos aluguéis. Os gráficos apresentam a evolução desses valores, para um mesmo imóvel, no  \nmercado imobiliário dessa cidade.\n\n![](https://enem.dev/2022/questions/170/be397d74-899b-444a-b587-931e9c3505ca.png)\n\nA rentabilidade do aluguel de um imóvel é calculada pela razão entre o valor mensal de aluguel e o valor de mercado desse imóvel.",
+      "alternativas_introducao": "Com base nos dados fornecidos, em que ano a rentabilidade do aluguel foi maior?",
+      "alternativas": [
+        "A) 2005",
+        "B) 2007",
+        "C) 2009",
+        "D) 2011",
+        "E) 2013"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2022/img/q080_principal.png",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/170"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 81,
+      "titulo": "Questão 171 - ENEM 2022",
+      "enunciado": "Nos cinco jogos finais da última temporada, com uma média de 18 pontos por jogo, um jogador foi eleito o melhor do campeonato de basquete. Na atual temporada, cinco jogadores têm a chance de igualar ou melhorar essa média. No quadro estão registradas as pontuações desses cinco jogadores nos quatro primeiros jogos das finais deste ano.\n\n![](https://enem.dev/2022/questions/171/45b098d3-26d2-49c5-a129-40e85febb05b.png)\n\nO quinto e último jogo será realizado para decidir a equipe campeã e qual o melhor jogador da temporada.",
+      "alternativas_introducao": "O jogador que precisa fazer a menor quantidade de pontos no quinto jogo, para igualar a média de pontos do melhor jogador da temporada passada, é o",
+      "alternativas": [
+        "A) I.",
+        "B) II.",
+        "C) III.",
+        "D) IV.",
+        "E) V."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2022/img/q081_principal.png",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/171"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 82,
+      "titulo": "Questão 172 - ENEM 2022",
+      "enunciado": "Um casal planeja construir em sua chácara uma piscina com o formato de um paralelepípedo reto retângulo com capacidade para 90 000 L de água. O casal contratou uma empresa de construções que apresentou cinco projetos com diferentes combinações nas dimensões internas de profundidade, largura e comprimento. A piscina a ser construída terá revestimento interno em suas paredes e fundo com uma mesma cerâmica, e o casal irá escolher o projeto que exija a menor área de revestimento.\n\nAs dimensões internas de profundidade, largura e comprimento, respectivamente, para cada um dos projetos, são:\n\n• projeto I: 1,8 m, 2,0 m e 25,0 m;  \n• projeto II: 2,0 m, 5,0 m e 9,0 m;  \n• projeto III: 1,0 m, 6,0 m e 15,0 m;  \n• projeto IV: 1,5 m, 15,0 m e 4,0 m;  \n• projeto V: 2,5 m, 3,0 m e 12,0 m.",
+      "alternativas_introducao": "O projeto que o casal deverá escolher será o",
+      "alternativas": [
+        "A) I.",
+        "B) II.",
+        "C) III.",
+        "D) IV.",
+        "E) V."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/172"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 83,
+      "titulo": "Questão 173 - ENEM 2022",
+      "enunciado": "Uma instituição de ensino superior ofereceu vagas em um processo seletivo de acesso a seus cursos. Finalizadas as inscrições, foi divulgada a relação do número de candidatos por vaga em cada um dos cursos oferecidos. Esses dados são apresentados no quadro.\n\n![](https://enem.dev/2022/questions/173/0e6a9a19-bb58-4f93-bcb9-b7f26f5df5e7.png)",
+      "alternativas_introducao": "Qual foi o número total de candidatos inscritos nesse processo seletivo?",
+      "alternativas": [
+        "A) 200",
+        "B) 400",
+        "C) 1200",
+        "D) 1235",
+        "E) 7200"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2022/img/q083_principal.png",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/173"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 84,
+      "titulo": "Questão 174 - ENEM 2022",
+      "enunciado": "Peças metálicas de aeronaves abandonadas em aeroportos serão recicladas. Uma dessas peças é maciça e tem o formato cilíndrico, com a medida do raio da base igual a 4 cm e a da altura igual a 50 cm. Ela será derretida, e o volume de metal resultante será utilizado para a fabricação de esferas maciças com diâmetro de 1 cm, a serem usadas para confeccionar rolamentos. Para estimar a quantidade de esferas que poderão ser produzidas a partir de cada uma das peças cilíndricas, admite-se que não ocorre perda de material durante o processo de derretimento.",
+      "alternativas_introducao": "Quantas dessas esferas poderão ser obtidas a partir de cada peça cilíndrica?",
+      "alternativas": [
+        "A) 800",
+        "B) 1200",
+        "C) 2400",
+        "D) 4800",
+        "E) 6400"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/174"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 85,
+      "titulo": "Questão 175 - ENEM 2022",
+      "enunciado": "Ao escutar a notícia de que um filme recém-lançado arrecadou, no primeiro mês de lançamento, R$ 1,35 bilhão em bilheteria, um estudante escreveu corretamente o número que representa essa quantia, com todos os seus  \nalgarismos.",
+      "alternativas_introducao": "O número escrito pelo estudante foi",
+      "alternativas": [
+        "A) 135 000,00.",
+        "B) 1 350 000,00.",
+        "C) 13 500 000,00.",
+        "D) 135 000 000,00.",
+        "E) 1 350 000 000,00"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/175"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 86,
+      "titulo": "Questão 176 - ENEM 2022",
+      "enunciado": "![](https://enem.dev/2022/questions/176/eebeabf5-0dec-4070-abd5-f803bb370dd9.png)",
+      "alternativas_introducao": "Pretende-se que a distância percorrida entre as duas cidades, pelas Rodovias 001 e 002, passando pelo ponto de conexão, seja a menor possível.\nDadas as exigências do projeto, qual das localizações sugeridas deve ser a escolhida para o ponto de conexão?",
+      "alternativas": [
+        "A) I",
+        "B) II",
+        "C) III",
+        "D) IV",
+        "E) V"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2022/img/q086_principal.png",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/176"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 87,
+      "titulo": "Questão 177 - ENEM 2022",
+      "enunciado": "Uma pessoa precisa contratar um operário para fazer um serviço em sua casa. Para isso, ela postou um anúncio em uma rede social.  \nCinco pessoas responderam informando preços por hora trabalhada, gasto diário com transporte e tempo necessário para conclusão do serviço, conforme valores apresentados no quadro.\n\n![](https://enem.dev/2022/questions/177/fb1d11e4-76d3-4657-b78f-84e7bcd81f6c.png)",
+      "alternativas_introducao": "Se a pessoa pretende gastar o mínimo possível com essa contratação, irá contratar o operário",
+      "alternativas": [
+        "A) I.",
+        "B) II.",
+        "C) III.",
+        "D) IV.",
+        "E) V."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2022/img/q087_principal.png",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/177"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 88,
+      "titulo": "Questão 178 - ENEM 2022",
+      "enunciado": "Uma cozinheira produz docinhos especiais por encomenda. Usando uma receita-base de massa, ela prepara uma porção, com a qual produz 50 docinhos maciços de formato esférico, com 2 cm de diâmetro. Um cliente encomenda 150 desses docinhos, mas pede que cada um tenha formato esférico com 4 cm de diâmetro.  \nA cozinheira pretende preparar o número exato de porções da receita-base de massa necessário para produzir os docinhos dessa encomenda",
+      "alternativas_introducao": "Quantas porções da receita-base de massa ela deve preparar para atender esse cliente?",
+      "alternativas": [
+        "A) 2",
+        "B) 3",
+        "C) 6",
+        "D) 12",
+        "E) 24"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/178"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 89,
+      "titulo": "Questão 179 - ENEM 2022",
+      "enunciado": "A esperança de vida ao nascer é o número médio de anos que um indivíduo tende a viver a partir de seu nascimento, considerando dados da população. No Brasil, esse número vem aumentando consideravelmente, como mostra o gráfico.\n\n![](https://enem.dev/2022/questions/179/08b6ac03-1a1c-4a0d-b246-dc37098794ad.png)\n\nDisponível em: http://cod.ibge.gov.br. Acesso em: 6 mar. 2014 (adaptado).\n\nPode-se observar que a esperança de vida ao nascer em 2012 foi exatamente a média das registradas nos anos de 2011 e 2013. Suponha que esse fato também ocorreu com a esperança de vida ao nascer em 2013, em relação às esperanças de vida de 2012 e de 2014.",
+      "alternativas_introducao": "Caso a suposição feita tenha sido confirmada, a esperança de vida ao nascer no Brasil no ano de 2014 terá sido, em ano, igual a",
+      "alternativas": [
+        "A) 74,23.",
+        "B) 74,51.",
+        "C) 75,07.",
+        "D) 75,23.",
+        "E) 78,49."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2022/img/q089_principal.png",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/179"
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "numero": 90,
+      "titulo": "Questão 180 - ENEM 2022",
+      "enunciado": "Na figura estão destacadas duas trajetórias sobre a superfície do globo terrestre, descritas ao se percorrer parte dos meridianos 1, 2 e da Linha do Equador, sendo que os meridianos 1 e 2 estão contidos em planos perpendiculares entre si. O plano α é paralelo ao que contém a Linha do Equador.\n\n![](https://enem.dev/2022/questions/180/f3e0feaa-a265-4d9f-894f-63135acff616.png)",
+      "alternativas_introducao": "A vista superior da projeção ortogonal sobre o plano α dessas duas trajetórias é",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)",
+        "E)"
+      ],
+      "imagens_alternativas": [
+        "enem/2022/img/q090_altA.png",
+        "enem/2022/img/q090_altB.png",
+        "enem/2022/img/q090_altC.png",
+        "enem/2022/img/q090_altD.png",
+        "enem/2022/img/q090_altE.png"
+      ],
+      "imagem_principal": "enem/2022/img/q090_principal.png",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/180"
+    }
+  ]
+}

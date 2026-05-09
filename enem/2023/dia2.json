@@ -1,0 +1,2539 @@
+{
+  "ano": 2023,
+  "dia": 2,
+  "total": 90,
+  "geradoEm": "2026-05-09T05:54:42Z",
+  "questoes": [
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 1,
+      "titulo": "Questão 91 - ENEM 2023",
+      "enunciado": "O número de abelhas encontra-se em declínio em várias regiões do mundo, inclusive no Brasil, sendo que vários fatores contribuem para o colapso de suas colmeias. Nos Estados Unidos, bombas de sementes de espécies vegetais nativas têm sido utilizadas para combater o desaparecimento desses insetos. Elas são pequenas bolinhas recheadas com sementes, adubo e argila. Quando são arremessadas e ficam expostas ao sol e à chuva, germinam até mesmo em solo pouco fértil.\n\nDARAYA, V. Disponível em: http://planetasustentavel.abril.com.br.  \nAcesso em: 2 fev. 2015 (adaptado).",
+      "alternativas_introducao": "Esse método contribui para a preservação das abelhas porque",
+      "alternativas": [
+        "A) Reduz sua predação",
+        "B) Reduz o uso de pesticidas.",
+        "C) Reduz a competição por abrigo.",
+        "D) Aumenta a oferta de alimento",
+        "E) Aumenta os locais de reprodução"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/91"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 2,
+      "titulo": "Questão 92 - ENEM 2023",
+      "enunciado": "Os mais antigos cozinhavam o feijão na panela de ferro a fim de acabar com a palidez de seus filhos. Alguns chegavam até a colocar um prego enferrujado nesse cozimento para liberar o ferro contido nele. Sabe-se que esse elemento pode ser encontrado na sua forma metálica ou iônica, sendo essencial para a manutenção da vida humana.",
+      "alternativas_introducao": "As estratégias citadas eram utilizadas com o objetivo de",
+      "alternativas": [
+        "A) Tratar a diarreia.",
+        "B) Prevenir a anemia.",
+        "C) Evitar as verminoses.",
+        "D) Remediar o raquitismo",
+        "E) Combater a febre amarela."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/92"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 3,
+      "titulo": "Questão 93 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "A utilização de tecnologia nuclear é um tema bastante controverso, por causa do risco de acidentes graves, como aqueles ocorridos em Chernobyl (1986), em Goiânia (1987) e em Fukushima (2011). Apesar de muitas desvantagens, como a geração de resíduos tóxicos, a descontaminação ambiental dispendiosa em caso de acidentes e a utilização em armas nucleares, a geração de energia nuclear apresenta vantagens em comparação a outras fontes de energia.\nA geração dessa energia tem como característica:",
+      "alternativas": [
+        "A) Formar resíduos facilmente recicláveis.",
+        "B) Promover o aumento do desmatamento.",
+        "C) Contribuir para a produção de chuva ácida.",
+        "D) Emitir gases tóxicos que são lançados no ambiente.",
+        "E) Produzir calor sem o consumo de combustíveis fósseis."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/93"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 4,
+      "titulo": "Questão 94 - ENEM 2023",
+      "enunciado": "Em uma indústria, o controle da dureza da água é importante quando ela é utilizada em caldeiras, uma vez que sais pouco solúveis, formados a partir de sulfatos e carbonatos, podem acumular-se no interior das tubulações, causando obstruções. Para avaliar a água utilizada nessa indústria, foram realizados testes de qualidade que consideraram os seauintes parâmetros:\n\n![](https://enem.dev/2023/questions/94/429989c0-d615-4e19-a5e6-838e81a6039c.png)",
+      "alternativas_introducao": "Qual teste deve ser considerado para controlar a formação desse tipo de obstrução de tubulações?",
+      "alternativas": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 4",
+        "E) 5"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q004_principal.png",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/94"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 5,
+      "titulo": "Questão 95 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "As aves apresentam dois tipos de músculos em seus corpos: vermelhos e brancos. Aves migratórias como garças, gansos e patos selvagens têm os músculos vermelhos bem desenvolvidos, com ampla rede de vasos sanguíneos.\nNas viagens por grandes distâncias, tais músculos são fundamentais, pois favorecem o(a)",
+      "alternativas": [
+        "A) Execução de manobras.",
+        "B) Metabolismo corpóreo elevado.",
+        "C) Manutenção da aerodinâmica.",
+        "D) Deslocamento a grandes velocidades.",
+        "E) Capacidade de voo em grandes altitudes."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/95"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 6,
+      "titulo": "Questão 96 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "Existe no comércio um produto antimofo constituído por uma embalagem com tampa perfurada contendo cloreto de cálcio anidro, CaCI,. Uma vez aberto o lacre, essa substância absorve a umidade ambiente, transformando-se em cloreto de cálcio di-hidratado, CaCI, 2H,0. Considere a massa molar da água igual a 18 g mol-1, e a massa molar do cloreto de cálcio anidro igual a 111 g mol-1.\nNa hidratação da substância presente no antimofo, o ganho percentual, em massa, é mais próximo de",
+      "alternativas": [
+        "A) 14%",
+        "B) 16%",
+        "C) 24%",
+        "D) 32%",
+        "E) 75%"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/96"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 7,
+      "titulo": "Questão 97 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "Um garoto comprou vários abacates na feira, mas descobriu que eles não estavam maduros o suficiente para serem consumidos. Sua mãe recomendou que ele colocasse os abacates em um recipiente fechado, pois isso aceleraria seu amadurecimento. Com certa dúvida, o garoto realizou esta experiência: colocou alguns abacates no recipiente e deixou os demais em uma fruteira aberta. Surpreendendo-se, ele percebeu que os frutos que estavam no recipiente fechado amadureceram mais rapidamente.\nA aceleração desse processo é causada por",
+      "alternativas": [
+        "A) Acúmulo de gás etileno.",
+        "B) Redução da umidade do ar.",
+        "C) Aumento na concentração de CO2.",
+        "D) Diminuição da intensidade luminosa.",
+        "E) Isolamento do contato com O2 atmosférico."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/97"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 8,
+      "titulo": "Questão 98 - ENEM 2023",
+      "enunciado": "Há muito tempo são conhecidas espécies de lesmas-do-mar com uma capacidade impar: guardar parte da maquinaria das células das algas que consomem — os cloroplastos — e mantê-los funcionais dentro das suas próprias células, obtendo assim parte do seu alimento. Investigadores portugueses descobriram que essas lesmas-do-mar podem ser mais eficientes nesse processo do que as próprias algas que consomem.\n\nDisponível em: www.cienciahoje.pt. Acesso em: 10 fev. 2015 (adaptado).",
+      "alternativas_introducao": "Essa adaptação confere a esse organismo a capacidade de obter primariamente",
+      "alternativas": [
+        "A) Ácidos necleicos.",
+        "B) Carboidratos.",
+        "C) Proteínas.",
+        "D) Vitaminas.",
+        "E) Lipídios."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/98"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 9,
+      "titulo": "Questão 99 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "A leishmaniose visceral é uma zoonose causada por um protozoário do gênero Leishmania que é encontrado em diversos tecidos. Ela é transmitida ao homem de forma indireta, por vetores do ambiente doméstico. O cão é considerado um importante hospedeiro desse protozoário, podendo ou não apresentar os sintomas da doença, como perda de peso, anemia, ferimentos na pele, diarreia, conjuntivite e insuficiência renal. Em uma região que sofre com alta incidência dessa doença, uma campanha do centro de zoonoses buscou verificar a presença desse protozoário nos cães para tentar controlar a doença.",
+      "alternativas": [
+        "A) Urina.",
+        "B) Saliva.",
+        "C) Fezes.",
+        "D) Sangue.",
+        "E) Secreção ocular."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/99"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 10,
+      "titulo": "Questão 100 - ENEM 2023",
+      "enunciado": "Um professor lança uma esfera verticalmente para cima, a qual retorna, depois de alguns segundos, ao ponto de lançamento. Em seguida, lista em um quadro todas as possibilidades para as grandezas cinemáticas.\n\n![](https://enem.dev/2023/questions/100/92848aa5-da82-4c66-9945-7051120a42c9.jpg)",
+      "alternativas_introducao": "Ele solicita aos alunos que analisem as grandezas cinemáticas no instante em que a esfera atinge a altura máxima, escolhendo uma combinação para os módulos e sentidos da velocidade e da aceleração. A escolha que corresponde à combinação correta é",
+      "alternativas": [
+        "A) V = 0 e a ≠ 0 para cima.",
+        "B) V ≠ 0 para cima e a = 0",
+        "C) V = 0 e a ≠ 0 para baixo.",
+        "D) V ≠ 0 para cima e a ≠ 0 para cima.",
+        "E) V ≠ 0 para baixo e a ≠ 0 para baixo."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q010_principal.jpg",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/100"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 11,
+      "titulo": "Questão 101 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "Muitas mulheres sofrem com desconfortos nos dias que antecedem a menstruação, a chamada tensão pré-menstrual. Entre outros sintomas, podem ocorrer alterações de humor. Atualmente, acredita-se que os sintomas são resultado da queda na concentração do neurotransmissor serotonina, que, por sua vez, está relacionado com a diminuição na produção dos hormônios ovarianos estrógeno e progesterona, observada nessa fase do ciclo feminino.\nDIMMOCK, P. W. et al. Efficacy of Selective Serotonin-Reuptake Inhibitors in Premenstrual Syndrome: a Systematic Review. The Lancet, n. 9 236, 2000 (adaptado).\nA redução da produção desses hormônios nessa fase está relacionada com o(a)",
+      "alternativas": [
+        "A) Regressão do corpo lúteo ovariano.",
+        "B) Diminuição na produção de ocitocina.",
+        "C) Liberação do gameta feminino na ovulação.",
+        "D) Aumento nos níveis dos hormônios LH e FSH.",
+        "E) Elevação nos níveis sorológicos de adrenalina."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/101"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 12,
+      "titulo": "Questão 102 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "As cetonas fazem parte de famílias olfativas encontradas em muitos alimentos. A molécula de hexan-3-ona é um exemplo desses compostos voláteis responsáveis pelo aroma, podendo ser obtida por processos energéticos realizados em meio ácido, na presença de oxidantes como o permanganato de potássio. Para se produzir esse composto volátil em laboratório, deve-se oxidar a molécula de",
+      "alternativas": [
+        "A) Hexanal.",
+        "B) Hexan-1-ol.",
+        "C) Hexan-3-ol.",
+        "D) Hex-1-en-1-ol.",
+        "E) Ácido hexanoico."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/102"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 13,
+      "titulo": "Questão 103 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "Durante a evolução das plantas, ocorreu uma transição do ambiente aquático para o ambiente terrestre graças ao surgimento de algumas estruturas que as tornaram independentes da água. Esse fato permitiu maior dispersão desse grupo de seres vivos, sendo possível observá-los em diferentes ambientes na atualidade.\nQual estrutura possibilitou a independência da água para a fecundação dos seres vivos citados acima?",
+      "alternativas": [
+        "A) Fruto.",
+        "B) Esporo.",
+        "C) Semente.",
+        "D) Tubo polínico.",
+        "E) Vaso condutor."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/103"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 14,
+      "titulo": "Questão 104 - ENEM 2023",
+      "enunciado": "O vidro contendo alumínio em sua composição é um excelente material para acondicionar medicamentos e suplementos, porque pode ser esterilizado por aquecimento. No entanto, quando o medicamento ou suplemento contém substâncias que se ligam fortemente ao íon desse metal, a dissolução do alumínio é promovida em função do deslocamento do equilíbrio químico estabelecido entre a espécie imobilizada no vidro e a espécie em solução. Por essa razão, recomenda-se que suplementos de nutrição de recém-nascidos contendo gluconato de cálcio sejam acondicionados em embalagens plásticas, e não nesse tipo de vidro.\n\n**Atualização da recomendação da Sociedade Portuguesa de Neonatologia.**  \nDisponível em: www.spneonatologia.pt. Acesso em: 22 out. 2021 (adaptado).",
+      "alternativas_introducao": "Caso esse suplemento seja acondicionado em embalagem desse tipo de vidro, o risco de contaminação por alumínio será maior se o(a)",
+      "alternativas": [
+        "A) Vidro do frasco for translúcido.",
+        "B) Concentração de gluconato de cálcio for alta.",
+        "C) Frasco de vidro apresentar uma maior espessura.",
+        "D) Vidro for previamente esterilizado em altas temperaturas.",
+        "E) Reação do alumínio com gluconato de cálcio for endotérmica."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/104"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 15,
+      "titulo": "Questão 105 - ENEM 2023",
+      "enunciado": "Barbatimão é o nome popular de uma árvore cuja casca e utilizada para fins medicinais. Essa casca é constituída principalmente de dois tecidos vegetais: periderme e floema. A extração da casca tem levado à morte muitos indivíduos dessa espécie, quando o corte retira um anel completo ao longo da circunferência do tronco. Aqueles que têm parte da casca retirada sem completar essa circunferência podem sobreviver.",
+      "alternativas_introducao": "A morte desses indivíduos, decorrente da retirada do anel completo da casca, é provocada pela interrupção da",
+      "alternativas": [
+        "A) Fotossíntese.",
+        "B) Transpiração.",
+        "C) Troca de gases.",
+        "D) Formação de brotos.",
+        "E) Nutrição das raízes."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/105"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 16,
+      "titulo": "Questão 106 - ENEM 2023",
+      "enunciado": "A tecnologia de vacinas de RNA mensageiro (RNAm) é investigada há anos. Avanços científicos em genética molecular permitiram desenvolver uma vacina para controle da pandemia da covid-19 causada pelo vírus de RNA SARS-CoV-2. A vacina de RNAm tem sequências de genes do vírus. Entretanto, por ser muito instável, o RNAm deve ser recoberto por uma capa de lipídios que evita sua degradação e favorece sua ação. Dessa forma, o RNAm desempenhará sua função especifica atuando no mesmo compartimento celular de sempre.\n\nDisponível em: https://sbim.org.br. Acesso em: 29 nov. 2021 (adaptado).",
+      "alternativas_introducao": "A imunização produzida por esse tipo de vacina é alcançada por meio da",
+      "alternativas": [
+        "A) Estimulação de leucócitos induzida pela capa lipídica contendo RNAm.",
+        "B) Atuação do RNAm como sequestrador do vírus para o meio extracelular.",
+        "C) Tradução do RNAm em proteína viral, desencadeando a resposta antigênica.",
+        "D) Competição entre o RNAm vacinal e o RNA viral pelos sítios dos ribossomos.",
+        "E) Incorporação do RNAm viral ao genoma do hospedeiro. gerando novo fenótipo."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/106"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 17,
+      "titulo": "Questão 107 - ENEM 2023",
+      "enunciado": "Na fertilização in vitro, espermatozoides são adicionados aos gametas femininos retirados de uma mulher. Após o período de incubação, a fecundação é favorecida pela ação de enzimas. Em um procedimento realizado, observou-se que nenhum dos gametas femininos foi fertilizado e, posteriormente, verificou-se que havia sido adicionado, equivocadamente, um coquetel de inibidores das enzimas do acrossomo, no lugar de um dos nutrientes constituintes do meio de cultura.",
+      "alternativas_introducao": "O coquetel de inibidores impediu o(a)",
+      "alternativas": [
+        "A) Formação do pronúcleo masculino.",
+        "B) Início da divisão mitótica do zigoto.",
+        "C) Término da segunda divisão meiótica do ovócito.",
+        "D) Passagem do espermatozoide pela corona radiata e zona pelúcida.",
+        "E) Fusão das membranas plasmáticas do ovócito e do espermatozoide."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/107"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 18,
+      "titulo": "Questão 108 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "O fogão por indução funciona a partir do surgimento de uma corrente elétrica induzida no fundo da panela, com consequente transformação de energia elétrica em calor por efeito Joule. A principal vantagem desses fogões é a eficiência energética, que é substancialmente maior que a dos fogões convencionais.\nA corrente elétrica mencionada é induzida por",
+      "alternativas": [
+        "A) Radiação.",
+        "B) Condução.",
+        "C) Campo elétrico variável.",
+        "D) Campo magnético variável.",
+        "E) Ressonância eletromagnética."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/108"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 19,
+      "titulo": "Questão 109 - ENEM 2023",
+      "enunciado": "Uma academia decide trocar gradualmente seus aparelhos de musculação. Agora, os frequentadores que utilizam os aparelhos do tipo 1 podem também utilizar os aparelhos do tipo 2, representados na figura, para elevar cargas correspondentes às massas M1 e M2 com velocidade constante. A fim de que o exercício seja realizado com a mesma força F, os usuários devem ser orientados a respeito da relação entre as cargas nos dois tipos de aparelhos, já que as polias fixas apenas mudam a direção das forças, enquanto a polia móvel divide as forças.\n\nEm ambos os aparelhos, considere as cordas inextensíveis, as massas das polias e das cordas desprezíveis e que não há dissipação de energia.\n\n![](https://enem.dev/2023/questions/109/e083688b-cc00-4c8b-9de6-01f07a7a6a5c.png)",
+      "alternativas_introducao": "Para essa academia, qual deve ser a razão M2/M1 informada aos usuários?",
+      "alternativas": [
+        "A) 1/4",
+        "B) 1/2",
+        "C) 1",
+        "D) 2",
+        "E) 4"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q019_principal.png",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/109"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 20,
+      "titulo": "Questão 110 - ENEM 2023",
+      "enunciado": "Um assistente de laboratório precisou descartar sete frascos contendo solução de nitrato de mercúrio(l) que não foram utilizados em uma aula prática. Cada frasco continha 5,25 g de Hg2(NO3)2 dissolvidos em água. Temendo a toxidez do mercúrio e sabendo que o Hg2Cl2 tem solubilidade muito baixa, o assistente optou por retirar o mercúrio da solução por precipitação com cloreto de sódio (NaCl), conforme a equação química:\n\n![](https://enem.dev/2023/questions/110/9874e4c1-d246-4697-8798-52f1577c2542.png)\n\nNa dúvida sobre a massa de NaCl a ser utilizada, o assistente aumentou gradativamente a quantidade adicionada em cada frasco, como apresentado no quadro.\n\n![](https://enem.dev/2023/questions/110/f0ce2b28-d6bf-456a-945d-64bc0518a241.png)\n\nO produto obtido em cada experimento foi filtrado, secado e teve sua massa aferida. O assistente organizou os resultados na forma de um gráfico que correlaciona a massa de NaCl adicionada com a massa de Hg2Cl2 obtida em cada frasco. A massa molar do Hg2(NO3)2 é 525 g mol\\-1, a do NaCl é 58 g mol\\-1 e a do Hg2Cl2 é 472 g mol\\-1.",
+      "alternativas_introducao": "Qual foi o gráfico obtido pelo assistente de laboratório?",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)",
+        "E)"
+      ],
+      "imagens_alternativas": [
+        "enem/2023/img/q020_altA.png",
+        "enem/2023/img/q020_altB.png",
+        "enem/2023/img/q020_altC.png",
+        "enem/2023/img/q020_altD.png",
+        "enem/2023/img/q020_altE.png"
+      ],
+      "imagem_principal": "enem/2023/img/q020_principal.png",
+      "imagens_extras": [
+        "enem/2023/img/q020_extra1.png"
+      ],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/110"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 21,
+      "titulo": "Questão 111 - ENEM 2023",
+      "enunciado": "![](https://enem.dev/2023/questions/111/9ae85aec-1b17-4ee7-afd9-e9cf17101aca.png)\n\nSOUSA. M. Disponível em: www.monica.com.br. Acesso em: 2 out. 2012 (adaptado)",
+      "alternativas_introducao": "Na tirinha de Mauricio de Sousa, os personagens Cebolinha e Cascão fazem uma brincadeira utilizando duas latas e um barbante. Ao perceberem que o som pode ser transmitido através do barbante, resolvem alterar o comprimento do barbante para ficar cada vez mais extenso. As demais condições permaneceram inalteradas durante a brincadeira.\nNa prática, à medida que se aumenta o comprimento do barbante, ocorre a redução de qual característica da onda sonora?",
+      "alternativas": [
+        "A) Altura.",
+        "B) Período.",
+        "C) Amplitude.",
+        "D) Velocidade.",
+        "E) Comprimento."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q021_principal.png",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/111"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 22,
+      "titulo": "Questão 112 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "Informações digitais — dados — são gravadas em discos ópticos, como CD e DVD, na forma de cavidades microscópicas. A gravação e a leitura óptica dessas informações são realizadas por um laser (fonte de luz monocromática). Quanto menores as dimensões dessas cavidades, mais dados são armazenados na mesma área do disco. O fator limitante para a leitura de dados é o espalhamento da luz pelo efeito de difração, fenômeno que ocorre quando a luz atravessa um obstáculo com dimensões da ordem de seu comprimento de onda. Essa limitação motivou o desenvolvimento de lasers com emissão em menores comprimentos de onda, possibilitando armazenar e ler dados em cavidades cada vez menores.\nEm qual região espectral se situa o comprimento de onda do laser que otimiza o armazenamento e a leitura de dados em discos de uma mesma área?",
+      "alternativas": [
+        "A) Violeta.",
+        "B) Azul.",
+        "C) Verde.",
+        "D) Vermelho.",
+        "E) Infravermelho."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/112"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 23,
+      "titulo": "Questão 113 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "O bluetooth é uma tecnologia de comunicação sem fio, de curto alcance, presente em diferentes dispositivos eletrônicos de consumo. Ela permite que aparelhos eletrônicos diferentes se conectem e troquem dados entre si. No padrão bluetooth, denominado de Classe 2, as antenas transmitem sinais de potência igual a 2,4 mW e possibilitam conectar dois dispositivos distanciados até 10 m. Considere que essas antenas se comportam como fontes puntiformes que emitem ondas eletromagnéticas esféricas e que a intensidade do sinal é calculada pela potência por unidade de área. Considere 3 como valor aproximado para π. \nPara que o sinal de bluetooth seja detectado pelas antenas, o valor mínimo de sua intensidade, em W/m²?, e mais próximo de",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)",
+        "E)"
+      ],
+      "imagens_alternativas": [
+        "enem/2023/img/q023_altA.png",
+        "enem/2023/img/q023_altB.png",
+        "enem/2023/img/q023_altC.png",
+        "enem/2023/img/q023_altD.png",
+        "enem/2023/img/q023_altE.png"
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/113"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 24,
+      "titulo": "Questão 114 - ENEM 2023",
+      "enunciado": "Uma equipe de segurança do transporte de uma empresa avalia o comportamento das tensões que aparecem em duas cordas, 1 e 2, usadas para prender uma carga de massa M = 200 kg na carroceria, conforme a ilustração. Quando o caminhão parte do repouso, sua aceleração é constante e igual a 3 m/s2 e, quando ele é freado bruscamente, sua frenagem é constante e igual a 5 m/s2. Em ambas as situações, a carga encontra-se na iminência de movimento, e o sentido do movimento do caminhão está indicado na figura. O coeficiente de atrito estático entre a caixa e c assoalho da carroceria é igual a 0,2. Considere a aceleração da gravidade igual a 10 m/s2, as tensões iniciais nas cordas iguais a zero e as duas cordas ideais.\n\n![](https://enem.dev/2023/questions/114/e245e16d-8a95-4b2e-ab33-6dd299ff9474.png)",
+      "alternativas_introducao": "Nas situações de aceleração e frenagem do caminhão, as tensões nas cordas 1 e 2, em newton, serão",
+      "alternativas": [
+        "A) Aceleração: T1 = 0 e T2 = 200; frenagem: T1 = 600 e T2 = 0.",
+        "B) Aceleração: T1 = 0 e T2 = 200; frenagem: T1 = 1 400 e T2 = 0.",
+        "C) Aceleração: T1 = 0 e T2 = 200; frenagem: T1 = 600 e T2 = 0.",
+        "D) Aceleração: T1 = 560 e T2 = 0; frenagem: T1 = 0 e T2 = 960.",
+        "E) Aceleração: T1 = 640 e T2 = 0; frenagem: T1 = 0 e T2 = 1 040."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q024_principal.png",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/114"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 25,
+      "titulo": "Questão 115 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "A biorremediação designa tratamentos que usam organismos para reduzir a quantidade de substâncias tóxicas no ambiente ou degradá-las em substâncias não tóxicas ou de menor toxicidade. Uma planta aquática, o aguapé, tem sido utilizada para a biorremediação de ambientes contaminados por metais tóxicos. Sabe-se que esses poluentes serão captados para dentro do corpo do vegetal.\nDentro do corpo do vegetal, esses contaminantes serão",
+      "alternativas": [
+        "A) Digeridos por enzimas.",
+        "B) Acumulados nos tecidos.",
+        "C) Eliminados pelos estômatos.",
+        "D) Metabolizados por glândulas.",
+        "E) Utilizados como fonte energética."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/115"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 26,
+      "titulo": "Questão 116 - ENEM 2023",
+      "enunciado": "O ciclo do nitrogênio é composto por várias etapas, conforme a figura, sendo cada uma desempenhada por um grupo específico de microrganismos.\n\n![](https://enem.dev/2023/questions/116/aab4b4fe-505c-4eda-a772-42a363f6ba8a.png)",
+      "alternativas_introducao": "Se o grupo dos microrganismos decompositores fosse exterminado, qual etapa não ocorreria?",
+      "alternativas": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 4",
+        "E) 5"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q026_principal.png",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/116"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 27,
+      "titulo": "Questão 117 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "Os raios cósmicos são fontes de radiação ionizante potencialmente perigosas para o organismo humano. Para quantificar a dose de radiação recebida, utiliza-se o sievert (Sv), definido como a unidade de energia recebida por unidade de massa. A exposição à radiação proveniente de raios cósmicos aumenta com a altitude, o que pode representar um problema para as tripulações de aeronaves. Recentemente, foram realizadas medições acuradas das doses de radiação ionizante para voos entre Rio de Janeiro e Roma.\nOs resultados têm indicado que a dose média de radiação recebida na fase de cruzeiro (que geralmente representa 80% do tempo total de voo) desse trecho intercontinental é 2 μSv/h. As normas internacionais da aviação civil limitam em 1 000 horas por ano o tempo de trabalho para as tripulações que atuem em voos intercontinentais. Considere que a dose de radiação ionizante para uma radiografia torácica é estimada em 0,2 mSv.\nRUAS, A. C. O tripulante de aeronaves e a radiação ionizante. São Paulo: Edição do Autor, 2019 (adaptado).\n \nA quantas radiografias torácicas corresponde a dose de radiação ionizante à qual um tripulante que atue no trecho Rio de Janeiro−Roma é exposto ao longo de um ano?",
+      "alternativas": [
+        "A) 8",
+        "B) 10",
+        "C) 80",
+        "D) 100",
+        "E) 1000"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/117"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 28,
+      "titulo": "Questão 118 - ENEM 2023",
+      "enunciado": "A gasolina é uma mistura de hidrocarbonetos de cadeias saturadas contendo de 8 a 12 átomos de carbono. Além disso, a gasolina de alto desempenho deve conter elevados teores de hidrocarbonetos de cadeias ramificadas, de forma a resistir à compressão e entrar em ignição apenas quando a vela aciona uma centelha elétrica no motor. No quadro, estão apresentados compostos que podem ser utilizados como combustíveis.\n\n![](https://enem.dev/2023/questions/118/5d656ef9-cabd-499e-bd98-51993ccb6c1c.png)",
+      "alternativas_introducao": "Entre esses compostos, aquele que conferirá maior desempenho como combustível é o",
+      "alternativas": [
+        "A) I.",
+        "B) II.",
+        "C) III.",
+        "D) IV.",
+        "E) V."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q028_principal.png",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/118"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 29,
+      "titulo": "Questão 119 - ENEM 2023",
+      "enunciado": "De acordo com a Constituição Federal, é competencia dos municípios o gerenciamento dos serviços de limpeza e coleta dos resíduos urbanos (lixo). No entanto, há relatos de que parte desse lixo acaba sendo incinerado, liberando substâncias tóxicas para o ambiente e causando acidentes por explosões, principalmente quando ocorre a incineração de frascos de aerossóis (por exemplo: desodorantes, inseticidas e repelentes). A temperatura elevada provoca a vaporização de todo o conteúdo dentro desse tipo de frasco, aumentando a pressão em seu interior até culminar na explosão da embalagem.\n\nZVEIBIL, V. Z. et al. **Cartilha de limpeza urbana**. Disponível em: www.lbam.org.br. Acesso em: 6 jul. 2015 (adaptado).\n\nSuponha um frasco metálico de um aerossol de capacidade igual a 100 mL, contendo 0,1 mol de produtos gasosos à temperatura de 650 °C, no momento da explosão.\n\n![](https://enem.dev/2023/questions/119/47913cea-fd78-4f5d-af82-f3494e353a85.png)",
+      "alternativas_introducao": "A pressão, em atm, dentro do frasco, no momento da explosão, é mais próxima de",
+      "alternativas": [
+        "A) 756.",
+        "B) 533.",
+        "C) 76.",
+        "D) 53.",
+        "E) 13."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q029_principal.png",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/119"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 30,
+      "titulo": "Questão 120 - ENEM 2023",
+      "enunciado": "O circuito com três lâmpadas incandescentes idênticas, representado na figura, consiste em uma associação mista de resistores. Cada lâmpada (L1, L2, e L3) é associada, em paralelo, a um resistor de resistência R, formando um conjunto. Esses conjuntos são associados em série, tendo todas as lâmpadas o mesmo brilho quando ligadas à fonte de energia. Após vários dias em uso, apenas a lâmpada L2 queima, enquanto as demais permanecem acesas.\n\n![](https://enem.dev/2023/questions/120/80ceec42-52be-4ea5-8cf1-c75004d0f166.png)",
+      "alternativas_introducao": "Em relação à situação em que todas as lâmpadas funcionam, após a queima de L2, os brilhos das lâmpadas serão",
+      "alternativas": [
+        "A) Os mesmos.",
+        "B) Mais intensos.",
+        "C) Menos intensos.",
+        "D) Menos intenso para L1 e o mesmo para L3.",
+        "E) Mais intenso para L1 e menos intenso para L3."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q030_principal.png",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/120"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 31,
+      "titulo": "Questão 121 - ENEM 2023",
+      "enunciado": "Os solos amazônicos, ricos em silicato, não são apropriados para o cultivo por serem incapazes de reter nutrientes. Contudo, descobertas arqueológicas têm demonstrado que os antigos habitantes da Amazônia dominavam a técnica de preparo de um insumo agrícola natural, denominado terra preta. Esse insumo era constituído principalmente de uma espécie de biocarvão (biochar) obtido da queima de matéria orgânica, como troncos de árvores, pedaços de ossos e esterco, capaz de manter um solo fértil por anos.\n\nAdmite-se que o efeito do biocarvão na fertilização do solo estava, em parte, relacionado à presença de grupos orgânicos do tipo carboxilato em sua superfície, carregados negativamente (—COO–). Esses grupos atraem íons positivos necessários como nutrientes, tais quais os provenientes do potássio (K), do cálcio (Ca) e do magnésio (Mg), além de micronutrientes, como zinco (Zn) e ferro (Fe). Essa ligação no solo fertilizado é predominantemente iônica, conforme ilustra a figura, em que M\\* representa os cátions metálicos. De acordo com a escala de Pauling, a eletronegatividade do elemento oxigênio é igual a 3,44\n\n![](https://enem.dev/2023/questions/121/7814f78a-9417-4651-bec1-eb30fe7fd046.png)\n\nO quadro apresenta os valores de eletronegatividade desses cinco elementos metálicos.\n\n![](https://enem.dev/2023/questions/121/1913a73f-35d7-4367-a68e-949fa743bf7c.png)\n\nMICHALOVIC, M. Ancient Soil Chemists of the Amazon. **ChemMatters**, fev. 2009 (adaptado).",
+      "alternativas_introducao": "O cátion que resultará em uma interação de maior caráter iônico com o ânion carboxilato será aquele proveniente do elemento",
+      "alternativas": [
+        "A) Potássio.",
+        "B) Cálcio.",
+        "C) Magnésio.",
+        "D) Zinco.",
+        "E) Ferro."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q031_principal.png",
+      "imagens_extras": [
+        "enem/2023/img/q031_extra1.png"
+      ],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/121"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 32,
+      "titulo": "Questão 122 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "Em uma indústria alimentícia, para produção de doce de leite, utiliza-se um tacho de parede oca com uma entrada para vapor de água a 120 °C e uma saída para água líquida em equilíbrio com o vapor a 100 °C. Ao passar pela parte oca do tacho, o vapor de água transforma-se em líquido, liberando energia. A parede transfere essa energia para o interior do tacho, resultando na evaporação de água e consequente concentração do produto.\nNo processo de concentração do produto, é utilizada energia proveniente",
+      "alternativas": [
+        "A) Somente do calor latente de vaporização.",
+        "B) Somente do calor latente de condensação.",
+        "C) Do calor sensível e do calor latente de vaporização.",
+        "D) Do calor sensível e do calor latente de condensação.",
+        "E) Do calor latente de condensação e do calor latente de vaporização."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/122"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 33,
+      "titulo": "Questão 123 - ENEM 2023",
+      "enunciado": "Entre os medicamentos mais comuns consumidos para o alívio da dor está o ibuprofeno, um composto quiral com ação anti-inflamatória e efeito analgésico, que é comercializado como fármaco opticamente puro, ou seja, sem a mistura com outro isômero óptico. A fórmula estrutural plana do ibuprofeno é:\n\n![](https://enem.dev/2023/questions/123/045ed5ac-600f-4d71-bc55-63a2f2804c13.png)\n\nAlém do ibuprofeno, destacam-se também os princípios ativos a seguir, presentes em outros medicamentos para o alívio da dor:\n\n![](https://enem.dev/2023/questions/123/5b164bb7-d865-44cf-820a-1dc266d8effe.jpg)",
+      "alternativas_introducao": "O princípio ativo que apresenta o mesmo tipo de isomeria espacial que o ibuprofeno é o(a)",
+      "alternativas": [
+        "A) Fenacetina.",
+        "B) Paracetamol.",
+        "C) Dipirona sódica.",
+        "D) Diclofenaco sódico.",
+        "E) Butilbrometo de escopolamina."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q033_principal.png",
+      "imagens_extras": [
+        "enem/2023/img/q033_extra1.jpg"
+      ],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/123"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 34,
+      "titulo": "Questão 124 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "Uma concessionária é responsável por um trecho de 480 quilômetros de uma rodovia. Nesse trecho, foram construídas 10 praças de pedágio, onde funcionários recebem os pagamentos nas cabines de cobrança. Também existe o serviço automático, em que os veículos providos de um dispositivo passam por uma cancela, que se abre automaticamente, evitando filas e diminuindo o tempo de viagem. Segundo a concessionária, o tempo médio para efetuar a passagem em uma cabine é de 3 minutos, e as velocidades máximas permitidas na rodovia são 100 km/h, para veículos leves, e 80 km/h, para veículos de grande porte.\nConsidere um carro e um caminhão viajando, ambos com velocidades constantes e iguais às máximas permitidas, e que somente o caminhão tenha o serviço automático de cobrança. Comparado ao caminhão, quantos minutos a menos o carro leva para percorrer toda a rodovia?",
+      "alternativas": [
+        "A) 30",
+        "B) 42",
+        "C) 72",
+        "D) 288",
+        "E) 360"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/124"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 35,
+      "titulo": "Questão 125 - ENEM 2023",
+      "enunciado": "**Pais com síndrome de Down**\n\nA síndrome de Down é uma alteração genética associada à trissomia do cromossomo 21, ou seja, o indivíduo possui três cromossomos 21 e não um par, como é normal. Isso ocorre pela união de um gameta contendo um cromossomo 21 com um gameta possuidor de dois cromossomos 21. Embora, normalmente, as mulheres com a síndrome sejam estéreis, em 2008, no interior de São Paulo, uma delas deu à luz uma menina sem a síndrome de Down\n\nMORENO, T. **Três anos após dar à luz, mãe portadora de síndrome de Down revela detalhes de seu dia a dia**. Disponível em: www.band.uol.com.br. Acesso em: 31 out. 2013 (adaptado).",
+      "alternativas_introducao": "Sabendo disso, um jovem casal, ambos com essa síndrome, procura um médico especialista para aconselhamento genético porque querem ter um bebê.\nO médico informa ao casal que, com relação ao cromossomo 21, os zigotos formados serão",
+      "alternativas": [
+        "A) Todos normais.",
+        "B) Todos tetrassômicos.",
+        "C) Apenas normais ou tetrassômicos",
+        "D) Apenas trissômicos ou tetrassômicos",
+        "E) Normais, trissômicos ou tetrassômicos."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/125"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 36,
+      "titulo": "Questão 126 - ENEM 2023",
+      "enunciado": "Para que uma molécula dê origem a um medicamento de administração oral, além de apresentar atividade farmacológica, deve ser capaz de atingir o local de ação. Para tanto, essa molécula não deve se degradar no estômago (onde o meio é fortemente ácido e há várias enzimas que reagem mediante catálise ácida), deve ser capaz de atravessar as membranas celulares e ser solúvel no plasma sanguíneo (sistema aquoso). Para os fármacos cujas estruturas são formadas por cadeias carbônicas longas contendo pelo menos um grupamento amino, um recurso tecnológico empregado é sua conversão no cloridrato correspondente. Essa conversão é representada, de forma genérica, pela equação química:\n\n![](https://enem.dev/2023/questions/126/b0c226d9-5944-4f6d-8b81-0fa0f9f7d511.png)",
+      "alternativas_introducao": "O aumento da eficiência de circulação do fármaco no sangue, promovido por essa conversão, deve-se ao incremento de seu(sua)",
+      "alternativas": [
+        "A) Basicidade.",
+        "B) Lipofilicidade.",
+        "C) Caráter iônico.",
+        "D) Cadeia carbônica.",
+        "E) Estado de oxidação."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q036_principal.png",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/126"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 37,
+      "titulo": "Questão 127 - ENEM 2023",
+      "enunciado": "**Toxicidade do cianeto**\n\nA produção de ATP depende do gradiente de prótons gerado pela cadeia respiratória. Nessas reações, os elétrons  \nprovenientes da oxidação do NADH em NAD+ percorrem a cadeia até chegarem à citocromo c oxidase reduzindo o  \nFe3+ a Fe2+. O oxigênio atua como aceptor final desses elétrons formando água. O cianeto é uma espécie química  \naltamente tóxica que tem grande afinidade pelo Fe3+. Quando células são expostas ao cianeto, ele se liga ao sítio de  \nFe3+ da citocromo c oxidase, impedindo a sua conversão em Fe2+ e bloqueando a cadeia respiratória.\n\n![](https://enem.dev/2023/questions/127/97828514-9c7c-491c-9146-e4d8bf25778a.png)\n\nALBERTS, B. et al. **Biologia molecular da célula**. Porto Alegre: Artmed, 2010 (adaptado).",
+      "alternativas_introducao": "Esse bloqueio aumenta a concentração celular de",
+      "alternativas": [
+        "A) ATP.",
+        "B) Água.",
+        "C) NADH.",
+        "D) Dióxido de carbono.",
+        "E) Citocromo c oxidase."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q037_principal.png",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/127"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 38,
+      "titulo": "Questão 128 - ENEM 2023",
+      "enunciado": "É comum em viagens de avião sermos solicitados a desligar aparelhos cujo funcionamento envolva a emissão ou a recepção de ondas eletromagnéticas, como celulares. A justificativa dada para esse procedimento é, entre outras coisas, a necessidade de eliminar fontes de sinais eletromagnéticos que possam interferir nas comunicações, via rádio, dos pilotos com a torre de controle.",
+      "alternativas_introducao": "Essa interferência poderá ocorrer somente se as ondas emitidas pelo celular e as recebidas pelo rádio do avião",
+      "alternativas": [
+        "A) Forem ambas audíveis.",
+        "B) Tiverem a mesma potência.",
+        "C) Tiverem a mesma frequência.",
+        "D) Tiverem a mesma intensidade.",
+        "E) Propagarem-se com velocidades diferentes."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/128"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 39,
+      "titulo": "Questão 129 - ENEM 2023",
+      "enunciado": "O Aldrin é um inseticida agrícola organoclorado sintético de baixa polaridade, cuja estrutura molecular simétrica, de fórmula , está representada na figura. Introduzido na agricultura a partir da década de 1950, esse composto apresenta alta persistência no meio ambiente e acumulação nos organismos, sendo danoso para a saúde.\n\n\n\nVIEGAS JÚNIOR, C. Terpenos com atividade inseticida: uma alternativa para o controle químico de insetos. **Química Nova**, v. 26, n. 3, 2003 (adaptado).\n\nUm pesquisador coletou fluidos biológicos de indivíduos de uma população contaminada por esse inseticida agrícola. Ele analisou amostras de saliva, sangue, lágrima, urina e leite quanto à presença dessa substância.",
+      "alternativas_introducao": "Em qual dos fluidos o pesquisador provavelmente encontrou a maior concentração dessa substância?",
+      "alternativas": [
+        "A) Saliva, por consequência da atividade de enzimas.",
+        "B) Sangue, em função das hemácias e leucócitos.",
+        "C) Lágrima, em razão da concentração de sais.",
+        "D) Urina, pela presenca de moléculas de ureia.",
+        "E) Leite, por causa do alto teor de gorduras."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/129"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 40,
+      "titulo": "Questão 130 - ENEM 2023",
+      "enunciado": "Uma cafeteria adotou copos fabricados a partir de uma composição de 50% de plástico reciclado não biodegradável e 50% de casca de café. O copo é reutilizável e retornável, pois o material, semelhante a uma cerâmica, suporta a lavagem. Embora ele seja comercializado por um preço considerado alto quando comparado ao de um copo de plástico descartável, essa cafeteria possibilita aos clientes retornarem o copo sujo e levarem o café quente servido em outro copo já limpo e higienizado. O material desse copo oferece também o conforto de não esquentar na parte externa.\n\n**Cafeteria adota copo reutilizável feito com casca de café.** Disponível em: www.gazetadopovo.com.br. Acesso em: 5 dez. 2019 (adaptado).",
+      "alternativas_introducao": "Quais duas vantagens esse copo apresenta em comparação ao copo descartável?",
+      "alternativas": [
+        "A) Ter a durabilidade de uma cerâmica e ser totalmente biodegradável.",
+        "B) Ser tão durável quanto uma cerâmica e ter alta condutividade térmica.",
+        "C) Ser um mau condutor térmico e aumentar o resíduo biodegradável na natureza.",
+        "D) Ter baixa condutividade térmica e reduzir o resíduo não biodegradável na natureza.",
+        "E) Ter alta condutividade térmica e possibilitar a degradação do material no meio ambiente."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/130"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 41,
+      "titulo": "Questão 131 - ENEM 2023",
+      "enunciado": "O consumo exagerado de refrigerantes é preocupante, pois contribui para o aumento de casos de obesidade e diabetes. Considere dois refrigerantes enlatados, um comum e um diet, e que ambos possuam a mesma quantidade de aditivos, exceto pela presença de açúcar. O refrigerante comum contém basicamente água carbonatada e grande quantidade de açúcar; já o refrigerante diet tem água carbonatada e adoçantes, cujas massas são muito pequenas.\n\nCAVAGIS, A. D. M.; PEREIRA, E. A.; OLIVEIRA, L. C. Um método simples para avaliar o teor de sacarose e CO2 em refrigerantes. **Química Nova na Escola**, n. 3, ago. 2014 (adaptado).",
+      "alternativas_introducao": "Entre as duas versões apresentadas, o refrigerante comum possui",
+      "alternativas": [
+        "A) Maior densidade.",
+        "B) Menor viscosidade.",
+        "C) Maior volume de gás dissolvido.",
+        "D) Menor massa de solutos dissolvidos.",
+        "E) Maior temperatura de congelamento."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/131"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 42,
+      "titulo": "Questão 132 - ENEM 2023",
+      "enunciado": "O manual de um automóvel alerta sobre os cuidados em relação à pressão do ar no interior dos pneus. Recomenda-se que a pressão seja verificada com os pneus frios (à temperatura ambiente). Um motorista, desatento a essa informação, realizou uma viagem longa sobre o asfalto quente e, em seguida, verificou que a pressão![](https://enem.dev/2023/questions/132/99a53ed4-bbd2-4aa0-9301-ee4cd640a4b6.jpg) no interior dos pneus não era a recomendada pelo fabricante. Na ocasião, a temperatura dos pneus era ![](https://enem.dev/2023/questions/132/2367c9cb-2c1a-4b79-b582-86fc01088ff8.jpg). Após um longo período em repouso, os pneus do carro atingiram a temperatura ambiente T. Durante o resfriamento, não há alteração no volume dos pneus e na quantidade de ar no seu interior. Considere o ar dos pneus um gás perfeito (também denominado gás ideal).",
+      "alternativas_introducao": "Durante o processo de resfriamento, os valores de pressão em relação à temperatura (P x T) são representados pelo gráfico:",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)",
+        "E)"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        "enem/2023/img/q042_altE.jpg"
+      ],
+      "imagem_principal": "enem/2023/img/q042_principal.jpg",
+      "imagens_extras": [
+        "enem/2023/img/q042_extra1.jpg"
+      ],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/132"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 43,
+      "titulo": "Questão 133 - ENEM 2023",
+      "enunciado": "O descarte de detergentes comuns nos esgotos domésticos ocasiona a formação de uma camada de espuma que impede a entrada de oxigênio na água. Os microrganismos que vivem nessas águas não são capazes de quebrar moléculas ramificadas, ocorrendo assim um desequilíbrio ambiental nos rios. A fórmula a seguir representa a estrutura química de um tensoativo presente na composição de um detergente não biodegradável.\n\n![](https://enem.dev/2023/questions/133/51c8e3c3-3a3f-4aec-ac94-b1ee4037a55f.png)\n\n**Tensoativo não biodegradável**",
+      "alternativas_introducao": "Qual modificação química na estrutura desse tensoativo o tornaria um detergente biodegradável?",
+      "alternativas": [
+        "A) Retirar a parte polar da molécula.",
+        "B) Eliminar as insaturações do anel aromático.",
+        "C) Trocar o grupo aniônico por um grupo neutro.",
+        "D) Alterar o grupo aniônico por um grupo catiônico.",
+        "E) Modificar a cadeia carbônica para cadeia normal."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q043_principal.png",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/133"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 44,
+      "titulo": "Questão 134 - ENEM 2023",
+      "enunciado": "**Avaliação de substâncias genotóxicas**\n\nO ensaio de micronúcleos é um teste de avaliação de genotoxicidade que associa a presença de micronúcleos (pequenos núcleos que aparecem próximo aos núcleos das células) com lesões genéticas. Os micronúcleos são fragmentos de DNA encapsulados, provenientes do fuso mitótico durante a divisão celular.\n\nDIAS, V. M. **Micronúcleos em células tumorais**: biologia e implicações  \npara a tumorigênese. Dissertação de Mestrado. USP, 2006 (adaptado).",
+      "alternativas_introducao": "Os micronúcleos se originam dos(as)",
+      "alternativas": [
+        "A) Nucléolos.",
+        "B) Lisossomos.",
+        "C) Ribossomos",
+        "D) Mitocôndrias",
+        "E) Cromossomos"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/134"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 45,
+      "titulo": "Questão 135 - ENEM 2023",
+      "enunciado": "O petróleo é uma matéria-prima muito valiosa e métodos geofísicos são úteis na sua prospecção. É possível identificar a composição de materiais estratificados medindo-se a velocidade de propagação do som (onda mecânica) através deles. Considere que uma camada de 450 m de um líquido se encontra presa no subsolo entre duas camadas rochosas, conforme o esquema. Um pulso acústico (que gera uma vibração mecânica) é emitido a partir da superfície do solo, onde são posteriormente recebidas duas vibrações refletidas (ecos). A primeira corresponde à reflexão do pulso na interface superior do líquido com a camada rochosa. A segunda vibração deve-se à reflexão do pulso na interface inferior. O tempo entre a emissão do pulso e a chegada do primeiro eco é de 0,5 s. O segundo eco chega 1,1 s após a emissão do pulso\n\n![](https://enem.dev/2023/questions/135/11f4c343-9f23-4f60-a61f-10d4dbc2eb6c.png)",
+      "alternativas_introducao": "A velocidade do som na camada líquida, em metro por segundo, é",
+      "alternativas": [
+        "A) 270.",
+        "B) 540.",
+        "C) 818.",
+        "D) 1 500.",
+        "E) 1 800."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q045_principal.png",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/135"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 46,
+      "titulo": "Questão 136 - ENEM 2023",
+      "enunciado": "Um artista plástico esculpe uma escultura a partir de um bloco de madeira de lei, em etapas. Inicialmente, esculpe um cone reto com 36 cm de altura e diâmetro da base medindo 18 cm. Em seguida, remove desse cone um cone menor, cujo diâmetro da base mede 6 cm, obtendo, assim, um tronco de cone, conforme ilustrado na figura.\n\n![](https://enem.dev/2023/questions/136/565c2d5a-96a0-4468-9bb1-2710707a40fd.png)\n\nEm seguida, perfura esse tronco de cone, removendo um cilindro reto, de diâmetro 6 cm, cujo eixo de simetria é o mesmo do cone original. Dessa forma, ao final, a escultura tem a forma de um tronco de cone com uma perfuração cilíndrica de base a base.  \nO tipo de madeira utilizada para produzir essa escultura tem massa igual a 0,6 g por centímetro cúbico de volume. Utilize 3 como aproximação para π.",
+      "alternativas_introducao": "Qual é a massa, em grama, dessa escultura?",
+      "alternativas": [
+        "A) 1.198,8",
+        "B) 1.296,0",
+        "C) 1.360,8",
+        "D) 4.665,6",
+        "E) 4.860,0"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q046_principal.png",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/136"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 47,
+      "titulo": "Questão 137 - ENEM 2023",
+      "enunciado": "Os 100 funcionários de uma empresa estão distribuídos em dois setores: Produção e Administração.\n\nOs funcionários de um mesmo setor recebem salários com valores iguais. O quadro apresenta a quantidade de funcionários por setor e seus respectivos salários.\n\n![](https://enem.dev/2023/questions/137/fc161c5c-10e9-46d8-a75d-09c59b21d5a4.png)",
+      "alternativas_introducao": "A média dos salários dos 100 funcionários dessa empresa, em real, é",
+      "alternativas": [
+        "A) 2.000,00.",
+        "B) 2.500,00.",
+        "C) 3.250,00.",
+        "D) 4.500,00.",
+        "E) 9.000,00."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q047_principal.png",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/137"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 48,
+      "titulo": "Questão 138 - ENEM 2023",
+      "enunciado": "Visando atrair mais clientes, o gerente de uma loja anunciou uma promoção em que cada cliente que realizar uma compra pode ganhar um voucher para ser usado em sua próxima compra. Para ganhar seu voucher, o cliente precisa retirar, ao acaso, uma bolinha de dentro de cada uma das duas urnas A e B disponibilizadas pelo gerente, nas quais há apenas bolinhas pretas e brancas. Atualmente, a probabilidade de se escolher, ao acaso, uma bolinha preta na urna A é igual a 20% e a probabilidade de se escolher uma bolinha preta na urna B é 25%. Ganha o voucher o cliente que retirar duas bolinhas pretas, uma de cada urna.\n\nCom o passar dos dias, o gerente percebeu que, para a promoção ser viável aos negócios, era preciso alterar a probabilidade de acerto do cliente sem alterar a regra da promoção. Para isso, resolveu alterar a quantidade de bolinhas brancas na urna B de forma que a probabilidade de um cliente ganhar o voucher passasse a ser menor ou igual a 1%. Sabe-se que a urna B tem 4 bolinhas pretas e que, em ambas as urnas, todas as bolinhas têm a mesma probabilidade de serem retiradas.",
+      "alternativas_introducao": "Qual é o número mínimo de bolinhas brancas que o gerente deve adicionar à urna B?",
+      "alternativas": [
+        "A) 20",
+        "B) 60",
+        "C) 64",
+        "D) 68",
+        "E) 80"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/138"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 49,
+      "titulo": "Questão 139 - ENEM 2023",
+      "enunciado": "O gerente de uma fábrica pretende comparar a evolução das vendas de dois produtos similares (I e II). Para isso, passou a verificar o número de unidades vendidas de cada um desses produtos em cada mês. Os resultados dessa verificação, para os meses de abril a junho, são apresentados na tabela.\n\n![](https://enem.dev/2023/questions/139/abba5cb1-da9d-4899-bda7-97099ca51147.png)\n\nO gerente estava decidido a cessar a produção do produto II no mês seguinte àquele em que as vendas do produto I superassem as do produto II.  \nSuponha que a variação na quantidade de unidades vendidas dos produtos I e II se manteve, mês a mês, como no período representado na tabela.",
+      "alternativas_introducao": "Em qual mês o produto II parou de ser produzido?",
+      "alternativas": [
+        "A) Junho.",
+        "B) Julho.",
+        "C) Agosto.",
+        "D) Setembro.",
+        "E) Outubro."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q049_principal.png",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/139"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 50,
+      "titulo": "Questão 140 - ENEM 2023",
+      "enunciado": "Uma empresa de transporte faz regularmente um levantamento do número de viagens realizadas durante o dia por todos os 160 motoristas cadastrados em seu aplicativo. Em um certo dia, foi gerado um relatório, por meio de um gráfico de barras, no qual se relacionaram a quantidade de motoristas com a quantidade de viagens realizadas até aquele instante do dia.\n\n![](https://enem.dev/2023/questions/140/846c1155-c9f0-48ad-a862-f9bf883c3935.png)",
+      "alternativas_introducao": "Comparando os valores da média, da mediana e da moda da distribuição das quantidades de viagens realizadas pelos motoristas cadastrados nessa empresa, obtém-se",
+      "alternativas": [
+        "A) Mediana = média < moda.",
+        "B) Mediana = moda < média.",
+        "C) Mediana < média < moda.",
+        "D) Moda < média < mediana.",
+        "E) Moda < mediana < média."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q050_principal.png",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/140"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 51,
+      "titulo": "Questão 141 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "Qual a probabilidade de o vencedor do sorteio ser um estudante do terceiro ano?",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)",
+        "E)"
+      ],
+      "imagens_alternativas": [
+        "enem/2023/img/q051_altA.jpg",
+        "enem/2023/img/q051_altB.jpg",
+        "enem/2023/img/q051_altC.jpg",
+        "enem/2023/img/q051_altD.jpg",
+        "enem/2023/img/q051_altE.jpg"
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/141"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 52,
+      "titulo": "Questão 142 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "Qual é a quantidade mínima de água, em litro, que cada morador, em média, deverá economizar por dia, de modo que o reservatório não fique sem água nos próximos 10 dias?",
+      "alternativas": [
+        "A) 50",
+        "B) 60",
+        "C) 80",
+        "D) 140",
+        "E) 150"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/142"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 53,
+      "titulo": "Questão 143 - ENEM 2023",
+      "enunciado": "Em janeiro do ano passado, a direção de uma fábrica abriu uma creche para os filhos de seus funcionários, com 10 salas, cada uma com capacidade para atender 10 crianças a cada ano. As vagas são sorteadas entre os filhos dos funcionários inscritos, enquanto os não contemplados pelo sorteio formam uma lista de espera. No ano passado, a lista de espera teve 400 nomes e, neste ano, esse número cresceu 10%. A direção da fábrica realizou uma pesquisa e constatou que a lista de espera para o próximo ano terá a mesma quantidade de nomes da lista de espera deste ano. Decidiu, então, construir, ao longo desse ano, novas salas para a creche, também com capacidade de atendimento para 10 crianças cada, de modo que o número de nomes na lista de espera no próximo ano seja 25% menor que o deste ano.",
+      "alternativas_introducao": "O número mínimo de salas que deverão ser construídas é",
+      "alternativas": [
+        "A) 10",
+        "B) 11",
+        "C) 12",
+        "D) 30",
+        "E) 33"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/143"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 54,
+      "titulo": "Questão 144 - ENEM 2023",
+      "enunciado": "A foto mostra a construção de uma cisterna destinada ao armazenamento de água. Uma cisterna como essa, na forma de cilindro circular reto com 3 m² de área da base, foi abastecida por um curso-d’água com vazão constante. O seu proprietário registrou a altura do nível da água no interior da cisterna durante o abastecimento em diferentes momentos de um mesmo dia, conforme o quadro.\n\n![](https://enem.dev/2023/questions/144/c606403f-fd10-4c02-8e46-736fece94b85.png)\n\n![](https://enem.dev/2023/questions/144/2107cabc-64d0-4a1f-9eab-fa7dce0e9ac2.png)\n\nDisponível em: www.paraibamix.com. Acesso em: 3 dez. 2012.",
+      "alternativas_introducao": "Qual foi a vazão, em metro cúbico por hora, do curso-d’água que abasteceu a cisterna?",
+      "alternativas": [
+        "A) 0,3",
+        "B) 0,5",
+        "C) 0,9",
+        "D) 1,8",
+        "E) 2,7"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q054_principal.png",
+      "imagens_extras": [
+        "enem/2023/img/q054_extra1.png"
+      ],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/144"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 55,
+      "titulo": "Questão 145 - ENEM 2023",
+      "enunciado": "Num certo momento de um jogo digital, a tela apresenta a imagem representada na figura. O ponto Q1 representa a posição de um jogador que está com a bola, os pontos Q2, Q3, Q4 , Q5 e Q6  \ntambém indicam posições de jogadores da mesma equipe, e os pontos A e B indicam os dois pés da trave mais próxima deles. No momento da partida retratado, o jogador Q1 tem a posse da bola, que será passada para um dos outros jogadores das posições Qn, n ∈ {2, 3, 4, 5, 6}, cujo ângulo AQnB tenha a mesma medida do ângulo AQ1 B.\n\n![](https://enem.dev/2023/questions/145/f338280e-33fe-4896-b296-cfb94ca78430.png)",
+      "alternativas_introducao": "Qual é o jogador que receberá a bola?",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)",
+        "E)"
+      ],
+      "imagens_alternativas": [
+        "enem/2023/img/q055_altA.png",
+        "enem/2023/img/q055_altB.png",
+        "enem/2023/img/q055_altC.png",
+        "enem/2023/img/q055_altD.png",
+        "enem/2023/img/q055_altE.png"
+      ],
+      "imagem_principal": "enem/2023/img/q055_principal.png",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/145"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 56,
+      "titulo": "Questão 146 - ENEM 2023",
+      "enunciado": "![](https://enem.dev/2023/questions/146/74e0c851-b2af-410d-9f19-3348dd8f883a.jpg)",
+      "alternativas_introducao": "Considere que os números colocados nos vértices do triângulo estejam em progressão aritmética de razão igual a 2.\nNas condições propostas, quais as possíveis soluções para as somas dos números que formam os lados do triângulo?",
+      "alternativas": [
+        "A) Há somente uma solução possível, e as somas em cada lado do triângulo são iguais a 7.",
+        "B) Há somente uma solução possível, e as somas em cada lado do triângulo são iguais a 9.",
+        "C) Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 7 e outra em que as somas são iguais a 9.",
+        "D) Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 9 e outra em que as somas são iguais a 12.",
+        "E) Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 10 e outra em que as somas são iguais a 11."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q056_principal.jpg",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/146"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 57,
+      "titulo": "Questão 147 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "Alguns estudos comprovam que os carboidratos fornecem energia ao corpo, preservam as proteínas estruturais dos músculos durante a prática de atividade física e ainda dão força para o cérebro coordenar os movimentos, o que de fato tem impacto positivo no desenvolvimento do praticante. O ideal é consumir 1 grama de carboidrato para cada minuto de caminhada.\nCIRINO, C. Boa pergunta: consumir carboidratos antes dos exercícios melhora o desempenho do atleta? Revista Saúde! É Vital, n. 330, nov. 2010 (adaptado).\nUm casal realizará diariamente 30 minutos de caminhada, ingerindo, antes dessa atividade, a quantidade ideal de carboidratos recomendada. Para ter o consumo ideal apenas por meio do consumo de pão de fôrma integral, o casal planeja garantir o suprimento de pães para um período de 30 dias ininterruptos. Sabe-se que cada pacote desse pão vem com 18 fatias, e que cada uma delas tem 15 gramas de carboidratos.\nA quantidade mínima de pacotes de pão de fôrma necessários para prover o suprimento a esse casal é",
+      "alternativas": [
+        "A) 1",
+        "B) 4",
+        "C) 6",
+        "D) 7",
+        "E) 8"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/147"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 58,
+      "titulo": "Questão 148 - ENEM 2023",
+      "enunciado": "O mastro de uma bandeira foi instalado perpendicularmente ao solo em uma região plana. Devido aos fortes ventos, três cabos de aço, de mesmo comprimento, serão instalados para dar sustentação ao mastro. Cada cabo de aço ficará perfeitamente esticado, com uma extremidade num ponto P do mastro, a uma altura h do solo, e a outra extremidade, num ponto no chão, como mostra a figura.\n\n![](https://enem.dev/2023/questions/148/c6c6b6c4-3fba-4a68-99c6-014bb190c456.png)",
+      "alternativas_introducao": "Os cabos de aço formam um ângulo a com o plano do chão. Por medida de segurança, há apenas três opções de instalação:\n• opção I: h = 11 m e a = 30°\n• opção II: h = 12 m e a = 45°\n• opção III: h = 18 m e a = 60°\nA opção a ser escolhida é aquela em que a medida dos cabos seja a menor possível.\nQual será a medida, em metro, de cada um dos cabos a serem instalados?",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)",
+        "E)"
+      ],
+      "imagens_alternativas": [
+        "enem/2023/img/q058_altA.png",
+        "enem/2023/img/q058_altB.png",
+        "enem/2023/img/q058_altC.png",
+        "enem/2023/img/q058_altD.png",
+        "enem/2023/img/q058_altE.png"
+      ],
+      "imagem_principal": "enem/2023/img/q058_principal.png",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/148"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 59,
+      "titulo": "Questão 149 - ENEM 2023",
+      "enunciado": "Um controlador de voo dispõe de um instrumento que descreve a altitude de uma aeronave em voo, em função da distância em solo. Essa distância em solo é a medida na horizontal entre o ponto de origem do voo até o ponto que representa a projeção ortogonal da posição da aeronave, em voo, no solo. Essas duas grandezas são dadas numa mesma unidade de medida.\n\nA tela do instrumento representa proporcionalmente as dimensões reais das distâncias associadas ao voo. A figura apresenta a tela do instrumento depois de concluída a viagem de um avião, sendo a medida do lado de cada quadradinho da malha igual a 1 cm.\n\n![](https://enem.dev/2023/questions/149/a88a534d-3ee0-4b70-aba7-1b3e7c46b5f3.png)",
+      "alternativas_introducao": "Essa tela apresenta os dados de um voo cuja maior altitude alcançada foi de 5 km.\nA escala em que essa tela representa as medidas reais é",
+      "alternativas": [
+        "A) 1 : 5.",
+        "B) 1 : 11.",
+        "C) 1 : 55.",
+        "D) 1 : 5000.",
+        "E) 1 : 500 000."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q059_principal.png",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/149"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 60,
+      "titulo": "Questão 150 - ENEM 2023",
+      "enunciado": "Dirigir após ingerir bebidas alcoólicas é uma atitude extremamente perigosa, uma vez que, a partir da primeira dose, a pessoa já começa a ter perda de sensibilidade de movimentos e de reflexos. Apesar de a eliminação e absorção do álcool depender de cada pessoa e de como o organismo consegue metabolizar a substância, ao final da primeira hora após a ingestão, a concentração de álcool (C) no sangue corresponde a aproximadamente 90% da quantidade (q) de álcool ingerida, e a eliminação total dessa concentração pode demorar até 12 horas.\n\nDisponível em: http://g1.globo.com. Acesso em: 1 dez. 2018 (adaptado).",
+      "alternativas_introducao": "Nessas condições, ao final da primeira hora após a ingestão da quantidade q de álcool, a concentração C dessa substância no sangue é expressa algebricamente por",
+      "alternativas": [
+        "A) C = 0,9q",
+        "B) C = 0,1q",
+        "C) C = 1 − 0,1q",
+        "D) C = 1 − 0,9q",
+        "E) C = q − 10"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/150"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 61,
+      "titulo": "Questão 151 - ENEM 2023",
+      "enunciado": "Um investidor iniciante observou o gráfico que apresenta a evolução dos valores de duas criptomoedas A e B em relação ao tempo.\n\n![](https://enem.dev/2023/questions/151/276495a3-e5f2-4e4c-83b0-3473512a5274.png)\n\nDurante horas consecutivas, esses valores foram observados em nove instantes, representados por horas exatas.",
+      "alternativas_introducao": "Em quantos desses instantes a criptomoeda A estava mais valorizada do que a criptomoeda B?",
+      "alternativas": [
+        "A) 3",
+        "B) 4",
+        "C) 6",
+        "D) 7",
+        "E) 9"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q061_principal.png",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/151"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 62,
+      "titulo": "Questão 152 - ENEM 2023",
+      "enunciado": "A exposição a alguns níveis sonoros pode causar lesões auditivas. Por isso, em uma indústria, são adotadas medidas preventivas de acordo com a máquina que o funcionário opera e o nível _N_ de intensidade do som, medido em decibel (dB), a que o operário é exposto, sendo ![](https://enem.dev/2023/questions/152/30b0ee85-ac44-4eca-a7c9-54bd70f9c069.png), _I_ a intensidade do som e ![](https://enem.dev/2023/questions/152/40f43a4f-f8da-44a9-a02c-f20ba89a48ce.png).\n\nDisponível em: www.sofisica.com.br. Acesso em: 8 jul. 2015 (adaptado).\n\nQuando o som é considerado baixo, ou seja, _N_ = 48 dB ou menos, deve ser utilizada a medida preventiva I. No caso de o som ser moderado, quando _N_ está no intervalo (48 dB, 55 dB), deve ser utilizada a medida preventiva II. Quando o som é moderado alto, que equivale a _N_ no intervalo (55 dB, 80 dB), a medida preventiva a ser usada é a III. Se _N_ estiver no intervalo (80 dB, 115 dB), quando o som é considerado alto, deve ser utilizada a medida preventiva IV. E se o som é considerado muito alto, com _N_ maior que 115 dB, deve-se utilizar a medida preventiva V.  \nUma nova máquina, com ![](https://enem.dev/2023/questions/152/13f26008-1dcf-404f-b3cf-aae104a036c1.png), foi adquirida e será classificada de acordo com o nível de ruído que produz.  \nConsidere 0,3 como aproximação para ![](https://enem.dev/2023/questions/152/717fdd2f-5eef-48c9-9211-8f62bdb2639c.png).",
+      "alternativas_introducao": "O funcionário que operará a nova máquina deverá adotar a medida preventiva",
+      "alternativas": [
+        "A) I.",
+        "B) II.",
+        "C) III.",
+        "D) IV.",
+        "E) V."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q062_principal.png",
+      "imagens_extras": [
+        "enem/2023/img/q062_extra1.png",
+        "enem/2023/img/q062_extra2.png",
+        "enem/2023/img/q062_extra3.png"
+      ],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/152"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 63,
+      "titulo": "Questão 153 - ENEM 2023",
+      "enunciado": "Um supermercado conta com cinco caixas disponíveis para pagamento. Foram instaladas telas que apresentam o tempo médio gasto por cada caixa para iniciar e finalizar o atendimento de cada cliente, e o número de pessoas presentes na fila de cada caixa em tempo real. Um cliente, na hora de passar sua compra, sabendo que cada um dos cinco caixas iniciará um novo atendimento naquele momento, pretende gastar o menor tempo possível de espera na fila. Ele observa que as telas apresentavam as informações a seguir.  \n• Caixa I: atendimento 12 minutos, 5 pessoas na fila.  \n• Caixa II: atendimento 6 minutos, 9 pessoas na fila.  \n• Caixa III: atendimento 5 minutos, 6 pessoas na fila.  \n• Caixa IV: atendimento 15 minutos, 2 pessoas na fila.  \n• Caixa V: atendimento 9 minutos, 3 pessoas na fila.",
+      "alternativas_introducao": "Para alcançar seu objetivo, o cliente deverá escolher o caixa",
+      "alternativas": [
+        "A) I.",
+        "B) II.",
+        "C) III.",
+        "D) IV.",
+        "E) V."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/153"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 64,
+      "titulo": "Questão 154 - ENEM 2023",
+      "enunciado": "As figuras pintadas no quadro da sala de estar de uma residência representam as silhuetas de parte das torres de um castelo e, ao fundo, a de uma lua cheia. A lua foi pintada na forma de um círculo, e o telhado da torre mais alta, na forma de triângulo equilátero, foi pintado sobrepondo parte da lua. O centro da lua coincide com um dos vértices do telhado da torre mais alta.\n\n![](https://enem.dev/2023/questions/154/d39268bf-82aa-4063-8bcf-dfdafa4a3aa8.png)",
+      "alternativas_introducao": "Nesse quadro, a parte da lua escondida atrás da torre mais alta do castelo pode ser representada por um",
+      "alternativas": [
+        "A) Cone.",
+        "B) Setor circular.",
+        "C) Segmento circular.",
+        "D) Triângulo isósceles.",
+        "E) Arco de circunferência."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q064_principal.png",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/154"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 65,
+      "titulo": "Questão 155 - ENEM 2023",
+      "enunciado": "Na planta baixa de um clube, a piscina é representada por um quadrado cuja área real mede 400 m². Ao redor dessa piscina, será construída uma calçada, de largura constante igual a 5 m.\n\n![](https://enem.dev/2023/questions/155/05746583-c107-4dd6-8a3b-7e7d0da99377.png)",
+      "alternativas_introducao": "Qual é a medida da área, em metro quadrado, ocupada pela calçada?",
+      "alternativas": [
+        "A) 1.000",
+        "B) 900",
+        "C) 600",
+        "D) 500",
+        "E) 400"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q065_principal.png",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/155"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 66,
+      "titulo": "Questão 156 - ENEM 2023",
+      "enunciado": "Uma pessoa caminha por 30 minutos e utiliza um aplicativo instalado em seu celular para monitorar a variação da intensidade do sinal de internet recebido pelo aparelho durante o deslocamento. Chegando ao seu destino, o aplicativo forneceu este gráfico:\n\n![](https://enem.dev/2023/questions/156/e9e0b793-5535-48e6-87c6-5516e6d7c8cd.png)",
+      "alternativas_introducao": "Por quantos minutos, durante essa caminhada, o celular dessa pessoa ficou sem receber sinal de internet?",
+      "alternativas": [
+        "A) 6",
+        "B) 8",
+        "C) 10",
+        "D) 14",
+        "E) 24"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q066_principal.png",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/156"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 67,
+      "titulo": "Questão 157 - ENEM 2023",
+      "enunciado": "Um professor, para promover a aprendizagem dos estudantes em estatística, propôs uma atividade. O objetivo era verificar o percentual de estudantes com massa corporal abaixo da média e altura acima da média de um grupo de estudantes. Para isso, usando uma balança e uma fita métrica, avaliou uma amostra de dez estudantes, anotando as medidas observadas. O gráfico apresenta a massa corporal, em quilograma, e a altura, em metro, obtidas na atividade\n\n![](https://enem.dev/2023/questions/157/13cfbc97-0034-4904-9100-ff5ca3f6504e.png)\n\nApós a coleta dos dados, os estudantes calcularam a média dos valores obtidos, referentes à massa corporal e à altura, obtendo, respectivamente, 80 kg e 1,65 m.",
+      "alternativas_introducao": "Qual é o percentual de estudantes dessa amostra com massa corporal abaixo da média e altura acima da média?",
+      "alternativas": [
+        "A) 10",
+        "B) 20",
+        "C) 30",
+        "D) 50",
+        "E) 70"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q067_principal.png",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/157"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 68,
+      "titulo": "Questão 158 - ENEM 2023",
+      "enunciado": "Um pescador tem um custo fixo diário de R$ 900,00 com combustível, iscas, manutenção de seu barco e outras pequenas despesas. Ele vende cada quilograma de peixe por R$ 5,00. Sua meta é obter um lucro mínimo de R$ 800,00 por dia. Sozinho, ele consegue, ao final de um dia de trabalho, pescar 180 kg de peixe, o que é suficiente apenas para cobrir o custo fixo diário. Portanto, precisa contratar ajudantes, pagando para cada um R$ 250,00 por dia de trabalho. Além desse valor, 4%dareceita obtida pela venda de peixe é repartida igualmente entre os ajudantes. Considerando o tamanho de seu barco, ele pode contratar até 5 ajudantes. Ele sabe que com um ajudante a pesca diária é de 300 kg e que, a partir do segundo ajudante contratado, aumenta-se em 100 kg a quantidade de peixe pescada por ajudante em um dia de trabalho.",
+      "alternativas_introducao": "A quantidade mínima de ajudantes que esse pescador precisa contratar para conseguir o lucro diário pretendido é",
+      "alternativas": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 4",
+        "E) 5"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/158"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 69,
+      "titulo": "Questão 159 - ENEM 2023",
+      "enunciado": "Um agricultor é informado sobre um método de proteção para sua lavoura que consiste em inserir larvas específicas, de rápida reprodução. A reprodução dessas larvas faz com que sua população multiplique-se por 10 a cada 3 dias e, para evitar eventuais desequilíbrios, é possível cessar essa reprodução aplicando-se um produto X. O agricultor decide iniciar esse método com 100 larvas e dispõe de 5 litros do produto X, cuja aplicação recomendada é de exatamente 1 litro para cada população de 200 000 larvas. A quantidade total do produto X de que ele dispõe deverá ser aplicada de uma única vez.",
+      "alternativas_introducao": "Quantos dias após iniciado esse método o agricultor deverá aplicar o produto X?",
+      "alternativas": [
+        "A) 2",
+        "B) 4",
+        "C) 6",
+        "D) 12",
+        "E) 18"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/159"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 70,
+      "titulo": "Questão 160 - ENEM 2023",
+      "enunciado": "Ao realizar o cadastro em um aplicativo de investimentos, foi solicitado ao usuário que criasse uma senha, sendo permitido o uso somente dos seguintes caracteres:\n\n• algarismos de 0 a 9;\n\n• 26 letras minúsculas do alfabeto;\n\n• 26 letras maiúsculas do alfabeto;\n\n• 6 caracteres especiais !, @, #, $, \\*, &.\n\nTrês tipos de estruturas para senha foram apresentadas ao usuário:\n\n• tipo I: formada por quaisquer quatro caracteres distintos, escolhidos dentre os permitidos;\n\n• tipo II: formada por cinco caracteres distintos, iniciando por três letras, seguidas por um algarismo e, ao final, um caractere especial;\n\n• tipo III: formada por seis caracteres distintos, iniciando por duas letras, seguidas por dois algarismos e, ao final, dois caracteres especiais.\n\nConsidere ![](https://enem.dev/2023/questions/160/a2d565c2-f39f-4b43-b261-087e349850fe.png) as probabilidades de se descobrirem ao acaso, na primeira tentativa, as senhas dos tipos I, II e III, respectivamente.",
+      "alternativas_introducao": "Nessas condições, o tipo de senha que apresenta a menor probabilidade de ser descoberta ao acaso, na primeira tentativa, é o",
+      "alternativas": [
+        "A) Tipo I, pois p1 < p2 < p3.",
+        "B) Tipo I, pois tem menor quantidade de caracteres.",
+        "C) Tipo II, pois tem maior quantidade de letras.",
+        "D) Tipo III, pois p3 < p2 < p1",
+        "E) Tipo III, pois tem maior quantidade de caracteres."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q070_principal.png",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/160"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 71,
+      "titulo": "Questão 161 - ENEM 2023",
+      "enunciado": "Uma loja vende seus produtos de duas formas: à vista ou financiado em três parcelas mensais iguais. Para definir o valor dessas parcelas nas vendas financiadas, a loja aumenta em 20% o valor do produto à vista e divide esse novo valor por 3. A primeira parcela deve ser paga no ato da compra, e as duas últimas, em 30 e 60 dias após a compra.\n\nUm cliente da loja decidiu comprar, de forma financiada, um produto cujo valor à vista é R$ 1 500,00.\n\nUtilize 5,29 como aproximação para 28.",
+      "alternativas_introducao": "A taxa mensal de juros compostos praticada nesse financiamento é de",
+      "alternativas": [
+        "A) 6,7%",
+        "B) 10%",
+        "C) 20%",
+        "D) 21,5%",
+        "E) 23,3%"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/161"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 72,
+      "titulo": "Questão 162 - ENEM 2023",
+      "enunciado": "Para concretar a laje de sua residência, uma pessoa contratou uma construtora. Tal empresa informa que o preço _y_ do concreto bombeado é composto de duas partes: uma fixa, chamada de taxa de bombeamento, e uma variável, que depende do volume _x_ de concreto utilizado. Sabe-se que a taxa de bombeamento custa R$ 500,00 e que o metro cúbico do concreto bombeado é de R$ 250,00.",
+      "alternativas_introducao": "A expressão que representa o preço y em função do volume x, em metro cúbico, é",
+      "alternativas": [
+        "A) Y = 250x",
+        "B) Y = 500x",
+        "C) Y = 750x",
+        "D) Y = 250x + 500",
+        "E) Y = 500x + 250"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/162"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 73,
+      "titulo": "Questão 163 - ENEM 2023",
+      "enunciado": "Uma empresa de segurança domiciliar oferece o serviço de patrulha noturna, no qual vigilantes em motocicletas fazem o monitoramento periódico de residências. A empresa conta com uma base, de onde acompanha o trajeto realizado pelos vigilantes durante as patrulhas e orienta o deslocamento de equipes de reforço quando necessário. Numa patrulha rotineira, sem ocorrências, um vigilante conduziu sua motocicleta a uma velocidade constante durante todo o itinerário estabelecido, levando 30 minutos para conclusão. De acordo com os registros do GPS alocado na motocicleta, a distância da posição do vigilante à base, ao longo do tempo de realização do trajeto, é descrita pelo gráfico.\n\n![](https://enem.dev/2023/questions/163/ff0caefb-56e7-4c17-bae7-b65b91037e9c.png)",
+      "alternativas_introducao": "A vista superior da trajetória realizada pelo vigilante durante a patrulha registrada no gráfico é descrita pela representação",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)",
+        "E)"
+      ],
+      "imagens_alternativas": [
+        "enem/2023/img/q073_altA.png",
+        "enem/2023/img/q073_altB.png",
+        "enem/2023/img/q073_altC.png",
+        "enem/2023/img/q073_altD.png",
+        "enem/2023/img/q073_altE.png"
+      ],
+      "imagem_principal": "enem/2023/img/q073_principal.png",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/163"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 74,
+      "titulo": "Questão 164 - ENEM 2023",
+      "enunciado": "O gráfico expõe alguns números da gripe A-H1N1. Entre as categorias que estão em processo de imunização, uma já está completamente imunizada, a dos trabalhadores da saúde.\n\n![](https://enem.dev/2023/questions/164/194cf28a-b40d-493d-b106-8f71aee57f51.png)\n\nÉpoca, 26 abr. 2010 (adaptado).",
+      "alternativas_introducao": "De acordo com o gráfico, entre as demais categorias, a que está mais exposta ao vírus da gripe A-H1N1 é a categoria de",
+      "alternativas": [
+        "A) Indígenas.",
+        "B) Gestantes.",
+        "C) Doentes crônicos.",
+        "D) Adultos entre 20 e 29 anos.",
+        "E) Crianças de 6 meses a 2 anos."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q074_principal.png",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/164"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 75,
+      "titulo": "Questão 165 - ENEM 2023",
+      "enunciado": "A figura representa uma escada com três degraus, construída em concreto maciço, com suas medidas especificadas.\n\n![](https://enem.dev/2023/questions/165/bf369224-eb93-4bba-98c4-ff7d1e17df36.png)\n\nNessa escada, pisos e espelhos têm formato retangular, e as paredes laterais têm formato de um polígono cujos lados adjacentes são perpendiculares. Pisos, espelhos e paredes laterais serão revestidos em cerâmica.",
+      "alternativas_introducao": "A área a ser revestida em cerâmica, em metro quadrado, mede",
+      "alternativas": [
+        "A) 1,20.",
+        "B) 1,35.",
+        "C) 1,65.",
+        "D) 1,80.",
+        "E) 1,95."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q075_principal.png",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/165"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 76,
+      "titulo": "Questão 166 - ENEM 2023",
+      "enunciado": "Uma pessoa pratica quatro atividades físicas — caminhar, correr, andar de bicicleta e jogar futebol — como parte de seu programa de emagrecimento. Essas atividades são praticadas semanalmente de acordo com o quadro, que apresenta o número de horas diárias por atividade.\n\n![](https://enem.dev/2023/questions/166/80863c14-e426-4ae6-9ff0-03f5b3c71160.png)\n\nEla deseja comemorar seu aniversário e escolhe o dia da semana em que o gasto calórico com as atividades físicas  praticadas for o maior. Para tanto, considera que os valores dos gastos calóricos das atividades por hora (cal/h) são os seguintes:\n\n![](https://enem.dev/2023/questions/166/e3d70b62-2929-4694-ba58-cf45c0ac1374.png)",
+      "alternativas_introducao": "O dia da semana em que será comemorado o aniversário é",
+      "alternativas": [
+        "A) Segunda-feira.",
+        "B) Terça-feira.",
+        "C) Quarta-feira.",
+        "D) Quinta-feira.",
+        "E) Sexta-feira."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q076_principal.png",
+      "imagens_extras": [
+        "enem/2023/img/q076_extra1.png"
+      ],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/166"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 77,
+      "titulo": "Questão 167 - ENEM 2023",
+      "enunciado": "A cada bimestre, a diretora de uma escola compra uma quantidade de folhas de papel ofício proporcional ao número de alunos matriculados. No bimestre passado, ela comprou 6 000 folhas para serem utilizadas pelos 1 200 alunos matriculados. Neste bimestre, alguns alunos cancelaram suas matrículas e a escola tem, agora, 1 150 alunos. A diretora só pode gastar R$ 220,00 nessa compra, e sabe que o fornecedor da escola vende as folhas de papel ofício em embalagens de 100 unidades a R$ 4,00 a embalagem. Assim, será preciso convencer o fornecedor a dar um desconto à escola, de modo que seja possível comprar a quantidade total de papel ofício necessária para o bimestre.",
+      "alternativas_introducao": "O desconto necessário no preço final da compra, em porcentagem, pertence ao intervalo",
+      "alternativas": [
+        "A) (5,0 ; 5,5).",
+        "B) (8,0 ; 8,5).",
+        "C) (11,5 ; 12,5).",
+        "D) (19,5 ; 20,5).",
+        "E) (3,5 ; 4,0)."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/167"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 78,
+      "titulo": "Questão 168 - ENEM 2023",
+      "enunciado": "Em um colégio público, a admissão no primeiro ano se dá por sorteio. Neste ano há 55 candidatos, cujas inscrições são numeradas de 01 a 55. O sorteio de cada número de inscrição será realizado em etapas, utilizando-se duas urnas. Da primeira urna será sorteada uma bola, dentre bolas numeradas de 0 a 9, que representará o algarismo das unidades do número de inscrição a ser sorteado e, em seguida, da segunda urna, será sorteada uma bola para representar o algarismo das dezenas desse número. Depois do primeiro sorteio, e antes de se sortear o algarismo das dezenas, as bolas que estarão presentes na segunda urna serão apenas aquelas cujos números formam, com o algarismo já sorteado, um número de 01 a 55.",
+      "alternativas_introducao": "As probabilidades de os candidatos de inscrição número 50 e 02 serem sorteados são, respectivamente,",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)",
+        "E)"
+      ],
+      "imagens_alternativas": [
+        "enem/2023/img/q078_altA.png",
+        "enem/2023/img/q078_altB.png",
+        "enem/2023/img/q078_altC.png",
+        "enem/2023/img/q078_altD.png",
+        "enem/2023/img/q078_altE.png"
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/168"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 79,
+      "titulo": "Questão 169 - ENEM 2023",
+      "enunciado": "O esquema mostra como a intensidade luminosa decresce com o aumento da profundidade em um rio, sendo ![](https://enem.dev/2023/questions/169/76239f15-d46d-4067-bb38-bb40ca2f87c0.png) a intensidade na sua superfície.\n\n![](https://enem.dev/2023/questions/169/3af229c8-e385-4ca2-891a-22bdf6b2d593.png)\n\nConsidere que a intensidade luminosa diminui, a cada metro acrescido na profundidade, segundo o mesmo padrão do esquema.",
+      "alternativas_introducao": "A intensidade luminosa correspondente à profundidade de 6 m é igual a",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)",
+        "E)"
+      ],
+      "imagens_alternativas": [
+        "enem/2023/img/q079_altA.png",
+        "enem/2023/img/q079_altB.png",
+        "enem/2023/img/q079_altC.png",
+        "enem/2023/img/q079_altD.png",
+        "enem/2023/img/q079_altE.png"
+      ],
+      "imagem_principal": "enem/2023/img/q079_principal.png",
+      "imagens_extras": [
+        "enem/2023/img/q079_extra1.png"
+      ],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/169"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 80,
+      "titulo": "Questão 170 - ENEM 2023",
+      "enunciado": "Analisando as vendas de uma empresa, o gerente concluiu que o montante diário arrecadado, em milhar de real, poderia ser calculado pela expressão ![](https://enem.dev/2023/questions/170/369b24e4-258e-4faf-b7df-0c2e3da3c22a.png) , em que os valores de x representam os dias do mês, variando de 1 a 30.\n\nUm dos fatores para avaliar o desempenho mensal da empresa é verificar qual é o menor montante diário ![](https://enem.dev/2023/questions/170/b158b079-eaf5-4f8c-84b1-99db8076a950.png) arrecadado ao longo do mês e classificar o desempenho conforme as categorias apresentadas a seguir, em que as quantidades estão expressas em milhar de real.\n\n![](https://enem.dev/2023/questions/170/e7404490-a2b4-46e1-b1e6-3a8c828050fe.png)",
+      "alternativas_introducao": "No caso analisado, qual seria a classificação do desempenho da empresa?",
+      "alternativas": [
+        "A) Ótimo.",
+        "B) Bom.",
+        "C) Normal.",
+        "D) Ruim.",
+        "E) Péssimo."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q080_principal.png",
+      "imagens_extras": [
+        "enem/2023/img/q080_extra1.png",
+        "enem/2023/img/q080_extra2.png"
+      ],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/170"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 81,
+      "titulo": "Questão 171 - ENEM 2023",
+      "enunciado": "O calendário maia apresenta duas contagens simultâneas de anos, o chamado ano Tzolkim, composto por 260 dias e que determinava o calendário religioso, e o ano Haab, composto por 365 dias e que determinava o calendário agrícola. Um historiador encontrou evidências de que gerações de uma mesma família governaram certa comunidade maia pelo período de 20 ciclos, sendo cada ciclo formado por 52 anos Haab.\n\nDisponível em: www.suapesquisa.com. Acesso em: 20 ago. 2014.",
+      "alternativas_introducao": "De acordo com as informações fornecidas, durante quantos anos Tzolkim aquela comunidade maia foi governada por tal família?",
+      "alternativas": [
+        "A) 741",
+        "B) 1 040",
+        "C) 1 460",
+        "D) 2 100",
+        "E) 5 200"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/171"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 82,
+      "titulo": "Questão 172 - ENEM 2023",
+      "enunciado": "Sejam _a_, _b_ e _c_ as medidas dos lados de um triângulo retângulo, tendo a como medida da hipotenusa. Esses valores _a_, _b_ e _c_ são, respectivamente, os diâmetros dos círculos _C1_ , _C2_ e _C3_, como apresentados na figura.\n\n![](https://enem.dev/2023/questions/172/dcdd2743-6ad6-44e8-94ae-d2adec3a3400.png)\n\nObserve que essa construção assegura, pelo teorema de Pitágoras, que área (C1) = área (C2) + área (C3).\n\nUm professor de matemática era conhecedor dessa construção e, confraternizando com dois amigos em uma pizzaria onde são vendidas pizzas somente em formato de círculo, lançou um desafio: mesmo sem usar um instrumento de medição, poderia afirmar com certeza se a área do círculo correspondente à pizza que ele pedisse era maior, igual ou menor do que a soma das áreas das pizzas dos dois amigos. Assim, foram pedidas três pizzas. O professor as dividiu ao meio e formou um triângulo com os diâmetros das pizzas, conforme indicado na figura.\n\n![](https://enem.dev/2023/questions/172/8bd02f79-d5fb-4b8d-9321-c57434be3374.png)\n\nA partir da medida do ângulo a, o professor afirmou que a área de sua pizza é maior do que a soma das áreas das outras duas pizzas.",
+      "alternativas_introducao": "A área da pizza do professor de matemática é maior do que a soma das áreas das outras duas pizzas, pois",
+      "alternativas": [
+        "A) 0° < a < 90°",
+        "B) A = 90°",
+        "C) 90° < a < 180°",
+        "D) A = 180°",
+        "E) 180° < a < 360°"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q082_principal.png",
+      "imagens_extras": [
+        "enem/2023/img/q082_extra1.png"
+      ],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/172"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 83,
+      "titulo": "Questão 173 - ENEM 2023",
+      "enunciado": "Entre maratonistas, um parâmetro utilizado é o de economia de corrida (EC). O valor desse parâmetro é calculado pela razão entre o consumo de oxigênio, em mililitro (mL) por minuto (min), e a massa, em quilograma (kg), do atleta correndo a uma velocidade constante.\n\nDisponível em: www.treinamentoonline.com.br. Acesso em: 23 out. 2019 (adaptado).",
+      "alternativas_introducao": "Um maratonista, visando melhorar sua performance, auxiliado por um médico, mensura o seu consumo de oxigênio por minuto a velocidade constante. Com base nesse consumo e na massa do atleta, o médico calcula o EC do atleta.\nA unidade de medida da grandeza descrita pelo parâmetro EC é",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)",
+        "E)"
+      ],
+      "imagens_alternativas": [
+        "enem/2023/img/q083_altA.png",
+        "enem/2023/img/q083_altB.png",
+        "enem/2023/img/q083_altC.png",
+        "enem/2023/img/q083_altD.png",
+        "enem/2023/img/q083_altE.png"
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/173"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 84,
+      "titulo": "Questao 84 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "",
+      "alternativas": [],
+      "imagens_alternativas": [],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "X",
+      "explicacao": "",
+      "fonte": "indisponivel",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/174"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 85,
+      "titulo": "Questão 175 - ENEM 2023",
+      "enunciado": "O metrô de um município oferece dois tipos de tíquetes com colorações diferentes, azul e vermelha, sendo vendidos em cartelas, cada qual com nove tíquetes da mesma cor e mesmo valor unitário. Duas cartelas de tíquetes azuis e uma cartela de tíquetes vermelhos são vendidas por R$ 32,40. Sabe-se que o preço de um tíquete azul menos o preço de um tíquete vermelho é igual ao preço de um tíquete vermelho mais cinco centavos.",
+      "alternativas_introducao": "Qual o preço, em real, de uma cartela de tíquetes vermelhos?",
+      "alternativas": [
+        "A) 4,68",
+        "B) 6,30",
+        "C) 9,30",
+        "D) 10,50",
+        "E) 10,65"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/175"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 86,
+      "titulo": "Questão 176 - ENEM 2023",
+      "enunciado": "Os números figurados pentagonais provavelmente foram introduzidos pelos pitagóricos por volta do século V a.C. As figuras ilustram como obter os seis primeiros deles, sendo os demais obtidos seguindo o mesmo padrão geométrico.\n\n![](https://enem.dev/2023/questions/176/d21e916b-a5fc-441e-b782-d2d4aca3522b.png)",
+      "alternativas_introducao": "O oitavo número pentagonal é",
+      "alternativas": [
+        "A) 59",
+        "B) 83",
+        "C) 86",
+        "D) 89",
+        "E) 92"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q086_principal.png",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/176"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 87,
+      "titulo": "Questão 177 - ENEM 2023",
+      "enunciado": "A figura ilustra uma roda-gigante no exato instante em que a cadeira onde se encontra a pessoa P está no ponto mais alto dessa roda-gigante.\n\n![](https://enem.dev/2023/questions/177/27c49bd5-ad8c-450c-9f56-970b9ca9c53c.png)\n\nCom o passar do tempo, à medida que a roda-gigante gira, com velocidade angular constante e no sentido horário, a altura da cadeira onde se encontra a pessoa P, em relação ao solo, vai se alterando.",
+      "alternativas_introducao": "O gráfico que melhor representa a variação dessa altura, em função do tempo, contado a partir do instante em que a cadeira da pessoa P se encontra na posição mais alta da roda-gigante, é",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)",
+        "E)"
+      ],
+      "imagens_alternativas": [
+        "enem/2023/img/q087_altA.png",
+        "enem/2023/img/q087_altB.png",
+        "enem/2023/img/q087_altC.png",
+        "enem/2023/img/q087_altD.png",
+        "enem/2023/img/q087_altE.png"
+      ],
+      "imagem_principal": "enem/2023/img/q087_principal.png",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/177"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 88,
+      "titulo": "Questão 178 - ENEM 2023",
+      "enunciado": "Estudantes trabalhando com robótica criaram uma “torneira inteligente” que automatiza sua abertura e seu fechamento durante a limpeza das mãos. A tecnologia funciona da seguinte forma: ao se colocarem as mãos sob a torneira, ela libera água durante 3 segundos para que a pessoa possa molhá-las. Em seguida, interrompe o fornecimento de água por 5 segundos, enquanto a pessoa ensaboa suas mãos, e finaliza o ciclo liberando água para o enxágue por mais 3 segundos. Considere o tempo (_t_), em segundo, contado a partir do instante em que se inicia o ciclo. A vazão de água nessa torneira é constante.",
+      "alternativas_introducao": "Um esboço de gráfico que descreve o volume de água acumulado, em litro, liberado por essa torneira durante um ciclo de lavagem das mãos, em função do tempo (t), em segundo, é",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)",
+        "E)"
+      ],
+      "imagens_alternativas": [
+        "enem/2023/img/q088_altA.png",
+        "enem/2023/img/q088_altB.png",
+        "enem/2023/img/q088_altC.png",
+        "enem/2023/img/q088_altD.png",
+        "enem/2023/img/q088_altE.png"
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/178"
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 89,
+      "titulo": "Questao 89 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "Com base nas informacoes dos mapas e nos conhecimentos sobre as mudancas climaticas globais, conclui-se que o aumento da temperatura media global de 4 graus C em relacao ao periodo pre-industrial causaria",
+      "alternativas": [
+        "A) reducao das chuvas em todas as regioes tropicais do planeta.",
+        "B) aquecimento uniforme de todas as regioes terrestres do planeta.",
+        "C) diminuicao da variacao de temperatura nas regioes polares do planeta.",
+        "D) intensificacao dos contrastes climaticos entre as regioes do planeta.",
+        "E) homogeneizacao da distribuicao das chuvas nas regioes temperadas do planeta."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q089_principal.png",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "correcao_manual",
+      "fonte_url": ""
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "numero": 90,
+      "titulo": "Questão 180 - ENEM 2023",
+      "enunciado": "Um tipo de semente necessita de bastante água nos dois primeiros meses após o plantio. Um produtor pretende estabelecer o melhor momento para o plantio desse tipo de semente, nos meses de outubro a março. Após consultar a previsão do índice mensal de precipitação de chuva (ImPC) da região onde ocorrerá o plantio, para o período chuvoso de 2020-2021, ele obteve os seguintes dados:  \n• outubro/2020: ImPC = 250 mm;  \n• novembro/2020: ImPC = 150 mm;  \n• dezembro/2020: ImPC = 200 mm;  \n• janeiro/2021: ImPC = 450 mm;  \n• fevereiro/2021: ImPC = 100 mm;  \n• março/2021: ImPC = 200 mm.\n\nCom base nessas previsões, ele precisa escolher dois meses consecutivos em que a média mensal de precipitação seja a maior possível.",
+      "alternativas_introducao": "No início de qual desses meses o produtor deverá plantar esse tipo de semente?",
+      "alternativas": [
+        "A) Outubro.",
+        "B) Novembro.",
+        "C) Dezembro.",
+        "D) Janeiro.",
+        "E) Fevereiro."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/180"
+    }
+  ]
+}

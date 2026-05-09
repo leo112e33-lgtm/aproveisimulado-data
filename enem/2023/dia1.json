@@ -1,0 +1,2528 @@
+{
+  "ano": 2023,
+  "dia": 1,
+  "total": 90,
+  "geradoEm": "2026-05-09T05:51:17Z",
+  "questoes": [
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 1,
+      "titulo": "Questão 1 - ENEM 2023",
+      "enunciado": "**TEXTO I**\n\n¿QUÉ ME PASA?:  \n¿PorQUE ME CUESTA TANTO ESTUDIAR?  \n¿PORQUE ME CUESTA TANTO CONCENTRARME?  \n¿PoRQUE……  \n¿PORQUÉ…..  \n¿PORQUÉ NO CONSIGO APRENDER COMO LOS DEMÁS?\n\n\n\nDisponível em: www.otrasvoceseneducacion.org. Acesso em: 8 nov. 2022.\n\n**ТЕХТО II**\n\nIshaan Awashi es un niño de 8 años cuyo mundo está plagado de maravillas que nadie más parece apreciar: colores, peces, perros y cometas, que simplemente no son importantes en la vida de los adultos, que parecen más interesados en cosas como los deberes, las notas o la limpieza. E Ishaan parece no poder hacer nada bien en clase. Cuando los problemas que ocasiona superan a sus padres, es internado en un colegio para que le disciplinen. Las cosas no mejoran en el nuevo colegio, donde Ishaan tiene además que aceptar estar lejos de sus padres. Hasta que un dia, el nuevo profesor de arte, Ram Shankar Nikumbh, entra en escena, se interesa por el pequeño Ishaan y todo cambia.\n\nDisponível em: https://elfinalde.com. Acesso em: 26 out. 2021 (adaptado)",
+      "alternativas_introducao": "O filme Como estrellas en la tierra aborda o tema da dislexia. Relacionando o cartaz do filme com a sinopse, constata-se que o(a)",
+      "alternativas": [
+        "A) Olhar diferenciado para com o outro gera mudanças.",
+        "B) Estudante com dislexia apresenta um tom questionador.",
+        "C) Abordagem para lidar com a dislexia é pautada na disciplina.",
+        "D) Contato com os pais prejudica o acompanhamento da dislexia.",
+        "E) Mudança de interesses ocorre na transição da infância para a vida adulta."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/1"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 2,
+      "titulo": "Questão 2 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "Me niego rotundamente\nA negar mi voz,\nMi sangre y mi piel.\nY me niego rotundamente\nA dejar de ser yo,\nA dejar de sentirme bien\nCuando miro mi rostro en el es\nCon mi boca\nRotundamente grande\nY mi nariz\nRotundamente hermosa,\nY mis dientes\nRotundamente blancos,\nY mi piel valientemente negra.\nY me niego categóricamente\nA dejar de hablar\nMi lengua, mi acento y mi historia\nY me niego absolutamente\nA ser parte de los que callan,\nDe los que temen,\nDe los que lloran\nPorque me acepto\nRotundamente libre,\nRotundamente negra,\nRotundamente hermosa.\nCAMPELL BARR, S. Disponível em:\nhttps.negracubanateniaqueser.com\nAcesso em 25 out. 2021.\nPara enfatizar caracteristicas e atitudes que reforçam a identidade da mulher negra, o poema da escritora costarriquenha apresenta:",
+      "alternativas": [
+        "A) Advérbios como \"rotundamente\" e \"categóricamente\".",
+        "B) Verbos reflexivos como \"me niego\" e \"me acepto\".",
+        "C) Adjetivos como \"grande\" e \"hermosa\".",
+        "D) Substantivos como \"sangre\" e \"piel\".",
+        "E) Adjetivos possessivos como \"mi\" e \"mis\"."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/2"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 3,
+      "titulo": "Questão 3 - ENEM 2023",
+      "enunciado": "**“Caramelos” en sus suelos**\n\nLas tierras de España, tu vista enamoran;\n\nsus gentes; te amistan; ¿“cocinas”?, ¡“te molan”!\n\n¿El plato común?, ¡pues «tortilla/patatas»!;\n\nen bares, figones, o tascas, ¡las «tapas»!;\n\n“sabor nacional”, ¡el «gazpacho», sus «vinos»,\n\n«sangría», y «jamón» de sabrosos cochinos!\n\n(Cual “sellos”, te grabas sus «Típicos Platos»;\n\n¡sabrás por dó pasas, por sólo tu olfato!,\n\n¡si en cada lugar, un sabor peculiar,\n\n“al paso” cautiva tu buen paladar!).\n\n¡Son más que “recetas”!, será “alegoría”!,\n\n¡será “identidad”! (¡hay “reserva” en su «Guía»!);\n\nson platos allende un “timón conductor”,\n\n¡son mar, ríos, sierras!, ¡son valles, son flor!,\n\n¡y aportan “Conventos” a gastronomia,\n\nsus «dulces»! (sabor “celestial”, ¡de ambrosia!).\n\nQUIROZ Y LÓPEZ M. Disponível em: https://pt.calameo.com. Acesso em: 25 out. 2021.",
+      "alternativas_introducao": "Nesse poema, o eu poético enaltece a",
+      "alternativas": [
+        "A) Característica amistosa do povo espanhol.",
+        "B) Beleza das paisagens naturais da Espanha.",
+        "C) Variedade de pratos na gastronomia espanhola.",
+        "D) Relação entre os sentidos do paladar e do olfato na gastronomia.",
+        "E) Gastronomia como representação da identidade cultural de um povo."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/3"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 4,
+      "titulo": "Questão 4 - ENEM 2023",
+      "enunciado": "Manipular es sembrar en la conciencia y en la mente de la gente ideas, actitudes, conceptos y aspiraciones -incluso falsas, inmorales y deshonestas- que sirvan a los objetivos -ocultos o abiertos- de sus manipuladores.\n\nManipular es una de las primeras cosas que aprendemos en la vida. A muy temprana edad, los bebes descubren el poder del llanto, el berrinche, los pataleos, la risa o alguna “gracia” como recursos para demandar atención, exigir comida, pedir ayuda o simplemente mantener ocupada a la gente. Nuestras actitudes de adultos reflejan lo mucho o poco que algunos maduraron, procesaron y rebasaron ese periodo.\n\nPara que exista un manipulador, debe haber una base de ciudadanos indefensos, dóciles, desinformados. El manipulador es celoso, a veces casi paranoico; no admite cuestionamientos ni quiere que nadie ocupe su espacio, sabe que su vigencia depende de presencia controladora. Todos los días, hay que marcar la línea de discurso, incidir en el debate. El ridículo vale la pena si con ello se logra una cortina de humo.\n\nDisponível em: www.forbes.com.mx. Acesso em: 7 out. 2021 (adaptado).",
+      "alternativas_introducao": "Nesse texto, a expressão “cortina de humo” revela que o manipulador",
+      "alternativas": [
+        "A) Amadurece tardiamente.",
+        "B) Busca mascarar a verdade.",
+        "C) Rejeita questionamentos alheios.",
+        "D) Aproxima-se de pessoas indefesas.",
+        "E) Faz-se presente de forma controladora."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/4"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 5,
+      "titulo": "Questão 5 - ENEM 2023",
+      "enunciado": "**Que quede claro**\n\nCómo es posible que se cierren\n\ntantas bocas, tantos ojos,\n\ntantas puertas, muchas mentes ante un\n\nacto xenofóbico sin precedentes.\n\nPresidentes, ministros, cancilleres,\n\nautoridades, responsables.\n\n¿Quién pagará el daño causado a familiares?\n\nPor un loco del estrada sin modales. \\[…\\]\n\nSe alejó de aquel lugar donde su color era\n\nmucho más que su color, era su raza.\n\nPersiguiendo un sueño que desapareció,\n\nque se fusionó y terminó en una pesadilla. \\[…\\]\n\nDéjame que te cuente esta historia\n\nque sucedió en el metro de Barcelona,\n\ncuando aquella mañana la injusticia\n\ny xenofobia se juntaron de la mano,\n\nprotagonizando una de las más feas escenas de racismo.\n\nEn aquel vagón viajaba un ángel de color diferente,\n\nen su camino se interpuso aquel inconsciente,\n\nque aún sabiendo lo que hacía,\n\nseguía hablando con su gente.\n\nLe dio al ángel dos patadas en su cara,\n\nse rió de ella sin cambiar la mirada.\n\nY aún anda suelto, aún anda suelto…\n\nORISHAS. In: **Cosita buena**. Delaware: Suerte Publishing LCC, 2008 (fragmento).",
+      "alternativas_introducao": "A letra da canção Que quede claro, da banda cubana Orishas, revela o(a)",
+      "alternativas": [
+        "A) Indignação diante do desrespeito à diversidade.",
+        "B) Violência característica das grandes metrópoles.",
+        "C) Preconceito da sociedade com relação ao misticismo.",
+        "D) Descuido da população com sonhos dos imigrantes.",
+        "E) Falta de segurança existente no transporte público urbano."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/5"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 6,
+      "titulo": "Questão 6 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "A sessão do Comitê Olímpico Internacional (COI) aprovou uma mudança histórica e inédita no lema olímpico, criado em 1894 pelo Barão Pierre de Coubertin para expressar os valores e a excelência do esporte. Mais de 120 anos depois, o lema tem sua primeira alteração para ressaltar a solidariedade e incluir a palavra “juntos” mais rápido, mais alto, mais forte – juntos. A mudança foi aprovada por unanimidade pelos membros do COI e celebrada pelo presidente da entidade.\nDisponível em: https://ge.globo.com Acesso em: 10 nov. 2021 (adaptado)\nDe acordo com o texto, a alteração do lema olímpico teve como objetivo a",
+      "alternativas": [
+        "A) Unificação do lema anterior ao atual.",
+        "B) Aproximação entre o lema olímpico e o COI.",
+        "C) Junção do lema olímpico com os princípios esportivos.",
+        "D) Associação entre o lema olímpico e a cooperatividade.",
+        "E) Vinculação entre o lema olímpico e os eventos atléticos."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/6"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 7,
+      "titulo": "Questão 7 - ENEM 2023",
+      "enunciado": "**Mais iluminada que outras**\n\nTenho dois seios, estas duas coxas, duas mãos que me são muito úteis, olhos escuros, estas duas sobrancelhas que preencho com maquiagem comprada por dezenove e noventa e orelhas que não aceitam bijuterias. Este corpo é um corpo faminto, dentado, cruel, capaz e violento. Movo os braços e multidões correm desesperadas. Caminho no escuro com o rosto para baixo, pois cada parte isolada de mim tem sua própria vida e não quero domá-las. Animal da caatinga. Forte demais. Engolidora de espadas e espinhos. Dizem e eu ouvi, mas depois também li, que o estado do Ceará aboliu a escravidão quatro anos antes do restante do país. Todos aqueles corpos que eram trazidos com  \nseus dedos contados, seus calcanhares prontos e seus umbigos em fogo, todos eles foram interrompidos no porto. Um homem – dizem e eu ouvi e depois também li — liderou o levante. E todos esses corpos foram buscar outros incômodos. Foram ser incomodados.\n\nARRAES. J. Redemoinho em dia quente. São Paulo: Alfaguara, 2019.",
+      "alternativas_introducao": "Nesse texto, os recursos expressivos usados pela narradora",
+      "alternativas": [
+        "A) Revelam as marcas da violência de raça e de gênero na construção da identidade.",
+        "B) Questionam o pioneirismo do estado do Ceará no enfrentamento à escravidão.",
+        "C) Reproduzem padrões estéticos em busca da valorização da autoestima feminina.",
+        "D) Sugerem uma atmosfera onírica alinhada ao desejo de resgate da espiritualidade.",
+        "E) Mimetizam, na paisagem, os corpos transformados pela violência da escravidão."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/7"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 8,
+      "titulo": "Questão 8 - ENEM 2023",
+      "enunciado": "**De quem é esta língua?**\n\nUma pequena editora brasileira, a Urutau, acaba de lançar em Lisboa uma “antologia antirracista de poetas estrangeiros em Portugal”, com o título Volta para a tua terra.\n\nO livro denuncia as diversas formas de racismo a que os imigrantes estão sujeitos. Alguns dos poetas brasileiros antologiados queixam-se do desdém com que um grande número de portugueses acolhe o português brasileiro. É uma queixa frequente.\n\n“Aqui em Portugal eles dizem / — eles dizem – / que nosso português é errado, que nós não falamos português”, escreve a poetisa paulista Maria Giulia Pinheiro, para concluir: “Se a sua linguagem, a lusitana, / ainda conserva a palavra da opressão / ela não é a mais bonita do mundo./ Ela é uma das mais violentas”.\n\nAGUALUSA, J. E. Disponível em: https.iloglobo.globo.com Acesso em: 22 nov. 2021 (adaptado).",
+      "alternativas_introducao": "O texto de Agualusa tematiza o preconceito em relação ao português brasileiro. Com base no trecho citado pelo autor, infere-se que esse preconceito se deve",
+      "alternativas": [
+        "A) À dificuldade de consolidação da literatura brasileira em outros países.",
+        "B) Aos diferentes graus de instrução formal entre os falantes de língua portuguesa.",
+        "C) À existência de uma língua ideal que alguns falantes lusitanos creem ser a falada em Portugal.",
+        "D) Ao intercâmbio cultural que ocorre entre os povos dos diferentes países de língua portuguesa.",
+        "E) À distância territorial entre os falantes do português que vivem em Portugal e no Brasil."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/8"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 9,
+      "titulo": "Questão 9 - ENEM 2023",
+      "enunciado": "Na Idade Média, as notícias se propagavam com surpreendente eficácia. Segundo uma emérita professora de Sorbonne, um cavalo era capaz de percorrer 30 quilômetros por dia, mas o tempo podia se acelerar dependendo do interesse da notícia. As ordens mendicantes tinham um papel importante na disseminação de informações, assim como os jograis, os peregrinos e os vagabundos, porque todos eles percorriam grandes distâncias. As cidades também tinham correios organizados e selos para lacrar mensagens e tentar certificar a veracidade das correspondências. Graças a tudo isso, a circulação de boatos era intensa e politicamente relevante. Um exemplo clássico de _fake news_ da era medieval é a história do rei que desaparece na batalha e reaparece muito depois, idoso e transformado.\n\nDisponível em: www.elpais.com.br. Acesso em: 18 jun. 2018 (adaptado)",
+      "alternativas_introducao": "A propagação sistemática de informações é um fenômeno recorrente na história e no desenvolvimento das sociedades. No texto, a eficácia dessa propagação está diretamente relacionada ao (à)",
+      "alternativas": [
+        "A) Velocidade de circulação das notícias.",
+        "B) Nível de letramento da população marginalizada.",
+        "C) Poder de censura por parte dos serviços públicos.",
+        "D) Legitimidade da voz dos representantes da nobreza.",
+        "E) Diversidade dos meios disponíveis em uma época histórica."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/9"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 10,
+      "titulo": "Questão 10 - ENEM 2023",
+      "enunciado": "Se a interferência de contas falsas em discussões políticas nas redes sociais já representava um perigo para os sistemas democráticos, sua sofisticação e maior semelhança com pessoas reais têm agravado o problema pelo mundo.\n\nO perigo cresceu porque a tecnologia e os métodos evoluíram dos robôs, os “bots” — softwares com tarefas on-line automatizadas —, para os “ciborgues” ou “trolls”, contas controladas diretamente por humanos com ajuda de um pouco de automação.\n\nMas pesquisadores começam agora a observar outros padrões de comportamento: quando mensagens não são programadas, sua publicação se concentra só em horários de trabalho, já que é controlada por pessoas cuja profissão é exatamente essa, administrar um perfil falso durante o dia.\n\nOutra pista: a pobreza vocabular das mensagens publicadas por esses perfis. Um funcionário de uma empresa que supostamente produzia e vendia perfis falsos explica que às vezes “faltava criatividade” para criar mensagens distintas controlando tantos perfis falsos ao mesmo tempo.\n\nGRAGNANI, J. Disponível em: www.bbc.com. Acesso em: 16 dez. 2017.",
+      "alternativas_introducao": "De acordo com o texto, a análise de características da linguagem empregada por perfis automatizados contribui para o(a)",
+      "alternativas": [
+        "A) Controle da atuação dos profissionais de TI.",
+        "B) Desenvolvimento de tecnologias como os \"trolls\".",
+        "C) Flexibilização dos turnos de trabalho dos controladores.",
+        "D) Necessidade de regulamentação do funcionamento dos \"bots\"",
+        "E) Identificação de padrões de disseminação de informações inverídicas."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/10"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 11,
+      "titulo": "Questão 11 - ENEM 2023",
+      "enunciado": "Maio foi colorido de amarelo, e o foi porque mundialmente amarelo é a cor convencionada para as advertências. No trânsito, essas advertências têm sido fatais. A estimativa, caso nada seja feito, é a de que se atinjam assustadoras 2,4 milhões de mortes no trânsito em 2030 em todo o mundo.  \nA pressa constante, o sentimento de invencibilidade, a certeza de invulnerabilidade, a necessidade de poder, a falta de civilidade, a certeza de impunidade, a ausência de solidariedade, a inexistência de compaixão e o desrespeito por si próprio são circunstâncias reais que, não raro, concorrem para o comportamento violento no trânsito.  \nO Maio Amarelo, que preconiza a atenção pela vida, é uma das iniciativas nesse sentido. E é precisamente a atenção pela vida que está esquecida. Essa atenção, por certo, requer menos pressa, mais civilidade, limites assegurados, consciência de vulnerabilidade, solidariedade, compaixão e respeito por si e pelo outro. Reafirmar e praticar esses princípios e valores talvez seja um caminho mais seguro e menos violento, que garanta a vida e não celebre a morte.\n\nDisponível em: http://portaldotransito.com.br. Acesso em: 11 dez. 2018 (adaptado).",
+      "alternativas_introducao": "Considerando os procedimentos argumentativos utilizados, infere-se que o objetivo desse texto é",
+      "alternativas": [
+        "A) Enumerar as causas determinantes da violência no trânsito.",
+        "B) Contextualizar a campanha de advertência no cenário mundial.",
+        "C) Divulgar dados numéricos alarmantes sobre acidentes de trânsito.",
+        "D) Sensibilizar o público para a importância de uma direção responsável.",
+        "E) Restringir os problemas da violência no trânsito a aspectos emocionais."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/11"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 12,
+      "titulo": "Questão 12 - ENEM 2023",
+      "enunciado": "Ainda daquela vez pude constatar a bizarrice dos costumes que constituíam as leis mais ou menos constantes do seu mundo: ao me aproximar, verifiquei que o Sr. Timóteo, gordo e suado, trajava um vestido de franjas e lantejoulas que pertencera a sua mãe. O corpete descia-lhe excessivamente justo na cintura, e aqui e ali rebentava através da costura um pouco da carne aprisionada, esgarçando a fazenda e tornando o prazer de vestir-se daquele modo uma autêntica espécie de suplício. Movia-se ele com lentidão, meneando todas as suas franjas e abanando-se vigorosamente com um desses leques de madeira de sândalo, o que o envolvia numa enjoativa onda de perfume. Não sei direito o que colocara sobre a cabeça, assemelhava-se mais a um turbante ou a um chapéu sem abas de onde saiam vigorosas mechas de cabelos alourados. Como era costume seu também, trazia o rosto pintado — e para isto, bem como para suas vestimentas, apoderara-se de todo o guarda-roupa deixado por sua mãe, também em sua época famosa pela extravagância com que se vestia — o que sem dúvida fazia sobressair-lhe o nariz enorme, tão característico da família Meneses.\n\nCARDOSO, L. Crónica da casa assassinada. São Paulo: Circulo do Livro, s.d.",
+      "alternativas_introducao": "Pela voz de uma empregada da casa, a descrição de um dos membros da família exemplifica a renovação da ficção urbana nos anos 1950, aqui observada na",
+      "alternativas": [
+        "A) Opção por termos e expressões de sentido ambíguo.",
+        "B) Crítica social inspirada pelo convívio com os patrões.",
+        "C) Descrição impressionista do fetiche do personagem.",
+        "D) Presença de um foco narrativo de caráter impreciso.",
+        "E) Ambiência de mistério das relações entre familiares."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/12"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 13,
+      "titulo": "Questão 13 - ENEM 2023",
+      "enunciado": "Girassol da madrugada  \nTeu dedo curioso me segue lento no rosto  \nOs sulcos, as sombras machucadas por onde a  \n\\[vida passou.  \nQue silêncio, prenda minha… Que desvio triunfal  \n\\[da verdade,  \nQue círculos vagarosos na lagoa em que uma asa  \n\\[gratuita roçou..\n\nTive quatro amores eternos…  \nO primeiro era moça donzela,  \nO segundo… eclipse, boi que fala, cataclisma,  \nO terceiro era a rica senhora,  \nO quarto és tu… E eu afinal me repousei dos  \n\\[meus cuidados\n\nANDRADE, M. Poesias completas. Rio de Janeiro: Nova Fronteira, 2013 (fragmento).",
+      "alternativas_introducao": "Perante o outro, o eu lírico revela, na força das memórias evocadas, a",
+      "alternativas": [
+        "A) Vergonha das marcas provocadas pela passagem do tempo.",
+        "B) Indecisão em face das possibilidades afetivas do presente.",
+        "C) Serenidade sedimentada pela entrega pacifica ao desejo.",
+        "D) Frustração causada pela vontade de retorno ao passado.",
+        "E) Disponibilidade para a exploração do prazer efêmero."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/13"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 14,
+      "titulo": "Questão 14 - ENEM 2023",
+      "enunciado": "**Dão Lalalão**  \nDo povoado do Ão, ou dos sítios perto, alguém precisava urgente de querer vir por escutar a novela do rádio. Ouvia-a, aprendia-a, guardava na ideia, e, retornado ao Ão, no dia seguinte, a repetia a outros.\n\nAssim estavam jantando, vinham os do povoado receber a nova parte da novela do rádio. Ouvir já tinham ouvido tudo, de uma vez, fugia da regra: falhara ali no Ão, na véspera, o caminhão de um comprador de galinhas e ovos, seo Abrãozinho Buristém, que carregava um rádio pequeno, de pilhas, armara um fio no arame da cerca… Mas queriam escutar outra vez, por confirmação. — “A estória é estável de boa, mal que acompridada: taca e não rende…” — explicava o Zuz ao Dalberto.\n\nSoropita começou a recontar o capitulo da novela. Sem trabalho, se recordava das palavras, até com clareza — disso se admirava. Contava com prazer de demorar, encher a sala com o poder de outros altos personagens. Tomar a atenção de todos, pudesse contar aquilo noite adiante. Era preciso trazer luz, nem uns enxergavam mais os outros; quando alguém ria, ria de muito longe. O capitulo da novela estava terminando.\n\nROSA, J. G. **Noites do sertão (Corpo de baile)**. São Paulo: Global, 2021.",
+      "alternativas_introducao": "Nesse trecho do conto, o gosto dos moradores do povoado por ouvir a novela de rádio recontada por Soropita deve-se ao(à)",
+      "alternativas": [
+        "A) Qualidade do som do rádio.",
+        "B) Estabilidade do enredo contado.",
+        "C) Ineditismo do capítulo da novela.",
+        "D) Jeito singular de falar aos ouvintes.",
+        "E) Dificuldade de compreensão da história."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/14"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 15,
+      "titulo": "Questão 15 - ENEM 2023",
+      "enunciado": "As cinzas do Museu Nacional, no Rio de Janeiro, consumido pelas chamas no mês de setembro de 2018, são mais do que restos de fósseis, cerâmicas e espécimes raros. O museu abrigava, entre mais de 20 milhões de peças, os esqueletos com as respostas para perguntas que ainda não haviam sido respondidas — ou sequer feitas — por pesquisadores brasileiros. E o incêndio pode ter calado para sempre palavras e cantos indígenas ancestrais, de línguas que não existem mais no mundo.\n\nO acervo do local continha gravações de conversas, cantos e rituais de dezenas de sociedades indígenas, muitas feitas durante a década de 1960 com antigos gravadores de rolo e que ainda não haviam sido digitalizadas. Alguns dos registros abordavam línguas já extintas, sem falantes originais ainda vivos. “A esperança é que outras instituições tenham registros dessas línguas”, diz a linguista Marilia Facó Soares. A pesquisadora, que trabalha com os índios Tikuna, o maior grupo da Amazônia brasileira, crê ter perdido parte de seu material. “Terei que fazer novas viagens de campo para recompor meus arquivos. Mas obviamente não dá para recuperar a fala de nativos já falecidos, geralmente os mais idosos”, lamenta.\n\nDisponível em: https://brasil.elpais.com. Acesso em: 10 dez. 2018 (adaptado).",
+      "alternativas_introducao": "A perda dos registros linguísticos no incêndio do Museu Nacional tem impacto potencializado, uma vez que",
+      "alternativas": [
+        "A) Exige a retomada das pesquisas por especialistas de diferentes áreas.",
+        "B) Representa danos irreparáveis à memória e à identidade nacionais.",
+        "C) Impossibilita o surgimento de novas pesquisas na área.",
+        "D) Resulta na extinção da cultura de povos originários.",
+        "E) Inviabiliza o estudo da língua do povo Tikuna."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/15"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 16,
+      "titulo": "Questão 16 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "Mandioca, macaxeira, aipim e castelinha são nomes diferentes da mesma planta. Semáforo, sinaleiro e farol também significam a mesma coisa. O que muda é só o hábito cultural de cada região. A mesma coisa acontece com a Língua Brasileira de Sinais (Libras). Embora ela seja a comunicação oficial da comunidade surda no Brasil, existem sinais que variam em relação à região, à idade e até ao gênero de quem se comunica. A cor verde, por exemplo, possui sinais diferentes no Rio de Janeiro, Paraná e São Paulo. São os regionalismos na língua de sinais.\nEssas variações são um dos temas da disciplina Linguística na língua de sinais, oferecida pela Universidade Estadual Paulista (Unesp) ao longo do segundo semestre. “Muitas pessoas pensam que a língua de sinais é universal, o que não é verdade”, explica a professora e chefe do Departamento de Linguística, Literatura e Letras Clássicas da Unesp. “Mesmo dentro de um mesmo país, ela sofre variação em relação à localização geográfica, à faixa etária e até ao gênero dos usuários” completa a especialista.\nOs surdos podem criar sinais diferentes para identificar lugares, objetos e conceitos. Em São Paulo, o sinal de “cerveja” é feito com um giro do punho como uma meia- volta. Em Minas, a bebida é citada quando os dedos in- dicador e médio batem no lado do rosto. Também ocorrem mudanças históricas. Um sinal pode sofrer alterações decorrentes dos costumes da geração que o utiliza.\nDisponível em: www.educacao.sp.gov.br. Acesso em 1 nov. 2021 (adaptado)\nNesse texto, a Língua Brasileira de Sinais (Libras)",
+      "alternativas": [
+        "A) Passa por fenômenos de variação linguística como qualquer outra língua.",
+        "B) Apresenta variações regionais, assumindo novo sentido para algumas palavras.",
+        "C) Sofre mudança estrutural motivada pelo uso de sinais diferentes para algumas palavras.",
+        "D) Diferencia-se em todo o Brasil, desenvolvendo cada região a sua própria língua de sinais.",
+        "E) É ininteligível para parte dos usuários em razão das mudanças de sinais motivadas geograficamente."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/16"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 17,
+      "titulo": "Questão 17 - ENEM 2023",
+      "enunciado": "Como é bom reencontrar os leitores da _Revista da Cultura_ por meio de uma publicação com outro visual, conteúdo de qualidade e interesses ampliados! _\\]cultura\\[_, este nome simples, e eu diria mesmo familiar, nasce entre dois colchetes voltados para fora. E não é por acaso: são sinais abertos, receptivos, propícios à circulação de ideias. O DNA da publicação se mantém o mesmo, afinal, por longos anos montamos nossas edições com assuntos saídos das estantes de uma grande livraria — e assim continuará sendo. Literatura, sociologia, filosofia, artes… nunca será difícil montar a pauta da revista porque os livros nos ensinam que monotonia é só para quem não lê.\n\nHERZ, P. J _**\\]cultura\\[**_, n. 1, jun. 2018 (adaptado).",
+      "alternativas_introducao": "O uso não padrão dos colchetes para nomear a revista atribui-lhes uma nova função e está correlacionado ao(à)",
+      "alternativas": [
+        "A) Perfil de público-alvo, constituído por leitores exigentes e especializados em leitura acadêmica.",
+        "B) Propósito do editor, chamando a atenção para o rigor normativo nos textos da revista.",
+        "C) Exclusividade na seleção temática, direcionada para a área das ciências humanas.",
+        "D) Identidade da revista, voltada para a recepção e a promoção de ideias circulantes em livros.",
+        "E) Padrão editorial dos artigos, organizados em torno de uma proposta de design inovador."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/17"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 18,
+      "titulo": "Questão 18 - ENEM 2023",
+      "enunciado": "**TEXTO I**\n\n**Alegria, alegria**  \nO sol nas bancas de revista  \nMe enche de alegria e preguiça  \nQuem lê tanta noticia  \nEu vou  \nPor entre fotos e nomes  \nOs olhos cheios de cores  \nO peito cheio de amores vãos  \nEu vou  \nPor que não, por que não?\n\nVELOSO, C. **Alegria, alegria**. Rio de Janeiro: Polygram, 1990 (fragmento)\n\n**ТЕХТО II**\n\n**Anjos tronchos**  \nUns anjos tronchos do Vale do Silício  \nDesses que vivem no escuro em plena luz  \nDisseram vai ser virtuoso no vício  \nDas telas dos azuis mais do que azuis\n\nAgora a minha história é um denso algoritmo  \nQue vende venda a vendedores reais  \nNeurônios meus ganharam novo outro ritmo  \nE mais, e mais, e mais, e mais, e mais\n\nVELOSO, C. **Meu coco**. Rio de Janeiro: Sony, 2021 (fragmento)",
+      "alternativas_introducao": "Embora oriundas de momentos históricos diferentes essas letras de canção têm em comum a",
+      "alternativas": [
+        "A) Referência às cores como elemento de crítica a hábitos contemporâneos.",
+        "B) Percepção da profusão de informações gerada pela tecnologia.",
+        "C) Contraposição entre os vícios e as virtudes da vida moderna.",
+        "D) Busca constante pela liberdade de expressão individual.",
+        "E) Crítica à finalidade comercial das notícias."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/18"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 19,
+      "titulo": "Questão 19 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "“São tantas formas de matar um preto\nQue para alguns sua morte é justificada\nDevia tá fazendo coisa errada\nSe não era bandido, um dia ia ser\nPor ser PRETO sua morte é defendida\nO PRETO sempre merece morrer”.\nA estrofe acima é do poeta e educador social Baticum Proletário, que atua na periferia de Fortaleza, no Ceará, preparando jovens — em quase sua totalidade negros – para enfrentar as dificuldades impostas pelo racismo estrutural no país.\nÉ a partir da arte que Baticum consegue envolver a juventude em um projeto de fortalecimento dessa população ao promover batalhas de rimas, slams e saraus com temáticas que discutem os problemas sociais. Não por acaso, o tema mais explorado nas rimas, versos e prosas é a violência. De acordo com o mais recente Atlas da violência, em 2019, os negros representaram 77% das vítimas de homicídios, quase 30 assassinatos por 100 mil habitantes, a maioria deles jovens.\nO Atlas revela ainda que um negro tem quase 2,7 vezes mais chance de ser morto do que um branco, o que justifica o movimento de resistência crescente no Brasil.\nMENDONÇA. F. Disponível em: www.cartacapital.com.br. Acesso em: 22 nov. 2021 (adaptado).\nO uso de citação e de dados estatísticos nesse texto tem o objetivo de",
+      "alternativas": [
+        "A) Ressaltar a importância da poesia para denunciar a morte de negros, que cresce a cada dia.",
+        "B) Destacar o crescimento exponencial da temática do preconceito na produção literária no Brasil.",
+        "C) Demonstrar o incremento no quantitativo de expressões artísticas na discussão de problemas sociais.",
+        "D) Evidenciar argumentos que reforçam a ideia de que os negros são vítimas em potencial da violência.",
+        "E) Salientar o aumento da participação de jovens nos movimentos de resistência na área da cultura."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/19"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 20,
+      "titulo": "Questão 20 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "No princípio era o verbo. A frase que abre o primeiro capítulo do Evangelho de João e remete à criação do mundo, assim como também faz o Gênesis, é a mais famosa da Bíblia. A ideia de que o mundo é criado pela palavra, porém, é tão estruturante que está presente em outras religiões, para muito além das fundadas no cristianismo. Como humanos, a linguagem é o mundo que habitamos. Basta tentar imaginar um mundo em que não podemos usar palavras para dizer de nós e dos outros para compreender o que isso significa. Ou um mundo em que aquilo que você diz não é entendido pelo outro, e o que o outro diz não é entendido por você.\nO que acontece então quando a palavra é destruída e, com ela, a linguagem?\nDurante séculos, em diferentes sociedades e línguas, é importante lembrar, a linguagem serviu — e ainda serve — para manter privilégios de grupos de poder e deixar todos os outros de fora. Quem entende linguagem de advogados, juízes e promotores, linguagem de médicos, linguagem de burocratas, linguagem de cientistas? A maior parte da população foi submetida à violência de proposital mente ser impedida de compreender a linguagem daqueles que determinam seus destinos.\nSe o princípio é o verbo, o fim pode ser o silenciamento. Mesmo que ele seja cheio de gritos entre aqueles que já não têm linguagem comum para compreender uns aos outros.\nBRUM, E. Disponível em: https://brasil.elpais.com. Acesso em: 5 nov. 2021.\nNesse texto, a estratégia usada para convencer o leitor de que uma grande parcela da população não compreende a linguagem daqueles que detêm o poder foi",
+      "alternativas": [
+        "A) Revelar a origem religiosa da linguagem.",
+        "B) Questionar o temor sobre o futuro da linguagem.",
+        "C) Descrever a relação entre sociedade e linguagem.",
+        "D) Apresentar as consequências do esfacelamento da linguagem.",
+        "E) Criticar o obstáculo promovido pelos usos especializa- dos da linguagem."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/20"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 21,
+      "titulo": "Questão 21 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "Um grupo de pesquisadores da Universidade Federal do Ceará desenvolveu um dicionário para traduzir sintomas de doenças da linguagem popular para os termos médicos. Defruço, chanha e piloura, por exemplo, podem ser termos conhecidos para muitos, mas, durante uma consulta médica, o desconhecimento pode significar um diagnóstico errado.\n“Isso é um registro histórico e pode ser muito útil para estudos dessas comunidades, na abordagem médica delas. É de certa forma pioneiro no Brasil e, sem dúvida, um instrumento de trabalho importante, porque a comunicação é fundamental na relação médico-paciente”, avalia o reitor da instituição.\nDisponível em: https://gl.globo.com. Acesso em: 1 nov. 2021 (adaptado).\nAo registrarem usos regionais de termos da área médica, Pesquisadores",
+      "alternativas": [
+        "A) Apontaram erros motivados pelo desconhecimento da variedade linguística local.",
+        "B) Explicaram problemas provocados pela incapacidade de comunicação.",
+        "C) Descobriram novos sintomas de doenças existentes na comunidade.",
+        "D) Propiciaram melhor compreensão dos sintomas dos pacientes.",
+        "E) Divulgaram um novo rol de doenças características da localidade."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/21"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 22,
+      "titulo": "Questão 22 - ENEM 2023",
+      "enunciado": "Alguém muito recentemente cortara o mato, que na época das chuvas crescia e rodeava a casa da mãe de Ponciá Vicêncio e de Luandi. Havia também vestígios de que a terra fora revolvida, como se ali fosse plantar uma pequena roça. Luandi sorriu. A mãe devia estar bastante forte, pois ainda labutava a terra. Cantou alto uma cantiga que aprendera com o pai, quando eles trabalhavam na terra dos brancos. Era uma canção que os negros mais velhos ensinavam aos mais novos. Eles diziam ser uma cantiga de voltar, que os homens, lá na África, entoavam sempre, quando estavam regressando da pesca, da caça ou de algum lugar. O pai de Luandi, no dia em que queria agradar à mulher, costumava entoar aquela cantiga ao se aproximar de casa. Luandi não entendia as palavras do canto; sabia, porém, que era uma língua que alguns negros falavam ainda, principalmente os velhos. Era uma cantiga alegre. Luandi, além de cantar, acompanhava o ritmo batendo com as palmas das mãos em um atabaque imaginário. Estava de regresso à terra. Voltava em casa. Chegava cantando, dançando a doce e vitoriosa cantiga de regressar.\n\nEVARISTO, C. **Ponciá Vicêncio**. Rio de Janeiro: Pallas, 2018.",
+      "alternativas_introducao": "A leitura do texto permite reconhecer a “cantiga de voltar” como patrimônio linguístico que",
+      "alternativas": [
+        "A) Representa a memória de uma língua africana extinta.",
+        "B) Exalta a rotina executada por jovens afrodescendentes.",
+        "C) Preserva a ancestralidade africana por meio da tradição oral.",
+        "D) Resgata a musicalidade africana por meio de palavras inteligíveis",
+        "E) Remonta à tristeza dos negros mais velhos com saudade da África."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/22"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 23,
+      "titulo": "Questão 23 - ENEM 2023",
+      "enunciado": "TEXTO I  \nZapeei os canais, como há dezenas de anos faço, e pá: parei num que exibia um episódio daquela velha família do futuro, Os Jetsons.  \nNesse episódio em particular, a Jane Jetson, esposa do George, tratava de dirigir aquele veículo voador deles. Meu queixo foi caindo à medida que as piadinhas machistas sobre mulheres dirigirem foram se acumulando.  \nImpressionante! Que futuro careta aqueles roteiristas imaginavam! Seriam incapazes de projetar algo melhor, e não apenas em termos de tecnologias, robôs e carros voadores? Será que nossa máxima visão de futuro só atinge as coisas, e jamais as pessoas? Como a Jane, uma mulher de 33 anos no desenho, poderia ser o que foram as minhas bisavós?  \nO futuro, naquele desenho, se esqueceu de ser melhor nas relações entre as pessoas. Aliás… tão parecido com a vida.  \nFiquei de cara, como dizemos aqui, ou como dizíamos na minha adolescência, pobre adolescência, aprendendo, sem querer e sem muita defesa, um futuro tão besta quanto o passado.\n\nRIBEIRO, A. E. Disponível em: www.rascunho.com.br. Acesso em: 21 out. 2021 (adaptado).\n\nTEXTO II  \nMasculino e feminino são campos escorregadios que só se definem por oposição, sempre incompleta, um do outro. São formações imaginárias que buscam produzir uma diferença radical e complementar onde só existem, de fato, mínimas diferenças. O resto é questão de estilo. Até pelo menos a segunda metade do século 19, o divisor de águas era claro: os homens ocupavam o espaço público. As mulheres tratavam da vida privada. Privada de quê? De visibilidade, diria Hannah Arendt. De visibilidade pública. Do que as mulheres estiveram privadas até o século 20 foi de presença pública manifesta não em imagem, mas em palavra. A palavra feminina, reservada ao espaço doméstico, não produzia diferença na vida social.\n\nKHEL, M. R. Disponível em: https://alias.estadao.com.br. Acesso em: 19 out. 2021 (adaptado).",
+      "alternativas_introducao": "A representação da mulher apresentada no Texto I pode ser explicada pelo Texto II no que diz respeito à(às)",
+      "alternativas": [
+        "A) Censura a formas de expressão femininas.",
+        "B) Ausência da figura feminina na vida pública.",
+        "C) Construções imaginárias cristalizadas na sociedade.",
+        "D) Limitações inerentes às figuras femininas e masculinas.",
+        "E) Dificuldade na atribuição de papéis masculinos e femininos."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/23"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 24,
+      "titulo": "Questão 24 - ENEM 2023",
+      "enunciado": "![](https://enem.dev/2023/questions/24/78918e1a-00e2-4972-b8f7-9cc17a935ec2.png)",
+      "alternativas_introducao": "Esse anúncio publicitário, veiculado durante o contexto da pandemia de covid-19, tem por finalidade",
+      "alternativas": [
+        "A) Divulgar o canal telefônico de atendimento a casos de violência contra a mulher.",
+        "B) Informar sobre a atuação de uma entidade defensora da mulher vítima de violência.",
+        "C) Evidenciar o trabalho da Defensoria Pública em relação ao problema do abuso contra a mulher.",
+        "D) Alertar a sociedade sobre o aumento da violência contra a mulher em decorrência do coronavírus.",
+        "E) Incentivar o público feminino a denunciar crimes de violência contra a mulher durante o período de isolamento"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q024_principal.png",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/24"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 25,
+      "titulo": "Questão 25 - ENEM 2023",
+      "enunciado": "Passado muito tempo, resolvi tentar falar, porque estava sozinha me embrenhando na mesma vereda que Donana costumava entrar. Ainda recordo da palavra que escolhi: arado. Me deleitava vendo meu pai conduzindo o arado velho da fazenda carregado pelo boi, rasgando a terra para depois lançar grãos de arroz em torrões marrons e vermelhos revolvidos. Gostava do som redondo fácil e ruidoso que tinha ao ser enunciado. “Vou trabalhar no arado.” “Vou arar a terra.” “Seria bom ter um arado novo, esse arado tá troncho e velho.” O som que deixou minha boca era uma aberração, uma desordem, como se no lugar do pedaço perdido da língua tivesse um ovo quente. Era um arado torto, deformado, que penetrava a terra de tal forma a deixá-la infértil, destruída, dilacerada.\n\nVIEIRA JR.. I. **Torto arado**. São Paulo: Todavia, 2019.",
+      "alternativas_introducao": "Com a perda de parte da língua na infância, a narradora tenta voltar a falar. Essa tentativa revela uma experiência que",
+      "alternativas": [
+        "A) Reflete o olhar do pai sobre as etapas do plantio.",
+        "B) Metaforiza a linguagem como ferramenta de lavoura.",
+        "C) Explicita, na busca pela palavra, o medo da solidão.",
+        "D) Confirma a frustração da narradora com relação à terra.",
+        "E) Sugere, na ausência da linguagem, a estagnação do tempo."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/25"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 26,
+      "titulo": "Questão 26 - ENEM 2023",
+      "enunciado": "**A escravidão**\n\nEsses meninos que aí andam jogando peteca não viram nunca um escravo… Quando crescerem, saberão que já houve no Brasil uma raça triste, votada à escravidão e ao desespero; e verão nos museus a coleção hedionda dos troncos, dos vira-mundos e dos bacalhaus; e terão notícias dos trágicos horrores de uma época maldita: filhos arrancados ao seio das mães, virgens violadas em pranto, homens assados lentamente em fornos de cal, mulheres nuas recebendo na sua mísera nudez desvalida o duplo ultraje das chicotadas e dos olhares do feitor bestial. \\[…\\] Mas a sua indignação nunca poderá ser tão grande como a daqueles que nasceram e cresceram em pleno horror, no meio desse horrível drama de sangue e lodo, sentindo dentro do ouvido e da alma, numa arrastada e contínua melopeia, o longo gemer da raça mártir — orquestração satânica de todos os soluços, de todas as impressões, de todos os lamentos que a tortura e a injustiça podem arrancar a gargantas humanas.\n\nBILAC, O. Disponível em: www.escritas.org. Acesso em: 29 out. 2021",
+      "alternativas_introducao": "Publicado em 1902, o texto de Olavo Bilac enfatiza as mazelas da escravidão no Brasil ao",
+      "alternativas": [
+        "A) Descrever de modo impessoal as consequências da exploração racial sobre as gerações futuras.",
+        "B) Contrapor a infância privilegiada das crianças da época à infância violentada das crianças escravizadas.",
+        "C) Antecipar o futuro apagamento das marcas da escravidão no contexto social.",
+        "D) Criticar a atenuação da violência contra os povos escravizados nas memórias retratadas pelos museus.",
+        "E) Imaginar a reação de indiferença de seus contemporâneos com os escravizados libertos."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/26"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 27,
+      "titulo": "Questão 27 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "E assim as coisas continuaram acontecendo entre os dois, em quase sustos, um grande por acaso com cacoetes de gestos definitivos. Com o Nunca Mais se oferecendo o tempo todo, bastaria dizer foi um prazer ter te conhecido, bastaria não trocar telefones nem e-mails e enterrar a casualidade com a cal da sabedoria – nada poderia ser definitivo, os encontros duravam duas horas ou duas décadas ou duas vezes isso, mas em algum momento necessariamente seria o fim. De todos os grandes amores, De todos os pequenos. De todas as juras, das promessas, de todos os na-alegria-e-na-tristeza. De todos os não amores, os desamores, os casamentos para sempre, os rancores para sempre, de todas as paralelas que só se viabilizam na abstração da geometria, de todas as pequenas paixões e de todas as grandes paixões, de tudo que para na antessala da paixão, de todos os vínculos não experimentados, de todos.\nLISBOA, A. Rahushisha. Rio de Janeiro Objetiva 2014.\nO recurso que promove a progressão textual, contribuindo para a construção da ideia de que as relações amorosas têm um enredo comum, é a",
+      "alternativas": [
+        "A) Repetição do pronome indefinido \"todos\".",
+        "B) Utilização do travessão na marcação do oposto.",
+        "C) Retomada do antecedente pelo pronome \"isso\".",
+        "D) Contraposição de ideias marcada pela conjunção mas.",
+        "E) Substantivação de expressões pela anteposição do artigo."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/27"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 28,
+      "titulo": "Questão 28 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "A garganta é a gruta que guarda o som\nA garganta está entre a mente e o coração\nVem coisa de cima, vem coisa de baixo e de \n[repente um nó (e o que eu quero dizer?)\nÀs vezes, acontece um negócio esquisito\nQuando eu quero falar eu grito, quando eu quero\n[gritar eu falo, o resultado\nCalo.\nESTRELA D’ALVA, R. Disponível em: https://claudia.abril.com.br. Acesso em: 23 nov. 2021 (fragmento).\nA função emotiva presente no poema cumpre o propósito do eu lírico de",
+      "alternativas": [
+        "A) Revelar as desilusões amorosas.",
+        "B) Refletir sobre a censura à sua voz",
+        "C) Expressar a dificuldade de comunicação.",
+        "D) Ressaltar a existência de pressões externas.",
+        "E) Manifestar as dores do processo de criação."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/28"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 29,
+      "titulo": "Questão 29 - ENEM 2023",
+      "enunciado": "Era um gato preto, como convinha a um cultor das boas letras, que já lera Poe traduzido por Baudelaire. Preto e gordo. E lerdo. Tão gordo e lerdo que a certa altura observei que ia perdendo inteiramente as qualidades características da raça, que são em suma o ódio de morte aos ratos. Já nem os afugentava! Os ratos de Ouro Preto são também dignos e solenes — não ria — tradicionalistas… descendentes de outros ratos que naqueles mesmos casarões presenciaram acontecimentos importantes da nossa história… No sobrado do desembargador Tomás Antônio Gonzaga, imagine o senhor uma reunião dos sonhadores inconfidentes, com os antepassados daqueles ratos a passearem pelo sótão ou mesmo pelo assoalho por entre as pernas dos homens absortos na esperança da independência nacional! E depois, os ancestres daqueles roedores que eu via agora deslizar sutilmente no meu quarto podiam ter subido pelo poste da ignomínia colonial, onde estava exposta a cabeça do Tiradentes! E quando as órbitas se descarnaram ignominiosamente, podiam até ter penetrado no recesso daquele crânio onde verdadeiramente ardera a literatura, com a simplicidade do heroísmo, a febre nacionalista…\n\nALPHONSUS, J. **Contos e novelas**. Rio de Janeiro: Imago; Brasília: INL, 1976.",
+      "alternativas_introducao": "Descrevendo seu gato, o narrador remete ao contexto e a protagonistas da Inconfidência para criar um efeito desconcertante centrado no",
+      "alternativas": [
+        "A) Desenho imaginativo do casario colonial de Ouro Preto.",
+        "B) Efeito de apagamento de limites entre ficção e realidade.",
+        "C) Vínculo estabelecido entre animais urbanos e literatura.",
+        "D) Questionamento sutil quanto à sanidade dos inconfidentes.",
+        "E) Contraste entre austeridade pomposa e imagem repugnante."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/29"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 30,
+      "titulo": "Questão 30 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "Enquanto estivemos entretidos com os urubus outras coisas andaram acontecendo na cidade. A Companhia baixou novas proibições, umas inteiramente bobocas, só pelo prazer de proibir (ninguém podia cuspir pra cima, nem carregar água em jacá, nem tapar o sol com peneira, como se todo mundo estivesse abusando dessas esquisitices); mas outras bem irritantes, como a de pular muro pra cortar caminho, tática que quase todo mundo que não sofria de reumatismo vinha adotando ultimamente, principalmente os meninos. E não confiando na proibição só, nem na força dos castigos, que eram rigorosos, a Companhia ainda mandou fincar cacos de garrafa nos muros. Achei isso um exagero, e comentei o assunto com mamãe. Meu pai ouviu lá do quarto e veio explicar. Disse que em épocas normais bastava uma coisa ou outra; mas agora a Companhia não podia admitir nenhuma brecha em suas ordens; se alguém desobedecesse à proibição podia se cortar nos cacos; se alguém conseguisse pular um muro quebrando era apanhado pela proibição, nhoc – e fez o gesto de quem torce o pescoço de um frango.\nVEIGA, J. J. Sombras de reis barbudos. Rio de Janeiro: Civilização Brasileira, 1978.\nSob a perspectiva do menino que narra, os fatos ficcionais oferecem um esboço do momento político vigente na década de 1970, aqui representado pelo",
+      "alternativas": [
+        "A) Culto ao medo, infiltrado em situações do cotidiano.",
+        "B) Sentimento de dúvida quanto à veracidade das informações.",
+        "C) Ambiente de sonho, delineado por imagens perturbadoras.",
+        "D) Incentivo ao desenvolvimento econômico com a iniciativa privada.",
+        "E) Espaço urbano marcado por uma política de isolamento das crianças."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/30"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 31,
+      "titulo": "Questão 31 - ENEM 2023",
+      "enunciado": "**Migalhas**\n\nEntre a toalha branca e um bule de café\n\nseria inapropriado dizer\n\neu não te amo mais.\n\nEra necessário algo mais solene,\n\num jardim japonês para as perdas pensadas,\n\num noturno de tempestade para arrebentar de dor,\n\numa praia de pedras para chorar em silêncio,\n\numa cama alta para o incenso da despedida,\n\numa janela dando para o abismo.\n\nNo entanto você abaixa os olhos\n\ne recolhe lentamente as migalhas de pão\n\nsobre a mesa posta para dois.\n\nMARQUES, A. M. **A vida submarina**. São Paulo: Cia. das Letras, 2021.",
+      "alternativas_introducao": "Nesse poema, a representação do sentimento amoroso recupera a tradição lírica, mas se ajusta à visão contemporânea ao",
+      "alternativas": [
+        "A) Invocar o interlocutor para uma tomada de posição.",
+        "B) Questionar a validade do envolvimento romântico.",
+        "C) Diluir em banalidade a comoção de um amor frustrado.",
+        "D) Transformar em paz as emoções conflituosas do casal.",
+        "E) Condicionar a existência da paixão a espaços idealizados."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/31"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 32,
+      "titulo": "Questão 32 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "O sol começa a descer por trás da vegetação da Ilha da Restinga, na outra margem do rio Paraíba, colorindo o céu de amarelo, laranja e lilás. Então se ouvem as primeiras notas do Bolero, do compositor francês Maurice Ravel, executadas pelo saxofonista Jurandy. É assim o pôr do sol da praia do Jacaré, em Cabedelo (Grande João Pessoa). Depois do Bolero, Jurandy toca Asa branca, de Luiz Gonzaga, e Meu sublime torrão, de Genival Macedo, espécie de hino não oficial da Paraíba.\nPINHEIRO, A. Sol se põe embaiado pelo Bolero de Ravel. Disponível em: http://tools.folha.com.br. Acesso em: 16 set. 20212 (adaptado).\nA interpretação musical de Jurandy do Sax, codinome de José Jurandy Félix, apresenta caracterizado pela",
+      "alternativas": [
+        "A) Inter-relação de referenciais estéticos aparentemente distanciados.",
+        "B) Valorização de músicas que revelam mensagens de serenidade.",
+        "C) Consagração do repertório erudito como cultura dominante.",
+        "D) Iniciativa de estímulo à vocação turística da cidade.",
+        "E) Divisão hierárquica entre gêneros e estilos musicais."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/32"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 33,
+      "titulo": "Questão 33 - ENEM 2023",
+      "enunciado": "**Texto I**\n\n![](https://enem.dev/2023/questions/33/d3f9dfc2-3337-498f-8dcd-67a7f5909bbb.png)\n\nSEGALL, L. Eternos caminhantes. Óleo sobre tela, 138 x 184 cm. Museu Lasar Segall. IbramMinc. São Paulo, 1919.\n\n**Texto II**\n\nEm 1933, a obra Eternos caminhantes ingressou em uma das primeiras edições das exposições de Arte Degenerada, promovida por membros do partido nazista alemão. Nos anos seguintes, ela voltaria a ser exibida na mostra denominada Exposição da Vergonha, promovida por pequenos grupos abastados. Em 1937, essa obra foi confiscada pelo Ministério da Propaganda daquele país, na grande ação nacional-socialista contra a “Arte Degenerada”.\n\nSCHWARTZ, J. Perseguição à Arte Moderna em tempos de amarra São Paulo: Museu Lasar Segall, 2018 (adaptado)",
+      "alternativas_introducao": "Quase cinquenta obras de Lasar Segall foram confiscadas pelo regime totalitário alemão na primeira metade do século XX, entre elas a obra Eternos caminhantes, considerada degenerada por",
+      "alternativas": [
+        "A) Representar uma estética tida como inconveniente para o ideário político vigente.",
+        "B) Manifestar um posicionamento político-cultural concebido por grupos de oposição.",
+        "C) Expressar a cultura artística por meio da representação parcial do corpo humano.",
+        "D) Apresentar uma composição que antecipa o imaginário artístico germânico.",
+        "E) Estimular discussões sobre o papel da arte na construção coletiva de cultura."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q033_principal.png",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/33"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 34,
+      "titulo": "Questao 34 - ENEM 2023",
+      "enunciado": "TEXTO I\n\nLogo no inicio de Gira, um grupo de sete bailarinas ocupa o centro da cena. Maos cruzadas sobre a lateral esquerda do quadril, olhos fechados, troncos que pendulam sobre si mesmos em vaguissimas orbitas, tudo nelas sugere o transe. Esta estabelecido o carater volatil do que se passara no palco dali para frente. Mas engana-se quem pensa que vai assistir a uma representacao mimetica dos cultos afro-brasileiros.\n\nTEXTO II",
+      "alternativas_introducao": "No dialogo que estabelece com religioes afro-brasileiras, sintetizado na descricao e na imagem do espetaculo, a danca exprime uma",
+      "alternativas": [
+        "A) critica aos movimentos padronizados do bale classico.",
+        "B) representacao contemporanea de rituais ancestrais extintos.",
+        "C) reelaboracao estetica erudita de praticas religiosas populares.",
+        "D) releitura ironica da atmosfera mistica presente no culto a entidades.",
+        "E) oposicao entre o resgate de tradicoes e a efemeridade da vida humana."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q034_principal.png",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "correcao_manual",
+      "fonte_url": ""
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 35,
+      "titulo": "Questão 35 - ENEM 2023",
+      "enunciado": "A indústria do esporte eletrônico é um mercado que está crescendo em um ritmo mais rápido do que a economia mundial. Sua popularidade cresceu muito e no Brasil não é diferente. De acordo com os dados de uma pesquisa, mais de 64% dos brasileiros que jogam videogame já ouviram falar de esporte eletrônico. No entanto, o que chama a atenção é o crescimento superior a 10% do público praticante comparado ao ano anterior, que subiu de 44,7% para 55,4%. Trata-se de um percentual expressivo, já que o Brasil está no top 3 dentre os países que têm maior número de espectadores de esporte eletrônico do mundo. Comparado ao ano anterior, em 2020, o Brasil teve um marco de crescimento de 20% na audiência. Mundo afora, a árdua dedicação de grandes gamers contribuiu para o reconhecimento do Comitê Olímpico Internacional, aliado a outras cinco federações esportivas e suas desenvolvedoras de jogos, que direcionaram um olhar mais atento ao assunto, permitindo dar o primeiro passo para concretizar, pela primeira vez na história dos jogos eletrônicos, um evento olímpico oficial.\n\nDisponível em: https://chicoterra.com. Acesso em: 15 nov. 2021 (adaptado).",
+      "alternativas_introducao": "O contexto em que o esporte eletrônico é apresentado no texto demonstra o(a)",
+      "alternativas": [
+        "A) Condição favorável à expansão dessa modalidade.",
+        "B) Promoção dessa prática por jogadores profissionais.",
+        "C) Impulsionamento de um processo de marketing.",
+        "D) Favorecimento de fabricantes dos jogos.",
+        "E) Modificação da audiência televisiva."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/35"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 36,
+      "titulo": "Questão 36 - ENEM 2023",
+      "enunciado": "Marabaixo é uma expressão artistico-cultural formada nas tradições e na identificação cultural entre as comunidades negras do Amapá. O nome remonta às mortes de escravizados em navios negreiros que eram jogados na água. Em sua homenagem, hinos de lamento eram cantados mar abaixo, mar acima. Posteriormente, o Marabaixo se integrou à vivência das comunidades negras em um ciclo de danças, cantorias com tambores e festas religiosas, recebendo, em 2018, o título de Patrimônio Cultural do Brasil.\n\nDisponível em: http://portal.iphan.gov.br. Acesso em: 15 nov. 2021 (adaptado).",
+      "alternativas_introducao": "A manifestação do Marabaixo se constituiu em expressão de arte e cultura, exercendo função de",
+      "alternativas": [
+        "A) Ressignificar episódios dramáticos em novas práticas culturais.",
+        "B) Adaptar coreografias como imitação dos movimentos do mar.",
+        "C) Lembrar dos mortos no passado escravista como forma de lamento.",
+        "D) Perpetuar uma narrativa de apagamento dos fatos históricos traumáticos.",
+        "E) Ritualizar a passagem de atos fúnebres nas produções coletivas com espírito festivo."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/36"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 37,
+      "titulo": "Questão 37 - ENEM 2023",
+      "enunciado": "O uso das redes sociais como forma de ampliar universos foi uma descoberta recente para o artista Wolney Fernandes, que começou a criar quando o ambiente em Goiás era mais árido em relação às artes visuais. “Hoje, ser diferente é uma potência e quem sabe o que quer com a própria arte encontra espaço”, diz. As colagens artísticas do goiano aparecem em capas de obras literárias pelo Brasil e exterior.\n\nDisponível em: https://opopular.com.br. Acesso em: 15 nov. 2021 (adaptado).",
+      "alternativas_introducao": "O artista goiano Wolney Fernandes busca expor seu trabalho por meio de plataformas virtuais com o objetivo de",
+      "alternativas": [
+        "A) Dar suporte à técnica de colagem em Artes Visuais, contornando dificuldades práticas.",
+        "B) Aproximar-se da estética visual própria da editoração de obras artísticas, como capas de livros.",
+        "C) Oferecer uma vitrine internacional para sua produção artística, a fim de dar mais visibilidade a suas obras.",
+        "D) Enfatizar o caráter original e inovador de suas criações artísticas, diferenciando-se das artes tradicionais.",
+        "E) Trazer um sentido tecnológico às suas colagens, uma vez que as imagens artísticas são recorrentes nas redes sociais."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/37"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 38,
+      "titulo": "Questão 38 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "O mais antigo grupo de rap indígena do país, Brô MCs, surgiu em 2009, na aldeia Jaguapiru, em Dourados, Mato Grosso do Sul. Os integrantes conheceram o rap pelo rádio, ouvindo um programa que apresentava cantores e grupos brasileiros desse gênero musical. O Brô MCs conseguiu influenciar outros a fazerem rap e a lutarem pelas causas indígenas. Um dos nomes do movimento, Kunumi MC, é um jovem de 16 anos, da aldeia Krukutu, em São Paulo.\nO adolescente enxerga o rap como uma cultura da defesa e começou a fazer rimas quando percebeu que a poesia, pela qual sempre se interessou, podia virar música.\nNas letras que cria, inspiradas tanto pelo rap quanto pelos ritmos indígenas, tenta incluir sempre assuntos aos quais acha importante dar voz, principalmente, a questão da demarcação de terras.\nDisponível em: www.correiobraziliense.com.br. Acesso em: 13 nov. 2021 (adaptado).\nO movimento rap dos povos originários do Brasil revela o(a)",
+      "alternativas": [
+        "A) Fusão de manifestações artísticas urbanas contemporâneas com a cultura indígena.",
+        "B) Contraposição das temáticas socioambientais indigenas as questões urbanas.",
+        "C) Rejeição da indústria radiofônica às músicas indígenas.",
+        "D) Distanciamento da realidade social indígena.",
+        "E) E estímulo ao estudo da poesia indígena."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/38"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 39,
+      "titulo": "Questão 39 - ENEM 2023",
+      "enunciado": "A petição on-line criada por um cidadão paulista surtiu efeito: casado há três anos com seu companheiro, ele pedia a alteração da definição de “casamento” no tradicional dicionário _Michaelis_ em português. Na definição anterior, casamento aparecia como “união legítima entre homem e mulher” e “união legal entre homem e mulher, para constituir família”.\n\nO novo verbete não traz em nenhum momento as palavras homem ou mulher — agora a definição de casamento se refere a “pessoas”.\n\nPara o diretor de comunicação do site onde a petição foi publicada, a iniciativa mostra a “eficiência da mobilização”. “Em dois dias, mudou-se uma definição que permanecia a mesma há décadas”, afirma. E conclui: “A plataforma serve para todos os tipos de causas, para as mudanças que importam para as pessoas.”.\n\nSENRA, R. Disponível em: www.bbc.com. Acesso em: 29 out. 2015.",
+      "alternativas_introducao": "A notícia trata da mudança ocorrida em um dicionário da língua portuguesa. Segundo o texto, essa mudança foi impulsionada pela",
+      "alternativas": [
+        "A) Inclusão de informações no verbete.",
+        "B) Relevância social da instituição casamento.",
+        "C) Utilização pública da petição pelos cidadãos.",
+        "D) Rapidez na disseminação digital do verbete.",
+        "E) Divulgação de plataformas para a criação de petição"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/39"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 40,
+      "titulo": "Questão 40 - ENEM 2023",
+      "enunciado": "A neozelandesa Laurel Hubbard fez história nos Jogos Olimpicos. Apesar de ter ficado de fora da disputa por medalhas, a levantadora de peso deixou sua marca na edição de Tóquio por ser a primeira mulher abertamente transgênero a participar de uma competição olímpica. No início da carreira, na década de 1990, a neozelandesa participava de disputas na categoria masculina. Em 2001, aos 23 anos, ela se afastou da atividade. “A pressão de tentar me encaixar em um mundo que talvez não tenha sido feito para pessoas como eu se tornou um fardo muito grande para suportar.” Em 2012, Laurel começou sua transição de gênero por meio de terapias hormonais e, em 2013, declarou abertamente ser uma mulher trans. Para o Comitê Olímpico Internacional, a participação de mulheres trans nos Jogos é permitida caso o nível de testosterona, hormônio que aumenta a massa muscular, esteja abaixo de 10 nanomols por litro por pelo menos 12 meses.\n\nDisponivel em: https://revistagalileu.globo.com Acesso em: 18 nov. 2021 (adaptado).",
+      "alternativas_introducao": "No texto, os limites do potencial inclusivo do esporte são dados pela",
+      "alternativas": [
+        "A) Dificuldade de conseguir bons resultados esportivos.",
+        "B) Dependência de características biológicas padronizadas.",
+        "C) Inexistência de uma categoria para pessoas transgênero",
+        "D) Necessidade de afastamento temporário das competições",
+        "E) Impossibilidade de uso controlado de substâncias"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/40"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 41,
+      "titulo": "Questão 41 - ENEM 2023",
+      "enunciado": "“Ganhei 25 medalhas em mundiais, sete em Jogos Olímpicos, e sou uma sobrevivente de abuso sexual.” Foi assim que Simone Biles se apresentou ao comitê do Senado norte-americano que investiga as supostas falhas do FBI no caso Larry Nassar. Biles e outras três atletas, vítimas dos abusos do ex-médico da equipe de ginástica feminina dos EUA, exigiram que os agentes da investigação sejam processados por falta de ação prévia contra Nassar, agora preso. Biles esclareceu que culpa Larry Nassar e “todo o sistema que o permitiu e o perpetrou”, acusando a Federação de Ginástica e o Comitê Olímpico dos Estados Unidos de saberem “muito antes” que ela havia sofrido abusos. A melhor ginasta do mundo é um ícone. Nos Jogos Olímpicos de Tóquio, uma lesão psicológica a impediu de competir como previa. No entanto, ela chegou ao topo como uma líder no trabalho de acabar com o preconceito com os problemas de saúde mental. “Não quero que nenhum outro atleta olímpico sofra o horror que eu e outras centenas suportamos e continuamos suportando até hoje”, afirmou.\n\nDisponível em https://brasil.elpais.com Acesso em 31 out 2021 (adaptado).",
+      "alternativas_introducao": "O fato relatado na notícia chama a atenção acerca da necessidade de reflexão sobre a relação entre o esporte e",
+      "alternativas": [
+        "A) O desempenho atlético internacional.",
+        "B) A dimensão emocional dos atletas.",
+        "C) Os comitês olímpicos nacionais.",
+        "D) As instituições de inteligência.",
+        "E) As federações esportivas."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/41"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 42,
+      "titulo": "Questão 42 - ENEM 2023",
+      "enunciado": "O acesso às Práticas Corporais/Atividades Físicas (PC/AF) é desigual no Brasil, à semelhança de outros indicadores sociais e de saúde. Em geral, PC/AF prazerosas, diversificadas, mais afeitas ao período de lazer estão concentradas nas populações mais abastadas. As atividades físicas de deslocamento, trajetos a pé ou de bicicleta para estudar ou trabalhar, por exemplo, são mais frequentes na classe social menos favorecida. Aqui, há uma relação inversa e perversa entre variáveis socioeconômicas de acesso às PC/AF. As maiores prevalências de inatividade física foram em mulheres, pessoas com 60 anos ou mais, negros, pessoas com autoavaliação de saúde ruim ou muito ruim, com renda familiar de até quatro salários mínimos por pessoa, pessoas que desconhecem programas públicos de PC/A e residentes em áreas sem locais públicos para a prática.\n\nKNUTH, A. G.; ANTUNES, P. C. **Saúde e Sociedade**, n. 2, 2021 (adaptado).",
+      "alternativas_introducao": "O fator central que impacta a realização de práticas corporais/atividades fisicas no tempo de lazer no Brasil é a",
+      "alternativas": [
+        "A) Diferença entre homens e mulheres.",
+        "B) Inexistência de políticas públicas.",
+        "C) Diversidade de faixa etária.",
+        "D) Variação de condição étnica.",
+        "E) Desigualdade entre classes sociais."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/42"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 43,
+      "titulo": "Questão 43 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "Mestre e companheiro, disse eu que nos íamos despedir. Mas disse mal. A morte não extingue: transforma; não aniquila; renova; não divorcia: aproxima. Um dia supuseste “morta e separada” a consorte dos teus sonhos e das tuas agonias, que te soubera “pôr um undo inteiro no recanto” do teu ninho; e, todavia, nunca ela te esteve mais presente, no íntimo de ti mesmo e na expressão do teu canto, no fundo do teu ser e na face de tuas ações. Esses catorze versos inimitáveis, em que o enlevo dos teus discípulos resume o valor de toda uma literatura, eram a aliança de ouro do teu segundo noivado, um anel de outras núpcias, para a vida nova do teu renascimento e da tua glorificação, com a sócia sem nódoa dos teus anos e de mocidade e madureza, da florescência e frutificação de tua alma. Para os eleitos do mundo das ideias a miséria está em decadência, e não na morte. A nobreza de uma nos preserva das ruínas de outra. Quando eles atravessavam essa passagem do invisível, que os conduz à região da verdade sem mescla, então é que entramos a sentir o começo do seu reino, o reino dos mortos sobre os vivos.\nBARBOSA, R. O adeus da Academia a Machado de Assis. Rio de Janeiro: Agir, 1962.\nEsse é um trecho do discurso de Rui Barbosa na Academia Brasileira de Letras em homenagem a Machado de Assis por ocasião de sua morte. Uma das características desse discurso de homenagem é a presença de",
+      "alternativas": [
+        "A) Metáforas relacionadas à trajetória pessoal e criadora do homenageado.",
+        "B) Recursos fonológicos empregados para a valorização do ritmo do texto.",
+        "C) Frases curtas e diretas no relato de vida e da morte do homenageado.",
+        "D) Contraposição de ideias presentes na obra do homenageado.",
+        "E) Seleção vocabular representativa do sentimento de nostalgia."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/43"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 44,
+      "titulo": "Questao 44 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "Essa campanha publicitaria do Ministerio da Saude visa",
+      "alternativas": [
+        "A) divulgar um conjunto de beneficios proporcionados pela amamentacao.",
+        "B) apresentar tratamentos para infeccoes respiratorias em bebes.",
+        "C) defender o direito das mulheres de amamentar em publico.",
+        "D) orientar sobre os exercicios para uma boa amamentacao.",
+        "E) informar sobre o aumento de anticorpos nas maes."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q044_principal.png",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "correcao_manual",
+      "fonte_url": ""
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 45,
+      "titulo": "Questão 45 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "Carta aberta à população brasileira\nPrezados Cidadãos e Cidadãs, O envelhecimento populacional é um fenômeno mundial. Infelizmente, nosso país ainda não está preparado para atender às demandas dessa população.\nEste é o retrato da saúde pública no Brasil, que, apesar dos indiscutíveis avanços, apresenta um cenário de deficiências e falta de integração em todos os níveis de atenção à saúde: primária (atendimento deficiente nas unidades de saúde da atenção básica), secundária (carência de centros de referência com atendimento por especialistas) e terciária (atendimento hospitalar com abordagem ao idoso centrada na doença), ou seja, não há, na prática, uma rede de atenção à saúde do idoso.\nDiante desse cenário, a Sociedade Brasileira de Geriatria e Gerontologia (SBGG) vem a público manifestar suas preocupações com o presente e o futuro dos idosos no Brasil. É preciso garantir a saúde como direito universal.\nEsperamos que tanto nossos atuais quanto os futuros governantes e legisladores reflitam sobre a necessidade de investir na saúde e na qualidade de vida associada ao envelhecimento.\nDignidade à saúde do idoso!\nRio de Janeiro, 15 de setembro de 2014.\nDisponível em: www.sbgg.org.br. Acesso em: 20 out. 2021 (adaptado).\nO objetivo desse texto é",
+      "alternativas": [
+        "A) A sensibilizar o idoso a respeito dos cuidados com a saude.",
+        "B) Alertar os governantes sobre os cuidados requeridos pelo idoso.",
+        "C) Divulgar o trabalho da Sociedade Brasileira de Geriatria e Gerontologia.",
+        "D) Informar o setor público sobre o retrocesso da legislação destinada à população idosa.",
+        "E) Chamar a atenção da população sobre a qualidade dos serviços de saúde pública para o idoso."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/45"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 46,
+      "titulo": "Questão 46 - ENEM 2023",
+      "enunciado": "![](https://enem.dev/2023/questions/46/4eac436b-15be-438c-8219-f2043ab21946.png)",
+      "alternativas_introducao": "Fotografia da avó bordada\nSCARELI. G. A máquina de costura e os fios da memória Revista Brasileira de Pesquisa (Auto) Biográfica, n. 18 maio-ago, 2021\nA definição de Sertão descrita no bordado associa esse recorte espacial a",
+      "alternativas": [
+        "A) Percursos e roteiros turísticos.",
+        "B) Trajetos e movimentos holísticos.",
+        "C) Vivências e itinerários socioafetivos.",
+        "D) Fronteiras e demarcações territoriais.",
+        "E) Profissões e interesses econômicos."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q046_principal.png",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/46"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 47,
+      "titulo": "Questão 47 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "Felizes tempos eram esses! As moças iam à missa de madrugada. De dia ninguém as via e se alguma, em dia de festa, queria passear com a avó ou a tia, havia de ir de cadeirinhas. Bem razão têm os nossos velhos de chorar por esses tempos, em que as filhas não sabiam escrever, e por isso não mandavam nem recebiam bilhetinhos.\n \nNovo correio de Modas, 1853, apud DONEGÁ, A. L.\nPublicar ficção em meado do século XIX,: um estudo de revistas femininas editadas pelos irmãos Laemmert. Campinas, unicamp, 2013 (adaptado)\nNa perspectiva do autor,  as tradições e os costumes sociofamiliares sofreram alterações no século XIX, decorrentes de quais fatores?",
+      "alternativas": [
+        "A) Hábitos de leitura e mobilidade regional.",
+        "B) Circulação de impressos e trânsito religioso.",
+        "C) Valorização da lingua e imigração estrangeira.",
+        "D) Práticas de letramento e transformação cultural.",
+        "E) Flexibilização do ensino e reformismo pedagógico."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/47"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 48,
+      "titulo": "Questão 48 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "No Cerrado, o conhecimento local está sendo cada vez mais subordinado à lógica do agronegócio. De um lado, o capital impõe os conhecimentos biotecnológicos, como mecanismo de universalização de práticas agrícolas e de novas tecnologias, e de outro, o modelo capitalista subordina homens e mulheres à lógica do mercado. Assim, as águas, as sementes, os minerais, as terras (bens comuns) tornam-se propriedade privada. Além do mais, há outros fatores negativos, como a mecanização pesada, a “pragatização” dos seres humanos e não humanos, a violência simbólica, a superexploração, as chuvas de veneno e a violência contra a pessoa.\nCALAÇA, M.; SILVA, E. B.; JESUS, J. N. Territorialização do agronegócio e subordinação\ndo campesinato no Cerrado, Élisée, Rev. Geo. ÚEG, n. 1, jan.-jun. 2021 (adaptado).\nOs elementos descritos no texto, a respeito da territorialização da produção, demonstram que há um:",
+      "alternativas": [
+        "A) Cerco aos camponeses, inviabilizando a manutenção das condições para a vida.",
+        "B) Descaso aos latifundiários, impactando a plantação de alimentos para a exportação.",
+        "C) Desprezo ao assalariado, afetando o engajamento dos sindicatos para o trabalhador.",
+        "D) Desrespeito aos governantes, comprometendo a criação de empregos para o lavrador.",
+        "E) Assédio ao empresariado, dificultando o investimento de maquinários para a produção."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/48"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 49,
+      "titulo": "Questão 49 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "TEXTO I\nCom uma população de 25 milhões de habitantes (cerca de 60% de minorias muçulmanas, principalmente da etnia Uigur), Xinjiang é uma região estratégica para a China. Faz fronteira com oito países, é uma artéria crucial do megaprojeto de infraestrutura chinês Cinturão e Rota e tem as maiores reservas nacionais de carvão e gás natural.\n(NINIO, M. Disponível em: https: oglobo.globo.com. Acesso em: 5 out. 2021 adaptado)\nTEXTO II\nDentre as províncias da Região Oeste, Xinjiang se destaca ao receber mais de 1,7 milhão de migrantes entre 2000 e 2010. O principal motivo desse fluxo migratório é que o governo fornece subsídios à população visando aumentar a proporção de chineses da etnia Han em relação à população local de etnias turca e muçulmana.\nALVES. F.: TOYOSHIMA. S. Disparidade socioeconômica e fluxo migratório chinês: interpretação de eventos contemporâneos segundo os clássicos do desenvolvimento. Revista de Economia Contemporânea. n 1. jan. abr. 2017 (adaptado)\nA política demográfica para a província mencionada nos textos é parte da seguinte ação estratégica do governo chinês:",
+      "alternativas": [
+        "A) Promover a ocupação rural.",
+        "B) Favorecer a liberdade religiosa.",
+        "C) Descentralizar a gestão pública.",
+        "D) Incentivar a pluralidade cultural.",
+        "E) Assegurar a integridade territorial."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/49"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 50,
+      "titulo": "Questão 50 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "Superar a história da escravidão como principal marca da trajetória do negro no país tem sido uma tônica daqueles que se dedicam a pesquisar as heranças de origem afro à cultura brasileira. A esse esforço de reconstrução da própria história do país, alia-se agora a criação da plataforma digital Ancestralidades. “A história do negro no Brasil vai continuar sendo contada, e cada passo que a gente dá para trás é um passo que a gente avança”, diz Márcio Black, idealizador da plataforma, sobre o estudo de figuras ainda encobertas pela perspectiva histórica imposta pelos colonizadores da América.\nFIORATI, G. Projeto joga luz sobre negros e revê perspectiva histórica Disponivel em: www1.folha.uol.com.br. Acesso em: 10 nov. 2021 (adaptado)\nEm relação ao conhecimento sobre a formação cultural brasileira, iniciativas como a descrita no texto favorecem o(a)",
+      "alternativas": [
+        "A) Recuperação do tradicionalismo.",
+        "B) Estímulo ao antropocentrismo.",
+        "C) Reforço do etnocentrismo.",
+        "D) Resgate do teocentrismo.",
+        "E) Crítica ao eurocentrismo."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/50"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 51,
+      "titulo": "Questão 51 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "Escrito durante a Primeira Guerra Mundial, o seguinte trecho faz parte da carta enviada pelo secretário do exterior britânico, Sir Arthur James Balfour, ao banqueiro Lord Rotschild, presidente da Liga Sionista, em 2 de novembro de 1917, a carta ficou conhecida como Declaração Balfour:\n“O governo de Sua Majestade vê com aprovação o estabelecimento na Palestina de um lar nacional para o povo judeu, e fará todos os esforços para facilitar tal objetivo. Nada será feito que possa prejudicar os direitos civis e religiosos das comunidades não judaicas na Palestina.”\nGATTAZ, A. A Guerra da Palestina. São Paulo: Usina do Livro, 2002 (adaptado).\nA análise do resultado do processo em questão revela que o governo inglês foi incapaz de garantir seu objetivo de",
+      "alternativas": [
+        "A) Promover o bem-estar social.",
+        "B) Negociar o apoio muçulmano.",
+        "C) Mediar os conflitos territoriais.",
+        "D) Estimular a cooperação regional.",
+        "E) Combater os governos autocráticos."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/51"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 52,
+      "titulo": "Questão 52 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "TEXTO I\nComo presença consciente no mundo não posso escapar à responsabilidade ética no meu mover-me no mundo. Se sou puro produto da determinação genética ou cultural ou de classe, sou irresponsável pelo que faço no meu mover-me no mundo e, se careço de responsabilidade, não posso falar em ética.\nFREIRE, P. Pedagogia da autonomia: saberes necessários à prática educativa. São Paulo: Paz e Terra, 1996\nТЕХТО II\nPaulo Freire construiu uma pedagogia da esperança. Na sua concepção, a história não é algo pronto e acabado. As estruturas de opressão e as desigualdades, apesar de serem naturalizadas, são sócio e historicamente construídas. Daí a importância de os educandos tomarem consciência da sua realidade para, assim, transformá-la.\nDEMARCHI, J. L. Paulo Freire. Disponivel em: https://diplomatique.org.br. Acesso em: 6 out. 2021 (adaptado).\nCom base no conceito de ética pedagógica presente nos textos, os educandos tornam-se responsáveis pela",
+      "alternativas": [
+        "A) Participação sociopolítica.",
+        "B) Definição estético-cultural.",
+        "C) Competição econômica local.",
+        "D) Manutenção do sistema escolar.",
+        "E) Capacitação de mobilidade individual."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/52"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 53,
+      "titulo": "Questão 53 - ENEM 2023",
+      "enunciado": "A cordilheira do Himalaia tem mais de 50 milhões de anos., sendo classificada como a maior cordilheira do planeta. Originário da língua sânscrito, comum na região, seu nome quer dizer “morada da neve”. É possível encontrar nessa cordilheira as quinze maiores montanhas do mundo. Ao todo, existem mais de cem picos, que contam com altitudes bem maiores que 7 000 m. O Everest, considerado o ponto mais alto da Terra, tem nada menos que 8 848 m de altitude, e continua crescendo, aproximadamente, 0,8 mm a cada ano.\n\nDisponível em: https://meioambiente.culturamix.com. Acesso em: 12 nov. 2021 (adaptado).",
+      "alternativas_introducao": "Qual dinâmica natural é responsável pelo fenômeno apresentado?",
+      "alternativas": [
+        "A) Derrame de lava vulcânica.",
+        "B) Encontro de placas tectônicas.",
+        "C) Ação do intemperismo químico.",
+        "D) Sedimentação de erosão eólica.",
+        "E) Derretimento de geleiras glaciais."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/53"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 54,
+      "titulo": "Questão 54 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "Eu poderia concluir que a raiva é um pensamento, que estar com raiva é pensar que alguém é detestável, e que esse pensamento, como todos os outros — assim como Descartes o mostrou —, não poderia residir em nenhum fragmento de matéria. A raiva seria, portanto, espírito. Porém, quando me volto para minha própria experiência da raiva, devo confessar que ela não estava fora do meu corpo, mas inexplicavelmente nele.\nMERLEAU-PONTY, M. Quinta conversa: o homem visto de fora. São Paulo: Martins Fontes, 1948 (adaptado).\nNo que se refere ao problema do corpo, a filosofia cartesiana apresenta-se como contraponto ao entendimento expresso no texto por",
+      "alternativas": [
+        "A) Apresentar uma visão dualista.",
+        "B) Confirmar uma tese naturalista.",
+        "C) Demonstrar uma premissa relativa.",
+        "D) Sustentar um argumento idealista.",
+        "E) Defender uma posição intencionalista."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/54"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 55,
+      "titulo": "Questão 55 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "A diversão é o prolongamento do trabalho sob o capitalismo tardio. Ela é procurada por quem quer escapar ao processo de trabalho mecanizado para se pôr de novo em condições de enfrentá-lo. Mas, ao mesmo tempo, a mecanização atingiu um tal poderio sobre a pessoa em seu lazer e sobre a sua felicidade, ela determina tão profundamente a fabricação das mercadorias destinadas à diversão que essa pessoa não pode mais perceber outra coisa senão as cópias que reproduzem o próprio processo de trabalho…\nADORNO, T; HORKHEIMER, M. Dialética do esclarecimento. Rio de Janeiro: Zahar 1997.\nNo texto, o tempo livre é concebido como",
+      "alternativas": [
+        "A) Consumo de produtos culturais e elaborados no mesmo sistema produtivo do capitalismo",
+        "B) Forma de realizar as diversas potencialidades da natureza humana.",
+        "C) Alternativa para equilibrar tensões psicológicas do dia a dia.",
+        "D) Promoção da satisfação de necessidades artificiais.",
+        "E) Mecanismo de organização do ócio e do prazer."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/55"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 56,
+      "titulo": "Questao 56 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "A charge ilustra um anseio presente na sociedade contemporanea, que se caracteriza pela",
+      "alternativas": [
+        "A) situacao de revolta individual.",
+        "B) satisfacao de desejos pessoais.",
+        "C) participacao em acoes decisorias.",
+        "D) permanencia em passividade social.",
+        "E) convivencia em interesses partidarios."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q056_principal.png",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "correcao_manual",
+      "fonte_url": ""
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 57,
+      "titulo": "Questão 57 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "Quem se mete pelo caminho do pedido de perdão deve estar pronto a escutar uma palavra de recusa. Entrar na atmosfera do perdão é aceitar medir-se com a possibilidade sempre aberta do imperdoável. Perdão pedido não é perdão a que se tem direito [devido]. É com o preço destas reservas que a grandeza do perdão se manifesta.\nRICOEUR, P. O perdão pode curar. Disponível em: www.lusosofia.net. Acesso em: 14 out 2019.\nA reflexão sobre o perdão apresentada no texto encontra fundamento na(s)",
+      "alternativas": [
+        "A) Rejeição particular amparada pelo desejo de poder.",
+        "B) Decisão subjetiva determinada pela vontade divina.",
+        "C) Liberdade mitigada pela predestinação do espírito.",
+        "D) Escolhas humanas definidas pelo conhecimento empírico.",
+        "E) Relações interpessoais medidas pela autonomia dos indivíduos."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/57"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 58,
+      "titulo": "Questão 58 - ENEM 2023",
+      "enunciado": "A Cavalgada de Sant’Ana é uma expressão da devoção dos vaqueiros à padroeira de Caicó (RN). Nas décadas de 1950 a 1970, esse evento, então denominado Cavalaria, era celebrado pelas pessoas que residiam na zona rural do município de Caicó. Essas pessoas usavam os animais (jegues, mulas e cavalos) como único meio de transporte, sobretudo para se dirigirem à cidade nos dias de feiras, trazendo seus produtos para comercializarem. Estando em Caicó no período da Festa de Sant’Ana, esses agricultores se organizavam em cavalgada até o pátio da Catedral de Sant’Ana para louvar a santa e receber bênção para seus animais. Por volta da década de 1970, com a chegada do automóvel à zona rural do município, essa expressão cultural foi extinta. O meio de transporte utilizando os animais passou a ser substituído por carros, sobretudo caminhonetes e caminhões, que transportavam os camponeses para a cidade em dias de feiras e festas. Desde 2002, um grupo de caicoenses retomou essa expressão cultural e, em conjunto com a associação dos vaqueiros, realiza no primeiro domingo da Festa a Cavalgada de Sant’Ana. O evento, além de contar com a participação dos cavaleiros que residem nas zonas rurais, atrai também pessoas que residem em Caicó, cidades vizinhas e amantes das vaquejadas.\n\nFESTA DE SANT’ANA. Disponivel em: http://portal.iphan.gov.br Acesso em: 12 out. 2021 (adaptado).",
+      "alternativas_introducao": "As mudanças culturais mencionadas no texto caracterizam-se pela presenca de",
+      "alternativas": [
+        "A) Elementos tradicionais e modernos em torno de uma crença religiosa.",
+        "B) Argumentos teológicos e históricos em consequência de uma ordem papal.",
+        "C) Fundamentos estéticos e etnográficos em função de uma cerimônia clerical.",
+        "D) Práticas corporais e esportivas em decorrência de uma imposição eclesiástica.",
+        "E) Discursos filosóficos e antropológicos em resultado de uma determinação paroquial."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/58"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 59,
+      "titulo": "Questão 59 - ENEM 2023",
+      "enunciado": "Do século XVI em diante, pelo menos nas classes mais altas, o garfo passou a ser usado como utensílio para comer, chegando através da Itália primeiramente à França e, em seguida, à Inglaterra e à Alemanha, depois de ter servido, durante algum tempo, apenas para retirar alimentos sólidos da travessa. Henrique III introduziu-o na França, trazendo-o provavelmente de Veneza. Seus cortesãos não foram pouco ridicularizados por essa maneira “afetada” de comer e, no princípio, não eram muito hábeis no uso do utensílio: pelo menos se dizia que metade da comida cala do garfo no caminho do prato à boca. Em data tão recente como o século XVII, o garfo era ainda basicamente artigo de luxo, geralmente feito de prata ou ouro.\n\nELIAS. N. **O processo civilizador**: uma história dos costumes. Rio de Janeiro: Zahar, 1994.",
+      "alternativas_introducao": "O processo social relatado indica a formação de uma etiqueta que tem como principio a",
+      "alternativas": [
+        "A) Distinção das classes sociais.",
+        "B) Valorização de habitos de higiene.",
+        "C) Exaltação da cultura mediterrânea.",
+        "D) Consagração de tradições medievais.",
+        "E) Disseminação de produtos manufaturados."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/59"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 60,
+      "titulo": "Questão 60 - ENEM 2023",
+      "enunciado": "Negar o pedido por dinheiro indispensável para necessidades pessoais ou comprar bens usando o nome da pessoa sem o consentimento dela. Ameaçar o corte de recursos dependendo de atitudes pessoais, esconder documentos ou trocar senhas do banco sem avisar. Ou, ainda, proibir a pessoa de trabalhar ou destruir seus pertences. As histórias são comuns, mas às vezes não são reconhecidas como abuso. Mas é uma das cinco formas de conduta contra a mulher previstas na Lei Maria da Penha.\n\nLEWGOY. J. **Conduta quase invisível destrói a vida de mulheres**. Disponível em: https://valorinveste.globo.com. Acesso em: 23 out. 2021 (adaptado).",
+      "alternativas_introducao": "O texto apresenta tipos de conduta sujeitos a punição, conforme previsto na Lei Maria da Penha, porque consistem em formas de",
+      "alternativas": [
+        "A) Ação difamatória.",
+        "B) Desvio comportamental.",
+        "C) Expressão preconceituosa.",
+        "D) Violência patrimonial.",
+        "E) Desentendimento matrimonial."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/60"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 61,
+      "titulo": "Questão 61 - ENEM 2023",
+      "enunciado": "Por trás da “mágica” do Google Assistant de sua capacidade de interpretar 26 idiomas está uma enorme equipe de linguistas distribuídos globalmente, trabalhando como subcontratados, que devem rotular tediosamente os dados de treinamento para que funcione. Eles ganham baixos salários e são rotineiramente forçados a trabalhar horas extras não remuneradas. A inteligência artificial não funciona como um pozinho mágico. Ela funciona por meio de trabalhadores que treinam algoritmos incansavelmente até que eles automatizem seus próprios trabalhos.\n\n**A Inteligência Artificial (IA) da economia freelancer está vindo atrás de você**. Disponível em: https://mittechreview.com.br. Acesso em: 6 out. 2021 (adaptado).",
+      "alternativas_introducao": "O texto critica a mudança tecnológica em razão da seguinte consequência:",
+      "alternativas": [
+        "A) Diversificação da função.",
+        "B) Mobilidade da população.",
+        "C) Autonomia do empregado.",
+        "D) Concentração da produção.",
+        "E) Invisibilidade do profissional."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/61"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 62,
+      "titulo": "Questão 62 - ENEM 2023",
+      "enunciado": "Enormes alto-falantes sul-coreanos instalados na fronteira com o Norte costumavam transmitir desde canções em estilo K-pop (como é chamado o pop sul-coreano) até boletins climáticos e noticiário crítico ao vizinho comunista. O Norte costuma praticar atividade semelhante, transmitindo por seus alto-falantes discursos críticos a Seul e aliados. Durante os anos 1980, o governo sul-coreano construiu um mastro de 97 metros de altura para hastear sua bandeira no povoado de Daesong-dong, na fronteira com o Norte. O Norte respondeu com a construção de um mastro ainda mais alto (160 m) na cidade fronteiriça de Gijung-dong. “Essas demonstrações são uma válvula de escape competitiva e importante entre os dois lados, fora de um possível conflito militar”, diz o analista Ankit Panda.\n\nTAN, Y. **Disputa de mastros e alto-falantes com K-pop:** as pequenas picuinhas do conflito entre as Coreias. Disponível em: www.bbc.com. Acesso em: 7 nov. 2021 (adaptado).",
+      "alternativas_introducao": "Os atos de competição citados têm suas origens históricas vinculadas a um contexto de",
+      "alternativas": [
+        "A) Domínio cultural-identitário de atores sociais.",
+        "B) Disputas étnico-raciais de povos tradicionais.",
+        "C) Divergências político-ideológicas de agentes estatais.",
+        "D) Imposição econômico-financeira de empresas privadas",
+        "E) Protestos ecológico-sustentáveis de entidades ambientais"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/62"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 63,
+      "titulo": "Questão 63 - ENEM 2023",
+      "enunciado": "Seda, madeiras aromáticas e têxteis, obras de arte, lã, cristais e muitas, muitas peças de porcelana chegaram ao Brasil ao longo dos séculos XVII e XVIII. A opulência proporcionada pelo ouro fez com que esses itens fossem ainda mais presentes em cidades mineiras como Ouro Preto, Mariana e Sabará. Esses objetos inspiraram a criação das chinesices, termo que designa um tipo de arte que evoca motivos chineses, presentes em várias igrejas barrocas de Minas Gerais. No Brasil, é bem provável que a inspiração para as pinturas nas igrejas barrocas com pássaros, elefantes, tigres, mandarins e pagodes tenha sido tirada de gravuras, tecidos, móveis e, principalmente, das porcelanas chinesas que circulavam livremente em uma sociedade enriquecida pelo comércio do ouro e pedras preciosas.\n\nMARIUZZO, P. **Estudos interdisciplinares ampliam conhecimento sobre chinesice no barroco mineiro**. Disponível em: http://cienciaecultura.bvs.br. Acesso em: 23 nov. 2021 (adaptado).",
+      "alternativas_introducao": "O desenvolvimento do processo artístico descrito no texto foi possível pelo(a)",
+      "alternativas": [
+        "A) Representação arquitetônica.",
+        "B) Intercâmbio transcontinental.",
+        "C) Dependência econômica.",
+        "D) Intervenção estatal.",
+        "E) Padrão estético."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/63"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 64,
+      "titulo": "Questão 64 - ENEM 2023",
+      "enunciado": "**Txai Suruí, liderança da Juventude Indígena, profere seu discurso na abertura da COP-26**\n\n“O clima está esquentando, os animais estão desaparecendo, os rios estão morrendo e nossas plantações não florescem como no passado. A Terra está falando: ela nos diz que não temos mais tempo.”\n\nVICK, M. **Quais são as conquistas do movimento indígena na COP-26**. Disponível em: www.nexojornal.com.br. Acesso em: 10 nov. 2021 (adaptado).",
+      "alternativas_introducao": "O discurso da líder indígena explicita um problema global relacionado ao(à)",
+      "alternativas": [
+        "A) Manejo tradicional.",
+        "B) Reciclagem residual.",
+        "C) Consumo consciente.",
+        "D) Exploração predatória.",
+        "E) Reaproveitamento energético."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/64"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 65,
+      "titulo": "Questão 65 - ENEM 2023",
+      "enunciado": "Nas reportagens publicadas sobre a inauguração de Museu de Arte de São Paulo, em 1947, quando ele ainda ocupava um edifício na rua Sete de Abril, Lina Bo Bardi não foi mencionada nenhuma vez. A arquiteta era responsável pelo projeto do museu que mudaria para sempre a posição de São Paulo no circuito mundial das artes. Mas não houve nenhum registro disso. O louvor se concentrou em seu marido e parceiro profissional, o respeitado crítico de arte Pietro Maria Bardi. Passados 75 anos, a mulher então ignorada recebeu um Leão de Ouro póstumo, a maior homenagem da Bienal de Arquitetura de Veneza, e tem agora sua história contada em duas biografias de peso, que procuram destrinchar uma carreira marcada pela ousadia e pela contradição.\n\nPORTO, W. L**ina Bo Bardi tem sua arquitetura contraditória destrinchada em biografias**. Disponível em: www1.folha.uol.com.br. Acesso em: 10 nov. 2021 (adaptado).",
+      "alternativas_introducao": "As transformações pelas quais passaram as sociedades ocidentais e que possibilitaram o reconhecimento recente do trabalho da arquiteta mencionada no texto foram resultado das mobilizações sociais pela",
+      "alternativas": [
+        "A) Equidade de genêro.",
+        "B) Liberdade de expressão.",
+        "C) Admissibilidade de voto.",
+        "D) Igualdade de oportunidade.",
+        "E) Reciprocidade de tratamento."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/65"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 66,
+      "titulo": "Questão 66 - ENEM 2023",
+      "enunciado": "**ТЕХТО I**\n\nComo é horrível ver um filho comer e perguntar: “Tem mais?” Esta palavra “tem mais” fica oscilando dentro do cérebro de uma mãe que olha as panela e não tem mais.\n\nJESUS, C. M. Quarto de despejo: diário de uma favelada. São Paulo: Ática. 2014.\n\n**ТЕХТО ІІ**\n\nA experiência de ver os filhos com fome na década de 1950, descrita por Carolina, é vivida no Brasil de 2021 por uma moradora de Petrolândia, em Pernambuco. “Eu trabalhava de ajudante de cabeleireira, mas a moça que tinha o salão fechou. Eu vinha me sustentando com o auxílio que tinha, mas agora eu não fui contemplada. Às vezes as pessoas me ajudam com alimentos para os meus filhos. De vez em quando, eu acho algum bico para fazer, mas é muito raro. Tem dias que não tenho nem o leite da minha bebê.”\n\nCARRANÇA, T. “Até o feijão nos esqueceu”: o livro de 1960 que poderia ter sido escritonas favelas de 2021.\n\nDisponível em: www.bbc.com. Acesso em: 6 out. 2021 (adaptado).",
+      "alternativas_introducao": "Considerando a realidade brasileira, os textos se aproximam ao apresentarem uma reflexão sobre o(a)",
+      "alternativas": [
+        "A) Recorrência da miséria.",
+        "B) Planejamento da saúde.",
+        "C) Superação da escassez.",
+        "D) Constância da economia.",
+        "E) Romantização da carência."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/66"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 67,
+      "titulo": "Questão 67 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "No sul da Bahia, desde o século XVIII, tem-se registros de um tipo de sistema agroflorestal. Até hoje, esse sistema é característica marcante da paisagem da região, conhecido como cabruca, que consiste no cultivo do cacau à sombra do dossel da floresta nativa. Esse sistema de cultivo do cacau (graças à tolerância da espécie à sombra) é considerado amigável para a vida silvestre, pois apresenta superioridade em termos de conservação da biodiversidade quando comparado com outras plantações tropicais (monoculturas de dendê, seringa ou café), agricultura ou pastagens.\nSOLLBERG, I.; SCHIAVETTI, A. MORAES M. E. B. Manejo agrícola no Refúgio de Vida Silvestre de Una: agroflorestas como uma perspectiva de conservação. Revista Árvore. n. 2, 2014 (adaptado)\nA prática produtiva apresentada é um exemplo de",
+      "alternativas": [
+        "A) Difusão comercial de lavouras temporárias.",
+        "B) Utilização sustentável dos recursos naturais.",
+        "C) Ampliação tecnológica da pecuária intensiva.",
+        "D) Padronização alimentar dos povos tradicionais.",
+        "E) Modernização logística de plantios convencionais."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/67"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 68,
+      "titulo": "Questão 68 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "O masseiro, a mulher, e quatro filhos, dormindo numa tapera de quatro paredes de caixão, coberta de zinco. A água do mangue, na maré cheia, ia dentro de casa. Os maruins de noite encalombavam o corpo dos meninos. O mangue tinha ocasião que fedia, e os urubus faziam ponto por ali atrás dos petiscos. Perto da rua lavavam couro de boi, pele de bode para o curtume de um espanhol. Morria peixe envenenado e quando a maré secava os urubus enchiam o papo, ciscavam a lama, passeando banzeiros pelas biqueiras dos mocambos no Recife.\nRÊGO. J. L. O moleque Ricardo. Rio de Janeiro. J. Olympio, 1966 (adaptado).\nA aglomeração urbana representada no texto resulta em",
+      "alternativas": [
+        "A) Conservação do meio rural.",
+        "B) Crescimento da vegetação ciliar.",
+        "C) Interferência do espaço geográfico.",
+        "D) Equilíbrio do ambiente das cidades.",
+        "E) Controle da proliferação dos animais."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/68"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 69,
+      "titulo": "Questão 69 - ENEM 2023",
+      "enunciado": "Elas foram as pioneiras dos direitos das mulheres no Afeganistão. Defensoras ferrenhas da lei, buscaram justiça para os mais marginalizados. Mas, agora, mais de 220 juízas afegãs estão escondidas por medo de retaliação sob o regime do Talibã. Uma delas condenou centenas de homens por violência contra as mulheres, incluindo estupro, assassinato e tortura. Mas poucos dias depois que o Talibã assumiu o controle de sua cidade e milhares de criminosos condenados foram libertados da prisão, as ameaças de morte começaram. O país sempre foi considerado um dos lugares mais difíceis e perigosos do mundo para as mulheres. De acordo com estudos de organizações não governamentais, cerca de 87% das mulheres e meninas serão vítimas de abuso durante a vida.\n\nDisponível em: https://g1.globo.com. Acesso em: 12 out. 2021 (adaptado).",
+      "alternativas_introducao": "O texto evidencia situação representativa de",
+      "alternativas": [
+        "A) Afronta às estruturas sociais.",
+        "B) Desprezo aos valores religiosos.",
+        "C) Transgressão às normas morais.",
+        "D) Desrespeito à dignidade humana.",
+        "E) Oposição aos princípios hierárquicos."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/69"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 70,
+      "titulo": "Questão 70 - ENEM 2023",
+      "enunciado": "No cemitério, a sociedade religiosa encarregada do funeral, aterrorizada, apressou a cerimônia de tal forma que a mãe de Herzog perdeu o momento em que o caixão do filho começou a ser coberto pela terra. Quatro jornalistas que estavam presos no DOI chegaram para assistir ao sepultamento. Um se afastara, chorando. Dizia: Eles matam, eles matam! Não pergunte nada. Não podemos dizer nada. Eles matam mesmo. Falava-se baixo. Ouviram-se dois curtos discursos. O primeiro, da atriz Ruth Escobar: Até quando vamos suportar tanta violência? Até quando vamos continuar enterrando nossos mortos em silêncio? No segundo, Audálio Dantas recitou o Navio negreiro, de Castro Alves: _Senhor Deus dos desgraçados / Dizei-me Vós, Senhor Deus / Se é mentira, se é verdade, / Tanto horror perante os céus._\n\nGASPARI, E. A ditadura encurralada. São Paulo: Cia. das Letras, 2004.",
+      "alternativas_introducao": "O acontecimento descrito no texto, ocorrido em meados dos anos 1970, atesta a seguinte característica do regime político-institucional vigente:",
+      "alternativas": [
+        "A) Incorporação da estética popular para justificar o ideal de integração nacional.",
+        "B) Afirmação da estratégia psicossocial para favorecer o objetivo de propaganda cívica.",
+        "C) Institucionalização de mecanismos repressivos para eliminar os focos de resistência.",
+        "D) Adoção de cerimoniais públicos para controlar as manifestações de grupos opositores.",
+        "E) Estatização de meios de comunicação para selecionar a divulgação de atos governamentais."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/70"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 71,
+      "titulo": "Questão 71 - ENEM 2023",
+      "enunciado": "Alternativas logísticas estão servindo de instrumentos que ativam os mercados especuladores de terras nas diferentes regiões da Amazônia e constituem em indicadores utilizados por diferentes atores para defender ou denunciar o avanço da cultura da soja na região e, com ela, a retomada do desmatamento. É evidente que o crescimento do desmatamento tem a ver também com a expansão da soja, porém atribuir a ela o fator principal parece não totalmente correto. Parto da compreensão central de que a lógica que gera o desmatamento está articulada pelo tripé grileiros, madeireiros e pecuaristas.\n\nOLIVEIRA, A. U. A Amazônia e a nova geografia da produção da soja. **Terra Livre**, n. 26, jan.-jun. 2006 (adaptado).",
+      "alternativas_introducao": "Na visão do autor, o problema central da situação descrita é desencadeado pela",
+      "alternativas": [
+        "A) Apropriação de áreas devolutas.",
+        "B) Sonegação de impostos federais.",
+        "C) Incorporação de exportação ilegal.",
+        "D) Desoneração de setores produtivos.",
+        "E) Flexibilização de legislação ambiental."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/71"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 72,
+      "titulo": "Questão 72 - ENEM 2023",
+      "enunciado": "**TEXTO I**\n\nPor hora, apenas os mais abastados poderão sonhar em viajar ao espaço, seja por um foguete ou por um avião híbrido, mas toda a população global poderá sentir os efeitos dessas viagens e avanços tecnológicos. Para uma aventura dessas, as empresas tiveram que criar novas tecnologias, materiais e softwares, o que podem, em algum momento, voltar para a sociedade. A câmera fotográfica, hoje comum no mundo, antes foi uma invenção para ser usada em telescópios e o titânio, usado até na medicina, foi desenvolvido para a construção de foguetes.\n\nORLANDO, G. **Corrida espacial dos bilionários pode trazer vantagens para todos**. Disponível em: https://noticias.r7.com/. Acesso em: 5 nov. 2021 (adaptado).\n\n**TEXTO II**\n\n![](https://enem.dev/2023/questions/72/19b09a90-8898-4d03-b11a-eedae69b1e1d.png)\n\nCAZO. Disponível em: www.humorpolitico.com.br. Acesso em: 5 nov. 2021.",
+      "alternativas_introducao": "Os textos apresentam perspectivas da nova corrida espacial que revelam, respectivamente:",
+      "alternativas": [
+        "A) Dependência e progresso.",
+        "B) Expectativa e desconfiança.",
+        "C) Angústia e adaptação.",
+        "D) Pioneirismo e retrocesso.",
+        "E) Receio e civilidade."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q072_principal.png",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/72"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 73,
+      "titulo": "Questão 73 - ENEM 2023",
+      "enunciado": "Os séculos XV e XVI, quando se vão desmoronando as estruturas socioeconômicas da Idade Média perante os novos imperativos da Época moderna, constituem um momento-chave na história florestal de toda a Europa Ocidental. Abre-se, genericamente, um longo período de “crise florestal”, que se manifesta com acuidade nos países onde mais se desenvolvem as atividades industriais e comerciais. As necessidades em produtos lenhosos aumentam drasticamente com o crescimento do consumo nos mercados urbanos e nas regiões onde progridem a metalurgia e a construção naval, além da sua utilização na vida quotidiana de toda a população.\n\nDEVY-VARETA, N. Para uma geografia histórica da floresta portuguesa. **Revista da Faculdade de Letras – Geografia,** n. 1, 1986 (adaptado).",
+      "alternativas_introducao": "Qual acontecimento do período contribuiu diretamente para o agravamento da situação descrita?",
+      "alternativas": [
+        "A) O processo de expansão marítima.",
+        "B) A eclosão do renascimento cultural.",
+        "C) A concretização da centralização política.",
+        "D) O movimento de reformas religiosas.",
+        "E) A manutenção do sistema feudal."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/73"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 74,
+      "titulo": "Questão 74 - ENEM 2023",
+      "enunciado": "Tahuantinsuyu — nome do Império Inca em quéchua — era dividido em quatro partes ou suyus: Chinchaysuyu (noroeste do Peru e Equador), Antisuyu (parte amazônica do império), Collasuyu (atual Bolívia) e Condesuyu (costa do Oceano Pacífico) e tinha Cuzco, no atual Peru, como sua capital imperial. Oficialmente, todas as etnias dominadas pelos incas deveriam adotar a língua quéchua, adorar o Sapa Inca e o Sol e pagar taxas em forma de horas de trabalhos periódicos. No entanto, pode-se dizer que o Império Inca era como um mosaico cultural em que vários e diferentes grupos étnicos adoravam o Sapa Inca e o Sol mas, simultaneamente, continuavam a adorar seus deuses locais e também a falar em suas línguas nativas.\n\nMARTINS, C. **Os incas e os tahuantinsuyu**: apresentação. Disponível em: http://antigo.anphlac.org. Acesso em: 6 out. 2021 (adaptado).",
+      "alternativas_introducao": "Ao comparar, no texto, a vertente da dominação territorial com os aspectos culturais, os incas tinham uma postura",
+      "alternativas": [
+        "A) Aceitável no que alude aos direitos humanos.",
+        "B) Admissível no que remete às crenças coloniais.",
+        "C) Tolerável no que se refere aos regimes tributários.",
+        "D) Flexível no que diz respeito aos costumes religiosos.",
+        "E) Compreensível no que concerne às normas laborais."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/74"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 75,
+      "titulo": "Questão 75 - ENEM 2023",
+      "enunciado": "A torcida do Fluminense inicia um movimento para mudar a letra de uma das músicas mais populares das arquibancadas tricolores. Grupos pedem a remoção do termo “mulambo imundo”, em uma provocação direta ao Flamengo. Mulambo é um termo que surgiu em Angola, na época da escravatura, e eles eram chamados de mulambos pelos senhores de engenho, os patrões das fazendas.\n\nDisponível em: https://oglobo.globo.com. Acesso em: 23 nov. 2021.",
+      "alternativas_introducao": "Qual mudança no comportamento social a proposta reportada no texto reflete?",
+      "alternativas": [
+        "A) A Rejeição de costumes elitistas.",
+        "B) Repulsão de condutas misóginas.",
+        "C) Condenação do preconceito racial.",
+        "D) Criminalização de práticas homofóbicas",
+        "E) Contestação do comportamento machista."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/75"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 76,
+      "titulo": "Questão 76 - ENEM 2023",
+      "enunciado": "![](https://enem.dev/2023/questions/76/4b3eb253-249e-4bc3-bb08-5d48b44c53c1.jpg)\n\nDisponível em: www.insper.edu.br. Acesso em: 27 set. 2021 (adaptado).",
+      "alternativas_introducao": "Qual fator foi determinante para a mudança do indicador apresentado no gráfico?",
+      "alternativas": [
+        "A) Flexibilização legal da prática de aborto.",
+        "B) Envelhecimento da população brasileira.",
+        "C) Crescimento dos casos de gravidez precoce.",
+        "D) Participação feminina no mercado de trabalho.",
+        "E) Diminuição dos benefícios na licença-maternidade."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q076_principal.jpg",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/76"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 77,
+      "titulo": "Questão 77 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "Havia já muito tempo que a Europa desfrutava os benefícios da vacina e arrancava à morte milhares de inocentes, condenados a serem vítimas do terrível flagelo das bexigas, e o governo de Portugal nunca se lembrara de transmitir ao Brasil a mais útil das descobertas humanas, quando aliás nenhum país mais do que ele carecia deste salutar invento ou se atendesse às vantagens da população ou ao perdimento de imensas somas na mortandade contínua de escravos, que este flagelo devorava. O certo é que mais ocupado de seu ouro que de seus habitantes, Portugal, como em outros muitos casos, esperou que o Brasil por seu próprio impulso remediasse a este mal.\nPEREIRA, J. C. 12 jan. 1828 apud LOPES, M. B.; POLITO, R. Para uma história da vacina no Brasil: um manuscrito inédito de Norberto e Macedo. História, Ciências, Saúde – Manguinhos, n. 2, abr. -jun. 2007 (adaptado).\nEscrito em 1828, o texto expressa a seguinte ideia de origem iluminista:",
+      "alternativas": [
+        "A) As leis observáveis regem o mundo material.",
+        "B) O monarca racional promove a sociedade justa.",
+        "C) O direito natural justifica a liberdade dos homens.",
+        "D) A produção da terra garante a riqueza das nações.",
+        "E) A responsabilidade dos governantes assegura a saúde dos povos."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/77"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 78,
+      "titulo": "Questão 78 - ENEM 2023",
+      "enunciado": "Os movimentos da agricultura urbana no Rio de Janeiro vêm crescendo nos últimos vinte anos, tanto por meio de reproduções de modelos de vida antigos, vinculados ao resgate dos próprios costumes, como — e cada vez mais — são revelados hábitos inventivos nos quais moradores urbanos de diferentes classes sociais, sem nenhuma referência anterior com o campo, passam a se dedicar a essas atividades. Ao possibilitar o acesso ao plantio e, consequentemente, à alimentação, permite-se uma nova relação com o que se come, reduzindo o percurso da cadeia produtiva e aproximando produtores de consumidores, pois ambos se confundem nas experiências de agricultura urbana.\n\nPORTILHO, M.; RODRIGUES, C. G. O.; FERNANDEZ, A. C. F. Cultivando relações no arranjo local da Penha: a mobilização de mulheres a partir das práticas de agricultura urbana na favela. Cidades, Comunidades e Territórios, n. 42, jun. 2021.",
+      "alternativas_introducao": "A prática agrícola destacada no texto apresenta como vantagem no espaço urbano a",
+      "alternativas": [
+        "A) Ocupação de lugares ociosos.",
+        "B) Densificação da área central.",
+        "C) Valorização do mercado externo.",
+        "D) Priorização de insumos químicos.",
+        "E) Mecanização de técnicas de cultivo."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/78"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 79,
+      "titulo": "Questão 79 - ENEM 2023",
+      "enunciado": "**TEXTO I**\n\nGerineldo dorme porque já está conformado com o seu mundo. Porque já sabe tudo o que lhe pode acontecer após haver submetido todos os objetos que o rodeiam a um minucioso inventário de possibilidades. Seu apartamento, mais que um apartamento, é uma teoria de sorte e de azar. Melhor que ninguém, Gerineldo conhece o coeficiente da dilatação de suas janelas e mantém marcado no termômetro, com uma linha vermelha, o ponto em que se quebrarão os vidros, despedaçados em estilhaços de morte. Sabe que os arquitetos e os engenheiros já previram tudo, menos o que nunca já aconteceu.\n\nMARQUEZ, G. G. O pessimista. In: Textos do Caribe. Rio de Janeiro: Record, 1981.\n\n**ТЕХТО II**\n\nA situação é o sujeito inteiro (ele não é nada a não ser a sua situação) e é também a coisa inteira (nunca há mais nada senão as coisas). É o sujeito a elucidar as coisas pela sua própria superação, se assim quisermos; ou são as coisas a reenviar ao sujeito a imagem dele. É a total facticidade, a contingência absoluta do mundo, do meu nascimento, do meu lugar, do meu passado, dos meus redores — e é a minha liberdade sem limites que faz com que haja para mim uma facticidade.\n\nSARTRE, J.-P. O ser e o nada: ensaio de ontologia fenomenológica. Petrópolis: Vozes, 1997 (adaptado).",
+      "alternativas_introducao": "A postura determinista adotada pelo personagem Gerineldo contrasta com a ideia existencialista contida no pensamento filosófico de Sartre porque",
+      "alternativas": [
+        "A) Evidencia a manifestação do inconsciente.",
+        "B) Nega a possibilidade de transcendência.",
+        "C) Contraria o conhecimento difuso.",
+        "D) Sustenta a fugacidade da vida.",
+        "E) Refuta a evolução biológica."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/79"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 80,
+      "titulo": "Questão 80 - ENEM 2023",
+      "enunciado": "O Golpe Militar de 1964 foi implacável no combate ao que restava das Ligas Camponesas, generalizadas na década anterior. No entanto, em relação aos sindicatos, sua atitude foi ambígua. Por meio de acordos com os Estados Unidos, foram concebidos centros sindicais e cursos de liderança com base em princípios conservadores e ministrados por membros da Igreja Católica.\n\nDEL PRIORE, M.; VENÂNCIO, R. Uma história da vida rural no Brasil. Rio de Janeiro: Ediouro, 2006 (adaptado).",
+      "alternativas_introducao": "Os sindicatos rurais foram tratados da forma descrita no texto porque o governo pretendia utiliza-los para",
+      "alternativas": [
+        "A) Controlar as tensões políticas.",
+        "B) Limitar a legislação trabalhista.",
+        "C) Divulgar o programa populista.",
+        "D) Regularizar a propriedade da terra.",
+        "E) Estimular a oferta de mão de obra."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/80"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 81,
+      "titulo": "Questão 81 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "A economia das ilegalidades se reestruturou com o desenvolvimento da sociedade capitalista. A ilegalidade dos bens foi separada da ilegalidade dos direitos. Divisão que corresponde a uma oposição de classes, pois, de um lado, a ilegalidade mais acessível às classes populares será a dos bens — transferência violenta das propriedades; de outro, à burguesia, então, se reservará a ilegalidade dos direitos: a possibilidade de desviar seus próprios regulamentos e suas próprias leis; e essa grande redistribuição das ilegalidades se traduzirá até por uma especialização dos circuitos judiciários; para as ilegalidades de bens — para o roubo — os tribunais ordinários e os castigos; para as ilegalidades de direitos — fraudes, evasões fiscais, operações comerciais irregulares — jurisdições especiais com transações, acomodações, multas atenuadas etc.\n FOUCAULT, M. Vigiar e punir: nascimento da prisão. Petropolis: Vozes, 1987 \nO texto apresenta uma relação de cálculo politico-econômico que caracteriza o poder punitivo por meio da • gestão das ilicitudes pelo sistema judicial. aplicação das sanções pelo modelo equânime. supressão dos crimes pela penalização severa. regulamentação dos privilégios pela justiça social. repartição de vantagens pela hierarquização cultural",
+      "alternativas": [
+        "A) Gestão das ilicitudes pelo sistema judicial.",
+        "B) Aplicação das sanções pelo modelo equânime.",
+        "C) Supressão dos crimes pela penalização severa.",
+        "D) Regulamentação dos privilégios pela justiça social.",
+        "E) Repartição de vantagens pela hierarquização cultural."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/81"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 82,
+      "titulo": "Questão 82 - ENEM 2023",
+      "enunciado": "Os vapores cruzavam os mares transportando pessoas, mercadorias e ideias, e ainda carregavam a mala postal, repleta de mensagens. Múltiplas histórias escritas atravessavam o oceano buscando por notícias de filhos e pais, irmãos, maridos e esposas, noivos e noivas. As missivas traziam boas e más novas, comunicavam alegremente nascimentos e casamentos, também doenças e mortes; enviavam declarações de amor e fidelidade, fotos de família; encaminhavam conselhos de velhos, pedidos de ajuda e de dinheiro; expediam cartas bancárias e de chamada. Essa literatura epistolar possibilitava a transmissão e reconstrução das tradições. Os deslocamentos tornaram-se um dos mais potentes produtores de escritura ao longo da história.\n\nTRUZZI, O.; MATOS, I. Saudades: sensibilidades no epistolário de e/imigrantes  \nportuqueses (Portugal-Brasil 1890-1930). Rev. Bras. Hist., n. 70, jul.-dez. 2015.",
+      "alternativas_introducao": "Conforme o texto, as correspondências trocadas entre imigrantes no Brasil com os seus países de procedência constituíam um dispositivo tecnológico que possibilitava o(a)",
+      "alternativas": [
+        "A) Disputa ideológica entre a comunidade de estrangeiros e a de nativos.",
+        "B) Circularidade cultural entre a sociedade de partida e a de acolhimento.",
+        "C) Controle doutrinário das narrativas do cotidiano de origem e de destino..",
+        "D) Fiscalização política dos fluxos de populações do Novo e do Velho Mundo.",
+        "E) Monitoramento social dos grupos de trabalhadores da cidade e do campo."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/82"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 83,
+      "titulo": "Questão 83 - ENEM 2023",
+      "enunciado": "Diversos são os fatores causadores da degradação do solo, atuando de forma direta ou indireta, mas quase sempre a grande maioria das terras degradadas inicia esse processo com o desmatamento, que pode ser seguido por diversas formas de ocupação desordenada, como: corte de taludes para a construção de casas, rodovias e ferrovias, agricultura, com uso da queimada, vários tipos de mineração, irrigação excessiva, crescimento desordenado das cidades, superpastoreio, uso do solo para diversos tipos de despejos industriais e domésticos, sem tratamento da área que recebe esses despejos; enfim, de uma forma ou de outra, os solos tornam-se degradados, sendo muitas vezes difícil, ou quase impossível, a sua recuperação.\n\nGUERRA, A. T. Degradação dos solos: conceitos e temas. In: GUERRA, A. T.; JORGE, M. C. O. (Org.). **Degradação dos solos no Brasil**. Rio de Janeiro: Difel, 2018.",
+      "alternativas_introducao": "A partir da ocupação desordenada exporta no texto, o que impede a recuperação do recurso natural destacado é a",
+      "alternativas": [
+        "A) Elevação da biomassa.",
+        "B) Redução da salinização.",
+        "C) Diminuição da fertilidade.",
+        "D) Ampliação da microfauna.",
+        "E) Decomposição do substrato."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/83"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 84,
+      "titulo": "Questão 84 - ENEM 2023",
+      "enunciado": "A partir da década de 1930, começam a ser discutidos no Brasil os princípios de racionalização do trabalho. As preocupações com a cozinha e o trabalho doméstico foram introduzidas com a medicina sanitária e a oferta de gás e eletricidade para uso doméstico no início do século XX. A organização da cozinha visava atingir uma simplificação das tarefas, com a economia de movimentos, e o barateamento dos equipamentos, a partir da produção em grande escala. A padronização e racionalização da habitação e seus componentes visava uma radical transformação da casa, em especial da cozinha, e apoiava-se tanto no desenvolvimento de novos equipamentos quanto nos estudos de racionalização do trabalho doméstico. A principal preocupação era o desenvolvimento de um novo tipo de habitação, que deveria induzir um novo comportamento social.\n\nSILVA, J. L. M. Transformações no espaço doméstico: o fogão a gás e a cozinha paulistana, 1870-1930. Anais do Museu Paulista, n. 2. jul-dez 2007 (adaptado).",
+      "alternativas_introducao": "No contexto descrito, as mudanças mencionadas proporcionavam às mulheres o(a)",
+      "alternativas": [
+        "A) Controle do orçamento familiar.",
+        "B) Libertação das tradições religiosas.",
+        "C) Exercício da representatividade política.",
+        "D) Ampliação dos momentos de socialização.",
+        "E) Afastamento das atividades especializadas."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/84"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 85,
+      "titulo": "Questão 85 - ENEM 2023",
+      "enunciado": "Produtores rurais europeus são antigos opositores de um grande acordo com o Mercosul. Na visão deles, existe um nítido risco de concorrência desleal, pois, na Europa, é preciso seguir regras mais rígidas de produção, o que encarece o processo. Assim, eles não conseguiriam competir com os preços, por exemplo, da carne brasileira e teriam seus negócios ameaçados. Por outro lado, o setor industrial europeu se mobiliza a favor do acordo, uma vez que as reduções de tarifas no comércio internacional dariam maior acesso ao mercado sul-americano. Um exemplo é o setor automotivo europeu, que prevê maior participação e concorrência nos países do Mercosul caso o acordo siga em frente.\n\nROUBICEK, M. Como o risco ambiental afeta o acordo entre Mercosul e União Europeia.  \nDisponível em: www.nexojornal.com.br. Acesso em: 25 out. 2021.",
+      "alternativas_introducao": "No contexto do acordo citado, os dois grupos econômicos europeus defendem, respectivamente, a",
+      "alternativas": [
+        "A) Restrição dos fluxos migratórios e a maior atuação de sindicatos.",
+        "B) Ampliação das leis trabalhistas e a plena importação de manufaturados.",
+        "C) Proteção das florestas nacionais e a ampla transferência de tecnologias.",
+        "D) Manutenção das barreiras fitossanitárias e a livre circulação de mercadorias.",
+        "E) Remoção dos entraves alfandegários e a melhor remuneração de empregados."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/85"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 86,
+      "titulo": "Questão 86 - ENEM 2023",
+      "enunciado": "Durante a Revolução Francesa, um certo padre Niollant escondeu-se no pequeno castelo de L’Escarbas. Pagou amplamente a hospitalidade do velho fidalgo ocupando-se da educação de sua filha, Anaïs. A presença da mãe em nada modificou essa educação masculina dada a uma jovem criatura já muito inclinada à independência em virtude da vida no campo. O padre transmitiu à aluna sua intrepidez de opiniões e sua facilidade de julgamento, sem pensar que essas qualidades, tão necessárias num homem, se tornam defeitos numa mulher destinada aos humildes afazeres de mãe de família. Embora o padre recomendasse continuamente à aluna ser tanto mais graciosa e modesta quanto seu saber era mais extenso, a senhorita de Nègrepelisse ficou com excelente opinião de si mesma.\n\nBALZAC. H. Ilusões perdidas. São Paulo: Penguin Classics:  \nCia. das Letras, 2011 (adaptado).",
+      "alternativas_introducao": "O comportamento desenvolvido pela personagem evidencia uma postura de",
+      "alternativas": [
+        "A) Abandono de laços afetivos.",
+        "B) Negação da ideia de subjetividade.",
+        "C) Aceitação da hierarquia de gênero.",
+        "D) Consolidação da estratificação social.",
+        "E) Ruptura de valores institucionalizados."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/86"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 87,
+      "titulo": "Questão 87 - ENEM 2023",
+      "enunciado": "**TEXTO I**\n\nOriunda da Romênia, Genny Gleizer aportou no Brasil em 1932. Assim como milhares de judeus do Leste Europeu, sua vinda para o Brasil ocorreu em um momento de ascensão do antissemitismo na Europa que tornava precárias suas vidas. O Brasil se colocava como uma possibilidade na busca por condições de sobrevivência e desenvolvimento.\n\nANTÃO, A. C. C. B. Gênero, imigração e política: o caso da judia comunista Genny Gleizer no Governo Vargas (1932-1935). Rio de Janeiro: Casa de Oswaldo Cruz, 2017 (adaptado).\n\n**ТЕХТО II**\n\nA presença judaica no Brasil foi criando aos poucos certas desconfianças que se refletiram em órgãos da imprensa e em círculos intelectuais e políticos. Em parte, essa imagem negativa adviria da onda nacionalista surgida no final dos anos 1910, que concebia imigrantes como concorrentes dos trabalhadores brasileiros, ou como seres improdutivos, exploradores da mão de obra e da riqueza autóctone. Além disso, as elites políticas da época acreditavam que os estrangeiros eram portadores das doutrinas anarquista e comunista, estranhas à “indole do povo brasileiro”. Esses “indesejáveis” seriam um mal externo que corromperia a nação.\n\nMAIO, M. C.: CALAÇA, C. E. Um balanço da bibliografia sobre o antissemitismo  \nno Brasil. In: GRINBERG, K. (Org.). Os judeus no Brasil. Rio de Janeiro: Civilização Brasileira, 2005 (adaptado).",
+      "alternativas_introducao": "Conforme descrito nos textos, o tratamento dispensado aos grupos mencionados se fundamentava em",
+      "alternativas": [
+        "A) Preceitos teológicos e religiosos.",
+        "B) Aspectos socioeconômicos e ideológicos.",
+        "C) Regulamentações territoriais e alfandegárias.",
+        "D) Orientações constitucionais e estatutárias.",
+        "E) Decretos legislativos e internacionais."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/87"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 88,
+      "titulo": "Questão 88 - ENEM 2023",
+      "enunciado": "Concorrer e competir não são a mesma coisa. A concorrência pode até ser saudável sempre que a batalha entre agentes, para melhor empreender uma tarefa e obter melhores resultados finais, exige o respeito a certas regras de convivência preestabelecidas ou não. Já a competitividade se funda na invenção de novas armas de luta, num exercício em que a única regra é a conquista da melhor posição. A competitividade é uma espécie de guerra em que tudo vale e, desse modo, sua prática provoca um afrouxamento dos valores morais e um convite ao exercício de violência.\n\nSANTOS, M. **Por uma outra globalização**: do pensamento único à consciência universal. Rio de Janeiro: Record, 2006.",
+      "alternativas_introducao": "De acordo com a diferenciação feita pelo autor, que prática econômica é considerada moralmente condenável?",
+      "alternativas": [
+        "A) Adoção do dumping comercial.",
+        "B) Fusão da função administrativa.",
+        "C) Criação de holding empresarial.",
+        "D) Limitação do mercado monopolista.",
+        "E) Modernização da produção industrial."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/88"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 89,
+      "titulo": "Questão 89 - ENEM 2023",
+      "enunciado": "![](https://enem.dev/2023/questions/89/9bf9cf75-4df7-495a-8f99-bb6bac2abe2e.PNG)",
+      "alternativas_introducao": "Qual medida é capaz de minimizar as mudanças apresentadas nas simulações?",
+      "alternativas": [
+        "A) Expandir o transporte marítimo.",
+        "B) Incentivar os fluxos migratórios.",
+        "C) Monitorar as atividades vulcânicas.",
+        "D) Controlar as emissões de carbono.",
+        "E) Priorizar a utilização de termoelétricas."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "enem/2023/img/q089_principal.png",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/89"
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "numero": 90,
+      "titulo": "Questão 90 - ENEM 2023",
+      "enunciado": "",
+      "alternativas_introducao": "Não tinha outra filosofia. Nem eu. Não digo que a Universidade me não tivesse ensinado alguma; mas eu decorei-lhe só as fórmulas, o vocabulário, o esqueleto. Tratei-a como tratei o latim; embolsei três versos de Virgílio, dois de Horácio, uma dúzia de locuções morais e políticas, para as despesas da conversação. Tratei-os como tratei a história e a jurisprudência. Colhi de todas as cousas a fraseologia, a casca, a ornamentação.\nASSIS, M. Memórias póstumas do Brás Cubas. Belo Horizonte: Autêntica. 1999.\nA descrição crítica do personagem de Machado de Assis assemelha-se às características dos sofistas, contestados pelos filósofos gregos da Antiguidade, porque se mostra alinhada à",
+      "alternativas": [
+        "A) Elaboração conceitual de entendimentos.",
+        "B) Utilização persuasiva do discurso.",
+        "C) Narração alegórica dos rapsodos.",
+        "D) Investigação empírica da physis.",
+        "E) Expressão pictográfica da pólis."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "",
+      "fonte": "api.enem.dev",
+      "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/90"
+    }
+  ]
+}

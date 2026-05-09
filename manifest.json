@@ -1,0 +1,119 @@
+{
+  "geradoEm": "2026-05-09T05:54:24Z",
+  "provas": [
+    {
+      "ano": 2018,
+      "dia": 1,
+      "totalQuestoes": 90,
+      "arquivo": "enem/2018/dia1.json",
+      "fontes": {
+        "api.enem.dev": 89,
+        "indisponivel": 1
+      }
+    },
+    {
+      "ano": 2018,
+      "dia": 2,
+      "totalQuestoes": 90,
+      "arquivo": "enem/2018/dia2.json",
+      "fontes": {
+        "api.enem.dev": 90
+      }
+    },
+    {
+      "ano": 2019,
+      "dia": 1,
+      "totalQuestoes": 90,
+      "arquivo": "enem/2019/dia1.json",
+      "fontes": {
+        "api.enem.dev": 90
+      }
+    },
+    {
+      "ano": 2019,
+      "dia": 2,
+      "totalQuestoes": 90,
+      "arquivo": "enem/2019/dia2.json",
+      "fontes": {
+        "api.enem.dev": 87,
+        "indisponivel": 3
+      }
+    },
+    {
+      "ano": 2020,
+      "dia": 1,
+      "totalQuestoes": 90,
+      "arquivo": "enem/2020/dia1.json",
+      "fontes": {
+        "api.enem.dev": 90
+      }
+    },
+    {
+      "ano": 2020,
+      "dia": 2,
+      "totalQuestoes": 90,
+      "arquivo": "enem/2020/dia2.json",
+      "fontes": {
+        "api.enem.dev": 87,
+        "indisponivel": 3
+      }
+    },
+    {
+      "ano": 2021,
+      "dia": 1,
+      "totalQuestoes": 90,
+      "arquivo": "enem/2021/dia1.json",
+      "fontes": {
+        "api.enem.dev": 90
+      }
+    },
+    {
+      "ano": 2021,
+      "dia": 2,
+      "totalQuestoes": 90,
+      "arquivo": "enem/2021/dia2.json",
+      "fontes": {
+        "api.enem.dev": 90
+      }
+    },
+    {
+      "ano": 2022,
+      "dia": 1,
+      "totalQuestoes": 90,
+      "arquivo": "enem/2022/dia1.json",
+      "fontes": {
+        "api.enem.dev": 90
+      }
+    },
+    {
+      "ano": 2022,
+      "dia": 2,
+      "totalQuestoes": 90,
+      "arquivo": "enem/2022/dia2.json",
+      "fontes": {
+        "api.enem.dev": 90
+      }
+    },
+    {
+      "ano": 2023,
+      "dia": 1,
+      "totalQuestoes": 90,
+      "arquivo": "enem/2023/dia1.json",
+      "fontes": {
+        "api.enem.dev": 87,
+        "correcao_manual": 3
+      }
+    },
+    {
+      "ano": 2023,
+      "dia": 2,
+      "totalQuestoes": 90,
+      "arquivo": "enem/2023/dia2.json",
+      "fontes": {
+        "api.enem.dev": 88,
+        "indisponivel": 1,
+        "correcao_manual": 1
+      }
+    }
+  ]
+}
