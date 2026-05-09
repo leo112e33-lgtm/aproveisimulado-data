@@ -1204,7 +1204,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** O discurso de Rui Barbosa é todo construído por metáforas — \"aliança de ouro do teu segundo noivado\", \"florescência e frutificação de tua alma\", \"reino dos mortos sobre os vivos\". Essas figuras associam a morte à transcendência e remetem à vida e obra de Machado de Assis.\n\n**Conceito-chave:** Reconhecer a metáfora como figura que cria analogia entre dois campos semânticos. Diferente de aliteração (sonora), antítese (oposição) ou seleção lexical neutra.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/43"
     },
@@ -1232,7 +1232,7 @@
       "imagem_principal": "enem/2023/img/q044_principal.png",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** A peça do Ministério da Saúde apresenta uma lista de vantagens da amamentação para mãe e bebê (vínculo, nutrição, prevenção de doenças, redução de risco de câncer de mama). Esse conjunto de benefícios é o que caracteriza o objetivo da campanha.\n\n**Conceito-chave:** Identificar a função social de uma peça publicitária governamental. Campanhas do Ministério da Saúde têm caráter educativo-informativo, divulgando comportamentos saudáveis com base em evidências.",
       "fonte": "correcao_manual",
       "fonte_url": ""
     },
@@ -1260,7 +1260,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** A carta abre com \"Prezados Cidadãos e Cidadãs\" — destinatário é a população. O conteúdo descreve as deficiências da rede pública de saúde nos três níveis de atenção, com o objetivo de mobilizar a sociedade sobre essa qualidade.\n\n**Conceito-chave:** Em cartas abertas, o vocativo identifica o destinatário e o tema do texto define a finalidade comunicativa. Aqui: alertar a população, não os governantes diretamente.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/45"
     },
@@ -1288,7 +1288,7 @@
       "imagem_principal": "enem/2023/img/q046_principal.png",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** O bordado é descrito como \"fotografia da avó\" e remete ao trabalho artesanal feminino, à memória familiar e aos fios afetivos transmitidos entre gerações. Por isso, o Sertão representado associa-se a vivências e itinerários socioafetivos, não a um recorte físico do território.\n\n**Conceito-chave:** Sertão como espaço vivido, conceito da geografia humanista — o lugar é construído pelas práticas, lembranças e relações das pessoas, e não apenas pelos limites geográficos.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/46"
     },
@@ -1316,7 +1316,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** O texto é irônico: o autor finge lamentar os tempos em que \"as filhas não sabiam escrever, e por isso não mandavam nem recebiam bilhetinhos\". A própria publicação dessa fala numa revista feminina em 1853 evidencia que letramento e circulação de impressos para mulheres estavam transformando a cultura.\n\n**Conceito-chave:** Letramento é o uso social da escrita (não só decifrar letras). Sua difusão entre grupos antes excluídos provoca transformações culturais profundas — perceber a ironia é parte da interpretação.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/47"
     },
@@ -1344,7 +1344,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** O texto descreve como o agronegócio privatiza bens comuns (águas, sementes, terras), mecaniza a produção e despeja \"chuvas de veneno\". O efeito direto sobre comunidades camponesas é um cerco que inviabiliza as condições materiais da vida tradicional no Cerrado.\n\n**Conceito-chave:** Conflitos socioambientais entre o avanço do capital agroindustrial e populações tradicionais. O cerco se manifesta em apropriação de recursos, contaminação e violência simbólica.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/48"
     },
@@ -1372,7 +1372,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** Xinjiang é estratégica (fronteiras, recursos minerais, Cinturão e Rota) e tem 60% de minorias muçulmanas. O fluxo migratório de Han para a região tem objetivo de assegurar a integridade territorial chinesa, diluindo o peso étnico das minorias e consolidando o controle estatal.\n\n**Conceito-chave:** Política migratória dirigida pelo Estado como instrumento geopolítico — alterar composição populacional reforça soberania em regiões fronteiriças sensíveis.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/49"
     },
@@ -1400,7 +1400,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** A plataforma busca recontar a história do negro no Brasil saindo da \"perspectiva histórica imposta pelos colonizadores\" — ou seja, é uma crítica direta ao eurocentrismo, a visão de mundo centrada na Europa que apaga vozes e contribuições não europeias.\n\n**Conceito-chave:** Distinguir etnocentrismo (genérico, qualquer grupo se vê como referência) de eurocentrismo (específico, hegemonia da visão europeia construída no colonialismo).",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/50"
     },
@@ -1428,7 +1428,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** A Declaração Balfour aprova o \"lar nacional judeu\" na Palestina mas inclui ressalva sobre os direitos das comunidades não judaicas. Essa dupla garantia revela a tentativa britânica de mediar tensões territoriais entre populações árabes e judaicas no contexto de fim do Império Otomano.\n\n**Conceito-chave:** Documentos diplomáticos da Primeira Guerra como tentativa britânica de equilibrar interesses contraditórios — promessas simultâneas a árabes e judeus que originaram o conflito israelo-palestino.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/51"
     },
@@ -1456,7 +1456,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** Paulo Freire afirma que o ser humano é \"presença consciente no mundo\" com responsabilidade ética. Para ele, a história é construção coletiva, e cabe ao sujeito agir contra a opressão — o que se concretiza pela participação sociopolítica, fundamento da educação libertadora.\n\n**Conceito-chave:** A pedagogia freiriana entende educação como prática política. Formar sujeitos críticos significa prepará-los para intervir no mundo, não apenas se adaptar a ele.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/52"
     },
@@ -1512,7 +1512,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** A filosofia cartesiana separa o pensamento (espírito, res cogitans) do corpo (matéria, res extensa). Merleau-Ponty critica essa separação, mostrando que a raiva — vista por Descartes como pensamento — é vivida no corpo. Por isso a filosofia cartesiana é apresentada como dualista.\n\n**Conceito-chave:** Dualismo cartesiano (mente x corpo) e a crítica fenomenológica de Merleau-Ponty, que entende o corpo como condição da experiência, não algo separado do pensamento.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/54"
     },
@@ -1540,7 +1540,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** Para Adorno e Horkheimer, a indústria cultural transforma o lazer em mercadoria produzida pela mesma lógica do trabalho capitalista. O tempo livre, então, deixa de ser espaço de criação e passa a ser consumo de produtos culturais elaborados no mesmo sistema produtivo.\n\n**Conceito-chave:** Indústria cultural (Escola de Frankfurt) — diversão e cultura padronizadas como extensão do capitalismo, não como espaço de liberdade.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/55"
     },
@@ -1568,7 +1568,7 @@
       "imagem_principal": "enem/2023/img/q056_principal.png",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** A charge expressa o anseio por participar de decisões públicas, característica da democracia contemporânea. Diante da concentração de poder e da exclusão, parte da sociedade reivindica voz nas escolhas coletivas — participação em ações decisórias.\n\n**Conceito-chave:** Democracia participativa contemporânea — para além do voto, há demanda por mecanismos que permitam à sociedade civil influenciar políticas públicas (conselhos, audiências, plebiscitos, controle social).",
       "fonte": "correcao_manual",
       "fonte_url": ""
     },
@@ -1708,7 +1708,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** O texto denuncia que por trás dos algoritmos da IA há trabalhadores reais (linguistas terceirizados) que rotulam dados em condições precárias. A consequência criticada é a invisibilidade do profissional: seu trabalho fundamental é apagado pela narrativa da \"mágica\" tecnológica.\n\n**Conceito-chave:** Mundo do trabalho na economia digital — terceirização e precarização escondem mão de obra humana por trás de tecnologias apresentadas como autônomas.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/61"
     },
@@ -1736,7 +1736,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** A divisão entre Coreia do Sul e Coreia do Norte tem origem na Guerra Fria — capitalismo (apoiado pelos EUA) versus comunismo (apoiado pela URSS/China). As provocações com alto-falantes e mastros são manifestações dessa divergência político-ideológica entre dois Estados.\n\n**Conceito-chave:** Geopolítica da Guerra Fria — divisão da Coreia em 1953 como herança bipolar; conflito atual é continuação simbólica daquela disputa ideológica.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/62"
     },
@@ -1764,7 +1764,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** As \"chinesices\" do barroco mineiro só existiram porque produtos chineses (porcelanas, sedas, tecidos, gravuras) chegavam ao Brasil pelas rotas mercantis globais dos séculos XVII e XVIII. Esse intercâmbio transcontinental forneceu os modelos visuais que inspiraram artistas locais.\n\n**Conceito-chave:** Circulação de bens e estilos no mercantilismo colonial — o barroco brasileiro não foi isolado, dialogava com fluxos atlânticos e asiáticos via comércio ultramarino.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/63"
     },
@@ -1792,7 +1792,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Txai Suruí descreve animais desaparecendo, rios morrendo e plantações fracassando — sintomas diretos da exploração predatória da natureza (desmatamento, monoculturas, mineração, queima de combustíveis fósseis). É essa lógica de uso intensivo dos recursos que está em colapso climático.\n\n**Conceito-chave:** Exploração predatória x sustentabilidade — modelo de desenvolvimento baseado na extração ilimitada esgota recursos e desestabiliza ecossistemas.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/64"
     },
@@ -1820,7 +1820,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** O reconhecimento tardio de Lina Bo Bardi, depois de seu apagamento em 1947 pelas reportagens que só citavam o marido, é resultado das lutas feministas pela equidade de gênero — pelo direito das mulheres de terem seu trabalho intelectual e profissional reconhecido em igualdade com os homens.\n\n**Conceito-chave:** Movimentos feministas no séc. XX-XXI — reconhecer e revalorizar o trabalho de mulheres invisibilizadas é parte da luta por equidade de gênero (não apenas direitos formais, mas reconhecimento social).",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/65"
     },
@@ -1848,7 +1848,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** O Texto I (Carolina de Jesus, anos 1950) e o Texto II (mãe de Petrolândia, 2021) descrevem a mesma experiência: filhos com fome, mãe sem o que oferecer. A aproximação revela que a miséria é recorrente no Brasil — atravessa décadas mesmo com mudanças sociais.\n\n**Conceito-chave:** Persistência da desigualdade estrutural no Brasil — fome e pobreza não são episódios isolados, mas reaparecem em ciclos econômicos de crise.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/66"
     },
@@ -1904,7 +1904,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** O texto descreve uma família vivendo em mocambo no mangue do Recife, com lixo, urubus, água da maré dentro de casa, animais sendo curtidos perto. Essa cena evidencia como a ocupação humana precária interfere no espaço geográfico — natureza e moradia se entrelaçam de forma desordenada e degradada.\n\n**Conceito-chave:** Urbanização precária em ecossistemas frágeis — periferias urbanas brasileiras se instalam em áreas de risco (mangues, encostas), provocando degradação ambiental e exposição a doenças.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/68"
     },
@@ -1932,7 +1932,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** O texto descreve juízas afegãs em fuga, ameaças de morte e índice de 87% de mulheres vítimas de abuso. São situações que negam direitos humanos fundamentais (vida, integridade, justiça) — o que caracteriza desrespeito à dignidade humana, princípio universal que protege todo ser humano simplesmente por ser humano.\n\n**Conceito-chave:** Dignidade humana como núcleo dos direitos humanos (Declaração Universal de 1948). Violações sistemáticas a grupos específicos — como mulheres no Afeganistão sob o Talibã — configuram crimes contra a humanidade.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/69"
     },
@@ -1960,7 +1960,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** O sepultamento descrito é de Vladimir Herzog (1975), morto na prisão pela ditadura militar. O clima de terror, a presença vigiada de jornalistas e o pedido de silêncio mostram que o regime havia institucionalizado a tortura, a censura e o desaparecimento como mecanismos para eliminar resistência política.\n\n**Conceito-chave:** Ditadura civil-militar brasileira (1964-1985) — o aparato repressivo (DOI-CODI, DOPS, Lei de Segurança Nacional, AI-5) não era exceção, era política de Estado contra opositores.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/70"
     },
@@ -1988,7 +1988,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** O autor afirma que o desmatamento na Amazônia é articulado pelo \"tripé grileiros, madeireiros e pecuaristas\". A apropriação ilegal de terras públicas (devolutas) pela grilagem é o vetor inicial — sem essa ocupação irregular, os outros elos não se sustentam.\n\n**Conceito-chave:** Grilagem — apropriação ilegal de terras devolutas (públicas sem destinação) por meio de documentos falsificados. É o motor histórico do desmatamento na fronteira agrícola brasileira.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/71"
     },
@@ -2016,7 +2016,7 @@
       "imagem_principal": "enem/2023/img/q072_principal.png",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** O Texto I apresenta a corrida espacial dos bilionários como possível fonte de avanços tecnológicos para a humanidade — perspectiva de expectativa positiva. A charge do Texto II critica esse mesmo movimento, sugerindo que ricos fogem dos problemas terrestres — perspectiva de desconfiança.\n\n**Conceito-chave:** Identificar contraste entre dois textos sobre o mesmo tema. Mídia jornalística e charge frequentemente apresentam visões opostas, e o leitor crítico identifica os pontos de vista em jogo.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/72"
     },
@@ -2044,7 +2044,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** A expansão marítima dos séculos XV-XVI exigia enormes quantidades de madeira para a construção naval (caravelas, naus) e gerou crescimento de atividades industriais portuárias. Esse consumo intensivo de produtos lenhosos foi o principal fator que agravou a \"crise florestal\" europeia descrita.\n\n**Conceito-chave:** Grandes Navegações como evento de impacto não apenas geopolítico, mas também ambiental — a primeira pressão sistemática sobre florestas europeias para sustentar a economia ultramarina.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/73"
     },
@@ -2072,7 +2072,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** O texto mostra que, embora o Império Inca exigisse adoração ao Sapa Inca e ao Sol, permitia que os povos dominados continuassem a cultuar seus deuses locais. Esse \"mosaico cultural\" caracteriza uma postura flexível em relação aos costumes religiosos das etnias subjugadas.\n\n**Conceito-chave:** Modelos de dominação imperial — diferente da imposição religiosa europeia na América (catequização forçada), os incas operavam por sobreposição religiosa, integrando cultos locais sem destruí-los.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/74"
     },
@@ -2100,7 +2100,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** \"Mulambo\" tem origem em Angola, sendo termo usado por senhores de engenho contra escravizados. Pedir sua remoção da música de torcida é reconhecer que palavras carregam história racista e atualizar o repertório significa condenar o preconceito racial — não apenas no caso pontual, mas como padrão linguístico.\n\n**Conceito-chave:** Racismo estrutural na linguagem — termos do passado escravista permanecem em uso e reforçam hierarquias raciais; revisá-los faz parte do antirracismo.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/75"
     },
@@ -2128,7 +2128,7 @@
       "imagem_principal": "enem/2023/img/q076_principal.jpg",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** O indicador retratado (queda na taxa de fecundidade brasileira ao longo das décadas) tem como principal motor a entrada das mulheres no mercado de trabalho. Trabalho remunerado, escolarização e acesso a métodos contraceptivos transformaram o projeto reprodutivo feminino, levando a famílias menores.\n\n**Conceito-chave:** Transição demográfica brasileira — queda de fecundidade explicada por urbanização, escolaridade feminina e participação no mercado de trabalho, fenômeno comum em países que se urbanizam rapidamente.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/76"
     },
@@ -2156,7 +2156,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** O texto critica Portugal por ter demorado a trazer a vacina para o Brasil mesmo depois de a Europa já se beneficiar dela. A lógica iluminista do trecho é clara: cabe ao governante zelar pela saúde do povo, e omitir-se nessa responsabilidade é falha política — \"mais ocupado de seu ouro que de seus habitantes\".\n\n**Conceito-chave:** Iluminismo e saúde pública — no século XVIII consolida-se a ideia de que o Estado tem deveres em relação ao bem-estar dos súditos, antecedendo a noção moderna de saúde como direito.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/77"
     },
@@ -2184,7 +2184,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** A agricultura urbana ocupa terrenos baldios, telhados, margens de avenidas e quintais — espaços ociosos que ganham nova função produtiva. Essa é a vantagem espacial central destacada: aproveita áreas subutilizadas dentro da cidade para gerar alimento.\n\n**Conceito-chave:** Multifuncionalidade do espaço urbano — terras vazias dentro da cidade podem ser reativadas para produção de alimento, lazer e convivência, contrariando a especulação imobiliária.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/78"
     },
@@ -2212,7 +2212,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** Gerineldo já mapeou todas as possibilidades do seu mundo — está conformado, fechado em si. Para Sartre, ao contrário, o ser humano é sempre liberdade que transcende a sua situação, ou seja, vai além do dado. O determinismo do personagem nega justamente essa possibilidade de transcendência.\n\n**Conceito-chave:** Existencialismo sartreano — \"a existência precede a essência\". O sujeito não é dado pelas circunstâncias; ele se constrói ao escolher e agir, transcendendo a facticidade.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/79"
     },
@@ -2240,7 +2240,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** A ditadura militar reprimiu Ligas Camponesas (consideradas radicais) mas absorveu os sindicatos rurais via cursos de liderança conservadores e parcerias com a Igreja Católica. O objetivo era moldá-los para controlar as tensões políticas no campo, evitando uma nova radicalização camponesa.\n\n**Conceito-chave:** Cooptação como técnica de poder — em vez de só reprimir, o regime esvazia o caráter contestador de organizações populares ao oferecer uma versão controlada delas.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/80"
     },
@@ -2268,7 +2268,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** Foucault descreve uma divisão de classe nas ilegalidades: pobres roubam bens, ricos burlam direitos. Essa diferenciação se traduz em circuitos judiciários distintos para cada tipo de transgressão — ou seja, o próprio sistema de justiça administra as ilegalidades de forma desigual e funcional ao poder.\n\n**Conceito-chave:** Gestão diferencial das ilegalidades (Foucault, Vigiar e Punir) — a justiça não pune todos igualmente; ela seleciona, reparte e modula penas conforme classe social, mantendo a estrutura.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/81"
     },
@@ -2296,7 +2296,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** As cartas trocadas entre imigrantes e familiares descreviam costumes, sentimentos, notícias e tradições, atravessando o Atlântico nos dois sentidos. Esse fluxo construía uma circularidade cultural — origens e destino mantinham referências partilhadas, e cada lado recebia influências do outro.\n\n**Conceito-chave:** Circularidade cultural — culturas em diáspora não são unidirecionais; há fluxo contínuo entre país de partida e de chegada, e a identidade migrante se constrói nesse trânsito.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/82"
     },
@@ -2324,7 +2324,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "C",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa C está correta:** A degradação do solo descrita (desmatamento, queimadas, agricultura, mineração, despejos) elimina matéria orgânica e nutrientes essenciais. A diminuição da fertilidade compromete a base biológica do solo, dificultando ou impossibilitando a recuperação natural.\n\n**Conceito-chave:** Solo é um ecossistema vivo — sua fertilidade depende de matéria orgânica, microbiologia e estrutura física. Removidos esses elementos, a regeneração leva décadas ou séculos.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/83"
     },
@@ -2352,7 +2352,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** A racionalização da cozinha (gás, eletricidade, equipamentos padronizados) reduziu o tempo gasto em tarefas domésticas pesadas. Esse tempo liberado abriu espaço para que mulheres ampliassem seus momentos de socialização — visitas, comércio, lazer, eventualmente trabalho fora de casa.\n\n**Conceito-chave:** Tecnologia doméstica e gênero — modernização do lar, embora não tenha eliminado a divisão sexual do trabalho, reduziu o tempo de tarefas reprodutivas e abriu margem para participação social das mulheres.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/84"
     },
@@ -2380,7 +2380,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** Os produtores rurais europeus defendem a manutenção de barreiras fitossanitárias (regras de produção rígidas) que filtram a entrada de produtos como a carne brasileira. Já o setor industrial defende a livre circulação de mercadorias, que abriria o mercado sul-americano para automóveis e outros manufaturados europeus.\n\n**Conceito-chave:** Acordos de comércio internacional revelam interesses divergentes dentro de cada bloco — protecionismo agrícola convive com liberalismo industrial em economias desenvolvidas.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/85"
     },
@@ -2408,7 +2408,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** A educação \"masculina\" recebida por Anaïs (intrepidez, opiniões firmes, capacidade de julgamento) formou nela uma autoestima que rompe com o papel social esperado de uma mulher do início do século XIX, que deveria ser modesta e voltada à família. Sua postura é, portanto, ruptura de valores institucionalizados de gênero.\n\n**Conceito-chave:** Papéis de gênero como construções históricas — Balzac retrata como a educação molda comportamentos, e como mulheres letradas e seguras desafiavam o ordenamento social vigente.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/86"
     },
@@ -2436,7 +2436,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** A desconfiança contra imigrantes judeus se baseava em dois eixos: socioeconômico (\"concorrentes dos trabalhadores brasileiros\", \"exploradores\") e ideológico (\"portadores das doutrinas anarquista e comunista\"). A imagem negativa não vem de teologia ou lei, mas dessa combinação.\n\n**Conceito-chave:** Xenofobia no Brasil dos anos 1930 — alimentada pelo nacionalismo varguista, mistura percepções econômicas (mercado de trabalho) com medos políticos (esquerda revolucionária), atingindo grupos específicos como judeus e japoneses.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/87"
     },
@@ -2464,7 +2464,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** Milton Santos define competitividade como \"guerra em que tudo vale\" — afrouxamento de normas morais. O dumping (vender abaixo do custo para destruir concorrentes) é exemplo dessa lógica: quebra regras de concorrência saudável para conquistar mercado a qualquer preço.\n\n**Conceito-chave:** Competitividade x concorrência (Milton Santos) — concorrer respeita regras, competir cria \"novas armas de luta\". O dumping é violência econômica que ilustra a competitividade predatória.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/88"
     },
@@ -2492,7 +2492,7 @@
       "imagem_principal": "enem/2023/img/q089_principal.png",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa D está correta:** As simulações apresentadas representam cenários de aquecimento global causado pelo aumento de gases de efeito estufa, principalmente o dióxido de carbono. Para minimizar essas mudanças climáticas é preciso atacar a causa: controlar as emissões de carbono — substituindo combustíveis fósseis por energias limpas, reduzindo desmatamento e aumentando eficiência energética.\n\n**Conceito-chave:** Mudanças climáticas antropogênicas — ação humana é causa principal do aquecimento atual; mitigação exige redução das emissões de CO2 e outros gases de efeito estufa.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/89"
     },
@@ -2520,7 +2520,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** O personagem de Brás Cubas decorou apenas \"a fraseologia, a casca, a ornamentação\" do conhecimento, usando-o para se exibir nas conversas. Essa postura — saber superficial usado para impressionar e convencer — é justamente o que caracterizava os sofistas, mestres da utilização persuasiva do discurso.\n\n**Conceito-chave:** Sofistas (Grécia antiga) — não buscavam a verdade como Sócrates, mas a habilidade retórica de convencer. Platão os criticou como vendedores de aparência de saber, contraste que ainda ressoa em Machado.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/90"
     }
