@@ -1716,22 +1716,29 @@
       "ano": 2018,
       "dia": 1,
       "numero": 62,
-      "titulo": "Questao 62 - ENEM 2018",
-      "enunciado": "",
-      "alternativas_introducao": "",
-      "alternativas": [],
-      "imagens_alternativas": [],
+      "titulo": "Questão 62 - ENEM 2018",
+      "enunciado": "A situação demográfica de Israel é muito particular. Desde a esquerda sionista afirma que Israel deveria se desfazer rapidamente da Cisjordânia e da Faixa de Gaza, argumentando a partir de uma lógica demográfica aparentemente inexorável. Devido à taxa de nascimento árabe ser muito mais elevada, a anexação dos territórios palestinos, formal ou informal, acarretaria dentro de uma ou duas gerações uma maioria árabe \"entre o rio e o mar\".\n\nDEMANT, P. Israel: a crise próxima. História, n. 7, jul.-dez. 2002 (adaptado).",
+      "alternativas_introducao": "A preocupação apresentada no texto revela um aspecto da condução política desse Estado, identificado ao(à)",
+      "alternativas": [
+        "A) abdicação da interferência militar em conflito local.",
+        "B) busca da preeminência étnica sobre o espaço nacional.",
+        "C) admissão da participação proativa em blocos regionais.",
+        "D) rompimento com os interesses geopolíticos das potências globais.",
+        "E) compromisso com as resoluções emanadas dos organismos internacionais."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "imagem_principal": "",
       "imagens_extras": [],
-      "correta": "X",
+      "correta": "B",
       "explicacao": "",
-      "fonte": "indisponivel",
-      "fonte_url": "https://api.enem.dev/v1/exams/2018/questions/62",
-      "manual_inep_pendente": {
-        "gabarito_oficial": "B",
-        "url_inep_gabarito": "https://download.inep.gov.br/educacao_basica/enem/gabaritos/2018/GAB_ENEM_2018_DIA_1_AZUL.pdf",
-        "instrucoes": "Para completar manualmente: 1) preencher 'enunciado' com texto da prova INEP; 2) preencher 'alternativas' (formato 'A) texto', 'B) texto', etc, 5 elementos); 3) preencher 'imagens_alternativas' se houver imagens; 4) mudar 'fonte' de 'indisponivel' para 'correcao_manual'; 5) copiar 'manual_inep_pendente.gabarito_oficial' para 'correta'; 6) remover o bloco 'manual_inep_pendente'."
-      }
+      "fonte": "correcao_manual",
+      "fonte_url": "https://api.enem.dev/v1/exams/2018/questions/62"
     },
     {
       "ano": 2018,

@@ -1492,22 +1492,29 @@
       "ano": 2020,
       "dia": 2,
       "numero": 54,
-      "titulo": "Questao 54 - ENEM 2020",
-      "enunciado": "",
-      "alternativas_introducao": "",
-      "alternativas": [],
-      "imagens_alternativas": [],
+      "titulo": "Questão 144 - ENEM 2020",
+      "enunciado": "Uma torneira está gotejando água em um balde com capacidade de 18 litros. No instante atual, o balde se encontra com ocupação de 50% de sua capacidade. A cada segundo caem 5 gotas de água da torneira, e uma gota é formada, em média, por 5 × 10⁻² mL de água.",
+      "alternativas_introducao": "Quanto tempo, em hora, será necessário para encher completamente o balde, partindo do instante atual?",
+      "alternativas": [
+        "A) 2 × 10¹",
+        "B) 1 × 10¹",
+        "C) 2 × 10⁻²",
+        "D) 1 × 10⁻²",
+        "E) 1 × 10⁻³"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "imagem_principal": "",
       "imagens_extras": [],
-      "correta": "X",
+      "correta": "B",
       "explicacao": "",
-      "fonte": "indisponivel",
-      "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/144",
-      "manual_inep_pendente": {
-        "gabarito_oficial": "B",
-        "url_inep_gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2020_GB_impresso_D2_CD7.pdf",
-        "instrucoes": "Para completar manualmente: 1) preencher 'enunciado' com texto da prova INEP; 2) preencher 'alternativas' (formato 'A) texto', 'B) texto', etc, 5 elementos); 3) preencher 'imagens_alternativas' se houver imagens; 4) mudar 'fonte' de 'indisponivel' para 'correcao_manual'; 5) copiar 'manual_inep_pendente.gabarito_oficial' para 'correta'; 6) remover o bloco 'manual_inep_pendente'."
-      }
+      "fonte": "correcao_manual",
+      "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/144"
     },
     {
       "ano": 2020,
@@ -2157,22 +2164,29 @@
       "ano": 2020,
       "dia": 2,
       "numero": 78,
-      "titulo": "Questao 78 - ENEM 2020",
-      "enunciado": "",
-      "alternativas_introducao": "",
-      "alternativas": [],
-      "imagens_alternativas": [],
+      "titulo": "Questão 168 - ENEM 2020",
+      "enunciado": "Num recipiente com a forma de paralelepípedo reto-retângulo, colocou-se água até a altura de 8 cm e um objeto, que ficou flutuando na superfície da água. Para retirar o objeto de dentro do recipiente, a altura da coluna de água deve ser de, pelo menos, 15 cm. Para a coluna de água chegar até essa altura, é necessário colocar dentro do recipiente bolinhas de volume igual a 6 cm³ cada, que ficarão totalmente submersas.",
+      "alternativas_introducao": "O número mínimo de bolinhas necessárias para que se possa retirar o objeto que flutua na água, seguindo as instruções dadas, é de",
+      "alternativas": [
+        "A) 14.",
+        "B) 16.",
+        "C) 18.",
+        "D) 30.",
+        "E) 34."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "imagem_principal": "",
       "imagens_extras": [],
-      "correta": "X",
+      "correta": "A",
       "explicacao": "",
-      "fonte": "indisponivel",
-      "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/168",
-      "manual_inep_pendente": {
-        "gabarito_oficial": "A",
-        "url_inep_gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2020_GB_impresso_D2_CD7.pdf",
-        "instrucoes": "Para completar manualmente: 1) preencher 'enunciado' com texto da prova INEP; 2) preencher 'alternativas' (formato 'A) texto', 'B) texto', etc, 5 elementos); 3) preencher 'imagens_alternativas' se houver imagens; 4) mudar 'fonte' de 'indisponivel' para 'correcao_manual'; 5) copiar 'manual_inep_pendente.gabarito_oficial' para 'correta'; 6) remover o bloco 'manual_inep_pendente'."
-      }
+      "fonte": "correcao_manual",
+      "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/168"
     },
     {
       "ano": 2020,
@@ -2458,22 +2472,29 @@
       "ano": 2020,
       "dia": 2,
       "numero": 89,
-      "titulo": "Questao 89 - ENEM 2020",
-      "enunciado": "",
-      "alternativas_introducao": "",
-      "alternativas": [],
-      "imagens_alternativas": [],
+      "titulo": "Questão 179 - ENEM 2020",
+      "enunciado": "Um pé de eucalipto em idade adequada para o corte rende, em média, 20 mil folhas de papel A4. A densidade superficial do papel A4, medida pela razão da massa de uma folha desse papel por sua área, é de 75 gramas por metro quadrado, e a área de uma folha de A4 é 0,062 metro quadrado.\n\nDisponível em: http://revistagalileu.globo.com. Acesso em: 28 fev. 2013 (adaptado).",
+      "alternativas_introducao": "Nessas condições, quantos quilogramas de papel rende, em média, um pé de eucalipto?",
+      "alternativas": [
+        "A) 4 301",
+        "B) 1 500",
+        "C) 930",
+        "D) 267",
+        "E) 93"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "imagem_principal": "",
       "imagens_extras": [],
-      "correta": "X",
+      "correta": "E",
       "explicacao": "",
-      "fonte": "indisponivel",
-      "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/179",
-      "manual_inep_pendente": {
-        "gabarito_oficial": "E",
-        "url_inep_gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2020_GB_impresso_D2_CD7.pdf",
-        "instrucoes": "Para completar manualmente: 1) preencher 'enunciado' com texto da prova INEP; 2) preencher 'alternativas' (formato 'A) texto', 'B) texto', etc, 5 elementos); 3) preencher 'imagens_alternativas' se houver imagens; 4) mudar 'fonte' de 'indisponivel' para 'correcao_manual'; 5) copiar 'manual_inep_pendente.gabarito_oficial' para 'correta'; 6) remover o bloco 'manual_inep_pendente'."
-      }
+      "fonte": "correcao_manual",
+      "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/179"
     },
     {
       "ano": 2020,

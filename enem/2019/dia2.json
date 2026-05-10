@@ -204,22 +204,29 @@
       "ano": 2019,
       "dia": 2,
       "numero": 8,
-      "titulo": "Questao 8 - ENEM 2019",
-      "enunciado": "",
-      "alternativas_introducao": "",
-      "alternativas": [],
-      "imagens_alternativas": [],
+      "titulo": "Questão 98 - ENEM 2019",
+      "enunciado": "Os olhos humanos normalmente têm três tipos de cones responsáveis pela percepção das cores: um tipo para tons vermelhos, um para tons azuis e outro para tons verdes. As diversas cores que enxergamos são o resultado da percepção das cores básicas, como indica a figura.\n\nA protanopia é um tipo de daltonismo em que há diminuição ou ausência de receptores da cor vermelha. Considere um teste com dois voluntários: uma pessoa com visão normal e outra com caso severo de protanopia. Nesse teste, eles devem escrever a cor dos cartões que lhes são mostrados. São utilizadas as cores indicadas na figura.",
+      "alternativas_introducao": "Para qual cartão os dois voluntários identificarão a mesma cor?",
+      "alternativas": [
+        "A) Vermelho.",
+        "B) Magenta.",
+        "C) Amarelo.",
+        "D) Branco.",
+        "E) Azul."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "imagem_principal": "",
       "imagens_extras": [],
-      "correta": "X",
+      "correta": "E",
       "explicacao": "",
-      "fonte": "indisponivel",
-      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/98",
-      "manual_inep_pendente": {
-        "gabarito_oficial": "E",
-        "url_inep_gabarito": "https://download.inep.gov.br/educacao_basica/enem/gabaritos/2019/gabarito_2_dia_caderno_7_azul_aplicacao_regular.pdf",
-        "instrucoes": "Para completar manualmente: 1) preencher 'enunciado' com texto da prova INEP; 2) preencher 'alternativas' (formato 'A) texto', 'B) texto', etc, 5 elementos); 3) preencher 'imagens_alternativas' se houver imagens; 4) mudar 'fonte' de 'indisponivel' para 'correcao_manual'; 5) copiar 'manual_inep_pendente.gabarito_oficial' para 'correta'; 6) remover o bloco 'manual_inep_pendente'."
-      }
+      "fonte": "correcao_manual",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/98"
     },
     {
       "ano": 2019,
@@ -253,22 +260,29 @@
       "ano": 2019,
       "dia": 2,
       "numero": 10,
-      "titulo": "Questao 10 - ENEM 2019",
-      "enunciado": "",
-      "alternativas_introducao": "",
-      "alternativas": [],
-      "imagens_alternativas": [],
+      "titulo": "Questão 100 - ENEM 2019",
+      "enunciado": "Um alimento orgânico deve apresentar em sua embalagem o selo de uma instituição certificadora, garantindo ao consumidor que, além de ser um alimento isento de agrotóxicos, também é produzido com técnicas planejadas e controladas. A técnica de produção desses alimentos causa menor impacto aos recursos naturais, contribuindo para melhorar a qualidade de vida das pessoas.",
+      "alternativas_introducao": "Nesse sistema de produção de alimentos vegetais, o controle de insetos é manejado por meio do(a)",
+      "alternativas": [
+        "A) prática de adubação verde.",
+        "B) emprego da compostagem.",
+        "C) controle da irrigação do solo.",
+        "D) utilização de predadores naturais.",
+        "E) uso de sementes inoculadas com Rhizobium."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "imagem_principal": "",
       "imagens_extras": [],
-      "correta": "X",
+      "correta": "D",
       "explicacao": "",
-      "fonte": "indisponivel",
-      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/100",
-      "manual_inep_pendente": {
-        "gabarito_oficial": "C",
-        "url_inep_gabarito": "https://download.inep.gov.br/educacao_basica/enem/gabaritos/2019/gabarito_2_dia_caderno_7_azul_aplicacao_regular.pdf",
-        "instrucoes": "Para completar manualmente: 1) preencher 'enunciado' com texto da prova INEP; 2) preencher 'alternativas' (formato 'A) texto', 'B) texto', etc, 5 elementos); 3) preencher 'imagens_alternativas' se houver imagens; 4) mudar 'fonte' de 'indisponivel' para 'correcao_manual'; 5) copiar 'manual_inep_pendente.gabarito_oficial' para 'correta'; 6) remover o bloco 'manual_inep_pendente'."
-      }
+      "fonte": "correcao_manual",
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/100"
     },
     {
       "ano": 2019,
