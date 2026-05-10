@@ -1053,7 +1053,7 @@
       "imagens_extras": [],
       "correta": "X",
       "explicacao": "",
-      "fonte": "indisponivel",
+      "fonte": "anulada_inep",
       "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/128"
     },
     {
