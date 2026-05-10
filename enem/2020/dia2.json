@@ -1502,7 +1502,12 @@
       "correta": "X",
       "explicacao": "",
       "fonte": "indisponivel",
-      "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/144"
+      "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/144",
+      "manual_inep_pendente": {
+        "gabarito_oficial": "B",
+        "url_inep_gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2020_GB_impresso_D2_CD7.pdf",
+        "instrucoes": "Para completar manualmente: 1) preencher 'enunciado' com texto da prova INEP; 2) preencher 'alternativas' (formato 'A) texto', 'B) texto', etc, 5 elementos); 3) preencher 'imagens_alternativas' se houver imagens; 4) mudar 'fonte' de 'indisponivel' para 'correcao_manual'; 5) copiar 'manual_inep_pendente.gabarito_oficial' para 'correta'; 6) remover o bloco 'manual_inep_pendente'."
+      }
     },
     {
       "ano": 2020,
@@ -2162,7 +2167,12 @@
       "correta": "X",
       "explicacao": "",
       "fonte": "indisponivel",
-      "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/168"
+      "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/168",
+      "manual_inep_pendente": {
+        "gabarito_oficial": "A",
+        "url_inep_gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2020_GB_impresso_D2_CD7.pdf",
+        "instrucoes": "Para completar manualmente: 1) preencher 'enunciado' com texto da prova INEP; 2) preencher 'alternativas' (formato 'A) texto', 'B) texto', etc, 5 elementos); 3) preencher 'imagens_alternativas' se houver imagens; 4) mudar 'fonte' de 'indisponivel' para 'correcao_manual'; 5) copiar 'manual_inep_pendente.gabarito_oficial' para 'correta'; 6) remover o bloco 'manual_inep_pendente'."
+      }
     },
     {
       "ano": 2020,
@@ -2458,7 +2468,12 @@
       "correta": "X",
       "explicacao": "",
       "fonte": "indisponivel",
-      "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/179"
+      "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/179",
+      "manual_inep_pendente": {
+        "gabarito_oficial": "E",
+        "url_inep_gabarito": "https://download.inep.gov.br/enem/provas_e_gabaritos/2020_GB_impresso_D2_CD7.pdf",
+        "instrucoes": "Para completar manualmente: 1) preencher 'enunciado' com texto da prova INEP; 2) preencher 'alternativas' (formato 'A) texto', 'B) texto', etc, 5 elementos); 3) preencher 'imagens_alternativas' se houver imagens; 4) mudar 'fonte' de 'indisponivel' para 'correcao_manual'; 5) copiar 'manual_inep_pendente.gabarito_oficial' para 'correta'; 6) remover o bloco 'manual_inep_pendente'."
+      }
     },
     {
       "ano": 2020,

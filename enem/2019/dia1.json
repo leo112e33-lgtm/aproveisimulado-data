@@ -1016,16 +1016,28 @@
       "ano": 2019,
       "dia": 1,
       "numero": 37,
-      "titulo": "Questao 37 - ENEM 2019",
+      "titulo": "Questão 37 - ENEM 2019",
       "enunciado": "",
-      "alternativas_introducao": "",
-      "alternativas": [],
-      "imagens_alternativas": [],
+      "alternativas_introducao": "Na semana passada, os alunos do colégio do meu filho se mobilizaram, através do Twitter, para não comprarem na cantina da escola naquele dia, pois acharam o preço do pão de queijo abusivo São adolescentes. Quase senhores das novas tecnologias, transitam nas redes sociais, varrem o mundo através dos teclados dos celulares, iPads e se organizam para fazer um movimento pacífico de não comprar lanches por um dia. Foi parar na TV e em muitas páginas da internet.\n \nGOMES, A. A revolução silenciosa e o Impacto na sociedade das\nredes sociais. Disponível em: www. hsm.com.br.\nAcesso em: 31 jul. 2012\n \nO texto aborda a temática das tecnologias da informação e comunicação, especificamente o uso de redes sociais. Muito se debate acerca dos benefícios e malefícios do uso desses recursos e, nesse sentido, o texto",
+      "alternativas": [
+        "A) Aborda a discriminação que as redes sociais sofrem de outros meios de comunicação.",
+        "B) Mostra que as reivindicações feitas nas redes sociais não têm impacto fora da internet.",
+        "C) Expõe a possibilidade de as redes sociais favorecem comportamentos e manifestações violentos dos adolescentes que nela se relacionam.",
+        "D) Trata as redes sociais como modo de agregar e empoderar grupos de pessoas, que se unem em prol de causas próprias ou de mudanças sociais.",
+        "E) Evidencia que as redes sociais são usadas inadequadamente pelos adolescentes, que, imaturos, não utilizam a ferramenta como forma de mudança social."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "imagem_principal": "",
       "imagens_extras": [],
-      "correta": "X",
+      "correta": "D",
       "explicacao": "",
-      "fonte": "erro",
+      "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/37"
     },
     {
@@ -1060,16 +1072,28 @@
       "ano": 2019,
       "dia": 1,
       "numero": 39,
-      "titulo": "Questao 39 - ENEM 2019",
+      "titulo": "Questão 39 - ENEM 2019",
       "enunciado": "",
-      "alternativas_introducao": "",
-      "alternativas": [],
-      "imagens_alternativas": [],
+      "alternativas_introducao": "Essa lua enlutada, esse desassossego\nA convulsão de dentro, ilharga\nDentro da solidão, corpo morrendo\nTudo isso te devo.\nE eram tão vastas\nAs coisas planejadas, navios,\nMuralhas de marfim, palavras largas\nConsentimento sempre.\nE seria dezembro.\nUm cavalo de jade sob as águas\nDupla transparência, fio suspenso\nTodas essas coisas na ponta dos teus dedos\nE tudo se desfez no pórtico do tempo Em lívido silêncio.\nUmas manhãs de vidro\nVento, a alma esvaziada, um sol que não vejo\nTambém isso te devo.\nHILST, H. Júbilo, memória, noviciado da paixão. São Paulo: Cia. Das Letras, 2018.\n \nNo poema, o eu lírico faz um inventário de estados passados espelhados no presente. Nesse processo, aflora o",
+      "alternativas": [
+        "A) Cuidado em apagar da memória os restos do amor.",
+        "B) Amadurecimento revestido de ironia e desapego.",
+        "C) Mosaico de alegrias formado seletivamente.",
+        "D) Desejo reprimido convertido em delírio.",
+        "E) Arrependimento dos erros cometidos."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "imagem_principal": "",
       "imagens_extras": [],
-      "correta": "X",
+      "correta": "B",
       "explicacao": "",
-      "fonte": "erro",
+      "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/39"
     },
     {

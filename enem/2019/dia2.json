@@ -214,7 +214,12 @@
       "correta": "X",
       "explicacao": "",
       "fonte": "indisponivel",
-      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/98"
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/98",
+      "manual_inep_pendente": {
+        "gabarito_oficial": "E",
+        "url_inep_gabarito": "https://download.inep.gov.br/educacao_basica/enem/gabaritos/2019/gabarito_2_dia_caderno_7_azul_aplicacao_regular.pdf",
+        "instrucoes": "Para completar manualmente: 1) preencher 'enunciado' com texto da prova INEP; 2) preencher 'alternativas' (formato 'A) texto', 'B) texto', etc, 5 elementos); 3) preencher 'imagens_alternativas' se houver imagens; 4) mudar 'fonte' de 'indisponivel' para 'correcao_manual'; 5) copiar 'manual_inep_pendente.gabarito_oficial' para 'correta'; 6) remover o bloco 'manual_inep_pendente'."
+      }
     },
     {
       "ano": 2019,
@@ -258,7 +263,12 @@
       "correta": "X",
       "explicacao": "",
       "fonte": "indisponivel",
-      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/100"
+      "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/100",
+      "manual_inep_pendente": {
+        "gabarito_oficial": "C",
+        "url_inep_gabarito": "https://download.inep.gov.br/educacao_basica/enem/gabaritos/2019/gabarito_2_dia_caderno_7_azul_aplicacao_regular.pdf",
+        "instrucoes": "Para completar manualmente: 1) preencher 'enunciado' com texto da prova INEP; 2) preencher 'alternativas' (formato 'A) texto', 'B) texto', etc, 5 elementos); 3) preencher 'imagens_alternativas' se houver imagens; 4) mudar 'fonte' de 'indisponivel' para 'correcao_manual'; 5) copiar 'manual_inep_pendente.gabarito_oficial' para 'correta'; 6) remover o bloco 'manual_inep_pendente'."
+      }
     },
     {
       "ano": 2019,
