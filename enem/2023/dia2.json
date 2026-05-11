@@ -2071,9 +2071,9 @@
       ],
       "imagem_principal": "",
       "imagens_extras": [],
-      "correta": "X",
+      "correta": "D",
       "explicacao": "",
-      "fonte": "anulada_inep",
+      "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/164"
     },
     {
