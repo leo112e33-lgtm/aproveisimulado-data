@@ -485,7 +485,7 @@
       "dia": 2,
       "numero": 18,
       "titulo": "Questão 108 - ENEM 2021",
-      "enunciado": "**TEXTO I**\n\nNo cordel intitulado Senhor dos Anéis, de autoria de Gonçalo Ferreira da Silva, lê-se a sextilha:\n\nA distância em relação  \nAo nosso planeta amado  \nPouco menos que a do Sol  \nEle está distanciado  \nE menos denso que a água  \nQuando no normal estado\n\nMEDEIROS, A.; AGRA, J. T. M., A astronomia na literatura de cordel,\n\n**Física na Escola,** n. 1, abr. 2010 (fragmento)\n\n**TEXTO II**\n\nDistâncias médias dos planetas ao Sol e suas densidades médias\n\n**Características dos planetas.** Disponível em: www.astronoo.com.\n\nAcesso em: 8 de nov. 2019 (adaptado)",
+      "enunciado": "**TEXTO I**\n\nNo cordel intitulado Senhor dos Anéis, de autoria de Gonçalo Ferreira da Silva, lê-se a sextilha:\n\nA distância em relação  \nAo nosso planeta amado  \nPouco menos que a do Sol  \nEle está distanciado  \nE menos denso que a água  \nQuando no normal estado\n\nMEDEIROS, A.; AGRA, J. T. M., A astronomia na literatura de cordel,\n\n**Física na Escola,** n. 1, abr. 2010 (fragmento)\n\n**TEXTO II**\n\nDistâncias médias dos planetas ao Sol e suas densidades médias\n\n| Planeta | Distância média ao Sol (u.a.) | Densidade relativa média |\n|---|---:|---:|\n| Mercúrio | 0,39 | 5,6 |\n| Vênus | 0,72 | 5,2 |\n| Terra | 1,0 | 5,5 |\n| Marte | 1,5 | 4,0 |\n| Ceres | 2,8 | 2,1 |\n| Júpiter | 5,2 | 1,3 |\n| Saturno | 9,6 | 0,7 |\n| Urano | 19 | 1,2 |\n| Netuno | 30 | 1,7 |\n| Plutão | 40 | 2,0 |\n| Éris | 68 | 2,5 |\n\n**Características dos planetas.** Disponível em: www.astronoo.com. Acesso em: 8 de nov. 2019 (adaptado)",
       "alternativas_introducao": "Considerando os versos de sextilha e as informações da tabela, a qual planeta o cordel faz referência?",
       "alternativas": [
         "A) Mercúrio",
@@ -1580,11 +1580,11 @@
       "enunciado": "A Cifra de César é um exemplo de um método de codificação de mensagens usado por Júlio César para se comunicar com seus generais.  \nNo método, cada letra era trocada por uma letra que aparecia no alfabeto um número fixo de casas adiante (ou atrás) de forma cíclica. A seguir temos um exemplo em que cada letra é substituída pela que vem três posições à frente.\n\n![](enem/2021/dia2/img/q057_inline1.png)\n\nPara quebrar um código como esse, a análise de frequências das letras de um texto é uma ferramenta importante.  \nUma análise do texto do romance O guarani, de José de Alencar, que é composto por 491 631 letras, gerou o seguinte gráfico de frequências:\n\n![](enem/2021/dia2/img/q057_inline2.png)",
       "alternativas_introducao": "Após codificar esse texto com a regra do exemplo fornecido, faz-se nova analise de frequência no texto codificado.\nAs quatro letras mais frequentes, em ordem decrescente de frequência, do texto codificado são",
       "alternativas": [
-        "A) A,E,O e S.",
+        "A) A, E, O e S.",
         "B) D, E, F e G.",
-        "C) D, E, F e G.",
-        "D) D,H,R e V.",
-        "E) X, B L e P."
+        "C) D, H, R e V.",
+        "D) R, L, B e X.",
+        "E) X, B, L e P."
       ],
       "imagens_alternativas": [
         null,
@@ -2367,7 +2367,8 @@
         "A) 12 trapézios isósceles e 12 quadrados.",
         "B) 24 trapézios isósceles e 12 quadrados.",
         "C) 12 paralelogramos e 12 quadrados.",
-        "D) 8 trapézios isósceles"
+        "D) 8 trapézios isósceles e 12 quadrados.",
+        "E) 12 trapézios escalenos e 12 retângulos."
       ],
       "imagens_alternativas": [
         null,

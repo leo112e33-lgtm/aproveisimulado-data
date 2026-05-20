@@ -1496,12 +1496,14 @@
       "enunciado": "Cada número que identifica uma agência bancária tem quatro dígitos: ![](enem/2022/dia2/img/q054_inline1.jpg),![](enem/2022/dia2/img/q054_inline2.jpg),![](enem/2022/dia2/img/q054_inline3.jpg),![](enem/2022/dia2/img/q054_inline4.jpg) mais um dígito verificador ![](enem/2022/dia2/img/q054_inline5.jpg).\n\n![](enem/2022/dia2/img/q054_inline6.jpg)\n\nTodos esses dígitos são números naturais pertencentes ao conjunto {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. Para a determinação de N5, primeiramente multiplica-se  \nordenadamente os quatro primeiros dígitos do número da agência por 5, 4, 3 e 2, respectivamente, somam-se os resultados e obtém-se S = 5 ![](enem/2022/dia2/img/q054_inline7.jpg)\\+ 4 ![](enem/2022/dia2/img/q054_inline8.jpg)\\+ 3 ![](enem/2022/dia2/img/q054_inline9.jpg)\\+ 2 ![](enem/2022/dia2/img/q054_inline10.jpg). Posteriormente, encontra-se o resto da divisão de S por 11, denotando por R esse resto. Dessa forma, N5 é a diferença 11 − R.  \nConsidere o número de uma agência bancária cujos quatro primeiros dígitos são 0100.",
       "alternativas_introducao": "Qual é o dígito verificador N5 dessa agência bancária?",
       "alternativas": [
-        "A) 6",
-        "B) 7",
-        "C) 8",
-        "D) 9"
+        "A) 0",
+        "B) 6",
+        "C) 7",
+        "D) 8",
+        "E) 9"
       ],
       "imagens_alternativas": [
+        null,
         null,
         null,
         null,
@@ -2110,12 +2112,14 @@
       "enunciado": "Em uma competição de velocidade, diz-se que há uma ultrapassagem quando um veículo que está atrás de outro passa à sua frente, com ambos se deslocando no mesmo sentido. Considere uma competição automobilística entre cinco carros em uma pista com 100 m de comprimento, onde todos largam no mesmo instante e da mesma linha.  \nO gráfico mostra a variação da distância percorrida por cada  \nveículo, em função do tempo, durante toda a competição.\n\n![](enem/2022/dia2/img/q076_inline1.png)",
       "alternativas_introducao": "Qual o número de ultrapassagens, após o início da competição, efetuadas pelo veículo que chegou em\núltimo lugar?",
       "alternativas": [
-        "A) 1",
-        "B) 2",
-        "C) 3",
-        "D) 4"
+        "A) 0",
+        "B) 1",
+        "C) 2",
+        "D) 3",
+        "E) 4"
       ],
       "imagens_alternativas": [
+        null,
         null,
         null,
         null,
@@ -2385,7 +2389,7 @@
       "dia": 2,
       "numero": 86,
       "titulo": "Questão 176 - ENEM 2022",
-      "enunciado": "![](enem/2022/dia2/img/q086_inline1.png)",
+      "enunciado": "O governo de um estado pretende realizar uma obra de infraestrutura para auxiliar na integração e no processo de escoamento da produção agrícola de duas cidades. O projeto consiste na interligação direta das cidades A e B com a Rodovia 003, pela construção das Rodovias 001 e 002. As duas rodovias serão construídas em linha reta e deverão se conectar à Rodovia 003 em um mesmo ponto, conforme esboço apresentado na figura, na qual estão também indicadas as posições das cidades A e B, considerando o eixo x posicionado sobre a Rodovia 003, e cinco localizações sugeridas para o ponto de conexão entre as três rodovias.\n\n![](enem/2022/dia2/img/q086_inline1.png)",
       "alternativas_introducao": "Pretende-se que a distância percorrida entre as duas cidades, pelas Rodovias 001 e 002, passando pelo ponto de conexão, seja a menor possível.\nDadas as exigências do projeto, qual das localizações sugeridas deve ser a escolhida para o ponto de conexão?",
       "alternativas": [
         "A) I",
