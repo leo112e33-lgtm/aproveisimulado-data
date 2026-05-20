@@ -1167,11 +1167,11 @@
         "E)"
       ],
       "imagens_alternativas": [
-        null,
-        null,
-        null,
-        null,
-        "enem/2023/dia2/img/q042_altE.jpg"
+        "enem/2023/dia2/img/q042_altA.png",
+        "enem/2023/dia2/img/q042_altB.png",
+        "enem/2023/dia2/img/q042_altC.png",
+        "enem/2023/dia2/img/q042_altD.png",
+        "enem/2023/dia2/img/q042_altE.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],

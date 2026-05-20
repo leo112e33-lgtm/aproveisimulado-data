@@ -407,13 +407,15 @@
         "A)",
         "B)",
         "C)",
-        "D)"
+        "D)",
+        "E)"
       ],
       "imagens_alternativas": [
-        "enem/2021/dia2/img/q015_altA.jpg",
-        "enem/2021/dia2/img/q015_altB.jpg",
-        "enem/2021/dia2/img/q015_altC.jpg",
-        "enem/2021/dia2/img/q015_altD.jpg"
+        "enem/2021/dia2/img/q015_altA.png",
+        "enem/2021/dia2/img/q015_altB.png",
+        "enem/2021/dia2/img/q015_altC.png",
+        "enem/2021/dia2/img/q015_altD.png",
+        "enem/2021/dia2/img/q015_altE.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],
