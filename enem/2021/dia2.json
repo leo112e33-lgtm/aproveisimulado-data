@@ -573,9 +573,9 @@
       "alternativas_introducao": "Para completar a ação proposta no ambiente escolar, o que falta ser inserido no planejamento?",
       "alternativas": [
         "A) Realizar campanhas educativas de sensibilização em bairros vizinhos para fortalecer a coleta seletiva.",
-        "B) Filmar parceria com a prefeitura ou cooperativa de catadores para recolhimento dos materiais recicláveis e destinação apropriada.",
+        "B) Firmar parceria com a prefeitura ou cooperativa de catadores para recolhimento dos materiais recicláveis e destinação apropriada.",
         "C) Organizar visitas ao lixão ou aterro local para identificar aspectos importantes sobre a disposição final do lixo.",
-        "D) Divulgar na rádio local, no local impresso e nas redes sociais que a escola está realizando a coleta seletiva.",
+        "D) Divulgar na rádio local, no jornal impresso e nas redes sociais que a escola está realizando a coleta seletiva.",
         "E) Colocar recipientes coletores de lixo reciclável fora da escola para entrega voluntária pela população."
       ],
       "imagens_alternativas": [
@@ -1437,7 +1437,7 @@
       "dia": 2,
       "numero": 52,
       "titulo": "Questão 142 - ENEM 2021",
-      "enunciado": "O organizador de uma competição de lançamento de  \ndados pretende tornar o campeonato mais competitivo.  \nPelas regras atuais da competição, numa rodada, o  \njogador lança 3 dardos e pontua caso acerte pelo menos um deles no alvo. O organizador considera que, em média, os jogadores tem, em cada lançamento, 1/2 de probabilidade de acertar um dardo no alvo.  \nA fim de tornar o jogo mais atrativo, planeja modificar  \nas regras de modo que a probabilidade de um jogador  \npontuar em uma rodada seja igual ou superior a 9/10. Para  \nisso, decide aumentar a quantidade de dardos a serem  \nlançados em cada rodada.",
+      "enunciado": "O organizador de uma competição de lançamento de  \ndardos pretende tornar o campeonato mais competitivo.  \nPelas regras atuais da competição, numa rodada, o  \njogador lança 3 dardos e pontua caso acerte pelo menos um deles no alvo. O organizador considera que, em média, os jogadores tem, em cada lançamento, 1/2 de probabilidade de acertar um dardo no alvo.  \nA fim de tornar o jogo mais atrativo, planeja modificar  \nas regras de modo que a probabilidade de um jogador  \npontuar em uma rodada seja igual ou superior a 9/10. Para  \nisso, decide aumentar a quantidade de dardos a serem  \nlançados em cada rodada.",
       "alternativas_introducao": "Com base nos valores considerados pelo organizador da competição, a quantidade mínima de dardos que devem ser disponibilizados em uma rodada para tornar o jogo mais atrativo é",
       "alternativas": [
         "A) 2",
@@ -1528,7 +1528,7 @@
         "B) 10 e 90.",
         "C) 20 e 60.",
         "D) 20 e 80.",
-        "E) 25 e 5"
+        "E) 25 e 50"
       ],
       "imagens_alternativas": [
         null,
@@ -1836,7 +1836,7 @@
         "B) -3 sen (2t)",
         "C) 3 cos (2t)",
         "D) -6 cos (2t)",
-        "E) 6 cos (2t)"
+        "E) 6 sen (2t)"
       ],
       "imagens_alternativas": [
         null,
@@ -1886,7 +1886,7 @@
       "numero": 68,
       "titulo": "Questão 158 - ENEM 2021",
       "enunciado": "Para realizar um voo entre duas cidades que distam 2 000 km uma da outra, uma companhia aérea utilizava um modelo de aeronave A, capaz de transportar até 200 passageiros. Quando uma dessas aeronaves está lotada de passageiros, o consumo de combustível é de 0,02 litro por quilômetro e por passageiro. Essa companhia resolveu trocar o modelo de aeronave A pelo modelo de aeronave B, que é capaz de transportar 10% de passageiros a mais do que o modelo A, mas consumindo 10% menos combustível por quilômetro e por passageiro.",
-      "alternativas_introducao": "A quantidade de combustível consumida pelo modelo de aeronave B, em relação à do modelo de aeronave B, em relação à do modelo de aeronave A, em um voo lotado entre as duas cidades, é",
+      "alternativas_introducao": "A quantidade de combustível consumida pelo modelo de aeronave B, em relação à do modelo de aeronave A, em um voo lotado entre as duas cidades, é",
       "alternativas": [
         "A) 10% menor",
         "B) 1% menor",
@@ -2081,7 +2081,7 @@
       "dia": 2,
       "numero": 75,
       "titulo": "Questão 165 - ENEM 2021",
-      "enunciado": "Um automóvel apresenta um desempenho médio de 16 km/L. Um engenheiro desenvolveu um novo motor a combustão que economiza, em relação ao consumo do motor anterior, 0,1 L de combustível a cada 10 km percorridos.",
+      "enunciado": "Um automóvel apresenta um desempenho médio de 16 km/L. Um engenheiro desenvolveu um novo motor a combustão que economiza, em relação ao consumo do motor anterior, 0,1 L de combustível a cada 20 km percorridos.",
       "alternativas_introducao": "O valor do desempenho médio do automóvel com o novo motor, em quilômetro por litro, expresso com uma casa decimal, é",
       "alternativas": [
         "A) 15,9",
@@ -2222,7 +2222,7 @@
       "numero": 80,
       "titulo": "Questão 170 - ENEM 2021",
       "enunciado": "Uma pessoa comprou uma caneca para tomar sopa, conforme ilustração.\n\n![](enem/2021/dia2/img/q080_inline1.png)\n\nSabe-se que 1 cm³ = 1 mL e que o topo da caneca é uma circunferência de diâmetro (D) medindo 10 cm, e a base é um círculo de diâmetro (d) medindo 8 cm. Além disso, sabe-se que a altura (h) dessa caneca mede 12 cm (distância entre o centro das circunferências do topo e da base).\n\nUtilize 3 como aproximação para π.",
-      "alternativas_introducao": "Qual é a capacidade volumétrica, em milimitro, dessa caneca?",
+      "alternativas_introducao": "Qual é a capacidade volumétrica, em mililitro, dessa caneca?",
       "alternativas": [
         "A) 216",
         "B) 408",
