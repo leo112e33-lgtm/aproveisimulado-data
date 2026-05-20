@@ -402,13 +402,13 @@
       "numero": 15,
       "titulo": "Questão 15 - ENEM 2020",
       "enunciado": "O suor para estar em competições nacionais e internacionais de alto nível é o mesmo para homens e mulheres, mas não raramente as remunerações são menores para elas. Se no tênis, um dos esportes mais equânimes em termos de gênero, todos os principais torneiros oferecem prêmios idênticos nas disputas femininas e masculinas, no futebol a desigualdade atinge seu ápice. Neymar e Marta são dois expoentes dessa paixão nacional. Ela já foi eleita cinco vezes a melhor jogadora do mundo pela Fifa. Ele conquistou o terceiro lugar na última votação para melhor do mundo. Mas é na conta bancária que a diferença entre os dois se sobressai.\n\n![](enem/2020/dia1/img/q015_inline1.png)\n\nDisponível em: http://apublica.org. Acesso em: 9 ago. 2017 (adaptado).",
-      "alternativas_introducao": "O esporte é uma manifestação cultural na qual se estabelecem relações sociais. Considerando o texto, o futebol é uma mobilidade que",
+      "alternativas_introducao": "O esporte é uma manifestação cultural na qual se estabelecem relações sociais. Considerando o texto, o futebol é uma modalidade que",
       "alternativas": [
         "A) Apresenta proximidades com o tênis, no que tange às relações de gênero entre homens e mulheres.",
         "B) Se caracteriza por uma identidade masculina no Brasil, conferindo maior remuneração aos jogadores.",
         "C) Traz remunerações, aos jogadores e jogadoras, proporcionais aos seus esforços no treinamento esportivo.",
         "D) Resulta em melhor eficiência para as mulheres e, consequentemente, em remuneração mais alta às jogadoras.",
-        "E) Possui jogadores e jogadoras com a mesma visibilidade, apesar de haver expoentes feministas de destaque, como Marta."
+        "E) Possui jogadores e jogadoras com a mesma visibilidade, apesar de haver expoentes femininas de destaque, como Marta."
       ],
       "imagens_alternativas": [
         null,
@@ -772,7 +772,7 @@
         "B) Homenagem aos referenciais estéticos que deram origem às produções da música popular",
         "C) Necessidade de divulgar a música de concerto nos meios populares nas periferias das grandes cidades",
         "D) Utilização desintencional de uma música excessivamente distante da realidade cultural dos jovens brasileiros",
-        "E) Inter-relação de elementos culturais vindos de realidades distintas na construção de uma nova proposta musical\", dizia a questão."
+        "E) Inter-relação de elementos culturais vindos de realidades distintas na construção de uma nova proposta musical"
       ],
       "imagens_alternativas": [
         null,
@@ -1106,7 +1106,7 @@
       "alternativas": [
         "A) Sujeição moral amplificada pela pobreza.",
         "B) Crise econômica em expansão nas cidades.",
-        "C) Salta de diálogo entre patrões e empregados.",
+        "C) Falta de diálogo entre patrões e empregados.",
         "D) Perspicácia marcada pela formação intelectual.",
         "E) Tensão política gerada pelas ideologias vigentes."
       ],
@@ -1527,7 +1527,7 @@
         "A) Personalismo, que vincula a realidade circundante aos domínios do pessoal.",
         "B) Falsificacionismo, que estabelece ciclos de problemas para refutar a conjectura.",
         "C) Falibilismo, que rejeita mecanismos mentais para sustentar uma crença inequívoca.",
-        "D) Idealismo, que nega a existência de objetivos independentemente do trabalho cognoscente.",
+        "D) Idealismo, que nega a existência de objetos independentemente do trabalho cognoscente.",
         "E) Solipsismo, que reconhece limitações cognitivas para compreender uma experiência compartilhada."
       ],
       "imagens_alternativas": [
@@ -1689,8 +1689,8 @@
       "dia": 1,
       "numero": 61,
       "titulo": "Questão 61 - ENEM 2020",
-      "enunciado": "A Divisão Internacional do Trabalho significa que alguns países se especializam em ganhar e outros, em perder. Nossa comarca no mundo, que hoje chamamos América Latica, foi precoce: especializou-se em perder desde os remotos tempos em que os europeus do Renascimento se aventuraram pelos mares e lhe cravaram os dentes na garganta. Passaram-se os séculos e a América Latina aprimorou suas funções.\n\nGALEANO, E. **As velas abertas da América Latina**. São Paulo: Paz e Terra, 1978.",
-      "alternativas_introducao": "Escrito na décadas de 1970, o texto considera a participação da América Latina na Divisão Internacional do Trabalho marcado",
+      "enunciado": "A Divisão Internacional do Trabalho significa que alguns países se especializam em ganhar e outros, em perder. Nossa comarca no mundo, que hoje chamamos América Latina, foi precoce: especializou-se em perder desde os remotos tempos em que os europeus do Renascimento se aventuraram pelos mares e lhe cravaram os dentes na garganta. Passaram-se os séculos e a América Latina aprimorou suas funções.\n\nGALEANO, E. **As veias abertas da América Latina**. São Paulo: Paz e Terra, 1978.",
+      "alternativas_introducao": "Escrito na década de 1970, o texto considera a participação da América Latina na Divisão Internacional do Trabalho marcada",
       "alternativas": [
         "A) Produção inovadora de padrões de tecnologia.",
         "B) Superação paulatina do caráter agroexportador.",
@@ -2310,7 +2310,7 @@
       "alternativas": [
         "A) Regra judaica, que pregava a superioridade espiritual dos cultos das sinagogas.",
         "B) Moralismo da legislação, que dificultava as reuniões abertas da juventude livre.",
-        "C) Adesão do patriarcado, que subvertia o conceito original dos valores estrangeiros.",
+        "C) Adesão do patriciado, que subvertia o conceito original dos valores estrangeiros.",
         "D) Decisão política, que censurava as manifestações públicas da doutrina dissidente.",
         "E) Violência senhorial, que impunha a desestruturação forçada das famílias escravas."
       ],
@@ -2449,7 +2449,7 @@
       "alternativas_introducao": "Considerando a análise dos textos, a condição atual desse rio tem como origem a",
       "alternativas": [
         "A) Valorização do sítio urbano.",
-        "B) Extinção na vegetação nativa.",
+        "B) Extinção da vegetação nativa.",
         "C) Recepção de densa carga de dejetos.",
         "D) Captação desordenada do regime pluvial.",
         "E) Expansão do uso de defensivos químicos."

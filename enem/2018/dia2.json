@@ -65,7 +65,7 @@
       "dia": 2,
       "numero": 3,
       "titulo": "Questão 93 - ENEM 2018",
-      "enunciado": "Em 1938 o arqueólogo alemão WIlhelm Kõnlg, diretor do Museu Nacional do Iraque, encontrou um objeto estranho na coleção da Instituição, que poderia ter sido usado como uma pilha, similar às utilizadas em nossos dias. A suposta pilha, datada de cerca de 200 a.C., é constituída de um pequeno vaso de barro (argila) no qual foram instalados um tubo de cobre, uma barra de ferro (aparentemente corroída por ácido) e uma tampa de betume (asfalto), conforme ilustrado. Considere os potenciais-padrão de redução: ![](enem/2018/dia2/img/q003_inline1.png) (Fe^+|Fe) = -0,4: 4 V; ![](enem/2018/dia2/img/q003_inline2.png) (H+|H.) = 0,00 V; e  ![](enem/2018/dia2/img/q003_inline3.png) (Cu^+|Cu) = +0,34 V.\n\n![](enem/2018/dia2/img/q003_inline4.png)",
+      "enunciado": "Em 1938 o arqueólogo alemão Wilhelm König, diretor do Museu Nacional do Iraque, encontrou um objeto estranho na coleção da instituição, que poderia ter sido usado como uma pilha, similar às utilizadas em nossos dias. A suposta pilha, datada de cerca de 200 a.C., é constituída de um pequeno vaso de barro (argila) no qual foram instalados um tubo de cobre, uma barra de ferro (aparentemente corroída por ácido) e uma tampa de betume (asfalto), conforme ilustrado. Considere os potenciais-padrão de redução: ![](enem/2018/dia2/img/q003_inline1.png) (Fe^+|Fe) = -0,4: 4 V; ![](enem/2018/dia2/img/q003_inline2.png) (H+|H.) = 0,00 V; e  ![](enem/2018/dia2/img/q003_inline3.png) (Cu^+|Cu) = +0,34 V.\n\n![](enem/2018/dia2/img/q003_inline4.png)",
       "alternativas_introducao": "Nessa suposta pilha, qual dos componentes atuaria como cátodo?",
       "alternativas": [
         "A) A tampa de betume.",
@@ -149,7 +149,7 @@
       "dia": 2,
       "numero": 6,
       "titulo": "Questão 96 - ENEM 2018",
-      "enunciado": "Para serem absorvidos pelas células do intestino humano, os lipídios ingeridos precisam ser primeiramente emulsificados. Nessa etapa da digestão, torna-se necessária a ação dos ácidos biliares, visto que os lipídios apresentam uma natureza apoiar e são insolúveis em água.",
+      "enunciado": "Para serem absorvidos pelas células do intestino humano, os lipídios ingeridos precisam ser primeiramente emulsificados. Nessa etapa da digestão, torna-se necessária a ação dos ácidos biliares, visto que os lipídios apresentam uma natureza apolar e são insolúveis em água.",
       "alternativas_introducao": "Esses ácidos atuam no processo de modo a",
       "alternativas": [
         "A) Hidrolisar os lipídios.",
@@ -261,7 +261,7 @@
       "dia": 2,
       "numero": 10,
       "titulo": "Questão 100 - ENEM 2018",
-      "enunciado": "No ciclo celular atuam moléculas reguladoras. Dentre elas, a proteína p53 é ativada em resposta a mutações no DNA, evitando a progressão do ciclo até que os danos sejam reparados, ou induzindo a célula ã autodestruição.\n\nALBERTS, B. et ai. **Fundamentos da biologia celular.** Porto Alegre: Artmed, 2011 (adaptado).",
+      "enunciado": "No ciclo celular atuam moléculas reguladoras. Dentre elas, a proteína p53 é ativada em resposta a mutações no DNA, evitando a progressão do ciclo até que os danos sejam reparados, ou induzindo a célula à autodestruição.\n\nALBERTS, B. et al. **Fundamentos da biologia celular.** Porto Alegre: Artmed, 2011 (adaptado).",
       "alternativas_introducao": "A ausência dessa proteína poderá favorecer a",
       "alternativas": [
         "A) Redução da síntese de DNA, acelerando o ciclo celular.",
@@ -401,7 +401,7 @@
       "dia": 2,
       "numero": 15,
       "titulo": "Questão 105 - ENEM 2018",
-      "enunciado": "Na mitologia grega, Nióbia era a filha de Tãntalo, dois personagens conhecidos pelo sofrimento. O elemento químico de número atômico (Z) igual a 41 tem propriedades químicas e físicas tão parecidas com as do elemento de número atômico 73 que chegaram a ser confundidos.  \nPor isso, em homenagem a esses dois personagens da mitologia grega, foi conferido a esses elementos os nomes de nióbio (Z = 41) e tãntalo (Z = 73). Esses dois elementos químicos adquiriram grande importância econômica na metalurgia, na produção de supercondutores e em outras aplicações na indústria de ponta, exatamente pelas propriedades químicas e físicas comuns aos dois.\n\nKEAN, S. **A colher que desaparece:** e outras histórias reais de loucura, amor e morte a partir dos elementos químicos. Rio de Janeiro: Zahar, 2011 (adaptado).",
+      "enunciado": "Na mitologia grega, Nióbia era a filha de Tântalo, dois personagens conhecidos pelo sofrimento. O elemento químico de número atômico (Z) igual a 41 tem propriedades químicas e físicas tão parecidas com as do elemento de número atômico 73 que chegaram a ser confundidos.  \nPor isso, em homenagem a esses dois personagens da mitologia grega, foi conferido a esses elementos os nomes de nióbio (Z = 41) e tãntalo (Z = 73). Esses dois elementos químicos adquiriram grande importância econômica na metalurgia, na produção de supercondutores e em outras aplicações na indústria de ponta, exatamente pelas propriedades químicas e físicas comuns aos dois.\n\nKEAN, S. **A colher que desaparece:** e outras histórias reais de loucura, amor e morte a partir dos elementos químicos. Rio de Janeiro: Zahar, 2011 (adaptado).",
       "alternativas_introducao": "A importância econômica e tecnológica desses elementos, pela similaridade de suas propriedades químicas e físicas, deve-se a",
       "alternativas": [
         "A) Terem elétrons no subnível f",
@@ -485,7 +485,7 @@
       "dia": 2,
       "numero": 18,
       "titulo": "Questão 108 - ENEM 2018",
-      "enunciado": "Ao pesquisar um resistor feito de um novo tipo de material, um cientista observou o comportamento mostrado no gráico tensão _versus_ corrente.\n\n![](enem/2018/dia2/img/q018_inline1.png)",
+      "enunciado": "Ao pesquisar um resistor feito de um novo tipo de material, um cientista observou o comportamento mostrado no gráfico tensão _versus_ corrente.\n\n![](enem/2018/dia2/img/q018_inline1.png)",
       "alternativas_introducao": "Após a análise do gráfico, ele concluiu que a tensão em função da corrente é dada pela equação \nO gráfico da resistência elétrica (R) do resistor em função\nda corrente (i) é",
       "alternativas": [
         "A)",
@@ -989,7 +989,7 @@
       "dia": 2,
       "numero": 36,
       "titulo": "Questão 126 - ENEM 2018",
-      "enunciado": "Tensoativos são compostos orgânicos que possuem comportamento anfifílico. Isto é, possuem duas regiões,  \numa hidrofóbica e outra hidrofílica. O principal tensoativo aniônico sintético surgiu na década de 1940 e teve grande  \naceitação no mercado de detergentes em razão do melhor desempenho comparado ao do sabão. No entanto, o uso desse produto provocou grandes problemas ambientais, dentre eles a resistência ã degradação biológica, por causa dos diversos carbonos terciários na cadela que compõe a porção hidrofóbica desse tensoativo aniônico. As ramificações na cadela dificultam sua degradação, levando ã persistência no melo ambiente por longos períodos. Isso levou a sua substituição na maioria dos países por tensoativos biodegradáveis, ou seja, com cadeias alquílicas lineares.\n\nPENTEADO, J. C. P.; EL SEOUD, O. A.; CARVALHO, L. R. F. \\[…\\]: uma abordagem ambiental e analítica. **Química Nova**, n. 5, 2006 (adaptado).",
+      "enunciado": "Tensoativos são compostos orgânicos que possuem comportamento anfifílico. Isto é, possuem duas regiões,  \numa hidrofóbica e outra hidrofílica. O principal tensoativo aniônico sintético surgiu na década de 1940 e teve grande  \naceitação no mercado de detergentes em razão do melhor desempenho comparado ao do sabão. No entanto, o uso desse produto provocou grandes problemas ambientais, dentre eles a resistência à degradação biológica, por causa dos diversos carbonos terciários na cadeia que compõe a porção hidrofóbica desse tensoativo aniônico. As ramificações na cadela dificultam sua degradação, levando à persistência no meio ambiente por longos períodos. Isso levou a sua substituição na maioria dos países por tensoativos biodegradáveis, ou seja, com cadeias alquílicas lineares.\n\nPENTEADO, J. C. P.; EL SEOUD, O. A.; CARVALHO, L. R. F. \\[…\\]: uma abordagem ambiental e analítica. **Química Nova**, n. 5, 2006 (adaptado).",
       "alternativas_introducao": "Qual a fórmula estrutural do tensoativo persistente no ambiente mencionado no texto?",
       "alternativas": [
         "A)",
@@ -1073,7 +1073,7 @@
       "dia": 2,
       "numero": 39,
       "titulo": "Questão 129 - ENEM 2018",
-      "enunciado": "Muitos primatas, incluindo nós humanos, possuem visão tricromática: têm três pigmentos visuais na retina sensíveis à luz de uma determinada faixa de comprimentos de onda. Informalmente, embora os pigmentos em si não possuam cor, estes são conhecidos como pigmentos“azul”, “verde” e “vermelho” e estão associados ã cor que causa grande excitação (ativação). A sensação que temos ao observar um objeto colorido decorre da ativação relativa dos três pigmentos. Ou seja, se estimulássemos a retina com uma luz na faixa de 530 nm (retângulo I no gráfico), não excitaríamos o pigmento “azul”, o pigmento “verde” seria ativado ao máximo e o “vermelho” seria ativado em aproximadamente 75%, e Isso nos daria a sensação de ver uma cor amarelada. Já uma luz na faixa de comprimento de onda de 600 nm (retângulo II) estimularia o pigmento “verde” um pouco e o “vermelho” em cerca de 75%, e Isso nos daria a sensação de ver laranja-avermelhado. No entanto, há características genéticas presentes em alguns indivíduos, conhecidas coletivamente como Daltonismo, em que um ou mais pigmentos não funcionam perfeitamente.\n\n![](enem/2018/dia2/img/q039_inline1.png)",
+      "enunciado": "Muitos primatas, incluindo nós humanos, possuem visão tricromática: têm três pigmentos visuais na retina sensíveis à luz de uma determinada faixa de comprimentos de onda. Informalmente, embora os pigmentos em si não possuam cor, estes são conhecidos como pigmentos“azul”, “verde” e “vermelho” e estão associados à cor que causa grande excitação (ativação). A sensação que temos ao observar um objeto colorido decorre da ativação relativa dos três pigmentos. Ou seja, se estimulássemos a retina com uma luz na faixa de 530 nm (retângulo I no gráfico), não excitaríamos o pigmento “azul”, o pigmento “verde” seria ativado ao máximo e o “vermelho” seria ativado em aproximadamente 75%, e Isso nos daria a sensação de ver uma cor amarelada. Já uma luz na faixa de comprimento de onda de 600 nm (retângulo II) estimularia o pigmento “verde” um pouco e o “vermelho” em cerca de 75%, e Isso nos daria a sensação de ver laranja-avermelhado. No entanto, há características genéticas presentes em alguns indivíduos, conhecidas coletivamente como Daltonismo, em que um ou mais pigmentos não funcionam perfeitamente.\n\n![](enem/2018/dia2/img/q039_inline1.png)",
       "alternativas_introducao": "Caso estimulássemos a retina de um indivíduo com essa característica, que não possuísse o pigmento conhecido como “verde”, com as luzes de 530 nm e 600 nm na mesma intensidade luminosa, esse indivíduo seria incapaz de",
       "alternativas": [
         "A) Identificar o comprimento de onda do amarelo, uma vez que não possui o pigmento “verde”.",
@@ -1164,7 +1164,7 @@
         "B) Fórmula molecular.",
         "C) Identificação dos tipos de ligação.",
         "D) Contagem do número de carbonos.",
-        "E) Identificaçáo dos grupos funcionais."
+        "E) Identificação dos grupos funcionais."
       ],
       "imagens_alternativas": [
         null,
@@ -1241,7 +1241,7 @@
       "dia": 2,
       "numero": 45,
       "titulo": "Questão 135 - ENEM 2018",
-      "enunciado": "O alemão Fritz Haber recebeu o Prêmio Nobel de química de 1918 pelo desenvolvimento de um processo viável para a síntese da amônia (NH3). Em seu discurso de premiação, Haber justificou a importância do feito dizendo que:  \n“Desde a metade do século passado, tornou-se  \nconhecido que um suprimento de nitrogênio é uma  \nnecessidade básica para o aumento das safras de  \nalimentos; entretanto, também se sabia que as plantas  \nnão podem absorver o nitrogênio em sua forma simples,  \nque é o principal constituinte da atmosfera. Elas precisam  \nque o nitrogênio seja combinado \\[…\\] para poderem  \nassimilá-lo.  \nEconomias agrícolas basicamente mantêm o balanço do nitrogênio ligado. No entanto, com o advento da era industrial, os produtos do solo são levados de onde cresce a colheita para lugares distantes, onde são consumidos, fazendo com que o nitrogênio ligado não retorne ã terra da qual foi retirado.  \nIsso tem gerado a necessidade econômica mundial de abastecer o solo com nitrogênio ligado. \\[…\\] A demanda por nitrogênio, tal como a do carvão, indica quão diferente nosso modo de vida se tornou com relação ao das pessoas que, com seus próprios corpos, fertilizam o solo que cultivam.  \nDesde a metade do último século, nós vínhamos aproveitando o suprimento de nitrogênio do salitre que a natureza tinha depositado nos desertos montanhosos do Chile. Comparando o rápido crescimento da demanda com a extensão calculada desses depósitos, ficou claro que em meados do século atual uma emergência seríssima seria inevitável, a menos que a química encontrasse uma saída.”\n\nHABER, F. **The Synthesis of Ammonia from its Elements.** Disponível em: www.nobelprize.org. Acesso em: 13jul. 2013 (adaptado)",
+      "enunciado": "O alemão Fritz Haber recebeu o Prêmio Nobel de química de 1918 pelo desenvolvimento de um processo viável para a síntese da amônia (NH3). Em seu discurso de premiação, Haber justificou a importância do feito dizendo que:  \n“Desde a metade do século passado, tornou-se  \nconhecido que um suprimento de nitrogênio é uma  \nnecessidade básica para o aumento das safras de  \nalimentos; entretanto, também se sabia que as plantas  \nnão podem absorver o nitrogênio em sua forma simples,  \nque é o principal constituinte da atmosfera. Elas precisam  \nque o nitrogênio seja combinado \\[…\\] para poderem  \nassimilá-lo.  \nEconomias agrícolas basicamente mantêm o balanço do nitrogênio ligado. No entanto, com o advento da era industrial, os produtos do solo são levados de onde cresce a colheita para lugares distantes, onde são consumidos, fazendo com que o nitrogênio ligado não retorne à terra da qual foi retirado.  \nIsso tem gerado a necessidade econômica mundial de abastecer o solo com nitrogênio ligado. \\[…\\] A demanda por nitrogênio, tal como a do carvão, indica quão diferente nosso modo de vida se tornou com relação ao das pessoas que, com seus próprios corpos, fertilizam o solo que cultivam.  \nDesde a metade do último século, nós vínhamos aproveitando o suprimento de nitrogênio do salitre que a natureza tinha depositado nos desertos montanhosos do Chile. Comparando o rápido crescimento da demanda com a extensão calculada desses depósitos, ficou claro que em meados do século atual uma emergência seríssima seria inevitável, a menos que a química encontrasse uma saída.”\n\nHABER, F. **The Synthesis of Ammonia from its Elements.** Disponível em: www.nobelprize.org. Acesso em: 13jul. 2013 (adaptado)",
       "alternativas_introducao": "De acordo com os argumentos de Haber, qual fenômeno teria provocado o desequilíbrio no “balanço do nitrogênio ligado”?",
       "alternativas": [
         "A) O esgotamento das reservas de salitre no Chile.",
@@ -1605,7 +1605,7 @@
       "dia": 2,
       "numero": 58,
       "titulo": "Questão 148 - ENEM 2018",
-      "enunciado": "Uma empresa deseja iniciar uma campanha publicitária divulgando uma promoção para seus possíveis consumidores. Para esse tipo de campanha, os meios mais viáveis são a distribuição de panfletos na rua e anúncios na rádio local. Considera-se que a população alcançada pela distribuição de panfletos seja igual ã quantidade de panfletos distribuídos, enquanto que a alcançada por um anúncio na rádio seja igual à quantidade de ouvintes desse anúncio. O custo de cada anúncio na rádio é de R$ 120,00, e a estimativa é de que seja ouvido por 1 500 pessoas. Já a produção e a distribuição dos panfletos custam R$ 180,00 cada 1 000 unidades. Considerando que cada pessoa será alcançada por um único desses meios de divulgação, a empresa pretende investir em ambas as mídias.\n\nConsidere X e Y os valores (em real) gastos em anúncios na rádio e com panfletos, respectivamente.",
+      "enunciado": "Uma empresa deseja iniciar uma campanha publicitária divulgando uma promoção para seus possíveis consumidores. Para esse tipo de campanha, os meios mais viáveis são a distribuição de panfletos na rua e anúncios na rádio local. Considera-se que a população alcançada pela distribuição de panfletos seja igual à quantidade de panfletos distribuídos, enquanto que a alcançada por um anúncio na rádio seja igual à quantidade de ouvintes desse anúncio. O custo de cada anúncio na rádio é de R$ 120,00, e a estimativa é de que seja ouvido por 1 500 pessoas. Já a produção e a distribuição dos panfletos custam R$ 180,00 cada 1 000 unidades. Considerando que cada pessoa será alcançada por um único desses meios de divulgação, a empresa pretende investir em ambas as mídias.\n\nConsidere X e Y os valores (em real) gastos em anúncios na rádio e com panfletos, respectivamente.",
       "alternativas_introducao": "O número de pessoas alcançadas pela campanha será dado pela expressão",
       "alternativas": [
         "A)",
@@ -2225,7 +2225,7 @@
       "alternativas_introducao": "A expressão da função altura é dada por",
       "alternativas": [
         "A) F(t) = 80sen(t) + 88",
-        "B) F(t) = 80cos(t) + 8 8",
+        "B) F(t) = 80cos(t) + 88",
         "C) F(t) = 88cos(t) + 168",
         "D) F(t) = 168sen(t) + 88cos(t)",
         "E) F(t) = 88sen(t) + 168cos(t)"

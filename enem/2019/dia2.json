@@ -239,7 +239,7 @@
         "A) Possibilita a reciclagem de carbono e nitrogênio.",
         "B) Promove o deslocamento do alumínio, que é tóxico.",
         "C) Melhora a compactação do solo por causa da presença de pectina.",
-        "D) D eleva o pH do solo em função da degradação dos componentes do resíduo.",
+        "D) eleva o pH do solo em função da degradação dos componentes do resíduo.",
         "E) Apresenta efeitos inibidores de crescimento para a maioria das espécies vegetais pela cafeína."
       ],
       "imagens_alternativas": [
@@ -295,7 +295,7 @@
         "A) Lipídios, para aumento do gasto calórico.",
         "B) ATP, para aumento da síntese hormonal.",
         "C) Oxigênio, para aumento da produção de ATP.",
-        "D) D proteínas, para aumento da massa muscular.",
+        "D) proteínas, para aumento da massa muscular.",
         "E) Vitamina C, para aumento da integridade dos vasos sanguíneos."
       ],
       "imagens_alternativas": [
@@ -1678,7 +1678,7 @@
       "numero": 61,
       "titulo": "Questão 151 - ENEM 2019",
       "enunciado": "Três sócios resolveram fundar uma fábrica. O investimento inicial foi de R$ 1 000 000,00. E, independentemente do valor que cada um investiu nesse primeiro momento, resolveram considerar que cada um deles contribuiu com um terço do investimento inicial.\n\nAlgum tempo depois, um quarto sócio entrou para a sociedade, e os quatro, juntos, investiram mais R$ 800 000,00 na fábrica. Cada um deles contribuiu com um quarto desse valor. Quando venderam a fábrica, nenhum outro investimento havia sido feito. Os sócios decidiram então dividir o montante de R$ 1 800 000,00 obtido com a venda, de modo proporcional à quantia total investida por cada sócio.",
-      "alternativas_introducao": "Quais os valores mais próximos, em porcentagens, correspondentes às parcelas financeiras que cada um dos més sócios iniciais e o quarto sócio, respectivamente, receberam?",
+      "alternativas_introducao": "Quais os valores mais próximos, em porcentagens, correspondentes às parcelas financeiras que cada um dos três sócios iniciais e o quarto sócio, respectivamente, receberam?",
       "alternativas": [
         "A) 29,60 e 11,11.",
         "B) 28,70 e 13,89.",
@@ -2182,7 +2182,7 @@
       "numero": 79,
       "titulo": "Questão 169 - ENEM 2019",
       "enunciado": "Um aplicativo de relacionamentos funciona da seguinte forma: o usuário cria um perfil com foto e informações pessoais, indica as características dos usuários com quem deseja estabelecer contato e determina um raio de abrangência a partir da sua localização. O aplicativo identifica as pessoas que se encaixam no perfil desejado e que estão a uma distância do usuário menor ou igual ao raio de abrangência. Caso dois usuários tenham perfis compatíveis e estejam numa região de abrangência comum a ambos, o aplicativo promove o contato entre os usuários, o que é chamado de _match_.\n\nO usuário P define um raio de abrangência com medida de 3 km e busca ampliar a possibilidade de obter um _match_ se deslocando para a região central da cidade, que concentra um maior número de usuários. O gráfico ilustra alguns bares que o usuário P costuma frequentar para ativar o aplicativo, indicados por I, II, III, IV e V.\n\nSabe-se que os usuários Q, R e S, cujas posições estão descritas pelo gráfico, são compatíveis com o usuário P, e que estes definiram raios de abrangência respectivamente iguais a 3 km, 2 km e 5 km.\n\n![](enem/2019/dia2/img/q079_inline1.jpg)",
-      "alternativas_introducao": "Com base no gráfico e nas afirmações anteriores, em qual bar o usuário P teria a possibilidade de um match com os usuários R, R e S, simultaneamente?",
+      "alternativas_introducao": "Com base no gráfico e nas afirmações anteriores, em qual bar o usuário P teria a possibilidade de um match com os usuários Q, R e S, simultaneamente?",
       "alternativas": [
         "A) I.",
         "B) II.",
