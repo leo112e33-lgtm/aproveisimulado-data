@@ -541,7 +541,7 @@
       "dia": 1,
       "numero": 20,
       "titulo": "Questão 20 - ENEM 2021",
-      "enunciado": "O coreógrafo e bailarino Didier Mulleras se destaca como um dos criadores que descobriram a dança de outro ponto de vista. _Mini@tures_ é uma experiência emblemática entre movimento, computador, internet e vídeo. Com os recursos da computação gráfica, a dança das miniaturas pode caber na palma da mão. Pelo fato de usar a internet como palco, o processo de criação das miniaturas de dança levou em consideração os limites de tempo de download e o tamanho do arquivo, para que um número maios de “espectadores” pudesse assistir. A graça das miniaturas está justamente na contaminação entre mídias: corpo/dança/computação gráfica/internet. De fato, é a rede que faz a maior diferença nesse grupo. _Mini@tures_ explora uma nova dimensão que descobre o espaço-tempo da web e conquista um novo território para a dança contemporânea. A qualquer hora, dança on-line.\n\nSPANGHERO, M. **A dança dos encéfalos acesos.**  \nSão Paulo: Itaú Cultural, 2003 (adaptado).",
+      "enunciado": "**Que tal transformar a internet em palco para a dança?**\n\nO coreógrafo e bailarino Didier Mulleras se destaca como um dos criadores que descobriram a dança de outro ponto de vista. _Mini@tures_ é uma experiência emblemática entre movimento, computador, internet e vídeo. Com os recursos da computação gráfica, a dança das miniaturas pode caber na palma da mão. Pelo fato de usar a internet como palco, o processo de criação das miniaturas de dança levou em consideração os limites de tempo de download e o tamanho do arquivo, para que um número maios de “espectadores” pudesse assistir. A graça das miniaturas está justamente na contaminação entre mídias: corpo/dança/computação gráfica/internet. De fato, é a rede que faz a maior diferença nesse grupo. _Mini@tures_ explora uma nova dimensão que descobre o espaço-tempo da web e conquista um novo território para a dança contemporânea. A qualquer hora, dança on-line.\n\nSPANGHERO, M. **A dança dos encéfalos acesos.**  \nSão Paulo: Itaú Cultural, 2003 (adaptado).",
       "alternativas_introducao": "Considerado o primeiro projeto de dança contemporânea concebido para a rede, esse trabalho é apresentado como inovador por",
       "alternativas": [
         "A) Adotar uma perspectiva conceitual como contraposição à tradição de grandes espetáculos.",
@@ -557,7 +557,7 @@
         null,
         null
       ],
-      "imagem_principal": "",
+      "imagem_principal": "enem/2021/dia1/img/q020_principal.jpeg",
       "imagens_extras": [],
       "correta": "D",
       "explicacao": "**Por que a alternativa D está correta:** Mini@tures combina dança, computação gráfica, vídeo e internet — produzindo uma arte multimodal que amplia as possibilidades de expressão estética. A inovação está em conectar diferentes linguagens em uma forma artística nova.\n\n**Conceito-chave:** Multimodalidade — combinação de diferentes modos de comunicação (visual, sonoro, textual, gestual) em uma mesma obra; característica central da arte digital contemporânea.",
