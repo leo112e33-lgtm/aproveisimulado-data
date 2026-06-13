@@ -1,0 +1,2439 @@
+{
+  "vestibular": "UNESP",
+  "ano": 2023,
+  "titulo": "UNESP 2023 — 1ª fase (prova completa, versão 1)",
+  "totalQuestoes": 90,
+  "observacao": "Prova completa da 1ª fase da UNESP 2023 (versão 1), com cada questão renderizada como imagem do caderno oficial (inclui todas as figuras). Gabarito oficial da versão 1.",
+  "questoes": [
+    {
+      "numero": 1,
+      "ano": 2023,
+      "titulo": "Questão 1 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q01.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "**Resposta correta: A.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 2,
+      "ano": 2023,
+      "titulo": "Questão 2 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_base_2_7.png)\n\n![](vestibular/unesp/img/2023_q02.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "**Resposta correta: A.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 3,
+      "ano": 2023,
+      "titulo": "Questão 3 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_base_2_7.png)\n\n![](vestibular/unesp/img/2023_q03.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "**Resposta correta: D.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 4,
+      "ano": 2023,
+      "titulo": "Questão 4 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_base_2_7.png)\n\n![](vestibular/unesp/img/2023_q04.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Resposta correta: C.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 5,
+      "ano": 2023,
+      "titulo": "Questão 5 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_base_2_7.png)\n\n![](vestibular/unesp/img/2023_q05.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "**Resposta correta: A.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 6,
+      "ano": 2023,
+      "titulo": "Questão 6 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_base_2_7.png)\n\n![](vestibular/unesp/img/2023_q06.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "**Resposta correta: B.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 7,
+      "ano": 2023,
+      "titulo": "Questão 7 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_base_2_7.png)\n\n![](vestibular/unesp/img/2023_q07.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "**Resposta correta: E.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 8,
+      "ano": 2023,
+      "titulo": "Questão 8 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q08.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Resposta correta: C.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 9,
+      "ano": 2023,
+      "titulo": "Questão 9 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q09.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "**Resposta correta: B.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 10,
+      "ano": 2023,
+      "titulo": "Questão 10 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q10.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "**Resposta correta: A.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 11,
+      "ano": 2023,
+      "titulo": "Questão 11 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q11.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "**Resposta correta: E.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 12,
+      "ano": 2023,
+      "titulo": "Questão 12 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q12.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "**Resposta correta: D.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 13,
+      "ano": 2023,
+      "titulo": "Questão 13 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q13.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Resposta correta: C.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 14,
+      "ano": 2023,
+      "titulo": "Questão 14 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_base_14_19.png)\n\n![](vestibular/unesp/img/2023_q14.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "**Resposta correta: A.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 15,
+      "ano": 2023,
+      "titulo": "Questão 15 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_base_14_19.png)\n\n![](vestibular/unesp/img/2023_q15.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "**Resposta correta: E.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 16,
+      "ano": 2023,
+      "titulo": "Questão 16 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_base_14_19.png)\n\n![](vestibular/unesp/img/2023_q16.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "**Resposta correta: B.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 17,
+      "ano": 2023,
+      "titulo": "Questão 17 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_base_14_19.png)\n\n![](vestibular/unesp/img/2023_q17.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "**Resposta correta: D.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 18,
+      "ano": 2023,
+      "titulo": "Questão 18 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_base_14_19.png)\n\n![](vestibular/unesp/img/2023_q18.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Resposta correta: C.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 19,
+      "ano": 2023,
+      "titulo": "Questão 19 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_base_14_19.png)\n\n![](vestibular/unesp/img/2023_q19.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "**Resposta correta: B.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 20,
+      "ano": 2023,
+      "titulo": "Questão 20 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q20.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "**Resposta correta: E.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 21,
+      "ano": 2023,
+      "titulo": "Questão 21 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q21.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "**Resposta correta: A.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 22,
+      "ano": 2023,
+      "titulo": "Questão 22 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q22.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "**Resposta correta: A.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 23,
+      "ano": 2023,
+      "titulo": "Questão 23 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q23.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "**Resposta correta: D.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 24,
+      "ano": 2023,
+      "titulo": "Questão 24 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q24.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Resposta correta: C.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 25,
+      "ano": 2023,
+      "titulo": "Questão 25 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q25.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "**Resposta correta: D.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 26,
+      "ano": 2023,
+      "titulo": "Questão 26 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q26.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "**Resposta correta: B.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 27,
+      "ano": 2023,
+      "titulo": "Questão 27 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_base_27_29.png)\n\n![](vestibular/unesp/img/2023_q27.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "**Resposta correta: D.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 28,
+      "ano": 2023,
+      "titulo": "Questão 28 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_base_27_29.png)\n\n![](vestibular/unesp/img/2023_q28.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "**Resposta correta: A.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 29,
+      "ano": 2023,
+      "titulo": "Questão 29 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_base_27_29.png)\n\n![](vestibular/unesp/img/2023_q29.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "**Resposta correta: E.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 30,
+      "ano": 2023,
+      "titulo": "Questão 30 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q30.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Resposta correta: C.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 31,
+      "ano": 2023,
+      "titulo": "Questão 31 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q31.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "**Resposta correta: B.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 32,
+      "ano": 2023,
+      "titulo": "Questão 32 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q32.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "**Resposta correta: B.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 33,
+      "ano": 2023,
+      "titulo": "Questão 33 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q33.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "**Resposta correta: E.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 34,
+      "ano": 2023,
+      "titulo": "Questão 34 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q34.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "**Resposta correta: B.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 35,
+      "ano": 2023,
+      "titulo": "Questão 35 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q35.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "**Resposta correta: D.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 36,
+      "ano": 2023,
+      "titulo": "Questão 36 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q36.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "**Resposta correta: A.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 37,
+      "ano": 2023,
+      "titulo": "Questão 37 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q37.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Resposta correta: C.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 38,
+      "ano": 2023,
+      "titulo": "Questão 38 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q38.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "**Resposta correta: E.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 39,
+      "ano": 2023,
+      "titulo": "Questão 39 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q39.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Resposta correta: C.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 40,
+      "ano": 2023,
+      "titulo": "Questão 40 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q40.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "**Resposta correta: D.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 41,
+      "ano": 2023,
+      "titulo": "Questão 41 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q41.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Resposta correta: C.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 42,
+      "ano": 2023,
+      "titulo": "Questão 42 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q42.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "**Resposta correta: A.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 43,
+      "ano": 2023,
+      "titulo": "Questão 43 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q43.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "**Resposta correta: B.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 44,
+      "ano": 2023,
+      "titulo": "Questão 44 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q44.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "**Resposta correta: E.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 45,
+      "ano": 2023,
+      "titulo": "Questão 45 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q45.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "**Resposta correta: A.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 46,
+      "ano": 2023,
+      "titulo": "Questão 46 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q46.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "**Resposta correta: D.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 47,
+      "ano": 2023,
+      "titulo": "Questão 47 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q47.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "**Resposta correta: B.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 48,
+      "ano": 2023,
+      "titulo": "Questão 48 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q48.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Resposta correta: C.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 49,
+      "ano": 2023,
+      "titulo": "Questão 49 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q49.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "**Resposta correta: A.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 50,
+      "ano": 2023,
+      "titulo": "Questão 50 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q50.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "**Resposta correta: D.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 51,
+      "ano": 2023,
+      "titulo": "Questão 51 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q51.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "**Resposta correta: E.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 52,
+      "ano": 2023,
+      "titulo": "Questão 52 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q52.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Resposta correta: C.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 53,
+      "ano": 2023,
+      "titulo": "Questão 53 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q53.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "**Resposta correta: B.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 54,
+      "ano": 2023,
+      "titulo": "Questão 54 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q54.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "**Resposta correta: D.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 55,
+      "ano": 2023,
+      "titulo": "Questão 55 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q55.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "**Resposta correta: E.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 56,
+      "ano": 2023,
+      "titulo": "Questão 56 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q56.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Resposta correta: C.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 57,
+      "ano": 2023,
+      "titulo": "Questão 57 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q57.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "**Resposta correta: A.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 58,
+      "ano": 2023,
+      "titulo": "Questão 58 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q58.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "**Resposta correta: A.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 59,
+      "ano": 2023,
+      "titulo": "Questão 59 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q59.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "**Resposta correta: A.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 60,
+      "ano": 2023,
+      "titulo": "Questão 60 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q60.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "**Resposta correta: E.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 61,
+      "ano": 2023,
+      "titulo": "Questão 61 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q61.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Resposta correta: C.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 62,
+      "ano": 2023,
+      "titulo": "Questão 62 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q62.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "**Resposta correta: B.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 63,
+      "ano": 2023,
+      "titulo": "Questão 63 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q63.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "**Resposta correta: D.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 64,
+      "ano": 2023,
+      "titulo": "Questão 64 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q64.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "**Resposta correta: D.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 65,
+      "ano": 2023,
+      "titulo": "Questão 65 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q65.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "**Resposta correta: A.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 66,
+      "ano": 2023,
+      "titulo": "Questão 66 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q66.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "**Resposta correta: B.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 67,
+      "ano": 2023,
+      "titulo": "Questão 67 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q67.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "**Resposta correta: E.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 68,
+      "ano": 2023,
+      "titulo": "Questão 68 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q68.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Resposta correta: C.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 69,
+      "ano": 2023,
+      "titulo": "Questão 69 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q69.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "**Resposta correta: D.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 70,
+      "ano": 2023,
+      "titulo": "Questão 70 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q70.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "**Resposta correta: E.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 71,
+      "ano": 2023,
+      "titulo": "Questão 71 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q71.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "**Resposta correta: B.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 72,
+      "ano": 2023,
+      "titulo": "Questão 72 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q72.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "**Resposta correta: D.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 73,
+      "ano": 2023,
+      "titulo": "Questão 73 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q73.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Resposta correta: C.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 74,
+      "ano": 2023,
+      "titulo": "Questão 74 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q74.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "**Resposta correta: A.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 75,
+      "ano": 2023,
+      "titulo": "Questão 75 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q75.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "**Resposta correta: A.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 76,
+      "ano": 2023,
+      "titulo": "Questão 76 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q76.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Resposta correta: C.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 77,
+      "ano": 2023,
+      "titulo": "Questão 77 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q77.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "**Resposta correta: D.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 78,
+      "ano": 2023,
+      "titulo": "Questão 78 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q78.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "**Resposta correta: E.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 79,
+      "ano": 2023,
+      "titulo": "Questão 79 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q79.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "**Resposta correta: B.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 80,
+      "ano": 2023,
+      "titulo": "Questão 80 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q80.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Resposta correta: C.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 81,
+      "ano": 2023,
+      "titulo": "Questão 81 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q81.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "**Resposta correta: A.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 82,
+      "ano": 2023,
+      "titulo": "Questão 82 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q82.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "**Resposta correta: D.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 83,
+      "ano": 2023,
+      "titulo": "Questão 83 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q83.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "**Resposta correta: E.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 84,
+      "ano": 2023,
+      "titulo": "Questão 84 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q84.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "**Resposta correta: E.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 85,
+      "ano": 2023,
+      "titulo": "Questão 85 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q85.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Resposta correta: C.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 86,
+      "ano": 2023,
+      "titulo": "Questão 86 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q86.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "**Resposta correta: B.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 87,
+      "ano": 2023,
+      "titulo": "Questão 87 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q87.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "**Resposta correta: D.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 88,
+      "ano": 2023,
+      "titulo": "Questão 88 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q88.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Resposta correta: C.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 89,
+      "ano": 2023,
+      "titulo": "Questão 89 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q89.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "**Resposta correta: A.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    },
+    {
+      "numero": 90,
+      "ano": 2023,
+      "titulo": "Questão 90 - UNESP 2023",
+      "enunciado": "![](vestibular/unesp/img/2023_q90.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "**Resposta correta: B.**\n\nUNESP 2023 (1ª fase, versão 1). Veja a resolução comentada completa em curso-objetivo.br.",
+      "fonte": "unesp_oficial",
+      "fonte_url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf"
+    }
+  ]
+}
