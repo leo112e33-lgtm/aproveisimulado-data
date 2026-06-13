@@ -1,0 +1,387 @@
+{
+  "vestibular": "FUVEST",
+  "ano": 2023,
+  "titulo": "FUVEST 2023 — 1ª fase (seleção de questões)",
+  "totalQuestoes": 14,
+  "observacao": "Seleção de questões reais da 1ª fase da FUVEST 2023 (Prova V), extraídas do PDF oficial. Questões que dependem de figuras/gráficos foram omitidas nesta versão.",
+  "questoes": [
+    {
+      "numero": 1,
+      "ano": 2023,
+      "titulo": "Questão 1 - FUVEST 2023",
+      "enunciado": "“A associação de sistemas múltiplos de subordinação tem sido descrita de vários modos: discriminação composta, cargas múltiplas ou como dupla ou tripla discriminação. A interseccionalidade é uma conceituação do problema que buscacapturarasconsequências estruturais e dinâmicas da interação entre dois ou mais eixos da subordinação. Ela trata especificamente da forma pela qual o racismo, o patriarcalismo, a opressão de classe e outros sistemas discriminatórios criam desigualdades básicas que estruturam as posições relativas de mulhe res, raças, etnias, classes e outras”. CRENSHAW, Kimberlé W. “Documento para o Encontro de Especialistas em Aspectos da Discriminação Racial Relativos ao Gênero”. Estudos Feministas, ano 10, no 1/2002. DIEESE (Departamento Intersindical de Estatísticas e Estudos Socioeconômicos), 2021. Adaptado. O texto da professora e jurista estadunidense Kimberlé Crenshaw define o conceito de interseccionalidade para o estudo das múltiplas discriminações. A partir dessa definição, é possível dizer que os dados do Dieese sobre o mercado de trabalho brasileiro em 2021 indicam que",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) a interseccionalidade de discriminações de gênero, de raça e de classe faz com que homens negros sejam o grupo social mais vulnerável.",
+        "B) as discriminações de raça e gênero não se relacionam; assim, mulheres negras e homens negros sofrem as mesmas discriminações no mercado de trabalho.",
+        "C) a interseccionalidade de discriminações atinge de maneira igual mulheres brancas e negras pertencentes às classes trabalhadoras.",
+        "D) a interseccionalidade de disc riminações de gênero e raça explica o fato de as mulheres negras ocuparem as posições menos valorizadas e mais mal pagas no mercado de trabalho.",
+        "E) as situações de gênero e de raça não têm impacto no mercado de trabalho. Trabalhadores e trabalhadoras são discriminados igualmente em virtude da desigualdade de classe social."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "**Resposta correta: D.** A interseccionalidade (Crenshaw) mostra como gênero e raça se somam; os dados do Dieese indicam que as mulheres negras ocupam as posições menos valorizadas e pior remuneradas do mercado de trabalho.\n\n**Conceito-chave:** Interseccionalidade — diferentes eixos de discriminação (gênero, raça, classe) se combinam e aprofundam as desigualdades.",
+      "fonte": "fuvest_oficial",
+      "fonte_url": "https://www.fuvest.br/wp-content/uploads/fuvest2023_primeira_fase_prova_V.pdf"
+    },
+    {
+      "numero": 22,
+      "ano": 2023,
+      "titulo": "Questão 22 - FUVEST 2023",
+      "enunciado": "Joana comprou um celular e dividiu o pagamento em 24 parcelas mensais que formam uma progressão aritmética crescente. As três primeiras p arcelas foram de R$ 120,00, R$ 126,00 e R$ 132,00. Sabendo que, ao final, constatou-se que Joana não pagou a 19a parcela, o valor pago por ela foi:",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) R$ 3.954,00",
+        "B) R$ 4.026,00",
+        "C) R$ 4.200,00",
+        "D) R$ 4.308,00",
+        "E) R$ 4.382,00"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "**Resposta correta: D.** É uma PA com a₁=120 e razão 6 (24 termos). A soma das 24 parcelas é S=(120+258)·24/2=4536. Como a 19ª parcela (a₁₉=120+18·6=228) não foi paga, Joana pagou 4536−228 = R$ 4.308,00.\n\n**Conceito-chave:** Progressão aritmética — aₙ=a₁+(n−1)r e Sₙ=(a₁+aₙ)·n/2.",
+      "fonte": "fuvest_oficial",
+      "fonte_url": "https://www.fuvest.br/wp-content/uploads/fuvest2023_primeira_fase_prova_V.pdf"
+    },
+    {
+      "numero": 27,
+      "ano": 2023,
+      "titulo": "Questão 27 - FUVEST 2023",
+      "enunciado": "O estado de São Paulo, por sua s características climáticas, apresenta, no outono e no inverno, proba bilidade de ocorrência de geada. MARTINELLI, Marcelo. Clima do Estado de São Paulo, Confins, 2010. Com base em seu conhecimento sobre o estado de São Paulo e os fatores que contribuem para a formação de geadas, é correto inferir que a maior ocorrência de geadas no estado de São Paulo está associada",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) às maiores altitudes da Serra da Mantiqueira, que contribuem para reduzir a temperatura do ar.",
+        "B) às baixas altitudes do Vale do rio Ribeira de Iguape, que contribuem para a entrada de ar frio.",
+        "C) ao efeito da maritimidade, que injeta ar frio para o continente, diminuindo a temperatura do ar.",
+        "D) às grandes extensões do Planalto Ocidental Paulista, que favorecem o acúmulo de ar frio.",
+        "E) à ausência de cobertura vegetal em grande parte do território paulista, que potencializa o resfriamento noturno."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "**Resposta correta: A.** As geadas em São Paulo concentram-se nas maiores altitudes (Serra da Mantiqueira), pois a altitude reduz a temperatura e favorece a perda de calor nas noites de inverno.\n\n**Conceito-chave:** Fatores climáticos — influência da altitude na temperatura e na formação de geadas.",
+      "fonte": "fuvest_oficial",
+      "fonte_url": "https://www.fuvest.br/wp-content/uploads/fuvest2023_primeira_fase_prova_V.pdf"
+    },
+    {
+      "numero": 30,
+      "ano": 2023,
+      "titulo": "Questão 30 - FUVEST 2023",
+      "enunciado": "“Mas não medimos os tempos que passam, quando os medimos pela sensibilidade. Q uem pode medir os tempos passados que já não existem ou os futuros que ainda não chegaram? Só se alguém se atrever a dizer que pode medir o que não existe! Quando está decorrendo o tempo, pode percebê-lo e medi-lo. Quando, porém, já estiver decorrido, não o pode perceber nem medir, porque esse tempo já não existe”. Santo Agostinho. Confissões. O tempo físico e o tempo psic ológico se diferenciam na medida em que o primeiro se firma na objetividade e o segundo, na subjetividade. De acordo com os argumentos de Santo Agostinho, pode-se dizer que, no romance Angústia, de Graciliano Ramos, a passagem que melhor exprime a duração interior é:",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) “– 1910. Minto, 1911. 1911, Manuel?”",
+        "B) “Os galos marcavam o tempo, importunavam mais que os relógios.”",
+        "C) “Julião Tavares ia afastar-se, dissipar-se, virar neblina.”",
+        "D) “Mas no tempo não havia horas.”",
+        "E) “O espírito de Deus boiava sobre as águas.”"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "**Resposta correta: D.** Para Santo Agostinho, o tempo é medido na subjetividade. A passagem \"Mas no tempo não havia horas\" exprime a duração interior (tempo psicológico) no romance Angústia.\n\n**Conceito-chave:** Distinção entre tempo físico (objetivo) e tempo psicológico (subjetivo).",
+      "fonte": "fuvest_oficial",
+      "fonte_url": "https://www.fuvest.br/wp-content/uploads/fuvest2023_primeira_fase_prova_V.pdf"
+    },
+    {
+      "numero": 31,
+      "ano": 2023,
+      "titulo": "Questão 31 - FUVEST 2023",
+      "enunciado": "O filósofo David Hume apresent a a seguinte relação entre sensações (ou, em suas palavras, sentimentos) e ideias: “Em suma, todos os materiais do pensamento são derivados do nosso sentimento externo e interno. Apenas a mistura e composição destes materiais compete à mente e à vontade. Ou, para me expressar em linguagem filosófica, todas as nossas ideias ou percepções mais fracas são cópias das nossas impressões, ou percepções mais vívidas”. HUME, David. Investigação sobre o entendimento humano. Lisboa: Imprensa Nacional / Casa da Moeda, 2002. É possível tornar mais clara a concepção de Hume vinculando-a a fatos cotidianos. Qual situação confirma a relação proposta no excerto?",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) Algumas pessoas não sabem de onde vêm os seus sonhos.",
+        "B) Uma pessoa com boa memória pode se lembrar mais facilmente das suas ideias.",
+        "C) Uma pessoa que nunca experimentou guaraná não pode ter ideia do seu sabor.",
+        "D) É possível manter a ideia de um cavalo alado por muito tempo na mente.",
+        "E) Comer uma maçã envolve experiências sensoriais."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Resposta correta: C.** Para Hume, todas as ideias são cópias de impressões (sensações). Quem nunca experimentou o guaraná não pode ter a ideia do seu sabor, pois falta a impressão originária.\n\n**Conceito-chave:** Empirismo de Hume — as ideias derivam das impressões sensoriais.",
+      "fonte": "fuvest_oficial",
+      "fonte_url": "https://www.fuvest.br/wp-content/uploads/fuvest2023_primeira_fase_prova_V.pdf"
+    },
+    {
+      "numero": 41,
+      "ano": 2023,
+      "titulo": "Questão 41 - FUVEST 2023",
+      "enunciado": "“Eu quase fui um índio sacana, como meu tio. (...) Desses índio que são índio pela metade. Ou seja, qui nem índio, nem branco, nem cholo, nem negro, nem serrano, nem costeiro, nem camponês, nem equatoriano, nem estrangeiro, nem nada. Índio sacana, claro. Índio qu’está à vista de toda gente e ninguém vê, qu’está mesminho nas ruas todos os dias, caminhando pra lá pra cá, buscando trabalho nas porta de gente rica, de jardineiro, de mensageiro, cuidador de cachorros, saloneiro, caseiro, criador de crianças, de toda classe de trabalho. Chofer. O Equador está cheinho de índio sacana assim. Desse tipo d’índio que não é nada”. CARVALHO-NETO, Paulo de. Meu tio Atahualpa. Rio de Janeiro: Salamandra, 1978. A expressão “índio sacana”, presente no texto, faz referência a:",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) Uma parcela da população indígena caracterizada por sua autonomia e resistência às formas pós-coloniais de dominação.",
+        "B) Um grupo social cuja inserção na sociedade equatoriana foi complexa e limitada.",
+        "C) Uma etnia que historicamente alcançou a emancipação política e social por meio da assimilação da cultura europeia.",
+        "D) Um conjunto de indivíduos de nacionalidade estrangeira cujos hábitos e costumes contrastavam com os da população local.",
+        "E) Um segmento que ganhou v isibilidade por ocupar posições sociais de prestígio."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "**Resposta correta: B.** O \"índio sacana\" designa um grupo social cuja inserção na sociedade equatoriana foi complexa e limitada, restrito a trabalhos subalternos e socialmente invisível.\n\n**Conceito-chave:** Interpretação de texto — identidade e marginalização social do indígena.",
+      "fonte": "fuvest_oficial",
+      "fonte_url": "https://www.fuvest.br/wp-content/uploads/fuvest2023_primeira_fase_prova_V.pdf"
+    },
+    {
+      "numero": 42,
+      "ano": 2023,
+      "titulo": "Questão 42 - FUVEST 2023",
+      "enunciado": "“Os vadios são o ódio de todas as nações civilizadas, e contra eles se tem muitas vezes legislado; porém as regras comuns relativas a este ponto não podem ser aplicáveis ao território de Minas; porque estes vadios, que em outra parte seriam prejudiciais, são ali úteis”. Desembargador J.J. Teixeira Coelho. “Instruções para o governo da capitania de Minas Gerais (1780)”. Apud SOUZA, Laura de Mello e. Os desclassificados do ouro. A pobreza mineira no século XVIII. Rio de Janeiro: Graal, 1982. A partir da leitura do excerto, que aborda aspectos da sociedade mineira do século XVIII, é correto afirmar que, nessa sociedade,",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) os vadios viviam na ociosidade, o que provocava preocupações constantes nos administradores coloniais.",
+        "B) a legislação colonial limitava a circulação dos vadios pela colônia, impedindo-os de ingressar na região das Minas.",
+        "C) os vadios participavam de at ividades complementares à mineração, o que justificava a tolerância das autoridades locais.",
+        "D) os contratadores preferiam engajar vadios no trabalho nas minas, gerando revoltas dos trabalhadores especializados.",
+        "E) os vadios participavam ativamente do contrabando de ouro, o que motivava sucessivas ações policiais repressivas."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Resposta correta: C.** Na sociedade mineradora do século XVIII, os \"vadios\" eram tolerados pelas autoridades porque exerciam atividades complementares à mineração.\n\n**Conceito-chave:** Sociedade do ouro — trabalho avulso e controle social na Minas colonial.",
+      "fonte": "fuvest_oficial",
+      "fonte_url": "https://www.fuvest.br/wp-content/uploads/fuvest2023_primeira_fase_prova_V.pdf"
+    },
+    {
+      "numero": 46,
+      "ano": 2023,
+      "titulo": "Questão 46 - FUVEST 2023",
+      "enunciado": "“A Pólis apresenta-se como um universo homogêneo, sem hierarquia, sem planos diversos, sem diferenciação. (...) Segundo um ciclo regulamentado, a soberania passa de um grupo a outro, de um indivíduo a outro, de tal maneira que comandar e obedecer, em vez de se oporem como dois absolutos, tornam-se os dois termos inseparáveis de uma mesma relação reversível”. VERNANT, Jean-Pierre. As Origens do Pensamento Grego. Rio de Janeiro: Difel, 2002. Sobre a noção de pólis expressa no texto, é correto afirmar que ela pressupõe",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) uma concepção excludente do poder político.",
+        "B) uma oposição absoluta entre comando e obediência.",
+        "C) um modelo político de democracia representativa.",
+        "D) uma participação isonômica dos cidadãos.",
+        "E) uma ausência de soberania no espaço cívico."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "**Resposta correta: D.** Para Vernant, a pólis pressupõe a isonomia: a soberania circula entre os cidadãos e comandar/obedecer são termos reversíveis de uma mesma relação.\n\n**Conceito-chave:** Pólis grega — isonomia e participação política dos cidadãos.",
+      "fonte": "fuvest_oficial",
+      "fonte_url": "https://www.fuvest.br/wp-content/uploads/fuvest2023_primeira_fase_prova_V.pdf"
+    },
+    {
+      "numero": 52,
+      "ano": 2023,
+      "titulo": "Questão 52 - FUVEST 2023",
+      "enunciado": "Recentemente a região do Sahel, na África, vivenciou golpes de Estado em quatro países: Sudão, Mali, Chade e Burkina Faso. Podem ser indicadas como causas da instabilidade política na região:",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) Atuação de potências estrangeiras, resquícios da colonização e alto desenvolvimento tecnológico.",
+        "B) Abundância de recursos naturais, atuação de movimentos separatistas e desigualdade socioeconômica.",
+        "C) Escassez de recursos naturais, alto desenvolvimento tecnológico e diversidade étnica.",
+        "D) Desigualdade socioeconômica , diversidade étnica e elevada produção agrícola.",
+        "E) Escassez de recursos naturais, diversidade étnica e resquícios da colonização."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "**Resposta correta: E.** A instabilidade no Sahel associa-se à escassez de recursos naturais, à diversidade étnica e aos resquícios da colonização (fronteiras artificiais e disputas de poder).\n\n**Conceito-chave:** Geopolítica africana — heranças coloniais e conflitos no Sahel.",
+      "fonte": "fuvest_oficial",
+      "fonte_url": "https://www.fuvest.br/wp-content/uploads/fuvest2023_primeira_fase_prova_V.pdf"
+    },
+    {
+      "numero": 55,
+      "ano": 2023,
+      "titulo": "Questão 55 - FUVEST 2023",
+      "enunciado": "“Todos os homens, por natureza, tendem ao saber. Sinal disso é o amor pelas sensações. De fato, eles amam as sensações por si mesmas, independentemente de sua utilidade e amam, acima de todas, a sensação da visão. Com efeito, não só em vista da ação, mas mesmo sem nenhuma intenção de agir, nós preferimos o ver, em certo sentido, a todas as outras sensações. E o motivo está no fato de que a visão nos proporciona mais conhecimento do que todas as outras sensações e nos torna manifestas numerosas diferenças entre as coisas”. Aristóteles. Metafísica, São Paulo: Loyola, 2002. Nessa passagem, a tese principal apresentada por Aristóteles é a de que “todos os homens, por natureza, tendem ao saber”. Com base na construção do argumento, descrever a sensação da visão tem, como função principal, a seguinte tarefa:",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) Delimitar a tese, mostrando que o conhecimento se dá sobretudo nas sensações.",
+        "B) Explicar a tese, mostrando qual o significado da tendência ao conhecimento.",
+        "C) Refutar a tese, mostrando que o amor às sensações se sobrepõe à tendência ao saber.",
+        "D) Deduzir consequências da tese, mostrando as implicações da tendência humana ao saber.",
+        "E) Sustentar a tese, mostrando que o privilégio dessa sensação se deve à sua relação com o saber."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "**Resposta correta: E.** A descrição da visão serve para sustentar a tese de que todos tendem ao saber, já que é a sensação que mais proporciona conhecimento.\n\n**Conceito-chave:** Estrutura argumentativa — a função de um exemplo na sustentação da tese (Aristóteles).",
+      "fonte": "fuvest_oficial",
+      "fonte_url": "https://www.fuvest.br/wp-content/uploads/fuvest2023_primeira_fase_prova_V.pdf"
+    },
+    {
+      "numero": 66,
+      "ano": 2023,
+      "titulo": "Questão 66 - FUVEST 2023",
+      "enunciado": "O Brasil é o país recordista mundial em queda de raios, com uma estimativa de mais de 70 milhões de eventos desse tipo por ano. Uma descarga elétrica dessas pode envolver campos elétricos da ordem de dez kilovolts por metro e um deslocamento de 30 coulombs de carga em um milésimo de segundo. Com base nessas estimativas e assumindo o campo elétrico como sendo constante, a potência associada a um raio de 100 m de comprimento corresponde a:",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) 30 GW",
+        "B) 3 GW",
+        "C) 300 MW",
+        "D) 30 MW",
+        "E) 3 MW"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "**Resposta correta: A.** V=E·d=10⁴·100=10⁶ V; I=Q/t=30/10⁻³=3·10⁴ A; logo P=V·I=3·10¹⁰ W = 30 GW.\n\n**Conceito-chave:** Potência elétrica P=V·I, com V=E·d e I=Q/Δt.",
+      "fonte": "fuvest_oficial",
+      "fonte_url": "https://www.fuvest.br/wp-content/uploads/fuvest2023_primeira_fase_prova_V.pdf"
+    },
+    {
+      "numero": 84,
+      "ano": 2023,
+      "titulo": "Questão 84 - FUVEST 2023",
+      "enunciado": "Um professor precisa elaborar uma prova multidisciplinar que consta de duas questões de Matemática e seis de Física. Ele deve escolher questões de um banco de dados que contém três questões de Matemática e oito de Física. O número de provas distintas possíveis, sem levar em conta a ordem em que as questões aparecem, é:",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) 42",
+        "B) 54",
+        "C) 62",
+        "D) 72",
+        "E) 84"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "E",
+      "explicacao": "**Resposta correta: E.** Escolha por combinações: C(3,2)·C(8,6)=3·28=84 provas distintas.\n\n**Conceito-chave:** Análise combinatória — combinação simples C(n,p)=n!/[p!(n−p)!].",
+      "fonte": "fuvest_oficial",
+      "fonte_url": "https://www.fuvest.br/wp-content/uploads/fuvest2023_primeira_fase_prova_V.pdf"
+    },
+    {
+      "numero": 86,
+      "ano": 2023,
+      "titulo": "Questão 86 - FUVEST 2023",
+      "enunciado": "Para medir o volume de uma pedra com formato irregular, Ana utilizou um recipiente cilíndrico de raio r=8 c m e com água até a altura de 20 cm. Após colocar a pedra no recipiente, a altura da água subiu para 23,5 cm. O volume da pedra é:",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) 128π cm³",
+        "B) 224π cm³",
+        "C) 240π cm³",
+        "D) 282π cm³",
+        "E) 320π cm³"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "**Resposta correta: B.** O volume da pedra é igual ao da água deslocada: área da base × variação da altura = π·8²·(23,5−20)=64π·3,5=224π cm³.\n\n**Conceito-chave:** Volume do cilindro e princípio do deslocamento de líquidos.",
+      "fonte": "fuvest_oficial",
+      "fonte_url": "https://www.fuvest.br/wp-content/uploads/fuvest2023_primeira_fase_prova_V.pdf"
+    },
+    {
+      "numero": 87,
+      "ano": 2023,
+      "titulo": "Questão 87 - FUVEST 2023",
+      "enunciado": "Dado um número natural n≥2 , o primorial de n, denotado por n#, é o produto de todos os números primos menores que ou iguais a n. Por exemplo, 6 #=2⋅3⋅5=3 0. O menor número da forma n# que é maior que 2000 é:",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) 2300",
+        "B) 2305",
+        "C) 2310",
+        "D) 2312",
+        "E) 2322"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Resposta correta: C.** Primoriais: 2#=2, 3#=6, 5#=30, 7#=210, 11#=2310. O menor primorial maior que 2000 é 11# = 2310.\n\n**Conceito-chave:** Números primos e produto (primorial).",
+      "fonte": "fuvest_oficial",
+      "fonte_url": "https://www.fuvest.br/wp-content/uploads/fuvest2023_primeira_fase_prova_V.pdf"
+    }
+  ]
+}

@@ -14,3 +14,7 @@ scripts/falta.json
 scripts/fora_padrao.json
 scripts/para_completar.json
 scripts/restantes23.json
+
+# scratch vestibular
+vestibular/**/_*.txt
+vestibular/**/_*.json
