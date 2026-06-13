@@ -2,7 +2,7 @@
   "ano": 2019,
   "dia": 2,
   "total": 90,
-  "geradoEm": "2026-05-09T13:12:47Z",
+  "geradoEm": "2026-06-08T04:25:02Z",
   "questoes": [
     {
       "ano": 2019,
@@ -224,7 +224,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E esta correta:**\nA alternativa E está correta porque o azul é uma cor primária na visão tricromática humana. Pessoas com visão normal e pessoas com protanopia (que afeta a percepção do vermelho) ainda possuem receptores para o azul e para o verde. Portanto, quando expostos a um cartão azul, ambos os voluntários perceberão e identificarão a cor como azul, pois seus cones sensíveis ao azul funcionarão normalmente.\n\nAs outras alternativas estão incorretas. O vermelho seria percebido de forma diferente, pois a protanopia afeta justamente a percepção dessa cor. O magenta é uma cor secundária (mistura de vermelho e azul), e a dificuldade em perceber o vermelho comprometeria a identificação correta. O amarelo é outra cor secundária (mistura de vermelho e verde), e a protanopia também afetaria sua percepção. O branco é a combinação de todas as cores, e a ausência ou diminuição de um tipo de receptor de cor alteraria a percepção do branco.\n**Conceito-chave:** \nO conceito-chave para resolver esta questão é a **visão tricromática** e como o **daltonismo afeta a percepção das cores primárias**. Compreender que a protanopia especificamente afeta a percepção do vermelho, mas não necessariamente do azul ou verde, é crucial para determinar qual cor seria percebida de forma semelhante por ambos os voluntários.",
       "fonte": "correcao_manual",
       "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/98"
     },
@@ -280,7 +280,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "## Análise da Questão 10 do ENEM 2019 (Dia 2)\n\nA questão aborda as práticas de manejo de insetos em sistemas de produção de alimentos orgânicos. Vamos analisar cada alternativa:\n\n**1. Por que a alternativa D está correta:**\n\nA alternativa D, \"utilização de predadores naturais\", é a resposta correta porque o controle biológico, que se baseia na introdução ou conservação de organismos que predam ou parasitam as pragas, é uma das principais estratégias de manejo de insetos em sistemas orgânicos. Essa técnica imita os processos naturais, onde os predadores ajudam a manter as populações de insetos sob controle, evitando que causem danos significativos às plantações.\n\nAo utilizar predadores naturais, como joaninhas para combater pulgões ou vespas parasitoides para controlar lagartas, os produtores orgânicos evitam o uso de pesticidas químicos. Isso está em total consonância com os princípios da agricultura orgânica, que visa a sustentabilidade ambiental e a saúde humana, minimizando o impacto dos agrotóxicos.\n\n**2. Por que as outras alternativas estão erradas:**\n\nAs demais alternativas não se referem diretamente ao controle de insetos. A **adubação verde** (A) e a **compostagem** (B) são técnicas de melhoramento da fertilidade do solo. O **controle da irrigação do solo** (C) está relacionado à gestão da água e ao desenvolvimento das plantas, não ao controle direto de pragas. O **uso de sementes inoculadas com Rhizobium** (E) é uma prática para fixação de nitrogênio no solo, beneficiando leguminosas, mas não tem como objetivo principal o controle de insetos.\n\n**3. Conceito-chave que o aluno precisa dominar:**\n\nO conceito-chave que o aluno precisa dominar para responder a essa questão é o de **Manejo Integrado de Pragas (MIP)**, com foco nas **práticas de controle biológico** dentro da agricultura orgânica. É fundamental entender que a agricultura orgânica busca soluções que respeitem o meio ambiente e utilizem mecanismos naturais para o controle de pragas, em oposição aos métodos químicos convencionais.",
       "fonte": "correcao_manual",
       "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/100"
     },
@@ -1052,7 +1052,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "X",
-      "explicacao": "",
+      "explicacao": "**Questao anulada pelo INEP.** Esta questao foi oficialmente anulada na correcao do ENEM 2019 (Dia 2), portanto nao possui gabarito valido: a pontuacao foi atribuida a todos os participantes. Por esse motivo, nao ha alternativa correta a ser justificada.",
       "fonte": "anulada_inep",
       "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/128"
     },

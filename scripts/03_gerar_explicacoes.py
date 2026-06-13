@@ -82,11 +82,17 @@ def montar_prompt(q: dict) -> str:
         + (enunciado + "\n\n" if enunciado else "")
         + (intro + "\n\n" if intro else "")
         + ("Alternativas:\n" + alts + "\n\n" if alts else "")
-        + "Explique de forma didatica em portugues do Brasil, em ate 4 paragrafos curtos:\n"
-        + f"1. Por que a alternativa {correta} esta correta (1-2 paragrafos).\n"
-        + "2. Por que as outras alternativas estao erradas (de forma sucinta, junte tudo em 1 paragrafo).\n"
-        + "3. O conceito-chave que o aluno precisa dominar (1 paragrafo).\n\n"
-        + "Seja conciso, preciso e nao invente fatos."
+        + "Escreva uma explicacao didatica em portugues do Brasil seguindo "
+        + "EXATAMENTE este formato, com estes dois titulos em negrito (markdown **) "
+        + "e nada alem disso:\n\n"
+        + f"**Por que a alternativa {correta} esta correta:** (1 a 2 paragrafos "
+        + "explicando, de forma clara e direta, por que essa e a resposta certa)\n\n"
+        + "**Conceito-chave:** (1 paragrafo com o conceito principal que o aluno "
+        + "precisa dominar para resolver questoes parecidas)\n\n"
+        + "Regras: comece a resposta diretamente com \"**Por que a alternativa\"; "
+        + "use exatamente esses dois titulos; nao numere; nao crie uma secao "
+        + "\"por que as outras estao erradas\"; seja conciso e preciso; "
+        + "use acentuacao correta do portugues; nao invente fatos."
     )
 
 

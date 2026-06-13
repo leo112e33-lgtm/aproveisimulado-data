@@ -2,7 +2,7 @@
   "ano": 2022,
   "dia": 2,
   "total": 90,
-  "geradoEm": "2026-05-09T13:12:51Z",
+  "geradoEm": "2026-06-08T04:25:02Z",
   "questoes": [
     {
       "ano": 2022,
@@ -1876,7 +1876,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "X",
-      "explicacao": "",
+      "explicacao": "**Questao anulada pelo INEP.** Esta questao foi oficialmente anulada na correcao do ENEM 2022 (Dia 2), portanto nao possui gabarito valido: a pontuacao foi atribuida a todos os participantes. Por esse motivo, nao ha alternativa correta a ser justificada.",
       "fonte": "anulada_inep",
       "fonte_url": "https://api.enem.dev/v1/exams/2022/questions/157"
     },

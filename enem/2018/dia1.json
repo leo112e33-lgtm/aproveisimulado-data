@@ -2,7 +2,7 @@
   "ano": 2018,
   "dia": 1,
   "total": 90,
-  "geradoEm": "2026-05-09T13:12:46Z",
+  "geradoEm": "2026-06-08T04:22:13Z",
   "questoes": [
     {
       "ano": 2018,
@@ -1736,7 +1736,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "## Análise da Questão 62 do ENEM 2018\n\n**1. Por que a alternativa B está correta?**\n\nA alternativa B, \"busca da preeminência étnica sobre o espaço nacional\", é a correta porque o texto descreve a preocupação de setores da esquerda sionista em Israel com a possibilidade de uma maioria árabe \"entre o rio e o mar\" caso o país anexe a Cisjordânia e a Faixa de Gaza. Essa preocupação se baseia na diferença das taxas de natalidade entre árabes e judeus. A lógica por trás dessa preocupação é a de manter a predominância da população judaica em Israel, ou seja, garantir a preeminência étnica do grupo que fundou e governa o Estado.\n\nEssa busca por manter uma maioria étnica é um fator crucial na condução política de Israel em relação aos territórios palestinos. A anexação, mesmo que informal, alteraria o equilíbrio demográfico, ameaçando a identidade e o caráter judaico do Estado, conforme percebido por esses grupos. Portanto, a política de Israel, neste contexto, é guiada pela intenção de assegurar a supremacia de sua população étnica dentro de suas fronteiras.\n\n**2. Por que as outras alternativas estão erradas?**\n\nAs outras alternativas estão incorretas pois não refletem o cerne da preocupação apresentada no texto. A alternativa A é falsa, pois a questão demográfica está intrinsecamente ligada à interferência militar e ao controle territorial. A alternativa C é irrelevante, pois o texto não menciona a participação de Israel em blocos regionais. A alternativa D é incorreta, pois a geopolítica global tem um papel importante nas decisões de Israel, mas a preocupação central aqui é interna. Por fim, a alternativa E é refutada pelo fato de que a questão demográfica e a anexação de territórios são pontos de tensão com resoluções internacionais.\n\n**3. Conceito-chave a dominar:**\n\nO conceito-chave que o aluno precisa dominar para responder a esta questão é o de **nacionalismo étnico** e sua aplicação em contextos de conflito territorial e demográfico. Compreender como a identidade étnica e a composição populacional podem influenciar as políticas de Estado, especialmente em nações fundadas com base em um grupo étnico específico e que buscam manter essa característica, é fundamental. A questão aborda a preocupação com a \"maioria árabe\" como uma ameaça à identidade judaica de Israel, ilustrando a dinâmica do nacionalismo étnico em ação.",
       "fonte": "correcao_manual",
       "fonte_url": "https://api.enem.dev/v1/exams/2018/questions/62"
     },

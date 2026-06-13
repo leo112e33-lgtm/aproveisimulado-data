@@ -2,7 +2,7 @@
   "ano": 2019,
   "dia": 1,
   "total": 90,
-  "geradoEm": "2026-05-09T13:15:49Z",
+  "geradoEm": "2026-06-08T04:22:24Z",
   "questoes": [
     {
       "ano": 2019,
@@ -1036,7 +1036,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "Vamos analisar a questão do ENEM 2019:\n\n**1. Por que a alternativa D está correta:**\n\nA alternativa D está correta porque o texto exemplifica exatamente o que ela descreve. O caso dos alunos que se organizaram pelo Twitter para boicotar a cantina da escola demonstra como as redes sociais podem ser usadas para **agregar e empoderar grupos de pessoas**. Os adolescentes, ao se unirem, conseguiram chamar a atenção para a sua reivindicação, mostrando que a ferramenta pode ser utilizada para **causas próprias**, como a questão do preço do pão de queijo, e potencialmente para **mudanças sociais** mais amplas.\n\n**2. Por que as outras alternativas estão erradas:**\n\nAs outras alternativas estão incorretas porque não refletem o conteúdo do texto. A alternativa A está errada pois o texto não fala sobre discriminação das redes sociais por outros meios. A alternativa B está errada, pois o texto mostra o oposto: a reivindicação teve impacto fora da internet, chegando à TV e a páginas da internet. A alternativa C está errada, pois o movimento descrito foi pacífico, não violento. Por fim, a alternativa E está errada, pois o texto não sugere que os adolescentes usam a ferramenta inadequadamente ou que são imaturos; pelo contrário, demonstra uma organização eficaz.\n\n**3. Conceito-chave que o aluno precisa dominar:**\n\nO conceito-chave que o aluno precisa dominar para responder a esta questão é a **mobilização social através das tecnologias digitais**. É fundamental entender como as redes sociais, a internet e as ferramentas de comunicação online podem ser utilizadas por indivíduos e grupos para se organizarem, expressarem suas opiniões e buscarem a realização de objetivos comuns, sejam eles de pequena ou grande escala.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/37"
     },
@@ -1092,7 +1092,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "## Análise do Poema e Alternativas\n\n**1. Por que a alternativa B está correta:**\n\nA alternativa B, \"Amadurecimento revestido de ironia e desapego\", é a correta porque o poema retrata um eu lírico que, ao revisitar memórias de planos e desejos passados, demonstra uma postura de quem já superou a intensidade dessas emoções. A \"lua enlutada\", o \"desassossego\" e a \"convulsão de dentro\" podem ser interpretados como sentimentos intensos do passado, mas a forma como são apresentados agora, como algo \"devido\", sugere uma aceitação e distanciamento. A menção a \"coisas planejadas\" que \"se desfez no pórtico do tempo\" e a \"alma esvaziada\" indicam uma resignação, um desapego das idealizações e um olhar mais maduro sobre as experiências.\n\nEssa maturidade se manifesta na ironia sutil com que o eu lírico lista os desastres e perdas, como se fossem meros fatos a serem creditados a alguém ou a algo. Não há desespero ou revolta, mas sim uma constatação melancólica, porém desapegada, da efemeridade das coisas e da inevitabilidade do tempo. A ironia reside em apresentar a ruína e o vazio como algo \"devido\", quase como uma dívida paga, o que revela um distanciamento emocional e um amadurecimento na forma de lidar com as perdas.\n\n**2. Por que as outras alternativas estão erradas:**\n\nAs outras alternativas não se encaixam na leitura do poema. A alternativa A está incorreta pois o eu lírico não demonstra um \"cuidado em apagar da memória\", mas sim um inventário do que restou. A alternativa C é inadequada, pois o poema não é um \"mosaico de alegrias\", mas sim de desilusões e perdas. A alternativa D é refutada pela ausência de elementos que sugiram um \"desejo reprimido convertido em delírio\"; o tom é mais de constatação do que de alucinação. Por fim, a alternativa E, \"Arrependimento dos erros cometidos\", não é o sentimento predominante; o poema foca mais na perda e na desilusão do que em um sentimento de culpa por ações passadas.\n\n**3. Conceito-chave que o aluno precisa dominar:**\n\nO conceito-chave que o aluno precisa dominar para resolver essa questão é a **interpretação da voz poética e da subjetividade expressa no texto**. Isso envolve a capacidade de identificar o \"eu lírico\", seus sentimentos, sua visão de mundo e a forma como ele se relaciona com suas memórias e com o presente. É fundamental compreender que a poesia não é literal e que as palavras e imagens carregam significados implícitos que revelam o estado emocional e a perspectiva do autor. A habilidade de distinguir entre a descrição de um sentimento e a forma como esse sentimento é processado e apresentado pelo eu lírico é crucial.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2019/questions/39"
     },

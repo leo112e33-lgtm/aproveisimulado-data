@@ -2,7 +2,7 @@
   "ano": 2020,
   "dia": 2,
   "total": 90,
-  "geradoEm": "2026-05-09T13:12:48Z",
+  "geradoEm": "2026-06-08T04:25:02Z",
   "questoes": [
     {
       "ano": 2020,
@@ -1260,7 +1260,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "X",
-      "explicacao": "",
+      "explicacao": "**Questao anulada pelo INEP.** Esta questao foi oficialmente anulada na correcao do ENEM 2020 (Dia 2), portanto nao possui gabarito valido: a pontuacao foi atribuida a todos os participantes. Por esse motivo, nao ha alternativa correta a ser justificada.",
       "fonte": "anulada_inep",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/135"
     },
@@ -1512,7 +1512,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "B",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa B está correta:** A torneira goteja 5 gotas por segundo, e cada gota tem 5 × 10⁻² mL, logo a vazão é 5 × 0,05 = 0,25 mL/s. Como o balde de 18 L está com 50% da capacidade, faltam 9 L (9000 mL) para enchê-lo. O tempo necessário é 9000 ÷ 0,25 = 36000 s, que equivalem a 36000 ÷ 3600 = 10 horas.\n\n**Conceito-chave:** Vazão e conversão de unidades — calcular o volume escoado por unidade de tempo e converter corretamente entre mililitros/litros e segundos/horas para obter o tempo total.",
       "fonte": "correcao_manual",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/144"
     },
@@ -1876,7 +1876,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "X",
-      "explicacao": "",
+      "explicacao": "**Questao anulada pelo INEP.** Esta questao foi oficialmente anulada na correcao do ENEM 2020 (Dia 2), portanto nao possui gabarito valido: a pontuacao foi atribuida a todos os participantes. Por esse motivo, nao ha alternativa correta a ser justificada.",
       "fonte": "anulada_inep",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/157"
     },
@@ -2184,7 +2184,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa A está correta:** A base do recipiente mede 4 cm por 3 cm, portanto sua área é 4 × 3 = 12 cm². Para a água subir de 8 cm até 15 cm é preciso elevar a coluna em 7 cm, o que corresponde a um volume de 12 × 7 = 84 cm³. Como cada bolinha submersa ocupa (e desloca) 6 cm³ de água, o número mínimo de bolinhas é 84 ÷ 6 = 14.\n\n**Conceito-chave:** Volume de prisma e deslocamento de líquidos — o volume de água deslocado é igual ao volume dos corpos submersos; calcula-se a variação de volume (área da base × variação de altura) e divide-se pelo volume de cada objeto.",
       "fonte": "correcao_manual",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/168"
     },
@@ -2492,7 +2492,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E esta correta:**\nA alternativa E está correta porque o cálculo da massa total de papel produzido por um pé de eucalipto resulta em 93 kg. Para chegar a esse valor, multiplicamos o número de folhas (20.000) pela área de cada folha (0,062 m²) para obter a área total, e depois multiplicamos essa área pela densidade superficial (75 g/m²).\n\nAo realizar os cálculos: 20.000 folhas * 0,062 m²/folha * 75 g/m² = 93.000 gramas. Convertendo para quilogramas (dividindo por 1000), obtemos 93 kg.\n\nAs outras alternativas estão incorretas pois representam valores que não correspondem ao resultado do cálculo. Elas podem ter surgido de erros de arredondamento, de conversão de unidades incorreta (por exemplo, não converter gramas para quilogramas no final) ou de cálculos parciais equivocados.\n**Conceito-chave:** \nO conceito-chave que o aluno precisa dominar é a **análise dimensional e a conversão de unidades**. É fundamental entender como as unidades se cancelam em uma multiplicação e como realizar a conversão correta entre gramas e quilogramas para chegar à resposta final na unidade solicitada.",
       "fonte": "correcao_manual",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/179"
     },

@@ -2,7 +2,7 @@
   "ano": 2023,
   "dia": 2,
   "total": 90,
-  "geradoEm": "2026-05-09T13:08:36Z",
+  "geradoEm": "2026-06-08T04:24:07Z",
   "questoes": [
     {
       "ano": 2023,
@@ -1092,7 +1092,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "**Por que a alternativa E está correta:** O Aldrin é um composto apolar e altamente lipossolúvel (organoclorado de baixa polaridade). Substâncias com essa característica se acumulam em tecidos ricos em gordura. Entre os fluidos analisados, o leite materno é o mais rico em lipídios, sendo onde se concentra a maior quantidade do inseticida.\n\n**Conceept-chave:** Bioacumulação de poluentes lipofílicos — semelhante dissolve semelhante; substâncias apolares se concentram em compartimentos lipídicos do corpo (tecido adiposo, leite, fígado), atingindo bebês via amamentação.",
+      "explicacao": "**Por que a alternativa E está correta:** O Aldrin é um composto apolar e altamente lipossolúvel (organoclorado de baixa polaridade). Substâncias com essa característica se acumulam em tecidos ricos em gordura. Entre os fluidos analisados, o leite materno é o mais rico em lipídios, sendo onde se concentra a maior quantidade do inseticida.\n\n**Conceito-chave:** Bioacumulação de poluentes lipofílicos — semelhante dissolve semelhante; substâncias apolares se concentram em compartimentos lipídicos do corpo (tecido adiposo, leite, fígado), atingindo bebês via amamentação.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/129"
     },
@@ -2072,7 +2072,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "D",
-      "explicacao": "",
+      "explicacao": "## Análise da Questão 74 do ENEM 2023 (Dia 2)\n\nA questão 74 do ENEM 2023, que aborda dados sobre a gripe A-H1N1, exige a interpretação de um gráfico para identificar a categoria mais exposta ao vírus, excluindo os trabalhadores da saúde que já estão completamente imunizados.\n\n### Por que a alternativa D está correta?\n\nA alternativa D, \"Adultos entre 20 e 29 anos\", é a correta porque, de acordo com o gráfico, essa faixa etária apresenta a maior porcentagem de pessoas não vacinadas entre as categorias que ainda estão em processo de imunização. A exposição ao vírus é diretamente proporcional à falta de vacinação, pois a vacina é a principal ferramenta de proteção contra a doença.\n\nAo analisar o gráfico, observamos que, enquanto outras categorias como gestantes, doentes crônicos, indígenas e crianças de 6 meses a 2 anos possuem percentuais de não vacinados menores, a faixa etária de adultos entre 20 e 29 anos se destaca com a maior proporção de indivíduos sem a vacina. Isso indica que, dentro do grupo que ainda não atingiu a imunização completa, essa população é a que possui maior vulnerabilidade à infecção pelo vírus H1N1.\n\n### Por que as outras alternativas estão erradas?\n\nAs demais alternativas estão incorretas porque, ao compararmos os percentuais de não vacinados apresentados no gráfico, as categorias de Indígenas, Gestantes, Doentes crônicos e Crianças de 6 meses a 2 anos demonstram, em geral, uma menor proporção de indivíduos sem a vacina em relação aos adultos entre 20 e 29 anos. Embora essas outras categorias também apresentem um percentual de não vacinados, este é inferior ao da faixa etária de 20 a 29 anos, tornando-as menos expostas ao vírus, segundo os dados fornecidos.\n\n### Conceito-chave a dominar\n\nO conceito-chave que o aluno precisa dominar para resolver esta questão é a **interpretação de gráficos de barras ou similares**, especificamente a capacidade de **comparar valores entre diferentes categorias** e **identificar o maior ou menor percentual** em relação a um determinado critério (neste caso, a falta de vacinação como indicador de exposição ao vírus). É fundamental entender que a ausência de vacinação em uma população aumenta sua suscetibilidade à doença.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/164"
     },
@@ -2352,7 +2352,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "E",
-      "explicacao": "",
+      "explicacao": "**Por que a alternativa E está correta:** A pessoa parte da posição da estrela, voltada para o norte, e sobe mais quatro fileiras nessa direção, chegando à fileira I. Em seguida, olhando para a sua direita (leste), conta até a terceira poltrona, que é a de número 6. Logo, a poltrona é identificada por I6.\n\n**Conceito-chave:** Localização por coordenadas e orientação espacial — usar a referência de fileiras (letras) e posições (números), junto com os pontos cardeais e as noções de esquerda/direita, para localizar um ponto no plano.",
       "fonte": "correcao_manual",
       "fonte_url": "https://api.enem.dev/v1/exams/2023/questions/174"
     },

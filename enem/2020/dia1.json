@@ -2,7 +2,7 @@
   "ano": 2020,
   "dia": 1,
   "total": 90,
-  "geradoEm": "2026-05-09T13:15:49Z",
+  "geradoEm": "2026-06-08T04:22:36Z",
   "questoes": [
     {
       "ano": 2020,
@@ -616,7 +616,7 @@
       "imagem_principal": "enem/2020/dia1/img/q022_principal.png",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "## Análise da Questão 22 do ENEM 2020 (Dia 1)\n\n**1. Por que a alternativa A está correta:**\n\nA alternativa A é a correta porque o anúncio publicitário, ao apresentar a frase \"O esporte é para todos. Não é lugar para machismo\", aborda diretamente a questão da violência de gênero, especificamente o machismo, em eventos esportivos. A mensagem busca conscientizar o público sobre a necessidade de combater essa forma de discriminação, promovendo um ambiente mais inclusivo e seguro para todas as pessoas que praticam ou assistem a esportes.\n\nO anúncio, portanto, propõe uma solução para um problema social recorrente: a violência e o preconceito contra mulheres no universo esportivo. Ao chamar a atenção para o machismo, ele incentiva a reflexão e a mudança de atitudes, visando a redução dessas ocorrências e a promoção de um esporte livre de discriminação.\n\n**2. Por que as outras alternativas estão erradas:**\n\nAs demais alternativas estão incorretas pois não refletem o foco principal da mensagem publicitária. A alternativa B é inadequada, pois o anúncio não divulga políticas públicas, mas sim um posicionamento ético. A alternativa C é incorreta, pois não há menção a novas regras para torcidas. A alternativa D, embora mencione condutas ofensivas, foca no público masculino e em suas consequências, o que não é o cerne da mensagem, que é mais ampla e direcionada à erradicação do machismo. Por fim, a alternativa E é imprecisa, pois o anúncio não se limita a regulamentar normas de convivência, mas sim a combater uma forma específica de violência.\n\n**3. Conceito-chave que o aluno precisa dominar:**\n\nO conceito-chave que o aluno precisa dominar para resolver esta questão é a **interpretação de anúncios publicitários com viés social**. Isso envolve a capacidade de identificar o público-alvo, a mensagem principal, o problema social que está sendo abordado e a solução proposta pelo anúncio. É fundamental compreender que muitos anúncios vão além da venda de um produto ou serviço, buscando também conscientizar e influenciar o comportamento da sociedade em relação a questões importantes.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/22"
     },
@@ -644,7 +644,7 @@
       "imagem_principal": "",
       "imagens_extras": [],
       "correta": "A",
-      "explicacao": "",
+      "explicacao": "Vamos analisar a questão 23 do ENEM 2020.\n\n**1. Por que a alternativa A está correta:**\n\nA alternativa A está correta porque as repetições (\"dinheiro que chove em Nova York\", \"meu carro vermelho, importado da Alemanha\") e as frases curtas criam um efeito de insistência e superficialidade. O narrador repete a ideia de \"dinheiro chovendo\" e sua própria importância (\"sou digno do visto\", \"sou um grande administrador\") de forma quase obsessiva, mas sem apresentar argumentos sólidos ou reflexões profundas. Isso revela a futilidade de sua fala, que se baseia em ostentação e em um desejo de distinção social, sem conteúdo real.\n\nEssa repetição incessante e a estrutura fragmentada do discurso acabam por expor a vaidade e a superficialidade do narrador. Ele se vê como alguém merecedor de privilégios e de acesso a um lugar associado à riqueza, mas sua argumentação é frágil e centrada em si mesmo, evidenciando que seu discurso de poder e distinção é vazio.\n\n**2. Por que as outras alternativas estão erradas:**\n\nAs outras alternativas não se sustentam. O texto não foca em angústias existenciais (B), nem há uma ironia clara sobre a valorização da cultura norte-americana pelos brasileiros (C), embora Nova York seja o cenário. A ganância financeira do capitalismo (D) pode ser um pano de fundo, mas não é o foco principal do discurso do narrador, que se concentra em sua própria pessoa. Por fim, embora o texto possa tangenciar estereótipos, a crítica direta a eles (E) não é o procedimento linguístico central.\n\n**3. Conceito-chave:**\n\nO conceito-chave que o aluno precisa dominar para responder a essa questão é a **análise estilística e a relação entre forma e conteúdo**. É fundamental entender como os recursos linguísticos, como repetição e estrutura de frases, não são apenas detalhes, mas ferramentas que constroem o sentido e revelam as intenções do autor ou do narrador. Neste caso, a forma fragmentada e repetitiva do discurso é crucial para desvelar a superficialidade e a futilidade do narrador.",
       "fonte": "api.enem.dev",
       "fonte_url": "https://api.enem.dev/v1/exams/2020/questions/23"
     },
