@@ -12,19 +12,26 @@ W = d[0].rect.width; H = d[0].rect.height; mid = W/2
 SENT = "\x00"
 
 MARK = re.compile(r"^\s*QUEST[ÃA]O\s*0*(\d{1,2})\b", re.I)
-BASE = re.compile(r"(?i)(para responder|leia o|leia a).{0,90}?quest(?:ões|ao|ão)\s*(?:de\s*)?0*(\d{1,2})\s*(?:a|à|até)\s*0*(\d{1,2})")
+BOIL = re.compile(r"(?i)vnsp\s*\d|prova\s*objetiva|001-cg|confidencial at[eé]")
+BASE = re.compile(r"(?i)(?:para responder|leia|com base|considere|examine|observe|analise|tomando|a partir d).{0,200}?quest(?:ões|ão|ao)\s*(?:de\s+)?0*(\d{1,2})\s*(?:a|à|até|e)\s*0*(\d{1,2})")
 
 marks = {}; base_groups = []
 for pi in range(d.page_count):
     for blk in d[pi].get_text("dict").get("blocks", []):
+        bb_blk = blk["bbox"]; col_blk = 0 if bb_blk[0] < mid else 1
+        block_txt = ""
         for ln in blk.get("lines", []):
             t = "".join(s["text"] for s in ln.get("spans", [])).strip()
             bb = ln["bbox"]; col = 0 if bb[0] < mid else 1
             m = MARK.match(t)
             if m and 1 <= int(m.group(1)) <= 90:
-                marks[int(m.group(1))] = (pi, col, bb[1]); continue
-            b = BASE.search(t)
-            if b: base_groups.append((int(b.group(2)), int(b.group(3)), pi, col, bb[1]))
+                marks[int(m.group(1))] = (pi, col, bb[1])
+            block_txt += " " + t
+        b = BASE.search(re.sub(r"\s+", " ", block_txt))
+        if b:
+            a1, a2 = int(b.group(1)), int(b.group(2))
+            if 1 <= a1 <= 90 and a2 >= a1 and a2 - a1 <= 12:
+                base_groups.append((a1, a2, pi, col_blk, bb_blk[1]))
 
 cuts = defaultdict(list)
 for (pi, col, y) in marks.values(): cuts[(pi, col)].append(y)
@@ -51,12 +58,15 @@ _content_cache = {}
 def content_rects(pi):
     if pi in _content_cache: return _content_cache[pi]
     pg = d[pi]; imgs = []; draws = []
+    HD, FT = 54, H-28   # zona de cabecalho/rodape (decoracao da pagina)
     for blk in pg.get_text("dict").get("blocks", []):
         if blk.get("type") == 1:
-            imgs.append(fitz.Rect(blk["bbox"]))
+            r = fitz.Rect(blk["bbox"])
+            if r.y1 <= HD or r.y0 >= FT: continue
+            imgs.append(r)
     for dr in pg.get_drawings():
         r = dr.get("rect")
-        if r and r.width > 2 and r.height > 2:
+        if r and r.width > 2 and r.height > 5 and r.y1 > HD and r.y0 < FT:
             draws.append(fitz.Rect(r))
     _content_cache[pi] = (imgs, draws)
     return _content_cache[pi]
@@ -87,7 +97,9 @@ def extrai(pi, col, y0, y1, key):
             if ly0 < y0-2 or ly0 > y1-2: continue
             if lx1 < xl or lx0 > xr: continue
             t = "".join(s["text"] for s in ln.get("spans", []))
-            if MARK.match(re.sub(r"\s+", " ", t).strip()): continue
+            ts = re.sub(r"\s+", " ", t).strip()
+            if MARK.match(ts): continue
+            if BOIL.search(ts) or re.fullmatch(r"\d{1,3}", ts): continue  # cabecalho/rodape/num pagina
             linhas.append((ly0, ly1, t))
     linhas.sort()
     partes = []
