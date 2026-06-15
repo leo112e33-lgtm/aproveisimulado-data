@@ -1,0 +1,101 @@
+{
+  "versao": 1,
+  "materias": [
+    {
+      "nome": "Química",
+      "cor": "#00838F",
+      "topicos": [
+        {
+          "nome": "Nomenclatura",
+          "desafios": [
+            {
+              "p": "Qual é o nome IUPAC do hidrocarboneto de cadeia normal com 3 carbonos e apenas ligações simples?",
+              "alt": ["Propano", "Propeno", "Propino", "Etano"],
+              "c": 0,
+              "e": "Correta: Propano. Prefixo 'prop' (3 C) + infixo 'an' (saturado, só ligações simples) + sufixo 'o' (hidrocarboneto) = propano. Propeno (B) teria uma ligação dupla (infixo 'en'); propino (C) teria tripla (infixo 'in'); etano (D) tem só 2 carbonos (prefixo 'et').",
+              "fig": {"t": "mol", "nC": 3, "lig": 0, "f": 0, "nome": "propano"}
+            },
+            {
+              "p": "O composto CH₃—CH₂—OH é classificado como:",
+              "alt": ["Álcool", "Aldeído", "Ácido carboxílico", "Cetona"],
+              "c": 0,
+              "e": "Correta: Álcool. O grupo —OH ligado a um carbono saturado caracteriza a função álcool (etanol). Aldeído (B) tem —CHO na ponta; ácido carboxílico (C) tem —COOH; cetona (D) tem C=O entre dois carbonos.",
+              "fig": {"t": "mol", "nC": 2, "lig": 0, "f": 1, "nome": "etanol"}
+            }
+          ]
+        },
+        {
+          "nome": "Funções Inorgânicas",
+          "desafios": [
+            {
+              "p": "O composto HCl, em solução aquosa, é classificado como:",
+              "alt": ["Ácido", "Base", "Sal", "Óxido"],
+              "c": 0,
+              "e": "Correta: Ácido. Pela definição de Arrhenius, ácidos liberam H⁺ em água (HCl → H⁺ + Cl⁻). Bases (B) liberam OH⁻; sais (C) vêm da reação ácido+base; óxidos (D) são compostos binários com oxigênio."
+            },
+            {
+              "p": "Qual desses compostos é uma base?",
+              "alt": ["NaOH", "H₂SO₄", "NaCl", "CO₂"],
+              "c": 0,
+              "e": "Correta: NaOH (hidróxido de sódio) libera OH⁻ em água, é base. H₂SO₄ (B) é ácido; NaCl (C) é sal; CO₂ (D) é óxido ácido."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Matemática",
+      "cor": "#1565C0",
+      "topicos": [
+        {
+          "nome": "Geometria",
+          "desafios": [
+            {
+              "p": "Qual é a área de um quadrado de lado 6?",
+              "alt": ["36", "24", "12", "18"],
+              "c": 0,
+              "e": "Correta: 36. A área do quadrado é lado² = 6² = 36. O valor 24 (B) é o perímetro (4·6); 12 (C) e 18 (D) não correspondem a nenhuma medida do quadrado.",
+              "fig": {"t": "geo", "i": 0, "v": [6]}
+            },
+            {
+              "p": "Um triângulo tem base 10 e altura 4. Qual é a sua área?",
+              "alt": ["20", "40", "14", "28"],
+              "c": 0,
+              "e": "Correta: 20. Área do triângulo = (base·altura)/2 = (10·4)/2 = 20. O 40 (B) esqueceu de dividir por 2; 14 (C) somou base+altura; 28 não corresponde.",
+              "fig": {"t": "geo", "i": 2, "v": [10, 4]}
+            }
+          ]
+        },
+        {
+          "nome": "Porcentagem",
+          "desafios": [
+            {
+              "p": "Quanto é 20% de 150?",
+              "alt": ["30", "20", "15", "75"],
+              "c": 0,
+              "e": "Correta: 30. 20% = 0,20; logo 0,20·150 = 30. O 20 (B) confunde a porcentagem com o resultado; 15 (C) seria 10%; 75 (D) seria 50%."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Física",
+      "cor": "#6A1B9A",
+      "topicos": [
+        {
+          "nome": "Dinâmica",
+          "desafios": [
+            {
+              "p": "Uma força resultante de 10 N atua sobre um corpo de 2 kg. Qual é a aceleração?",
+              "alt": ["5 m/s²", "20 m/s²", "8 m/s²", "12 m/s²"],
+              "c": 0,
+              "e": "Correta: 5 m/s². Pela 2ª Lei de Newton, F = m·a → a = F/m = 10/2 = 5 m/s². O 20 (B) multiplicou em vez de dividir; 8 (C) subtraiu; 12 (D) somou.",
+              "fig": {"t": "fis", "i": 3, "v": [2, 5]}
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
