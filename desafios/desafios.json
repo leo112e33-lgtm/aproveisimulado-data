@@ -1506,16 +1506,7 @@
         "12 cm"
        ],
        "c": 1,
-       "e": "Pelo Teorema de Pitágoras: hipotenusa² = 6²+8² = 36+64 = 100, logo hipotenusa = √100 = 10 cm. A 14 soma os catetos. A 48 multiplica os catetos. A 12 estima errado. O correto usa a raiz da soma dos quadrados: 10.",
-       "fig": {
-        "t": "geo",
-        "i": 3,
-        "v": [
-         6,
-         8,
-         10
-        ]
-       }
+       "e": "Pelo Teorema de Pitágoras: hipotenusa² = 6²+8² = 36+64 = 100, logo hipotenusa = √100 = 10 cm. A 14 soma os catetos. A 48 multiplica os catetos. A 12 estima errado. O correto usa a raiz da soma dos quadrados: 10."
       },
       {
        "p": "Qual é a área de um paralelogramo de base 9 cm e altura 4 cm?",
@@ -1563,14 +1554,7 @@
         "18 m"
        ],
        "c": 0,
-       "e": "Como área = lado², o lado = √81 = 9 m. A 40,5 divide a área por 2. A 20,25 divide por 4 (confunde com perímetro). A 18 faz raiz errada. O correto extrai a raiz quadrada da área: 9.",
-       "fig": {
-        "t": "geo",
-        "i": 0,
-        "v": [
-         9
-        ]
-       }
+       "e": "Como área = lado², o lado = √81 = 9 m. A 40,5 divide a área por 2. A 20,25 divide por 4 (confunde com perímetro). A 18 faz raiz errada. O correto extrai a raiz quadrada da área: 9."
       },
       {
        "p": "A soma dos ângulos internos de um triângulo é sempre:",
