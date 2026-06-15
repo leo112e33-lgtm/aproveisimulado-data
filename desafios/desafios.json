@@ -2541,15 +2541,7 @@
         "20 m/s"
        ],
        "c": 1,
-       "e": "Usando v = v0 + a·t = 0 + 2·5 = 10 m/s (B). A (5 m/s) ignoraria a aceleração ou usaria t errado; C (15 m/s) e D (20 m/s) resultam de tempos ou acelerações incorretos. A relação é linear: em 5 s a 2 m/s², ganha-se 10 m/s.",
-       "fig": {
-        "t": "fis",
-        "i": 3,
-        "v": [
-         1,
-         2
-        ]
-       }
+       "e": "Usando v = v0 + a·t = 0 + 2·5 = 10 m/s (B). A (5 m/s) ignoraria a aceleração ou usaria t errado; C (15 m/s) e D (20 m/s) resultam de tempos ou acelerações incorretos. A relação é linear: em 5 s a 2 m/s², ganha-se 10 m/s."
       },
       {
        "p": "Um móvel percorre 100 m em 20 s com velocidade constante. Qual é essa velocidade?",
@@ -2659,15 +2651,7 @@
         "44 m"
        ],
        "c": 1,
-       "e": "Δs = v0·t + (a·t²)/2 = 5·4 + (2·16)/2 = 20 + 16 = 36 m (B). A (28 m) erra a parcela acelerada; C (20 m) considera só v0·t; D (44 m) soma errado. A distância é 36 m.",
-       "fig": {
-        "t": "fis",
-        "i": 3,
-        "v": [
-         1,
-         2
-        ]
-       }
+       "e": "Δs = v0·t + (a·t²)/2 = 5·4 + (2·16)/2 = 20 + 16 = 36 m (B). A (28 m) erra a parcela acelerada; C (20 m) considera só v0·t; D (44 m) soma errado. A distância é 36 m."
       },
       {
        "p": "Convertendo 72 km/h para m/s, obtemos:",
@@ -2900,15 +2884,7 @@
         "2,5 kg"
        ],
        "c": 0,
-       "e": "m = P/g = 250/10 = 25 kg (A). B (2500 kg) multiplicaria; C (250 kg) ignoraria g; D (2,5 kg) divide errado. A massa é 25 kg.",
-       "fig": {
-        "t": "fis",
-        "i": 4,
-        "v": [
-         25,
-         10
-        ]
-       }
+       "e": "m = P/g = 250/10 = 25 kg (A). B (2500 kg) multiplicaria; C (250 kg) ignoraria g; D (2,5 kg) divide errado. A massa é 25 kg."
       },
       {
        "p": "Duas forças de 6 N e 8 N atuam perpendicularmente num corpo. Qual a resultante?",
@@ -2951,15 +2927,7 @@
         "15 kg"
        ],
        "c": 0,
-       "e": "m = F/a = 12/3 = 4 kg (A). B (36 kg) multiplicaria; C (9 kg) subtrairia; D (15 kg) somaria. A massa é 4 kg.",
-       "fig": {
-        "t": "fis",
-        "i": 3,
-        "v": [
-         4,
-         3
-        ]
-       }
+       "e": "m = F/a = 12/3 = 4 kg (A). B (36 kg) multiplicaria; C (9 kg) subtrairia; D (15 kg) somaria. A massa é 4 kg."
       },
       {
        "p": "O coeficiente de atrito entre dois corpos é 0,5 e a normal é 40 N. Qual a força de atrito máxima?",
@@ -3030,16 +2998,7 @@
         "2,5 m/s²"
        ],
        "c": 1,
-       "e": "a = g·sen30° = 10·0,5 = 5 m/s² (B). A (10 m/s²) seria queda livre; C usaria cosseno; D divide errado. A aceleração é 5 m/s², independente da massa.",
-       "fig": {
-        "t": "fis",
-        "i": 6,
-        "v": [
-         1,
-         30,
-         10
-        ]
-       }
+       "e": "a = g·sen30° = 10·0,5 = 5 m/s² (B). A (10 m/s²) seria queda livre; C usaria cosseno; D divide errado. A aceleração é 5 m/s², independente da massa."
       },
       {
        "p": "Qual a tração no fio que sustenta em repouso um corpo de 5 kg? (g=10 m/s²)",
@@ -3167,15 +3126,7 @@
         "50 m/s"
        ],
        "c": 0,
-       "e": "Por conservação: m·g·h = (m·v²)/2 → v = √(2·g·h) = √(2·10·5) = √100 = 10 m/s (A). B (100 m/s) esqueceria a raiz; C (5 m/s) e D (50 m/s) erram. A velocidade é 10 m/s.",
-       "fig": {
-        "t": "fis",
-        "i": 4,
-        "v": [
-         1,
-         10
-        ]
-       }
+       "e": "Por conservação: m·g·h = (m·v²)/2 → v = √(2·g·h) = √(2·10·5) = √100 = 10 m/s (A). B (100 m/s) esqueceria a raiz; C (5 m/s) e D (50 m/s) erram. A velocidade é 10 m/s."
       },
       {
        "p": "Qual o trabalho da força peso ao elevar um corpo de 3 kg a 2 m de altura? (g=10 m/s²)",
@@ -3293,15 +3244,7 @@
         "2,5 m"
        ],
        "c": 1,
-       "e": "(m·v²)/2 = m·g·h → h = v²/(2g) = 100/20 = 5 m (B). A (10 m) esqueceria o 2g; C (20 m) e D (2,5 m) erram. A altura é 5 m.",
-       "fig": {
-        "t": "fis",
-        "i": 4,
-        "v": [
-         1,
-         10
-        ]
-       }
+       "e": "(m·v²)/2 = m·g·h → h = v²/(2g) = 100/20 = 5 m (B). A (10 m) esqueceria o 2g; C (20 m) e D (2,5 m) erram. A altura é 5 m."
       },
       {
        "p": "Um trabalho de 400 J é feito em 8 s. A potência média é:",
