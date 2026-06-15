@@ -639,14 +639,14 @@
       "numero": 31,
       "ano": 2022,
       "titulo": "Questão 31 - FUVEST 2022",
-      "enunciado": "O sistema de numeração conhecido como chinês científico (ou \nem barras) surgiu provavelmente há mais de dois milênios. O \nsistema é essencialmente posicional, de base 10, com o \nprimeiro algarismo à direita representando a unidade. A \nprimeira linha horizontal de símbolos da figura mostra como \nse representam os algarismos 1, 2, 3, 4, 5, 6, 7, 8 e 9 quando \naparecem em posições ímpares (unidades, centenas etc.), e a \nsegunda linha quando tais algarismos aparecem em posições \npares (dezenas, milhares etc.). Nesse sistema, passou-se a \nusar um círculo para representar o algarismo zero a partir da \nDinastia Sung (960-1126). \n![](vestibular/fuvest/img/2022_q31_fig1.png)\nHoward Eves, Introdução à História da Matemática. Tradução: Hygino H. \nDomingues. Editora Unicamp, 2011 (5ª ed.). \nAssinale a alternativa que representa o número 91625 nesse \nsistema de numeração.",
+      "enunciado": "O sistema de numeração conhecido como chinês científico (ou \nem barras) surgiu provavelmente há mais de dois milênios. O \nsistema é essencialmente posicional, de base 10, com o \nprimeiro algarismo à direita representando a unidade. A \nprimeira linha horizontal de símbolos da figura mostra como \nse representam os algarismos 1, 2, 3, 4, 5, 6, 7, 8 e 9 quando \naparecem em posições ímpares (unidades, centenas etc.), e a \nsegunda linha quando tais algarismos aparecem em posições \npares (dezenas, milhares etc.). Nesse sistema, passou-se a \nusar um círculo para representar o algarismo zero a partir da \nDinastia Sung (960-1126). \nHoward Eves, Introdução à História da Matemática. Tradução: Hygino H. \nDomingues. Editora Unicamp, 2011 (5ª ed.). \nAssinale a alternativa que representa o número 91625 nesse \nsistema de numeração.\n\n![](vestibular/fuvest/img/2022_q31_altimg.png)",
       "alternativas_introducao": "",
       "alternativas": [
-        "A) ",
-        "B) ",
-        "C) ",
-        "D) ",
-        "E) "
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
       ],
       "imagens_alternativas": [],
       "imagem_principal": "",
@@ -681,14 +681,14 @@
       "numero": 33,
       "ano": 2022,
       "titulo": "Questão 33 - FUVEST 2022",
-      "enunciado": "Uma indústria produz três modelos de cadeiras (indicadas por \n𝑀ଵ, 𝑀ଶ e 𝑀ଷ), cada um deles em duas opções de cores: preta \ne vermelha (indicadas por P e V, respectivamente). A tabela \nmostra o número de cadeiras produzidas semanalmente \nconforme a cor e o modelo: \n![](vestibular/fuvest/img/2022_q33_fig1.png)\nAs porcentagens de cadeiras com defeito são de 2% do \nmodelo 𝑀ଵ, 5% do modelo 𝑀ଶ e 8% do modelo 𝑀ଷ. As cadeiras \nque não apresentam defeito são denominadas boas. \nA tabela que indica o número de cadeiras produzidas \nsemanalmente com defeito (D) e boas (B), de acordo com a \ncor, é: \n![](vestibular/fuvest/img/2022_q33_fig2.png)",
+      "enunciado": "Uma indústria produz três modelos de cadeiras (indicadas por \n𝑀ଵ, 𝑀ଶ e 𝑀ଷ), cada um deles em duas opções de cores: preta \ne vermelha (indicadas por P e V, respectivamente). A tabela \nmostra o número de cadeiras produzidas semanalmente \nconforme a cor e o modelo: \nAs porcentagens de cadeiras com defeito são de 2% do \nmodelo 𝑀ଵ, 5% do modelo 𝑀ଶ e 8% do modelo 𝑀ଷ. As cadeiras \nque não apresentam defeito são denominadas boas. \nA tabela que indica o número de cadeiras produzidas \nsemanalmente com defeito (D) e boas (B), de acordo com a \ncor, é:\n\n![](vestibular/fuvest/img/2022_q33_altimg.png)",
       "alternativas_introducao": "",
       "alternativas": [
-        "A) ![](vestibular/fuvest/img/2022_q33_fig3.png)",
-        "B) ![](vestibular/fuvest/img/2022_q33_fig4.png)",
-        "C) ![](vestibular/fuvest/img/2022_q33_fig5.png)",
-        "D) ![](vestibular/fuvest/img/2022_q33_fig6.png)",
-        "E) "
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
       ],
       "imagens_alternativas": [],
       "imagem_principal": "",
@@ -765,14 +765,14 @@
       "numero": 37,
       "ano": 2022,
       "titulo": "Questão 37 - FUVEST 2022",
-      "enunciado": "A figura mostra um quadrado e um círculo, ambos com centro no \nponto 𝑂. O quadrado tem lado medindo 1 unidade de medida \n(u.m.) e o círculo tem raio igual a 2 u.m. O ponto 𝐴 está sobre o \ncontorno do quadrado, o ponto 𝐵 está sobre o contorno do círculo, \ne o segmento 𝐴𝐵 tem tamanho 2 u.m. \n![](vestibular/fuvest/img/2022_q37_fig1.png)\nQuando o ângulo 𝜃= 𝐴𝑂෠𝐵 for máximo, seu cosseno será: \nଵ\n଼",
+      "enunciado": "A figura mostra um quadrado e um círculo, ambos com centro no \nponto 𝑂. O quadrado tem lado medindo 1 unidade de medida \n(u.m.) e o círculo tem raio igual a 2 u.m. O ponto 𝐴 está sobre o \ncontorno do quadrado, o ponto 𝐵 está sobre o contorno do círculo, \ne o segmento 𝐴𝐵 tem tamanho 2 u.m. \nQuando o ângulo 𝜃= 𝐴𝑂෠𝐵 for máximo, seu cosseno será: \nଵ\n଼\n\n![](vestibular/fuvest/img/2022_q37_altimg.png)",
       "alternativas_introducao": "",
       "alternativas": [
-        "A) ଵ ସ",
-        "B) ଵ ଶ",
-        "C) ",
-        "D) √ଶ ଶ",
-        "E) √ଷ ଶ V Concurso Vestibular FUVEST − 2022"
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
       ],
       "imagens_alternativas": [],
       "imagem_principal": "",
@@ -1584,14 +1584,14 @@
       "numero": 76,
       "ano": 2022,
       "titulo": "Questão 76 - FUVEST 2022",
-      "enunciado": "O hidróxido de alumínio (Al (OH)3), ao precipitar em solução \naquosa, forma um sólido gelatinoso que pode ser usado como \nagente floculante no tratamento de água. Essa precipitação pode \nocorrer pela adição de um hidróxido solúvel a uma solução \naquosa ácida contendo um sal de alumínio solúvel, como o AlCl3. \nEntretanto, adicionando-se excesso de hidróxido ao meio, há a \nformação de íons Al(OH)4−, espécie solúvel em água, e o \nprecipitado se solubiliza novamente. Dessa forma, dependendo \ndo pH do meio, uma dentre as espécies Al(OH)4−(aq), Al (OH)3(s) \ne Al 3+(aq) estará presente na solução em quantidade maior que \nas demais, como exemplificado no esquema. \nA alternativa que mostra corretamente qual das espécies estará \nem quantidade maior que as duas outras em cada faixa de pH é:",
+      "enunciado": "O hidróxido de alumínio (Al (OH)3), ao precipitar em solução \naquosa, forma um sólido gelatinoso que pode ser usado como \nagente floculante no tratamento de água. Essa precipitação pode \nocorrer pela adição de um hidróxido solúvel a uma solução \naquosa ácida contendo um sal de alumínio solúvel, como o AlCl3. \nEntretanto, adicionando-se excesso de hidróxido ao meio, há a \nformação de íons Al(OH)4−, espécie solúvel em água, e o \nprecipitado se solubiliza novamente. Dessa forma, dependendo \ndo pH do meio, uma dentre as espécies Al(OH)4−(aq), Al (OH)3(s) \ne Al 3+(aq) estará presente na solução em quantidade maior que \nas demais, como exemplificado no esquema. \nA alternativa que mostra corretamente qual das espécies estará \nem quantidade maior que as duas outras em cada faixa de pH é:\n\n![](vestibular/fuvest/img/2022_q76_altimg.png)",
       "alternativas_introducao": "",
       "alternativas": [
-        "A) ",
-        "B) ",
-        "C) ",
-        "D) ",
-        "E) "
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
       ],
       "imagens_alternativas": [],
       "imagem_principal": "",

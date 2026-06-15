@@ -278,11 +278,11 @@
       "enunciado": "Os cães podem ser treinados para identificar certas substâncias, dentre elas, a cocaína. Contudo, no treinamento, os cães não precisam ser expostos à cocaína para aprenderem a reconhecer o seu odor. O treinamento pode ser realizado com o benzoato de metila, um éster de odor pungente, produto volátil da degradação da cocaína.\n\n![](vestibular/fuvest/img/2023_q11_fig1.png)\n\nConsiderando o exposto, qual das reações representadas poderia gerar o mesmo éster capaz de atrair um cão treinado para a identificação de cocaína?",
       "alternativas_introducao": "",
       "alternativas": [
-        "A) ",
-        "B) ",
-        "C) ",
-        "D) ",
-        "E) "
+        "A) Ácido benzoico (C6H5-COOH) + metanol (CH3-OH), em meio ácido (H+), formando benzoato de metila (C6H5-COO-CH3) + água — esterificação de Fischer.",
+        "B) Benzoato de sódio (C6H5-COONa) + metanol (CH3-OH) — não forma o éster (exigiria meio adequado; não gera benzoato de metila nessas condições).",
+        "C) Ácido benzoico (C6H5-COOH) + etanol (CH3-CH2-OH), em meio ácido, formando benzoato de etila (C6H5-COO-CH2-CH3) + água — éster diferente (não é benzoato de metila).",
+        "D) Ácido pentanoico (CH3-CH2-CH2-CH2-COOH) + metanol (CH3-OH), em meio ácido, formando pentanoato de metila + água — éster diferente.",
+        "E) Benzeno (C6H6) + cloreto de acila/derivado, via alquilação de Friedel-Crafts (catálise por AlCl3) — não gera o éster benzoato de metila."
       ],
       "imagens_alternativas": [
         null,
@@ -360,11 +360,11 @@
       "enunciado": "O odor característico de peixes deve-se à base metilamina (CH3–NH2). Esse odor pode ser minimizado lavando-se o peixe, por exemplo, com suco de limão. Assinale a alternativa que apresenta a estrutura de um dos produtos dessa reação ácidobase.",
       "alternativas_introducao": "",
       "alternativas": [
-        "A) ",
-        "B) ",
-        "C) ",
-        "D) ",
-        "E) "
+        "A) CH3-NH2 (metilamina neutra, sem alteração) — não é produto da reação ácido-base.",
+        "B) CH3-COO- (íon acetato/carboxilato) — não corresponde à protonação da amina.",
+        "C) CH3-NH3+ (cátion metilamônio: nitrogênio com carga positiva ligado a três H e ao grupo CH3) — produto da protonação da metilamina.",
+        "D) CH3-NH-CH3 (dimetilamina) — não é produto da reação.",
+        "E) CH3-O- ou CH3-NO2 (espécie sem relação com a neutralização ácido-base da amina)."
       ],
       "imagens_alternativas": [
         null,
