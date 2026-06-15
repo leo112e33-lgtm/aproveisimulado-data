@@ -1,85 +1,48 @@
 # -*- coding: utf-8 -*-
-"""Monta vestibular/unicamp/2023.json (formato ENEM) a partir de:
-- _unicamp_extract.json (enunciado, alternativas, figuras inline)
-- _unicamp_especiais.json (Q33/Q51 imagem; Q72 imagens_alternativas)
-- _unicamp_gab_autoritativo.json (correta; ANULADA -> X)
-- _uexpl_*.json + _uregen_*.json (explicacoes; regen sobrescreve)"""
-import json, os, re, glob
+"""Monta vestibular/unicamp/<ANO>.json (formato ENEM). Uso: python unicamp_build_json.py <ANO>
+Fontes: _unicamp_extract_<ANO>.json, _unicamp_especiais_<ANO>.json (opcional),
+_unicamp_gab_autoritativo_<ANO>.json, _u<ANO>expl_*.json (ou _uexpl_*.json p/ 2023)."""
+import json, os, re, glob, sys
+ANO = sys.argv[1] if len(sys.argv) > 1 else "2023"
 HERE = os.path.dirname(__file__)
-OUT = os.path.join(HERE, "..", "vestibular", "unicamp", "2023.json")
+OUT = os.path.join(HERE, "..", "vestibular", "unicamp", f"{ANO}.json")
 
-extract = {q["numero"]: q for q in json.load(open(os.path.join(HERE,"_unicamp_extract.json"),encoding="utf-8"))}
-esp = json.load(open(os.path.join(HERE,"_unicamp_especiais.json"),encoding="utf-8"))
-auth = json.load(open(os.path.join(HERE,"_unicamp_gab_autoritativo.json"),encoding="utf-8"))
+extract = {q["numero"]: q for q in json.load(open(os.path.join(HERE,f"_unicamp_extract_{ANO}.json"),encoding="utf-8"))}
+esp_path = os.path.join(HERE,f"_unicamp_especiais_{ANO}.json")
+esp = json.load(open(esp_path,encoding="utf-8")) if os.path.exists(esp_path) else {}
+auth = json.load(open(os.path.join(HERE,f"_unicamp_gab_autoritativo_{ANO}.json"),encoding="utf-8"))
 
-# explicacoes: base (agg) + regen sobrescreve
 expl = {}
-for fp in sorted(glob.glob(os.path.join(HERE,"_uexpl_*.json"))):
-    for k,v in json.load(open(fp,encoding="utf-8")).items():
-        expl[int(k)] = v
-for fp in sorted(glob.glob(os.path.join(HERE,"_uregen_*.json"))):
-    for k,v in json.load(open(fp,encoding="utf-8")).items():
-        expl[int(k)] = v  # sobrescreve
+pat = os.path.join(HERE, f"_u{ANO}expl_*.json")
+for fp in sorted(glob.glob(pat)):
+    for k,v in json.load(open(fp,encoding="utf-8")).items(): expl[int(k)] = v
 
-def strip_figs(s):
-    return re.sub(r"\n*!\[\]\([^)]*\)\n*", "\n", s).strip()
+def strip_figs(s): return re.sub(r"\n*!\[\]\([^)]*\)\n*","\n",s).strip()
 
-questoes = []
-anuladas = []
+questoes=[]; anuladas=[]
 for n in range(1,73):
-    q = extract[n]
-    enun = q["enunciado"]
-    alts = list(q["alternativas"])
-    imgs_alt = []
-    img_princ = ""
-    e = esp.get(str(n))
-    if e:
-        if e.get("imagens_alternativas"):
-            imgs_alt = e["imagens_alternativas"]
-            alts = e["alternativas"]
-            enun = strip_figs(enun)  # Q72: remove os 4 graficos do enunciado
-        if e.get("imagem_principal"):
-            alts = e["alternativas"]
-            # Q33 e Q51: a imagem completa ja contem enunciado + alternativas em
-            # formula -> usar so a imagem (evita duplicar o enunciado em texto).
-            enun = "![](" + e["imagem_principal"] + ")"
-    corr = auth.get(str(n),"X").upper()
-    if corr == "ANULADA":
-        corr = "X"; anuladas.append(n)
-        explic = ""
-        fonte = "anulada_inep"
+    if n not in extract: continue
+    q=extract[n]; enun=q["enunciado"]; alts=list(q["alternativas"])
+    e=esp.get(str(n))
+    if e and e.get("imagem_principal"):
+        enun = "![](" + e["imagem_principal"] + ")"  # questao inteira como imagem
+        alts = e["alternativas"]
+    corr=auth.get(str(n),"X").upper()
+    if corr=="ANULADA":
+        corr="X"; anuladas.append(n); explic=""; fonte="anulada_inep"
     else:
-        explic = expl.get(n,{}).get("explicacao","")
-        fonte = ""
-    questoes.append({
-        "numero": n,
-        "ano": 2023,
-        "titulo": f"Questão {n} - UNICAMP 2023",
-        "enunciado": enun,
-        "alternativas_introducao": "",
-        "alternativas": alts,
-        "imagens_alternativas": imgs_alt,
-        "imagem_principal": img_princ,
-        "imagens_extras": [],
-        "correta": corr,
-        "explicacao": explic,
-        "fonte": fonte,
-        "fonte_url": ""
-    })
+        explic=expl.get(n,{}).get("explicacao",""); fonte=""
+    questoes.append({"numero":n,"ano":int(ANO),"titulo":f"Questão {n} - UNICAMP {ANO}",
+        "enunciado":enun,"alternativas_introducao":"","alternativas":alts,
+        "imagens_alternativas":[],"imagem_principal":"","imagens_extras":[],
+        "correta":corr,"explicacao":explic,"fonte":fonte,"fonte_url":""})
 
-doc = {
-    "vestibular": "unicamp",
-    "ano": 2023,
-    "titulo": "UNICAMP 2023 - 1ª fase (Conhecimentos Gerais)",
-    "totalQuestoes": 72,
-    "observacao": "Caderno Q/Z. Questões 3 e 23 anuladas pela banca.",
-    "questoes": questoes
-}
-json.dump(doc, open(OUT,"w",encoding="utf-8"), ensure_ascii=False, indent=2)
-print("escrito:", OUT)
-print("anuladas:", anuladas)
-# validacao
-semexpl = [q["numero"] for q in questoes if q["correta"]!="X" and not q["explicacao"].strip()]
-print("sem explicacao (nao anuladas):", semexpl)
-nalt = [(q["numero"],len(q["alternativas"])) for q in questoes if len(q["alternativas"])!=4]
-print("alternativas != 4:", nalt)
+doc={"vestibular":"unicamp","ano":int(ANO),
+     "titulo":f"UNICAMP {ANO} - 1ª fase (Conhecimentos Gerais)","totalQuestoes":len(questoes),
+     "observacao":f"Caderno conforme PDF oficial. Anuladas: {anuladas if anuladas else 'nenhuma'}.",
+     "questoes":questoes}
+json.dump(doc,open(OUT,"w",encoding="utf-8"),ensure_ascii=False,indent=2)
+print("escrito:",OUT,"| questoes:",len(questoes),"| anuladas:",anuladas)
+semexpl=[q["numero"] for q in questoes if q["correta"]!="X" and not q["explicacao"].strip()]
+nalt=[(q["numero"],len(q["alternativas"])) for q in questoes if len(q["alternativas"])!=4]
+print("sem explicacao:",semexpl,"| alt!=4:",nalt)
