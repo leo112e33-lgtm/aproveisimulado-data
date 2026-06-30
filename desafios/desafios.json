@@ -339,6 +339,28 @@
         "f": 0,
         "nome": "octano"
        }
+      },
+      {
+       "p": "Qual é o nome correto do composto cuja fórmula molecular é CaCO₃?",
+       "alt": [
+        "Cloreto de cálcio",
+        "Carbonato de cálcio",
+        "Sulfato de cálcio",
+        "Óxido de cálcio"
+       ],
+       "c": 1,
+       "e": "CaCO₃ é o carbonato de cálcio (Ca²⁺ + CO₃²⁻). Cloreto de cálcio seria CaCl₂; sulfato de cálcio, CaSO₄; óxido de cálcio, CaO."
+      },
+      {
+       "p": "O composto Fe₂O₃ pode ser chamado de:",
+       "alt": [
+        "Óxido de ferro(II)",
+        "Óxido ferroso",
+        "Óxido de ferro(III)",
+        "Peróxido de ferro"
+       ],
+       "c": 2,
+       "e": "Em Fe₂O₃, o ferro tem NOX +3, portanto o nome correto é óxido de ferro(III) ou óxido férrico. Óxido de ferro(II)/ferroso corresponde a FeO, e peróxido teria O₂²⁻."
       }
      ]
     },
@@ -564,6 +586,28 @@
        ],
        "c": 3,
        "e": "Aminoácidos possuem grupo amino (-NH₂) e grupo ácido carboxílico (-COOH). Não apresentam necessariamente cetona, éter ou aldeído como grupo característico."
+      },
+      {
+       "p": "Qual das substâncias abaixo é classificada como éster?",
+       "alt": [
+        "CH₃COOH",
+        "CH₃OH",
+        "CH₃COOCH₃",
+        "CH₃CHO"
+       ],
+       "c": 2,
+       "e": "CH₃COOCH₃ (acetato de metila) é um éster, formado pela reação entre um ácido carboxílico e um álcool com eliminação de água. CH₃COOH é ácido acético, CH₃OH é metanol e CH₃CHO é acetaldeído (aldeído)."
+      },
+      {
+       "p": "A cetona mais simples (com menor número de carbonos) é:",
+       "alt": [
+        "Metanal",
+        "Etanal",
+        "Propanona",
+        "Butanona"
+       ],
+       "c": 2,
+       "e": "A propanona (acetona, CH₃COCH₃) é a cetona mais simples, pois cetonas precisam de pelo menos 3 carbonos (o grupo C=O deve estar entre dois carbonos). Metanal e etanal são aldeídos."
       }
      ]
     },
@@ -789,6 +833,28 @@
        ],
        "c": 0,
        "e": "CO e NO são óxidos neutros (indiferentes), pois não reagem com água, ácido ou base. Óxidos ácidos formam ácidos, básicos formam bases e anfóteros reagem com ácido e base."
+      },
+      {
+       "p": "Qual das alternativas representa corretamente um ácido de acordo com a teoria de Arrhenius?",
+       "alt": [
+        "NaOH — libera OH⁻ em água",
+        "HCl — libera H⁺ em água",
+        "NaCl — libera Na⁺ e Cl⁻ em água",
+        "NH₃ — aceita próton de Brønsted"
+       ],
+       "c": 1,
+       "e": "Pela teoria de Arrhenius, ácido é toda substância que, em solução aquosa, libera H⁺ como único cátion. O HCl ioniza-se em H⁺ + Cl⁻. NaOH é base, NaCl é sal e NH₃ é base de Brønsted-Lowry, não de Arrhenius."
+      },
+      {
+       "p": "O NaOH é uma base forte porque:",
+       "alt": [
+        "É um óxido básico dissolvido em água",
+        "Se ioniza completamente em solução aquosa, liberando OH⁻",
+        "Reage com ácidos fracos formando sais insolúveis",
+        "Possui baixo grau de ionização em água"
+       ],
+       "c": 1,
+       "e": "Uma base forte é aquela que se ioniza (ou dissocia) completamente em solução aquosa, produzindo íons OH⁻. O NaOH → Na⁺ + OH⁻ com ionização de ~100%. Baixo grau de ionização caracterizaria uma base fraca."
       }
      ]
     },
@@ -1014,6 +1080,28 @@
        ],
        "c": 0,
        "e": "Rendimento de 80% sobre 100 g esperados = 0,80 × 100 = 80 g obtidos. 100 g seria rendimento de 100%, 120 g excederia o esperado e 20 g seria a perda, não o produto."
+      },
+      {
+       "p": "Na reação N₂ + 3H₂ → 2NH₃, quantos mols de NH₃ são produzidos a partir de 2 mols de N₂ (excesso de H₂)?",
+       "alt": [
+        "2 mol",
+        "3 mol",
+        "4 mol",
+        "6 mol"
+       ],
+       "c": 2,
+       "e": "Pela proporção estequiométrica, 1 mol de N₂ produz 2 mol de NH₃. Portanto, 2 mol de N₂ produzem 4 mol de NH₃. As opções 2 e 3 mol confundem a proporção com H₂."
+      },
+      {
+       "p": "Qual é a massa molar da glicose (C₆H₁₂O₆)? (H=1, C=12, O=16)",
+       "alt": [
+        "78 g/mol",
+        "120 g/mol",
+        "144 g/mol",
+        "180 g/mol"
+       ],
+       "c": 3,
+       "e": "M(C₆H₁₂O₆) = 6×12 + 12×1 + 6×16 = 72 + 12 + 96 = 180 g/mol. As demais opções resultam de cálculos incorretos das quantidades de átomos ou dos pesos atômicos."
       }
      ]
     },
@@ -1239,6 +1327,28 @@
        ],
        "c": 3,
        "e": "Não-metais têm alta eletronegatividade e tendem a receber elétrons (formando ânions). Metais doam elétrons (baixa eletronegatividade). Gases nobres são estáveis. Semimetais têm caráter intermediário."
+      },
+      {
+       "p": "O elemento carbono tem número atômico 6 e número de massa 12. Quantos nêutrons há no seu núcleo?",
+       "alt": [
+        "4",
+        "6",
+        "8",
+        "12"
+       ],
+       "c": 1,
+       "e": "N = A − Z = 12 − 6 = 6 nêutrons. O número atômico (Z=6) indica prótons; o número de massa (A=12) é a soma de prótons e nêutrons."
+      },
+      {
+       "p": "A ligação entre dois átomos de cloro (Cl₂) é classificada como:",
+       "alt": [
+        "Iônica, pois há transferência de elétrons",
+        "Covalente apolar, pois os átomos são idênticos",
+        "Covalente polar, pois cloro é muito eletronegativo",
+        "Metálica, pois cloro é halogeneto metálico"
+       ],
+       "c": 1,
+       "e": "Em Cl₂, dois átomos idênticos compartilham elétrons com a mesma eletronegatividade, resultando em ligação covalente apolar (diferença de eletronegatividade = 0). Ligação iônica ocorre com transferência; metálica, em redes de metais."
       }
      ]
     }
@@ -1604,6 +1714,28 @@
          10
         ]
        }
+      },
+      {
+       "p": "A área de um trapézio de bases 6 cm e 10 cm e altura 4 cm é:",
+       "alt": [
+        "32 cm²",
+        "40 cm²",
+        "48 cm²",
+        "24 cm²"
+       ],
+       "c": 0,
+       "e": "A = (B + b) × h / 2 = (10 + 6) × 4 / 2 = 16 × 2 = 32 cm². As demais opções resultam de erros na fórmula, como esquecer de dividir por 2 ou somar os valores incorretamente."
+      },
+      {
+       "p": "Em um círculo de raio 5 cm, qual é a medida do comprimento de sua circunferência? (use π ≈ 3,14)",
+       "alt": [
+        "15,7 cm",
+        "31,4 cm",
+        "78,5 cm",
+        "25,12 cm"
+       ],
+       "c": 1,
+       "e": "C = 2πr = 2 × 3,14 × 5 = 31,4 cm. A área seria πr² = 78,5 cm². 15,7 seria πr e 25,12 seria um erro de cálculo."
       }
      ]
     },
@@ -1829,6 +1961,28 @@
        ],
        "c": 2,
        "e": "Uma função constante tem o mesmo valor de y (=4) para todo x, formando reta horizontal. Reta vertical não é função. Parábola exige x². Reta inclinada exige coeficiente angular não nulo. O correto: reta horizontal."
+      },
+      {
+       "p": "Dada a função f(x) = 2x − 4, qual é o valor de x quando f(x) = 0?",
+       "alt": [
+        "x = −2",
+        "x = 0",
+        "x = 2",
+        "x = 4"
+       ],
+       "c": 2,
+       "e": "Para f(x) = 0: 2x − 4 = 0 → 2x = 4 → x = 2. Este é o zero (raiz) da função, onde o gráfico corta o eixo x."
+      },
+      {
+       "p": "A função quadrática f(x) = x² − 4x + 4 possui:",
+       "alt": [
+        "Duas raízes reais distintas",
+        "Uma raiz real dupla (x = 2)",
+        "Nenhuma raiz real",
+        "Duas raízes reais: x = 1 e x = 4"
+       ],
+       "c": 1,
+       "e": "Δ = b² − 4ac = 16 − 16 = 0. Quando Δ = 0, há uma raiz real dupla: x = −b/2a = 4/2 = 2. De fato, f(x) = (x−2)² confirma x = 2 como raiz dupla."
       }
      ]
     },
@@ -2054,6 +2208,28 @@
        ],
        "c": 2,
        "e": "Total de partes = 3+1 = 4. Suco = 3/4 = 75%. A 25% é a porcentagem de água. A 33% usaria razão 1:2 errada. A 50% supõe partes iguais. O correto: 3 de 4 partes = 75%."
+      },
+      {
+       "p": "Um produto custava R$ 200,00 e teve aumento de 15%. Qual é o novo preço?",
+       "alt": [
+        "R$ 215,00",
+        "R$ 220,00",
+        "R$ 230,00",
+        "R$ 240,00"
+       ],
+       "c": 2,
+       "e": "Aumento de 15%: 200 × 1,15 = 230. Ou: 15% de 200 = 30; 200 + 30 = 230. R$ 215 seria 7,5%; R$ 220 seria 10%; R$ 240 seria 20%."
+      },
+      {
+       "p": "Se a razão entre dois números é 3:5 e o menor deles é 12, qual é o maior?",
+       "alt": [
+        "15",
+        "18",
+        "20",
+        "25"
+       ],
+       "c": 2,
+       "e": "Se menor : maior = 3 : 5, então 12/maior = 3/5 → maior = 12 × 5/3 = 20. Outra forma: 12 = 3k → k = 4; maior = 5k = 20."
       }
      ]
     },
@@ -2279,6 +2455,28 @@
        ],
        "c": 2,
        "e": "Se todos os valores são 8, a média também é 8 (a soma dividida pela quantidade resulta no próprio valor). A 0 supõe variação nula como resultado. A 16 dobra. A 64 eleva ao quadrado. O correto: a média de valores idênticos é o próprio valor: 8."
+      },
+      {
+       "p": "Em uma urna com 4 bolas vermelhas e 6 bolas azuis, qual é a probabilidade de sortear uma bola vermelha?",
+       "alt": [
+        "2/5",
+        "3/5",
+        "4/6",
+        "1/4"
+       ],
+       "c": 0,
+       "e": "P(vermelha) = 4/(4+6) = 4/10 = 2/5. O total é 10 bolas; 4 são vermelhas. A opção 3/5 seria a probabilidade de azul; 4/6 compara vermelho com azul, não com o total."
+      },
+      {
+       "p": "A média aritmética dos valores 5, 8, 10, 7 e 10 é:",
+       "alt": [
+        "7",
+        "8",
+        "9",
+        "10"
+       ],
+       "c": 1,
+       "e": "Média = (5+8+10+7+10)/5 = 40/5 = 8. Não confundir com moda (10, valor mais frequente) ou mediana (8, valor central após ordenar: 5,7,8,10,10)."
       }
      ]
     },
@@ -2504,6 +2702,28 @@
        ],
        "c": 2,
        "e": "cos = adjacente/hipotenusa = 6/12 = 1/2. A 2 inverte (12/6). A 6 usa só o cateto. A 12 usa só a hipotenusa. O correto: 6/12 = 1/2."
+      },
+      {
+       "p": "Em um triângulo retângulo, o cateto oposto ao ângulo de 30° mede 5 cm. Qual é a hipotenusa?",
+       "alt": [
+        "5√3 cm",
+        "5√2 cm",
+        "10 cm",
+        "2,5 cm"
+       ],
+       "c": 2,
+       "e": "sen 30° = cateto oposto/hipotenusa → 1/2 = 5/h → h = 10 cm. √3/2 é o seno de 60°; √2/2 é o seno de 45°. 2,5 resultaria de confundir oposto com a hipotenusa."
+      },
+      {
+       "p": "O valor de cos 60° é:",
+       "alt": [
+        "√3/2",
+        "1/2",
+        "√2/2",
+        "1"
+       ],
+       "c": 1,
+       "e": "cos 60° = 1/2. Valores fundamentais: cos 0° = 1, cos 30° = √3/2, cos 45° = √2/2, cos 60° = 1/2, cos 90° = 0. √3/2 é cos 30°; √2/2 é cos 45°."
       }
      ]
     }
@@ -2735,6 +2955,28 @@
        ],
        "c": 1,
        "e": "360 km/h = 100 m/s. Em 60 s: 100·60 = 6000 m (B). A (360 m) confunde unidades; C (3600 m) usa 60 m/s; D (100 m) é só 1 s. São 6000 m em um minuto."
+      },
+      {
+       "p": "Um carro parte do repouso com aceleração constante de 3 m/s². Qual é a sua velocidade após 6 segundos?",
+       "alt": [
+        "9 m/s",
+        "12 m/s",
+        "18 m/s",
+        "21 m/s"
+       ],
+       "c": 2,
+       "e": "v = v₀ + at = 0 + 3×6 = 18 m/s. Partindo do repouso (v₀ = 0), a velocidade final é simplesmente at. 9 m/s seria para t=3 s; 12 m/s para t=4 s."
+      },
+      {
+       "p": "Um objeto em MRU percorre 120 m em 4 s. Qual é a sua velocidade?",
+       "alt": [
+        "20 m/s",
+        "25 m/s",
+        "30 m/s",
+        "480 m/s"
+       ],
+       "c": 2,
+       "e": "v = d/t = 120/4 = 30 m/s. No movimento retilíneo uniforme (MRU), a velocidade é constante e igual à distância dividida pelo tempo. 480 m/s resultaria de multiplicar ao invés de dividir."
       }
      ]
     },
@@ -3043,6 +3285,28 @@
        ],
        "c": 0,
        "e": "a = F/(m1+m2) = 25/(2+3) = 25/5 = 5 m/s² (A). B usaria só m=2; C usaria só m=3; D inverteria. O sistema acelera a 5 m/s²."
+      },
+      {
+       "p": "Uma força resultante de 20 N atua sobre um bloco de massa 4 kg. Qual é a aceleração do bloco?",
+       "alt": [
+        "0,2 m/s²",
+        "2 m/s²",
+        "5 m/s²",
+        "80 m/s²"
+       ],
+       "c": 2,
+       "e": "Pela 2ª Lei de Newton: F = ma → a = F/m = 20/4 = 5 m/s². 80 m/s² resultaria de F×m; 0,2 m/s² de m/F; 2 m/s² de erro aritmético."
+      },
+      {
+       "p": "De acordo com a 3ª Lei de Newton (ação e reação), ao empurrar uma parede com força F, a parede:",
+       "alt": [
+        "Não exerce nenhuma força de volta",
+        "Exerce força F na mesma direção e mesmo sentido",
+        "Exerce força de mesma intensidade F em sentido oposto sobre você",
+        "Exerce uma força maior do que F, pois é mais pesada"
+       ],
+       "c": 2,
+       "e": "O par ação-reação tem mesma intensidade, mesma direção e sentidos opostos, aplicados em corpos diferentes. Se você empurra a parede com F, ela empurra você com F em sentido contrário. Forças de ação e reação NUNCA se cancelam pois atuam em corpos distintos."
       }
      ]
     },
@@ -3292,6 +3556,28 @@
          10
         ]
        }
+      },
+      {
+       "p": "Qual é a energia potencial gravitacional de um objeto de 2 kg a 10 m do solo? (g = 10 m/s²)",
+       "alt": [
+        "10 J",
+        "20 J",
+        "100 J",
+        "200 J"
+       ],
+       "c": 3,
+       "e": "Ep = mgh = 2 × 10 × 10 = 200 J. O erro comum é esquecer de multiplicar todos os três fatores. 100 J resultaria de m×h sem g; 20 J de m×g sem h."
+      },
+      {
+       "p": "Um motor realiza 600 J de trabalho em 30 s. Qual é a sua potência?",
+       "alt": [
+        "5 W",
+        "10 W",
+        "20 W",
+        "18000 W"
+       ],
+       "c": 2,
+       "e": "P = W/t = 600/30 = 20 W. Potência é o trabalho realizado por unidade de tempo. 18000 W resultaria de multiplicar (600×30); 5 W seria 150/30; 10 W seria 300/30."
       }
      ]
     },
@@ -3517,6 +3803,28 @@
        ],
        "c": 0,
        "e": "I = U/R = 24/6 = 4 A (A). B (144 A) multiplicaria; C (0,25 A) inverteria; D subtrairia. A corrente é 4 A."
+      },
+      {
+       "p": "Em um circuito com resistência de 10 Ω e tensão de 30 V, qual é a corrente elétrica?",
+       "alt": [
+        "0,33 A",
+        "2 A",
+        "3 A",
+        "300 A"
+       ],
+       "c": 2,
+       "e": "Pela Lei de Ohm: I = V/R = 30/10 = 3 A. 300 A resultaria de V×R; 0,33 A de R/V. 2 A seria para V=20 V com R=10 Ω."
+      },
+      {
+       "p": "Dois resistores de 6 Ω e 3 Ω estão ligados em paralelo. Qual é a resistência equivalente?",
+       "alt": [
+        "9 Ω",
+        "4 Ω",
+        "2 Ω",
+        "18 Ω"
+       ],
+       "c": 2,
+       "e": "Em paralelo: 1/Req = 1/R₁ + 1/R₂ = 1/6 + 1/3 = 1/6 + 2/6 = 3/6 = 1/2, portanto Req = 2 Ω. Em série seria 9 Ω. 4 Ω seria erro de cálculo; 18 Ω seria produto, não equivalente."
       }
      ]
     },
@@ -3742,6 +4050,28 @@
        ],
        "c": 1,
        "e": "A difração é o contorno de obstáculos pelas ondas, permitindo ouvir além de esquinas (B). Reflexão (A), refração (C) e polarização (D) não explicam isso. É a difração."
+      },
+      {
+       "p": "Uma onda sonora tem frequência de 440 Hz e velocidade de 340 m/s no ar. Qual é o seu comprimento de onda?",
+       "alt": [
+        "0,57 m",
+        "0,77 m",
+        "1,29 m",
+        "149600 m"
+       ],
+       "c": 1,
+       "e": "λ = v/f = 340/440 ≈ 0,77 m. A fórmula fundamental das ondas é v = λ × f. 149600 seria v×f; 0,57 seria f/v; 1,29 seria erro aritmético."
+      },
+      {
+       "p": "Um raio de luz passa do ar para o vidro e sua velocidade diminui. De acordo com a Lei de Snell, o raio refratado:",
+       "alt": [
+        "Se afasta da normal ao ponto de incidência",
+        "Se aproxima da normal ao ponto de incidência",
+        "Não muda de direção",
+        "Sofre reflexão total interna"
+       ],
+       "c": 1,
+       "e": "Quando a luz passa de um meio menos denso (ar) para um mais denso (vidro), ela desacelera e o raio refratado se aproxima da normal. O afastamento da normal ocorre no caminho inverso (vidro→ar). Reflexão total interna só ocorre de meio mais denso para menos denso."
       }
      ]
     }
@@ -3973,6 +4303,28 @@
        ],
        "c": 3,
        "e": "Os vírus dependem da maquinaria de células hospedeiras para se replicar, sendo parasitas intracelulares obrigatórios. Eles não têm metabolismo próprio completo (A) nem são formados por células (C) - são acelulares. Por isso também não realizam respiração celular (B) de forma autônoma."
+      },
+      {
+       "p": "Qual organela celular é responsável pela síntese de proteínas?",
+       "alt": [
+        "Mitocôndria",
+        "Ribossomo",
+        "Complexo de Golgi",
+        "Retículo endoplasmático liso"
+       ],
+       "c": 1,
+       "e": "Os ribossomos são as organelas responsáveis pela síntese proteica (tradução do mRNA). A mitocôndria produz ATP; o complexo de Golgi processa e embala proteínas; o RE liso sintetiza lipídios e desintoxica substâncias."
+      },
+      {
+       "p": "A membrana plasmática das células animais é composta principalmente de:",
+       "alt": [
+        "Celulose e proteínas",
+        "Fosfolipídios e proteínas",
+        "Quitina e glicoproteínas",
+        "Pectina e colesterol"
+       ],
+       "c": 1,
+       "e": "A membrana plasmática é formada por uma bicamada de fosfolipídios com proteínas inseridas (modelo do mosaico fluido). Celulose é parede celular de plantas; quitina, de fungos e artrópodes; pectina, de vegetais."
       }
      ]
     },
@@ -4198,6 +4550,28 @@
        ],
        "c": 3,
        "e": "Na epistasia, um gene (epistático) inibe ou mascara a expressão de outro gene (hipostático) em loco diferente. A separação de alelos do mesmo par (B) é a Primeira Lei de Mendel. Um gene afetando várias características (C) é pleiotropia. A permutação de genes ligados (A) é crossing-over, não epistasia."
+      },
+      {
+       "p": "Um homem com daltonismo (ligado ao X, recessivo) e uma mulher normal não portadora têm filhos. Qual é a probabilidade de um filho do sexo masculino ser daltônico?",
+       "alt": [
+        "0%",
+        "25%",
+        "50%",
+        "100%"
+       ],
+       "c": 0,
+       "e": "O pai (X^d Y) passa o cromossomo Y aos filhos do sexo masculino. A mãe normal não portadora (X^D X^D) passa X^D aos filhos. Logo, todos os meninos serão X^D Y — normais. 0% de daltonismo entre filhos masculinos. As filhas todas serão portadoras."
+      },
+      {
+       "p": "Em um cruzamento monohíbrido entre dois organismos heterozigotos (Aa × Aa), qual é a proporção fenotípica esperada na prole?",
+       "alt": [
+        "1 dominante : 1 recessivo",
+        "3 dominantes : 1 recessivo",
+        "1 : 2 : 1 (AA : Aa : aa)",
+        "Todos dominantes"
+       ],
+       "c": 1,
+       "e": "O quadro de Punnett de Aa × Aa gera: 1 AA : 2 Aa : 1 aa. A proporção fenotípica é 3 dominantes (AA + 2Aa) : 1 recessivo (aa). A opção 1:2:1 é a proporção genotípica, não fenotípica."
       }
      ]
     },
@@ -4423,6 +4797,28 @@
        ],
        "c": 3,
        "e": "Biodiversidade abrange a variedade de espécies, a diversidade genética dentro delas e a diversidade de ecossistemas. Considerar só o número de animais (A) ignora plantas, microrganismos e diversidade genética. A quantidade de água (C) e o total de produtores (B) são aspectos pontuais, não a biodiversidade."
+      },
+      {
+       "p": "A relação entre líquenes (fungo + alga) é um exemplo de:",
+       "alt": [
+        "Parasitismo",
+        "Predação",
+        "Mutualismo",
+        "Comensalismo"
+       ],
+       "c": 2,
+       "e": "No líquen, o fungo e a alga vivem em mutualismo: o fungo fornece proteção, água e sais minerais; a alga produz matéria orgânica via fotossíntese. Ambos se beneficiam. No parasitismo um se prejudica; no comensalismo um se beneficia e o outro é indiferente."
+      },
+      {
+       "p": "Em uma cadeia alimentar, os organismos que obtêm energia diretamente de produtores são chamados de:",
+       "alt": [
+        "Decompositores",
+        "Consumidores primários",
+        "Consumidores secundários",
+        "Produtores secundários"
+       ],
+       "c": 1,
+       "e": "Os consumidores primários (herbívoros) se alimentam diretamente dos produtores (plantas/algas). Consumidores secundários comem os primários; decompositores degradam matéria orgânica morta. Não existem 'produtores secundários'."
       }
      ]
     },
@@ -4648,6 +5044,28 @@
        ],
        "c": 3,
        "e": "Semelhanças nos estágios embrionários iniciais de vertebrados (como fendas branquiais e cauda) indicam ancestralidade comum, sendo evidência evolutiva. Elas não sugerem ausência de relação (A); pelo contrário, indicam parentesco. Os embriões não são idênticos até o nascimento (C), pois divergem ao longo do desenvolvimento. A evolução deixa, sim, evidências embriológicas (B)."
+      },
+      {
+       "p": "O principal mecanismo responsável pela evolução das espécies, segundo Darwin, é:",
+       "alt": [
+        "Herança de caracteres adquiridos",
+        "Mutação dirigida",
+        "Seleção natural",
+        "Deriva genética"
+       ],
+       "c": 2,
+       "e": "Darwin propôs a seleção natural: indivíduos com características mais adaptadas ao ambiente sobrevivem e se reproduzem mais, transmitindo essas características às gerações seguintes. A herança de caracteres adquiridos é lamarckista; deriva genética é um mecanismo evolutivo, mas não o principal de Darwin."
+      },
+      {
+       "p": "Órgãos análogos, como a asa de inseto e a asa de ave, são evidências de:",
+       "alt": [
+        "Homologia e ancestral comum",
+        "Evolução convergente (adaptação a funções semelhantes)",
+        "Deriva genética em ilhas",
+        "Coevolução obrigatória entre espécies"
+       ],
+       "c": 1,
+       "e": "Órgãos análogos têm a mesma função, mas origens embrionárias distintas — surgem por evolução convergente em linhagens sem ancestral comum recente. Órgãos homólogos (como braço humano e asa de morcego) evidenciam ancestral comum."
       }
      ]
     },
@@ -4873,6 +5291,28 @@
        ],
        "c": 3,
        "e": "A pele protege o corpo contra agentes externos, participa da regulação térmica (suor) e da percepção sensorial. Bombear sangue (A) é função do coração. Produzir urina (C) cabe aos rins. Digerir proteínas (B) é função do sistema digestório, não da pele."
+      },
+      {
+       "p": "Qual é a função do sistema linfático no organismo humano?",
+       "alt": [
+        "Transportar oxigênio para as células",
+        "Produzir hormônios reguladores do metabolismo",
+        "Retornar líquido intersticial à circulação e participar da imunidade",
+        "Filtrar o sangue e produzir urina"
+       ],
+       "c": 2,
+       "e": "O sistema linfático recolhe o líquido intersticial (linfa), devolve-o à circulação sanguínea e abriga células de defesa (linfócitos). Transportar O₂ é função do sistema circulatório; hormônios, do endócrino; filtrar sangue/urina, do urinário."
+      },
+      {
+       "p": "No sistema digestório humano, onde ocorre a maior parte da absorção de nutrientes?",
+       "alt": [
+        "Estômago",
+        "Intestino grosso",
+        "Intestino delgado",
+        "Esôfago"
+       ],
+       "c": 2,
+       "e": "O intestino delgado, com suas vilosidades e microvilosidades (aumento da superfície), é o principal local de absorção de nutrientes. O estômago digere proteínas; o intestino grosso absorve água e eletrólitos; o esôfago apenas conduz o alimento."
       }
      ]
     }
@@ -5104,6 +5544,28 @@
        ],
        "c": 3,
        "e": "\"Custe o que custar\" exprime determinação: o objetivo será alcançado a qualquer preço. As demais leem literalmente \"custar\", ignorando o valor idiomático de obstinação."
+      },
+      {
+       "p": "Em um texto argumentativo, o parágrafo de conclusão tem como principal função:",
+       "alt": [
+        "Apresentar novos argumentos ainda não desenvolvidos",
+        "Retomar a tese e sintetizar os argumentos apresentados",
+        "Narrar os fatos que motivaram o tema",
+        "Descrever o contexto histórico da questão"
+       ],
+       "c": 1,
+       "e": "A conclusão de um texto argumentativo retoma a tese central e sintetiza os argumentos desenvolvidos ao longo do texto, fechando o raciocínio. Novos argumentos não devem aparecer na conclusão; narração e descrição históricas são recursos da introdução ou desenvolvimento."
+      },
+      {
+       "p": "A inferência em leitura consiste em:",
+       "alt": [
+        "Copiar literalmente informações do texto",
+        "Deduzir informações implícitas a partir do contexto",
+        "Resumir o texto em poucas palavras",
+        "Identificar apenas as informações explícitas do texto"
+       ],
+       "c": 1,
+       "e": "Inferir é ir além do que está explicitamente escrito, usando pistas textuais e conhecimento prévio para deduzir sentidos implícitos. Copiar literalmente é transcrição; resumir é condensação; identificar só o explícito é leitura superficial."
       }
      ]
     },
@@ -5329,6 +5791,28 @@
        ],
        "c": 3,
        "e": "Com verbo transitivo direto e sujeito paciente (\"casas\"), \"se\" é partícula apassivadora (=casas são vendidas). Não é reflexivo, nem conjunção; como índice de indeterminação seria com verbo intransitivo e sem sujeito (\"vive-se bem\")."
+      },
+      {
+       "p": "Em 'O livro que comprei é interessante', o pronome relativo 'que' refere-se a:",
+       "alt": [
+        "À ação de comprar",
+        "A 'livro'",
+        "Ao sujeito oculto da oração",
+        "A 'interessante'"
+       ],
+       "c": 1,
+       "e": "O pronome relativo 'que' substitui e retoma o antecedente imediatamente anterior, que é 'livro'. A oração 'que comprei' é uma oração adjetiva restritiva que modifica 'livro'."
+      },
+      {
+       "p": "Qual das frases abaixo apresenta uso correto da crase?",
+       "alt": [
+        "Vou à escola amanhã.",
+        "Ele chegou à pé.",
+        "Entreguei o relatório à ele.",
+        "Refiro-me à um problema grave."
+       ],
+       "c": 0,
+       "e": "Crase ocorre com preposição 'a' + artigo feminino 'a'. Em 'à escola', temos a prep. 'a' + artigo 'a' (feminino). 'A pé' não admite crase (expressão adverbial sem artigo); pronomes pessoais e artigos indefinidos não admitem crase antes de si."
       }
      ]
     },
@@ -5554,6 +6038,28 @@
        ],
        "c": 3,
        "e": "\"Subir para cima\" repete ideia sem efeito estilístico — pleonasmo vicioso (erro). Difere do pleonasmo expressivo; não é metáfora, antítese nem hipérbole."
+      },
+      {
+       "p": "No verso 'O silêncio gritava em mim', a figura de linguagem presente é:",
+       "alt": [
+        "Hipérbole",
+        "Metáfora",
+        "Paradoxo (oxímoro)",
+        "Ironia"
+       ],
+       "c": 2,
+       "e": "Paradoxo (ou oxímoro) é a associação de ideias contraditórias na mesma expressão — 'silêncio' e 'gritava' são opostos. Metáfora seria uma comparação implícita; hipérbole, exagero; ironia, dizer o oposto do que se quer significar."
+      },
+      {
+       "p": "A frase 'O vento sussurrava entre as folhas' apresenta qual figura de linguagem?",
+       "alt": [
+        "Eufemismo",
+        "Sinestesia",
+        "Prosopopeia (personificação)",
+        "Anáfora"
+       ],
+       "c": 2,
+       "e": "Prosopopeia (personificação) é atribuir ações ou características humanas a seres inanimados. 'Sussurrar' é uma ação humana atribuída ao vento. Sinestesia mistura sentidos; eufemismo suaviza algo desagradável; anáfora é repetição de termos no início de versos/frases."
       }
      ]
     },
@@ -5779,6 +6285,28 @@
        ],
        "c": 3,
        "e": "Reconhecer a diversidade não exclui a norma-padrão: todas coexistem, cada qual adequada a seu contexto. Deve-se sim ensinar a norma; fala e escrita têm funções próprias e a escrita não precisa imitar a fala."
+      },
+      {
+       "p": "O uso de palavras diferentes para nomear o mesmo objeto em regiões distintas do Brasil (ex.: 'mandioca', 'aipim', 'macaxeira') é um exemplo de:",
+       "alt": [
+        "Variação diastrática",
+        "Variação diacrônica",
+        "Variação diatópica (regional)",
+        "Variação diamésica"
+       ],
+       "c": 2,
+       "e": "A variação diatópica (ou regional/dialetal) ocorre conforme a localização geográfica. Diastrática refere-se a classes sociais; diacrônica, à mudança ao longo do tempo; diamésica, ao meio de comunicação (oral × escrito)."
+      },
+      {
+       "p": "A linguagem formal é mais adequada em situações como:",
+       "alt": [
+        "Conversa com amigos em aplicativos de mensagem",
+        "Redação de um artigo científico ou ofício",
+        "Troca de mensagens de voz com familiares",
+        "Publicações informais em redes sociais"
+       ],
+       "c": 1,
+       "e": "A linguagem formal segue rigorosamente as normas gramaticais e é exigida em contextos como documentos oficiais, artigos científicos e discursos formais. Conversas com amigos e familiares, bem como redes sociais, favorecem a linguagem informal."
       }
      ]
     },
@@ -6004,6 +6532,28 @@
        ],
        "c": 3,
        "e": "As obras de José de Alencar são românticas (indianista e urbano). Não são do Realismo (que veio depois e critica a idealização), nem Barroco nem Modernismo."
+      },
+      {
+       "p": "O Romantismo brasileiro no século XIX é caracterizado, em sua primeira geração, principalmente por:",
+       "alt": [
+        "Crítica social e realismo psicológico",
+        "Indianismo, nativismo e idealização da natureza",
+        "Linguagem coloquial e ruptura com as formas fixas",
+        "Parnasianismo e culto à forma perfeita"
+       ],
+       "c": 1,
+       "e": "A 1ª geração romântica brasileira (Gonçalves Dias, Gonçalves de Magalhães) é marcada pelo indianismo (valorização do índio como símbolo nacional), o nativismo e a idealização da natureza. A crítica social é do Realismo; linguagem coloquial, do Modernismo; culto à forma, do Parnasianismo."
+      },
+      {
+       "p": "Machado de Assis é considerado o principal representante do Realismo brasileiro. Qual das características abaixo é típica de sua prosa?",
+       "alt": [
+        "Narrativa linear e otimista com final feliz",
+        "Linguagem rebuscada e descrições romantizadas da natureza",
+        "Narrador irônico, análise psicológica e crítica social",
+        "Exaltação do herói nacional e do índio idealizado"
+       ],
+       "c": 2,
+       "e": "Machado de Assis é célebre pelo narrador pouco confiável e irônico, pela profundidade psicológica dos personagens e pela crítica mordaz à sociedade burguesa carioca do século XIX. As outras opções descrevem características do Romantismo."
       }
      ]
     }
@@ -6235,6 +6785,28 @@
        ],
        "c": 3,
        "e": "A correta é A: o Oriente Médio concentra vastas reservas de petróleo e ocupa posição de cruzamento entre três continentes, tornando-se foco de disputas. B) é irrelevante para a importância estratégica. C) contradiz a riqueza em hidrocarbonetos. D) é falsa, pois a região é zona de passagem entre Europa, Ásia e África."
+      },
+      {
+       "p": "O Conselho de Segurança da ONU possui cinco membros permanentes com poder de veto. Qual das opções lista CORRETAMENTE esses países?",
+       "alt": [
+        "EUA, Reino Unido, França, Alemanha e Japão",
+        "EUA, China, Rússia, Reino Unido e França",
+        "EUA, China, Índia, Brasil e Rússia",
+        "EUA, Reino Unido, Rússia, Israel e Canadá"
+       ],
+       "c": 1,
+       "e": "Os cinco membros permanentes (P5) do CSNU são EUA, China, Rússia, Reino Unido e França — os vencedores da 2ª Guerra Mundial. Alemanha, Japão, Índia e Brasil pleiteiam assento permanente, mas ainda não o possuem."
+      },
+      {
+       "p": "O fenômeno da globalização intensificou a integração econômica entre países, mas também gerou críticas. Qual dos seguintes é um efeito negativo frequentemente associado à globalização?",
+       "alt": [
+        "Aumento do comércio internacional",
+        "Acesso a tecnologias estrangeiras",
+        "Ampliação das desigualdades entre nações ricas e pobres",
+        "Expansão das telecomunicações"
+       ],
+       "c": 2,
+       "e": "Embora a globalização traga integração comercial e tecnológica, um de seus principais impactos negativos é o aprofundamento das desigualdades entre países desenvolvidos e em desenvolvimento, já que as nações mais ricas tendem a se beneficiar mais das trocas globais."
       }
      ]
     },
@@ -6460,6 +7032,28 @@
        ],
        "c": 3,
        "e": "A correta é B: o degelo aumenta o volume de água nos oceanos, elevando o nível do mar e ameaçando áreas costeiras. A) é o oposto. C) contradiz o contexto de aquecimento. D) é incorreta pois a elevação do mar reduz, e não aumenta, as terras emersas."
+      },
+      {
+       "p": "O clima tropical úmido, característico de grande parte do Brasil Central, apresenta como principal característica:",
+       "alt": [
+        "Temperaturas baixas o ano todo e ausência de estação seca",
+        "Chuvas bem distribuídas ao longo do ano sem estação seca",
+        "Estação seca definida no inverno e chuvas concentradas no verão",
+        "Baixa umidade e precipitações abaixo de 250 mm anuais"
+       ],
+       "c": 2,
+       "e": "O clima tropical apresenta duas estações bem definidas: verão chuvoso e inverno seco. As temperaturas são elevadas o ano todo. Chuvas bem distribuídas o ano todo caracterizam o clima equatorial; baixíssima precipitação é típica de climas áridos/semiáridos."
+      },
+      {
+       "p": "O El Niño é um fenômeno climático que afeta o Brasil. Uma de suas consequências no Nordeste brasileiro é:",
+       "alt": [
+        "Aumento das chuvas e cheias dos rios",
+        "Redução das temperaturas médias",
+        "Diminuição das chuvas, agravando a seca",
+        "Intensificação dos ventos alísios de leste"
+       ],
+       "c": 2,
+       "e": "O El Niño (aquecimento das águas do Pacífico equatorial) provoca, no Nordeste brasileiro, redução das chuvas e agravamento das secas. No Sul do Brasil, ao contrário, tende a aumentar as precipitações. A La Niña tem efeitos opostos."
       }
      ]
     },
@@ -6685,6 +7279,28 @@
        ],
        "c": 3,
        "e": "A correta é B: nos países subdesenvolvidos, a urbanização foi tardia e acelerada, sem infraestrutura adequada, gerando favelas e periferias. A) descreveria um cenário ideal não verificado. C) e D) contradizem os graves problemas sociais associados a essa urbanização."
+      },
+      {
+       "p": "O processo de metropolização no Brasil caracteriza-se pela:",
+       "alt": [
+        "Redução da população urbana e crescimento da zona rural",
+        "Concentração da população em grandes cidades e expansão de regiões metropolitanas",
+        "Distribuição equilibrada da população por todo o território nacional",
+        "Migração de habitantes das cidades para o campo"
+       ],
+       "c": 1,
+       "e": "A metropolização é a expansão de grandes cidades e a formação de regiões metropolitanas que concentram população, serviços e empregos. O Brasil é altamente urbanizado (mais de 85% da população em cidades), com megalópoles como São Paulo e Rio de Janeiro."
+      },
+      {
+       "p": "As favelas e periferias urbanas no Brasil são consequência direta de:",
+       "alt": [
+        "Planejamento urbano eficiente e distribuição de renda equilibrada",
+        "Urbanização acelerada e desigual, com déficit habitacional e especulação imobiliária",
+        "Políticas habitacionais bem-sucedidas para as camadas de baixa renda",
+        "Forte industrialização com geração de empregos suficientes para todos"
+       ],
+       "c": 1,
+       "e": "A urbanização brasileira foi acelerada (especialmente entre 1950 e 1980) mas desigual: migrantes rurais chegavam em massa às cidades sem que houvesse infraestrutura ou habitação adequada, gerando favelas e periferias. A especulação imobiliária agravou o déficit habitacional para as populações de menor renda."
       }
      ]
     },
@@ -6910,6 +7526,28 @@
        ],
        "c": 2,
        "e": "A correta é A: os 3 Rs são Reduzir o consumo, Reutilizar materiais e Reciclar resíduos, princípios de gestão sustentável. B), C) e D) apresentam combinações de palavras sem relação com a política ambiental dos 3 Rs."
+      },
+      {
+       "p": "O desmatamento da Amazônia contribui para o aquecimento global principalmente porque:",
+       "alt": [
+        "Aumenta a reflexão (albedo) da superfície terrestre",
+        "Libera CO₂ armazenado na biomassa e reduz a absorção de carbono pela floresta",
+        "Provoca diminuição das chuvas na Europa",
+        "Eleva o nível dos oceanos pelo derretimento dos rios"
+       ],
+       "c": 1,
+       "e": "A floresta amazônica armazena grande quantidade de carbono na biomassa. Quando desmatada e queimada, esse carbono é liberado como CO₂, intensificando o efeito estufa. Além disso, a floresta deixa de absorver CO₂ atmosférico. O albedo (reflexividade) da superfície aumenta com o desmatamento, mas esse não é o principal fator climático global."
+      },
+      {
+       "p": "A Conferência de Kyoto (1997) teve como principal objetivo:",
+       "alt": [
+        "Criar o Fundo Monetário Internacional",
+        "Estabelecer metas de redução de emissões de gases de efeito estufa para países industrializados",
+        "Regulamentar o comércio internacional de espécies ameaçadas",
+        "Proibir o uso de energia nuclear no mundo"
+       ],
+       "c": 1,
+       "e": "O Protocolo de Kyoto estabeleceu metas obrigatórias de redução de emissões de GEE para países desenvolvidos (Anexo I). Foi o primeiro acordo vinculante nesse sentido. O FMI surgiu em 1944; o comércio de espécies é regulado pela CITES; a energia nuclear não foi proibida por Kyoto."
       }
      ]
     },
@@ -7135,6 +7773,28 @@
        ],
        "c": 2,
        "e": "A correta é B: urbanização, industrialização e maior escolaridade das mulheres reduzem a natalidade. A), C) e D) descrevem contextos tradicionais ou agrários, geralmente associados a taxas de natalidade mais elevadas."
+      },
+      {
+       "p": "A Transição Demográfica descreve o processo em que países passam de:",
+       "alt": [
+        "Alta urbanização para baixa urbanização",
+        "Altas taxas de natalidade e mortalidade para baixas taxas de ambas",
+        "Economia agrária para economia industrial",
+        "Monarquia para república democrática"
+       ],
+       "c": 1,
+       "e": "A Transição Demográfica é o processo histórico de queda das taxas de mortalidade (primeiro) e depois de natalidade, resultando em menor crescimento populacional. Países desenvolvidos já completaram a transição; muitos em desenvolvimento ainda estão nela."
+      },
+      {
+       "p": "O bônus demográfico refere-se ao período em que:",
+       "alt": [
+        "A população idosa supera a população jovem, gerando dependência",
+        "A maior parte da população está em idade produtiva (15–64 anos), favorecendo o crescimento econômico",
+        "A taxa de natalidade supera a taxa de mortalidade em mais de 3%",
+        "O país recebe grande quantidade de imigrantes em idade de trabalhar"
+       ],
+       "c": 1,
+       "e": "O bônus demográfico (ou janela de oportunidade demográfica) ocorre quando a população em idade ativa é proporcionalmente maior que os dependentes (jovens e idosos), gerando maior produtividade e potencial de crescimento econômico. O Brasil atravessou esse bônus entre as décadas de 1970 e 2020."
       }
      ]
     }
@@ -7366,6 +8026,28 @@
        ],
        "c": 0,
        "e": "Correta (A): a Revolução Pernambucana de 1817 foi um movimento republicano, separatista e liberal, que chegou a formar um governo provisório antes de ser reprimida. (B) Opunha-se ao absolutismo de D. João VI. (C) Foi contra a Coroa, não liderada por ela. (D) Não tinha relação com a Holanda, ausente desde 1654."
+      },
+      {
+       "p": "O sistema de capitanias hereditárias, implantado em 1534, visava principalmente:",
+       "alt": [
+        "Criar colégios jesuítas para catequizar os indígenas",
+        "Transferir para donatários particulares a responsabilidade de colonizar e defender o território",
+        "Estabelecer o comércio de escravos africanos no Brasil",
+        "Organizar a extração de ouro nas regiões mineradoras"
+       ],
+       "c": 1,
+       "e": "As capitanias hereditárias eram grandes faixas de terra doadas a donatários (nobres e fidalgos) que deveriam colonizá-las às suas próprias custas, em troca de privilégios. Foi uma solução portuguesa para administrar um território vasto sem grandes gastos da Coroa. A escravidão africana e a mineração desenvolveram-se em fases posteriores."
+      },
+      {
+       "p": "O Quilombo dos Palmares, destruído em 1694, é considerado um símbolo de resistência porque:",
+       "alt": [
+        "Foi uma revolta armada de escravos que tomou Salvador temporariamente",
+        "Foi uma comunidade autônoma formada por africanos escravizados fugitivos que resistiu por décadas",
+        "Representou a luta dos indígenas contra a catequização jesuítica",
+        "Foi liderado por um senhor de engenho abolicionista no século XVII"
+       ],
+       "c": 1,
+       "e": "Palmares foi uma república quilombola no atual Alagoas, liderada por Zumbi, que resistiu por quase um século às expedições militares. É o maior símbolo de resistência africana à escravidão no Brasil colonial. Não foi uma revolta urbana nem uma luta indígena."
       }
      ]
     },
@@ -7591,6 +8273,28 @@
        ],
        "c": 0,
        "e": "Correta (A): o Marechal Deodoro da Fonseca liderou o golpe militar que proclamou a República em 15/11/1889. (B) A Princesa Isabel era a herdeira da Monarquia derrubada. (C) Getúlio Vargas é figura da década de 1930 em diante. (D) D. Pedro II foi o imperador deposto."
+      },
+      {
+       "p": "A Independência do Brasil em 1822 foi proclamada por D. Pedro I após qual evento diplomático?",
+       "alt": [
+        "A chegada da família real ao Brasil em 1808",
+        "As Cortes portuguesas exigirem o retorno de D. Pedro a Lisboa e o rebaixamento do Brasil a Colônia",
+        "A Revolução Pernambucana de 1817",
+        "A assinatura do Tratado de Badajós"
+       ],
+       "c": 1,
+       "e": "As Cortes Liberais de Lisboa, em 1821–1822, exigiram que D. Pedro retornasse a Portugal e que o Brasil voltasse à condição colonial. D. Pedro recusou (o 'Fico') e, em setembro de 1822, proclamou a independência. A chegada da família real (1808) é anterior; a Revolução de 1817 foi um movimento separatista republicano; o Tratado de Badajós é de 1801."
+      },
+      {
+       "p": "A Lei Áurea (1888) aboliu a escravidão no Brasil. Qual era a situação do trabalho escravo às vésperas da abolição?",
+       "alt": [
+        "A escravidão já havia sido abolida em quase todos os estados, restando poucos cativos",
+        "Havia cerca de 700 mil escravizados, e a abolição foi precedida por leis graduais como a Lei do Ventre Livre (1871) e a Lei dos Sexagenários (1885)",
+        "O Brasil era o único país do mundo ainda com escravidão legal",
+        "A escravidão estava em expansão com importação maciça de africanos"
+       ],
+       "c": 1,
+       "e": "A abolição em 1888 foi resultado de um processo gradual: Lei do Ventre Livre (1871) libertou filhos de escravas; Lei dos Sexagenários (1885) libertou escravos com mais de 60 anos. Havia cerca de 700 mil escravizados quando a Lei Áurea foi assinada. O Brasil não era o único com escravidão, mas foi um dos últimos a abolir."
       }
      ]
     },
@@ -7816,6 +8520,28 @@
        ],
        "c": 0,
        "e": "Correta (A): a Constituição de 1988 ampliou direitos sociais, civis e políticos, marcando a redemocratização após a ditadura. (B) O Poder Moderador é da Constituição imperial de 1824. (C) A escravidão foi abolida em 1888. (D) O Estado Novo foi um regime de 1937."
+      },
+      {
+       "p": "A Revolução de 1930, que levou Getúlio Vargas ao poder, foi desencadeada principalmente por:",
+       "alt": [
+        "Uma insurreição militar apoiada pelos comunistas brasileiros",
+        "A crise da política do 'café com leite' e a Grande Depressão de 1929, que enfraqueceu as oligarquias",
+        "O movimento tenentista que exigiu a Constituição de 1934",
+        "A independência proclamada pelos estados do Sul do país"
+       ],
+       "c": 1,
+       "e": "A quebra do acordo oligárquico (Minas Gerais apoiou candidato de São Paulo, rompendo o rodízio) e a crise econômica de 1929 desestabilizaram a República Velha. Vargas, derrotado nas urnas, chegou ao poder com apoio de militares e oligarquias dissidentes. O tenentismo influenciou o período, mas não foi a causa imediata da Revolução de 1930."
+      },
+      {
+       "p": "O Estado Novo (1937–1945) foi um período ditatorial no Brasil marcado por:",
+       "alt": [
+        "Eleições livres e multipartidarismo ativo",
+        "Fechamento do Congresso, censura à imprensa, supressão de partidos e governos estaduais controlados",
+        "Forte influência do movimento operário e dos sindicatos independentes",
+        "Retomada do federalismo e autonomia das oligarquias regionais"
+       ],
+       "c": 1,
+       "e": "O Estado Novo foi instaurado por Vargas em novembro de 1937, com o fechamento do Congresso, a outorga de uma nova Constituição (a 'Polaca'), censura via DIP, extinção dos partidos e intervenção nos estados. A estrutura sindical foi criada, mas sob controle do Estado (sindicalismo atrelado). Foi o período mais autoritário do governo Vargas."
       }
      ]
     },
@@ -8041,6 +8767,28 @@
        ],
        "c": 0,
        "e": "Correta (A): o Código de Hamurabi (séc. XVIII a.C.) é um dos mais antigos conjuntos de leis escritas, marcado pela lei de talião ('olho por olho'). (B) Não abolia a escravidão, comum à época. (C) A democracia surgiu em Atenas. (D) O cristianismo surgiu no século I d.C."
+      },
+      {
+       "p": "A Revolução Francesa (1789) introduziu conceitos que influenciam as democracias modernas. Qual lema resume seus ideais?",
+       "alt": [
+        "Paz, terra e pão",
+        "Liberdade, igualdade, fraternidade",
+        "Trabalho, família, pátria",
+        "Deus, rei e nação"
+       ],
+       "c": 1,
+       "e": "'Liberté, Égalité, Fraternité' é o lema da Revolução Francesa, sintetizando seus ideais iluministas de liberdade individual, igualdade perante a lei e solidariedade social. 'Paz, terra e pão' é da Revolução Russa; 'Trabalho, família, pátria' é do regime de Vichy/fascismo; 'Deus, rei e nação' é monarquista absolutista."
+      },
+      {
+       "p": "A Primeira Guerra Mundial (1914–1918) foi desencadeada diretamente pelo assassinato de:",
+       "alt": [
+        "O Czar Nicolau II da Rússia",
+        "O arquiduque Francisco Ferdinando da Áustria-Hungria, em Sarajevo",
+        "O Kaiser Guilherme II da Alemanha",
+        "O Presidente Woodrow Wilson dos EUA"
+       ],
+       "c": 1,
+       "e": "O estopim da 1ª Guerra foi o assassinato do arquiduque Francisco Ferdinando (herdeiro austro-húngaro) em Sarajevo (28/06/1914), por Gavrilo Princip, um nacionalista sérvio. Isso ativou o sistema de alianças e levou à declaração de guerra em cadeia. O Czar, o Kaiser e Wilson sobreviveram ao início da guerra."
       }
      ]
     },
@@ -8266,6 +9014,1269 @@
        ],
        "c": 0,
        "e": "Correta (A): Gorbachev promoveu a Glasnost (transparência) e a Perestroika (reestruturação) na segunda metade dos anos 1980, processo que culminou no fim da URSS. (B) Stálin governou de 1924 a 1953. (C) Lênin liderou a Revolução de 1917. (D) Putin chegou ao poder somente em 1999/2000."
+      },
+      {
+       "p": "A Guerra Fria (1947–1991) foi marcada pela rivalidade entre EUA e URSS. Qual das seguintes características NÃO é típica da Guerra Fria?",
+       "alt": [
+        "Corrida armamentista nuclear",
+        "Conflito direto (guerra aberta) entre EUA e URSS em território europeu",
+        "Disputas por zonas de influência em países do Terceiro Mundo",
+        "Corrida espacial"
+       ],
+       "c": 1,
+       "e": "A Guerra Fria foi uma rivalidade política, ideológica e militar sem confronto direto entre EUA e URSS. As duas superpotências nunca se enfrentaram militarmente de forma direta (daí o nome 'fria'). Conflitos ocorreram em proxy wars (Coreia, Vietnã, Angola) — jamais em solo europeu entre as duas."
+      },
+      {
+       "p": "A queda do Muro de Berlim em 1989 simbolizou o fim da divisão da Alemanha. O muro havia sido construído em 1961 para:",
+       "alt": [
+        "Proteger a Alemanha Ocidental de ataques militares soviéticos",
+        "Impedir a fuga em massa de cidadãos da Alemanha Oriental (comunista) para o Ocidente",
+        "Marcar a fronteira comercial entre os dois países",
+        "Servir como base de mísseis nucleares soviéticos"
+       ],
+       "c": 1,
+       "e": "O Muro de Berlim foi construído pela RDA (Alemanha Oriental) para deter a fuga de trabalhadores e profissionais para a Berlim Ocidental (capitalista). Até 1961, cerca de 3 milhões de alemães orientais haviam emigrado, causando grave crise econômica e de legitimidade ao regime comunista."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Inglês",
+   "cor": "#0277BD",
+   "topicos": [
+    {
+     "nome": "Verbo To Be e Pronomes",
+     "desafios": [
+      {
+       "p": "Complete: 'She ___ a doctor.'",
+       "alt": [
+        "am",
+        "are",
+        "is",
+        "be"
+       ],
+       "c": 2,
+       "e": "Com o pronome 'she' (3ª pessoa do singular) usa-se 'is'; 'am' só combina com 'I'; 'are' é para 'you/we/they'; 'be' é a forma do infinitivo, não conjugada."
+      },
+      {
+       "p": "Complete: 'I ___ Brazilian.'",
+       "alt": [
+        "am",
+        "is",
+        "are",
+        "be"
+       ],
+       "c": 0,
+       "e": "O pronome 'I' exige 'am'; 'is' é usado com he/she/it; 'are' acompanha you/we/they; 'be' não é forma conjugada."
+      },
+      {
+       "p": "Complete: 'They ___ at home.'",
+       "alt": [
+        "is",
+        "are",
+        "am",
+        "be"
+       ],
+       "c": 1,
+       "e": "Com 'they' (plural) usa-se 'are'; 'is' serve só para singular; 'am' é exclusivo de 'I'; 'be' é infinitivo."
+      },
+      {
+       "p": "Qual pronome substitui 'Maria and I'?",
+       "alt": [
+        "They",
+        "You",
+        "She",
+        "We"
+       ],
+       "c": 3,
+       "e": "'Maria and I' inclui quem fala, então o pronome é 'we' (nós); 'they' exclui o falante; 'you' é a outra pessoa; 'she' é só uma mulher."
+      },
+      {
+       "p": "Complete: 'It ___ cold today.'",
+       "alt": [
+        "am",
+        "are",
+        "is",
+        "be"
+       ],
+       "c": 2,
+       "e": "'It' é 3ª pessoa do singular e pede 'is'; 'am' é só para 'I'; 'are' é para plural; 'be' não está conjugado."
+      },
+      {
+       "p": "Complete a negativa: 'He ___ not my friend.'",
+       "alt": [
+        "is",
+        "are",
+        "am",
+        "be"
+       ],
+       "c": 0,
+       "e": "Com 'he' usa-se 'is' (he is not); 'are' é para plural/you; 'am' só com 'I'; 'be' é infinitivo."
+      },
+      {
+       "p": "Qual pronome substitui 'the book'?",
+       "alt": [
+        "He",
+        "It",
+        "She",
+        "They"
+       ],
+       "c": 1,
+       "e": "Objetos e coisas no singular viram 'it'; 'he' e 'she' são para pessoas/animais com gênero; 'they' é plural."
+      },
+      {
+       "p": "Complete: 'You ___ very kind.'",
+       "alt": [
+        "am",
+        "is",
+        "are",
+        "be"
+       ],
+       "c": 2,
+       "e": "'You' sempre usa 'are', mesmo no singular; 'am' é de 'I'; 'is' é de he/she/it; 'be' não é conjugado."
+      },
+      {
+       "p": "Forma interrogativa: '___ she a teacher?'",
+       "alt": [
+        "Am",
+        "Are",
+        "Do",
+        "Is"
+       ],
+       "c": 3,
+       "e": "Na pergunta com 'she' o verbo 'is' vai para o início: 'Is she...?'; 'am' é de 'I'; 'are' é plural; 'do' não é usado com o verbo to be."
+      },
+      {
+       "p": "Pronome possessivo adjetivo: 'This is ___ car.' (de mim)",
+       "alt": [
+        "my",
+        "mine",
+        "me",
+        "I"
+       ],
+       "c": 0,
+       "e": "Antes do substantivo usa-se o adjetivo possessivo 'my'; 'mine' é pronome possessivo e fica sozinho; 'me' é objeto; 'I' é sujeito."
+      },
+      {
+       "p": "Complete: 'We ___ students.'",
+       "alt": [
+        "is",
+        "are",
+        "am",
+        "be"
+       ],
+       "c": 1,
+       "e": "Com 'we' (plural) usa-se 'are'; 'is' é singular; 'am' só com 'I'; 'be' é infinitivo."
+      },
+      {
+       "p": "Pronome objeto: 'Give the book to ___.' (a mim)",
+       "alt": [
+        "I",
+        "my",
+        "me",
+        "mine"
+       ],
+       "c": 2,
+       "e": "Depois de preposição usa-se o pronome objeto 'me'; 'I' é sujeito; 'my' é possessivo adjetivo; 'mine' é possessivo pronome."
+      },
+      {
+       "p": "Complete: 'The keys ___ on the table.'",
+       "alt": [
+        "is",
+        "am",
+        "be",
+        "are"
+       ],
+       "c": 3,
+       "e": "'Keys' está no plural, então usa-se 'are'; 'is' seria para singular; 'am' é só de 'I'; 'be' é infinitivo."
+      },
+      {
+       "p": "Qual pronome substitui 'John'?",
+       "alt": [
+        "He",
+        "It",
+        "She",
+        "They"
+       ],
+       "c": 0,
+       "e": "'John' é um homem, então o pronome é 'he'; 'it' é para coisas; 'she' é feminino; 'they' é plural."
+      },
+      {
+       "p": "Qual é a contração correta de 'I am'?",
+       "alt": [
+        "Im",
+        "Is",
+        "I'm",
+        "Iam"
+       ],
+       "c": 2,
+       "e": "A contração de 'I am' é 'I'm', com apóstrofo no lugar do 'a'; 'Im' e 'Iam' não têm apóstrofo; 'is' é outro verbo."
+      },
+      {
+       "p": "Complete: '___ you happy?'",
+       "alt": [
+        "Is",
+        "Are",
+        "Am",
+        "Be"
+       ],
+       "c": 1,
+       "e": "Com 'you' usa-se 'are' também na pergunta: 'Are you...?'; 'is' é singular he/she/it; 'am' é de 'I'; 'be' não é conjugado."
+      },
+      {
+       "p": "Complete: 'This is ___ house.' (deles)",
+       "alt": [
+        "them",
+        "theirs",
+        "they're",
+        "their"
+       ],
+       "c": 3,
+       "e": "Antes do substantivo usa-se o possessivo 'their' (a casa deles); 'them' é objeto; 'theirs' fica sozinho; 'they're' é contração de 'they are'."
+      },
+      {
+       "p": "Complete: 'My sister ___ a nurse.'",
+       "alt": [
+        "is",
+        "are",
+        "am",
+        "be"
+       ],
+       "c": 0,
+       "e": "'My sister' equivale a 'she', então usa-se 'is'; 'are' é plural; 'am' é de 'I'; 'be' é infinitivo."
+      },
+      {
+       "p": "Pronome sujeito que falta: '___ are my friends.'",
+       "alt": [
+        "He",
+        "She",
+        "They",
+        "It"
+       ],
+       "c": 2,
+       "e": "Como o verbo é 'are' e o sentido é plural, o sujeito é 'they'; 'he', 'she' e 'it' são singulares e pediriam 'is'."
+      },
+      {
+       "p": "Qual a forma negativa contraída de 'are not'?",
+       "alt": [
+        "amn't",
+        "aren't",
+        "isn't",
+        "not are"
+       ],
+       "c": 1,
+       "e": "A contração de 'are not' é 'aren't'; 'isn't' é de 'is not'; 'amn't' não existe em inglês padrão; 'not are' é ordem incorreta."
+      },
+      {
+       "p": "Complete: 'Tom and Jerry ___ funny.'",
+       "alt": [
+        "is",
+        "am",
+        "be",
+        "are"
+       ],
+       "c": 3,
+       "e": "'Tom and Jerry' são dois, equivalem a 'they', logo usa-se 'are'; 'is' é singular; 'am' é de 'I'; 'be' é infinitivo."
+      },
+      {
+       "p": "Complete: 'The dog wagged ___ tail.'",
+       "alt": [
+        "its",
+        "it's",
+        "his",
+        "their"
+       ],
+       "c": 0,
+       "e": "'Its' é o possessivo de 'it' (a cauda dele, do cachorro); 'it's' é contração de 'it is'; 'his' seria para pessoa do sexo masculino; 'their' é plural."
+      }
+     ]
+    },
+    {
+     "nome": "Tempos Verbais",
+     "desafios": [
+      {
+       "p": "Complete no Simple Present: 'She ___ to school every day.'",
+       "alt": [
+        "go",
+        "goes",
+        "going",
+        "went"
+       ],
+       "c": 1,
+       "e": "Na 3ª pessoa do singular do presente simples acrescenta-se -es: 'goes'; 'go' é forma base; 'going' é gerúndio; 'went' é passado."
+      },
+      {
+       "p": "Qual é o passado de 'go'?",
+       "alt": [
+        "goed",
+        "gone",
+        "goes",
+        "went"
+       ],
+       "c": 3,
+       "e": "'Go' é irregular e seu passado simples é 'went'; 'goed' não existe; 'gone' é o particípio; 'goes' é presente."
+      },
+      {
+       "p": "Present Continuous: 'They ___ playing now.'",
+       "alt": [
+        "are",
+        "is",
+        "was",
+        "be"
+       ],
+       "c": 0,
+       "e": "O presente contínuo com 'they' usa 'are' + verbo-ing; 'is' é singular; 'was' é passado; 'be' não é conjugado."
+      },
+      {
+       "p": "Simple Past: 'Yesterday I ___ a movie.'",
+       "alt": [
+        "watch",
+        "watches",
+        "watched",
+        "watching"
+       ],
+       "c": 2,
+       "e": "Verbo regular no passado recebe -ed: 'watched'; 'watch' é presente; 'watches' é 3ª pessoa do presente; 'watching' é gerúndio."
+      },
+      {
+       "p": "Future com 'will': 'I ___ call you tomorrow.'",
+       "alt": [
+        "am",
+        "will",
+        "would",
+        "was"
+       ],
+       "c": 1,
+       "e": "Para futuro usa-se 'will' + verbo base; 'am' forma presente contínuo; 'would' é condicional; 'was' é passado."
+      },
+      {
+       "p": "Present Perfect: 'She has ___ her homework.'",
+       "alt": [
+        "do",
+        "does",
+        "did",
+        "done"
+       ],
+       "c": 3,
+       "e": "Depois de 'has' usa-se o particípio passado 'done'; 'do' é base; 'does' é presente; 'did' é passado simples."
+      },
+      {
+       "p": "Simple Present negativo: 'He ___ like coffee.'",
+       "alt": [
+        "doesn't",
+        "don't",
+        "isn't",
+        "didn't"
+       ],
+       "c": 0,
+       "e": "Na 3ª pessoa do singular a negativa usa 'doesn't' + verbo base; 'don't' é para I/you/we/they; 'isn't' é do verbo to be; 'didn't' é passado."
+      },
+      {
+       "p": "Qual é o passado de 'buy'?",
+       "alt": [
+        "buyed",
+        "bought",
+        "buied",
+        "buys"
+       ],
+       "c": 1,
+       "e": "'Buy' é irregular e seu passado é 'bought'; 'buyed' e 'buied' não existem; 'buys' é presente."
+      },
+      {
+       "p": "Present Continuous: 'I ___ studying English.'",
+       "alt": [
+        "are",
+        "be",
+        "am",
+        "is"
+       ],
+       "c": 2,
+       "e": "Com 'I' o presente contínuo usa 'am' + verbo-ing; 'are' é plural; 'is' é 3ª pessoa; 'be' não é conjugado."
+      },
+      {
+       "p": "Future: 'We are ___ to travel next week.' (going to)",
+       "alt": [
+        "go",
+        "gone",
+        "will",
+        "going"
+       ],
+       "c": 3,
+       "e": "A estrutura 'be going to' para planos usa 'going': 'are going to travel'; 'go' e 'gone' não cabem aqui; 'will' é outra forma de futuro, sem 'are'."
+      },
+      {
+       "p": "Qual é o Simple Past de 'eat'?",
+       "alt": [
+        "ate",
+        "eated",
+        "eaten",
+        "eat"
+       ],
+       "c": 0,
+       "e": "'Eat' é irregular e o passado simples é 'ate'; 'eated' não existe; 'eaten' é particípio; 'eat' é presente."
+      },
+      {
+       "p": "Pergunta no Simple Past: '___ you see her?'",
+       "alt": [
+        "Does",
+        "Did",
+        "Do",
+        "Was"
+       ],
+       "c": 1,
+       "e": "No passado simples a pergunta usa o auxiliar 'did' + verbo base; 'does/do' são presente; 'was' é do verbo to be."
+      },
+      {
+       "p": "Present Perfect: 'They have ___ to Paris.'",
+       "alt": [
+        "go",
+        "went",
+        "going",
+        "gone"
+       ],
+       "c": 3,
+       "e": "Depois de 'have' usa-se o particípio 'gone'; 'go' é base; 'went' é passado simples; 'going' é gerúndio."
+      },
+      {
+       "p": "Simple Present 3ª pessoa: 'He ___ football.'",
+       "alt": [
+        "play",
+        "playing",
+        "plays",
+        "played"
+       ],
+       "c": 2,
+       "e": "Com 'he' no presente simples acrescenta-se -s: 'plays'; 'play' é base; 'playing' é gerúndio; 'played' é passado."
+      },
+      {
+       "p": "Qual é o passado de 'have'?",
+       "alt": [
+        "had",
+        "haved",
+        "has",
+        "haded"
+       ],
+       "c": 0,
+       "e": "'Have' é irregular e seu passado é 'had' para todas as pessoas; 'haved' e 'haded' não existem; 'has' é presente."
+      },
+      {
+       "p": "Past Continuous: 'She ___ sleeping when I called.'",
+       "alt": [
+        "is",
+        "was",
+        "were",
+        "be"
+       ],
+       "c": 1,
+       "e": "Com 'she' o passado contínuo usa 'was' + verbo-ing; 'is' é presente; 'were' é para plural/you; 'be' não é conjugado."
+      },
+      {
+       "p": "Future negativo: 'I ___ go to the party.'",
+       "alt": [
+        "willn't",
+        "don't will",
+        "not will",
+        "won't"
+       ],
+       "c": 3,
+       "e": "A negativa de 'will' é 'won't' (will not); 'willn't' não existe; 'don't will' e 'not will' têm ordem/estrutura incorreta."
+      },
+      {
+       "p": "Qual é o Simple Past de 'make'?",
+       "alt": [
+        "maked",
+        "makes",
+        "made",
+        "make"
+       ],
+       "c": 2,
+       "e": "'Make' é irregular e o passado é 'made'; 'maked' não existe; 'makes' é presente; 'make' é base."
+      },
+      {
+       "p": "Present Continuous interrogativo: '___ they coming?'",
+       "alt": [
+        "Are",
+        "Is",
+        "Do",
+        "Did"
+       ],
+       "c": 0,
+       "e": "Com 'they' no presente contínuo a pergunta começa com 'are' + verbo-ing; 'is' é singular; 'do/did' não formam contínuo."
+      },
+      {
+       "p": "Simple Present (fato): 'Water ___ at 100°C.'",
+       "alt": [
+        "boil",
+        "boils",
+        "boiled",
+        "boiling"
+       ],
+       "c": 1,
+       "e": "Fatos científicos vão no presente simples e 'water' é singular, então 'boils'; 'boil' é base; 'boiled' é passado; 'boiling' é gerúndio."
+      },
+      {
+       "p": "Qual é o passado de 'see'?",
+       "alt": [
+        "seed",
+        "seen",
+        "sawed",
+        "saw"
+       ],
+       "c": 3,
+       "e": "'See' é irregular e o passado simples é 'saw'; 'seen' é particípio; 'seed' e 'sawed' não existem nesse sentido."
+      },
+      {
+       "p": "Present Perfect: 'I have just ___ lunch.' (eat)",
+       "alt": [
+        "eat",
+        "ate",
+        "eaten",
+        "eating"
+       ],
+       "c": 2,
+       "e": "Depois de 'have' usa-se o particípio 'eaten'; 'eat' é base; 'ate' é passado simples; 'eating' é gerúndio."
+      }
+     ]
+    },
+    {
+     "nome": "Modais e Comparativos",
+     "desafios": [
+      {
+       "p": "Qual é o comparativo de superioridade de 'big'?",
+       "alt": [
+        "bigger",
+        "more big",
+        "biggest",
+        "most big"
+       ],
+       "c": 0,
+       "e": "Adjetivos curtos formam o comparativo com -er: 'bigger'; 'more big' não se usa com palavra curta; 'biggest' e 'most big' são superlativos."
+      },
+      {
+       "p": "Modal de habilidade: 'I ___ swim very well.'",
+       "alt": [
+        "must",
+        "should",
+        "may",
+        "can"
+       ],
+       "c": 3,
+       "e": "'Can' expressa habilidade/capacidade; 'must' é obrigação; 'should' é conselho; 'may' é permissão/possibilidade."
+      },
+      {
+       "p": "Qual é o superlativo de 'good'?",
+       "alt": [
+        "gooder",
+        "the best",
+        "more good",
+        "goodest"
+       ],
+       "c": 1,
+       "e": "'Good' é irregular e seu superlativo é 'the best'; 'gooder', 'more good' e 'goodest' não existem."
+      },
+      {
+       "p": "Modal de obrigação forte: 'You ___ stop at the red light.'",
+       "alt": [
+        "can",
+        "may",
+        "must",
+        "might"
+       ],
+       "c": 2,
+       "e": "'Must' indica obrigação forte/regra; 'can' é habilidade; 'may' é permissão; 'might' é possibilidade remota."
+      },
+      {
+       "p": "Qual é o comparativo de 'happy'?",
+       "alt": [
+        "happier",
+        "more happy",
+        "happiest",
+        "happyer"
+       ],
+       "c": 0,
+       "e": "Adjetivos terminados em -y trocam por -ier: 'happier'; 'more happy' não se usa; 'happiest' é superlativo; 'happyer' está mal grafado."
+      },
+      {
+       "p": "Modal de conselho: 'You ___ see a doctor.'",
+       "alt": [
+        "can",
+        "must",
+        "may",
+        "should"
+       ],
+       "c": 3,
+       "e": "'Should' dá conselho/recomendação; 'can' é habilidade; 'must' é obrigação; 'may' é permissão."
+      },
+      {
+       "p": "Comparativo de igualdade: 'She is ___ tall ___ her brother.'",
+       "alt": [
+        "more...than",
+        "as...as",
+        "so...as",
+        "the...est"
+       ],
+       "c": 1,
+       "e": "A igualdade usa a estrutura 'as ... as'; 'more...than' é superioridade; 'so...as' só aparece em negativas; 'the...est' é superlativo."
+      },
+      {
+       "p": "Qual é o superlativo de 'tall'?",
+       "alt": [
+        "the tallest",
+        "the most tall",
+        "taller",
+        "tallest more"
+       ],
+       "c": 0,
+       "e": "Adjetivos curtos formam o superlativo com -est: 'the tallest'; 'the most tall' não se usa; 'taller' é comparativo; 'tallest more' é incorreto."
+      },
+      {
+       "p": "Modal de permissão: '___ I open the window?'",
+       "alt": [
+        "Must",
+        "Should",
+        "May",
+        "Would"
+       ],
+       "c": 2,
+       "e": "'May' pede permissão de forma educada; 'must' é obrigação; 'should' é conselho; 'would' aparece em condicionais/pedidos diferentes."
+      },
+      {
+       "p": "Qual é o comparativo de 'expensive'?",
+       "alt": [
+        "expensiver",
+        "expensivest",
+        "more expensiver",
+        "more expensive"
+       ],
+       "c": 3,
+       "e": "Adjetivos longos usam 'more': 'more expensive'; 'expensiver' e 'expensivest' não existem; 'more expensiver' tem dupla marcação errada."
+      },
+      {
+       "p": "Modal de possibilidade: 'It ___ rain later.'",
+       "alt": [
+        "must",
+        "might",
+        "should",
+        "can't"
+       ],
+       "c": 1,
+       "e": "'Might' indica possibilidade (talvez chova); 'must' é certeza/obrigação; 'should' é conselho/expectativa; 'can't' nega a possibilidade."
+      },
+      {
+       "p": "Qual é o comparativo de 'bad'?",
+       "alt": [
+        "worse",
+        "badder",
+        "more bad",
+        "worst"
+       ],
+       "c": 0,
+       "e": "'Bad' é irregular e o comparativo é 'worse'; 'badder' e 'more bad' não existem; 'worst' é superlativo."
+      },
+      {
+       "p": "Negativa de 'can' (não conseguir):",
+       "alt": [
+        "can not be",
+        "cans not",
+        "can't",
+        "don't can"
+       ],
+       "c": 2,
+       "e": "A negativa contraída é 'can't' (cannot); 'cans not' e 'don't can' são incorretos; 'can not be' muda o sentido."
+      },
+      {
+       "p": "Qual é o superlativo de 'far'?",
+       "alt": [
+        "the farer",
+        "more far",
+        "farest",
+        "the farthest"
+       ],
+       "c": 3,
+       "e": "'Far' é irregular e o superlativo é 'the farthest' (ou furthest); 'the farer', 'more far' e 'farest' não existem."
+      },
+      {
+       "p": "Qual é o comparativo de 'easy'?",
+       "alt": [
+        "easier",
+        "more easy",
+        "easyer",
+        "easiest"
+       ],
+       "c": 0,
+       "e": "Adjetivos em -y trocam por -ier: 'easier'; 'more easy' não se usa; 'easyer' está mal grafado; 'easiest' é superlativo."
+      },
+      {
+       "p": "Ausência de obrigação: 'You ___ pay; it's free.'",
+       "alt": [
+        "must not",
+        "don't have to",
+        "shouldn't",
+        "can't"
+       ],
+       "c": 1,
+       "e": "'Don't have to' indica que algo não é necessário; 'must not' é proibição; 'shouldn't' é desaconselhar; 'can't' é impossibilidade."
+      },
+      {
+       "p": "A palavra 'than' é típica de qual estrutura?",
+       "alt": [
+        "superlativo",
+        "igualdade",
+        "comparativo de superioridade",
+        "modal"
+       ],
+       "c": 2,
+       "e": "'Than' aparece no comparativo de superioridade (taller than); o superlativo usa 'the...est/most'; a igualdade usa 'as...as'; modais não usam 'than'."
+      },
+      {
+       "p": "Modal para pedido educado: '___ you help me, please?'",
+       "alt": [
+        "Must",
+        "Should",
+        "May",
+        "Could"
+       ],
+       "c": 3,
+       "e": "'Could' faz pedidos educados; 'must' é obrigação; 'should' é conselho; 'may' pede permissão, não ajuda a outra pessoa."
+      },
+      {
+       "p": "Qual é o superlativo de 'interesting'?",
+       "alt": [
+        "the most interesting",
+        "the interestingest",
+        "more interesting",
+        "the interesting"
+       ],
+       "c": 0,
+       "e": "Adjetivos longos usam 'the most': 'the most interesting'; 'the interestingest' não existe; 'more interesting' é comparativo; 'the interesting' não é superlativo."
+      },
+      {
+       "p": "Complete: 'This box is ___ than that one.' (heavy)",
+       "alt": [
+        "more heavy",
+        "heavier",
+        "heaviest",
+        "as heavy"
+       ],
+       "c": 1,
+       "e": "'Heavy' termina em -y e faz comparativo 'heavier'; 'more heavy' não se usa; 'heaviest' é superlativo; 'as heavy' indica igualdade."
+      },
+      {
+       "p": "Modal de proibição: 'You ___ smoke here.'",
+       "alt": [
+        "don't have to",
+        "may not",
+        "must not",
+        "could not"
+       ],
+       "c": 2,
+       "e": "'Must not' expressa proibição clara; 'don't have to' é falta de necessidade; 'may not' é negação de permissão mais branda; 'could not' é incapacidade no passado."
+      },
+      {
+       "p": "Qual é o comparativo de 'little' (quantidade)?",
+       "alt": [
+        "littler",
+        "more little",
+        "lesser",
+        "less"
+       ],
+       "c": 3,
+       "e": "Para quantidade incontável o comparativo é 'less'; 'littler' e 'more little' não se usam aqui; 'lesser' tem uso restrito e formal diferente."
+      }
+     ]
+    },
+    {
+     "nome": "Vocabulário e Falsos Cognatos",
+     "desafios": [
+      {
+       "p": "O falso cognato 'actually' significa:",
+       "alt": [
+        "atualmente",
+        "de forma atual",
+        "na verdade",
+        "ativamente"
+       ],
+       "c": 2,
+       "e": "'Actually' quer dizer 'na verdade/de fato'; a tradução 'atualmente' é o erro clássico (atualmente é 'currently'); as outras opções também não correspondem."
+      },
+      {
+       "p": "'Pretend' significa:",
+       "alt": [
+        "pretender",
+        "fingir",
+        "pretensão",
+        "preferir"
+       ],
+       "c": 1,
+       "e": "'Pretend' significa 'fingir'; 'pretender' (ter intenção) é 'to intend'; 'pretensão' e 'preferir' são sentidos diferentes."
+      },
+      {
+       "p": "Numa porta com a placa 'PUSH', você deve:",
+       "alt": [
+        "empurrar",
+        "puxar",
+        "parar",
+        "apertar"
+       ],
+       "c": 0,
+       "e": "'Push' significa 'empurrar'; 'puxar' é 'pull', o falso cognato mais confundido; 'parar' e 'apertar' não correspondem."
+      },
+      {
+       "p": "'Library' significa:",
+       "alt": [
+        "livraria",
+        "papelaria",
+        "editora",
+        "biblioteca"
+       ],
+       "c": 3,
+       "e": "'Library' é 'biblioteca'; 'livraria' (loja de livros) é 'bookstore'; 'papelaria' e 'editora' são outros lugares."
+      },
+      {
+       "p": "'Parents' significa:",
+       "alt": [
+        "parentes",
+        "parentesco",
+        "pais (mãe e pai)",
+        "padrinhos"
+       ],
+       "c": 2,
+       "e": "'Parents' são os 'pais' (mãe e pai); 'parentes' em geral é 'relatives'; 'parentesco' e 'padrinhos' são outros termos."
+      },
+      {
+       "p": "'College' geralmente significa:",
+       "alt": [
+        "colégio infantil",
+        "faculdade",
+        "colega",
+        "colônia"
+       ],
+       "c": 1,
+       "e": "'College' costuma significar 'faculdade/ensino superior'; 'colégio' do ensino médio é 'high school'; 'colega' é 'colleague'; 'colônia' não tem relação."
+      },
+      {
+       "p": "'Realize' significa:",
+       "alt": [
+        "perceber/dar-se conta",
+        "realizar um sonho",
+        "fazer realmente",
+        "tornar real"
+       ],
+       "c": 0,
+       "e": "'Realize' é principalmente 'perceber/dar-se conta'; 'realizar' no sentido de concretizar costuma ser 'to carry out/achieve'; as demais não captam o uso comum."
+      },
+      {
+       "p": "'Eventually' significa:",
+       "alt": [
+        "eventualmente",
+        "de vez em quando",
+        "finalmente/no fim",
+        "talvez"
+       ],
+       "c": 2,
+       "e": "'Eventually' quer dizer 'finalmente/no fim das contas'; 'eventualmente' (de vez em quando) é o falso cognato e seria 'occasionally'; 'talvez' é 'maybe'."
+      },
+      {
+       "p": "'Fabric' significa:",
+       "alt": [
+        "fábrica",
+        "tecido",
+        "fabricante",
+        "fábula"
+       ],
+       "c": 1,
+       "e": "'Fabric' é 'tecido'; 'fábrica' é 'factory'; 'fabricante' é 'manufacturer'; 'fábula' é 'fable'."
+      },
+      {
+       "p": "'Costume' significa:",
+       "alt": [
+        "costume (hábito)",
+        "custo",
+        "cama",
+        "fantasia/traje"
+       ],
+       "c": 3,
+       "e": "'Costume' é 'fantasia/traje'; 'costume' no sentido de hábito é 'habit/custom'; 'custo' é 'cost'; 'cama' é 'bed'."
+      },
+      {
+       "p": "Numa porta com a placa 'PULL', você deve:",
+       "alt": [
+        "puxar",
+        "empurrar",
+        "pular",
+        "apertar"
+       ],
+       "c": 0,
+       "e": "'Pull' significa 'puxar'; 'empurrar' é 'push'; 'pular' (jump) e 'apertar' são confusões sonoras, não traduções corretas."
+      },
+      {
+       "p": "'Push' como verbo significa:",
+       "alt": [
+        "puxar",
+        "apertar levemente",
+        "empurrar",
+        "forçar a parar"
+       ],
+       "c": 2,
+       "e": "'Push' é 'empurrar'; 'puxar' é o oposto 'pull'; as outras opções não traduzem o verbo."
+      },
+      {
+       "p": "O conectivo 'however' significa:",
+       "alt": [
+        "portanto",
+        "no entanto/contudo",
+        "além disso",
+        "porque"
+       ],
+       "c": 1,
+       "e": "'However' indica contraste: 'no entanto/contudo'; 'portanto' é 'therefore'; 'além disso' é 'moreover'; 'porque' é 'because'."
+      },
+      {
+       "p": "O conectivo 'because' indica:",
+       "alt": [
+        "consequência",
+        "oposição",
+        "adição",
+        "causa"
+       ],
+       "c": 3,
+       "e": "'Because' introduz a causa/razão; consequência seria 'so/therefore'; oposição é 'but/however'; adição é 'and/also'."
+      },
+      {
+       "p": "'Lunch' significa:",
+       "alt": [
+        "lanche",
+        "café da manhã",
+        "almoço",
+        "jantar"
+       ],
+       "c": 2,
+       "e": "'Lunch' é o 'almoço'; 'lanche' é 'snack'; 'café da manhã' é 'breakfast'; 'jantar' é 'dinner'."
+      },
+      {
+       "p": "'Notice' (verbo) significa:",
+       "alt": [
+        "notícia",
+        "notar/perceber",
+        "avisar oficialmente",
+        "anotar"
+       ],
+       "c": 1,
+       "e": "Como verbo, 'notice' é 'notar/perceber'; 'notícia' é 'news'; 'avisar' é 'to inform/warn'; 'anotar' é 'to write down'."
+      },
+      {
+       "p": "O conectivo 'therefore' significa:",
+       "alt": [
+        "portanto",
+        "porém",
+        "porque",
+        "embora"
+       ],
+       "c": 0,
+       "e": "'Therefore' expressa conclusão: 'portanto'; 'porém' é 'however'; 'porque' é 'because'; 'embora' é 'although'."
+      },
+      {
+       "p": "'Exit' significa:",
+       "alt": [
+        "êxito",
+        "entrada",
+        "sucesso",
+        "saída"
+       ],
+       "c": 3,
+       "e": "'Exit' é 'saída'; 'êxito/sucesso' é 'success'; 'entrada' é 'entrance'; a semelhança com 'êxito' é o falso cognato."
+      },
+      {
+       "p": "'Sensible' significa:",
+       "alt": [
+        "sensível",
+        "sentimental",
+        "sensato/razoável",
+        "sensorial"
+       ],
+       "c": 2,
+       "e": "'Sensible' é 'sensato/razoável'; 'sensível' (que se emociona) é 'sensitive'; as demais não correspondem ao termo."
+      },
+      {
+       "p": "O conectivo 'although' significa:",
+       "alt": [
+        "portanto",
+        "embora/apesar de",
+        "então",
+        "porque"
+       ],
+       "c": 1,
+       "e": "'Although' indica concessão: 'embora/apesar de'; 'portanto' é 'therefore'; 'então' é 'so/then'; 'porque' é 'because'."
+      },
+      {
+       "p": "'Cigar' significa:",
+       "alt": [
+        "charuto",
+        "cigarro",
+        "isqueiro",
+        "cinzeiro"
+       ],
+       "c": 0,
+       "e": "'Cigar' é 'charuto'; 'cigarro' é 'cigarette', o falso cognato mais comum; 'isqueiro' e 'cinzeiro' são objetos relacionados, não a tradução."
+      },
+      {
+       "p": "'Attend' significa:",
+       "alt": [
+        "atender o telefone",
+        "esperar",
+        "atender um cliente",
+        "comparecer/assistir"
+       ],
+       "c": 3,
+       "e": "'Attend' é 'comparecer/assistir' a algo; 'atender o telefone' é 'answer'; 'esperar' é 'wait'; 'atender um cliente' é 'serve/assist'."
+      }
+     ]
+    },
+    {
+     "nome": "Interpretação de Texto",
+     "desafios": [
+      {
+       "p": "'Smoking is strictly prohibited in this area.' A placa indica que fumar é:",
+       "alt": [
+        "proibido",
+        "permitido",
+        "obrigatório",
+        "incentivado"
+       ],
+       "c": 0,
+       "e": "'Prohibited' significa 'proibido', reforçado por 'strictly'; as opções permitido, obrigatório e incentivado contrariam diretamente o sentido do aviso."
+      },
+      {
+       "p": "'She was over the moon when she passed the exam.' A expressão 'over the moon' indica que ela ficou:",
+       "alt": [
+        "na lua/distraída",
+        "triste",
+        "muito feliz",
+        "cansada"
+       ],
+       "c": 2,
+       "e": "'Over the moon' é uma expressão idiomática para 'muito feliz/radiante'; a tradução literal 'na lua' engana; triste e cansada são o oposto do contexto de passar na prova."
+      },
+      {
+       "p": "'Please mind the gap between the train and the platform.' O aviso pede para:",
+       "alt": [
+        "correr",
+        "tomar cuidado com o vão",
+        "fechar a porta",
+        "sentar"
+       ],
+       "c": 1,
+       "e": "'Mind the gap' pede atenção ao vão entre o trem e a plataforma; correr, fechar a porta e sentar não estão no enunciado."
+      },
+      {
+       "p": "'Break a leg!', disse o amigo antes da apresentação. Ele quis dizer:",
+       "alt": [
+        "quebre a perna",
+        "cuidado para não cair",
+        "vá embora",
+        "boa sorte"
+       ],
+       "c": 3,
+       "e": "'Break a leg' é expressão idiomática que significa 'boa sorte'; a tradução literal 'quebre a perna' é a armadilha; as demais não correspondem ao uso."
+      },
+      {
+       "p": "'This product must be kept out of reach of children.' A frase recomenda manter o produto:",
+       "alt": [
+        "longe do alcance de crianças",
+        "perto das crianças",
+        "na geladeira",
+        "no sol"
+       ],
+       "c": 0,
+       "e": "'Out of reach of children' significa 'fora do alcance das crianças'; 'perto das crianças' é o oposto; geladeira e sol não são mencionados."
+      },
+      {
+       "p": "'It's raining cats and dogs.' A expressão significa que está:",
+       "alt": [
+        "caindo animais",
+        "ventando muito",
+        "chovendo muito",
+        "nevando"
+       ],
+       "c": 2,
+       "e": "'Raining cats and dogs' é idiomático para 'chovendo muito/torrencialmente'; a leitura literal de 'animais caindo' é o engano; vento e neve não cabem."
+      },
+      {
+       "p": "Num anúncio: 'Buy one, get one free.' Isso significa:",
+       "alt": [
+        "tudo pela metade do preço",
+        "compre um e leve outro grátis",
+        "frete grátis",
+        "desconto só no primeiro item"
+       ],
+       "c": 1,
+       "e": "'Buy one, get one free' é 'compre um e leve outro grátis'; não fala em metade de preço, frete nem desconto no primeiro item."
+      },
+      {
+       "p": "'He used to play soccer when he was young.' A frase indica um hábito:",
+       "alt": [
+        "do passado, que não ocorre mais",
+        "do presente",
+        "do futuro",
+        "obrigatório"
+       ],
+       "c": 0,
+       "e": "'Used to' expressa hábito do passado que não acontece mais; não se refere a presente nem futuro, e não indica obrigação."
+      },
+      {
+       "p": "'The meeting has been postponed to next Friday.' A reunião foi:",
+       "alt": [
+        "cancelada",
+        "antecipada",
+        "confirmada para hoje",
+        "adiada"
+       ],
+       "c": 3,
+       "e": "'Postponed' significa 'adiada' para outra data; cancelada, antecipada e confirmada para hoje contrariam o sentido de transferir para a próxima sexta."
+      },
+      {
+       "p": "'Don't judge a book by its cover.' O provérbio aconselha a não julgar pela:",
+       "alt": [
+        "capa do livro literalmente",
+        "idade",
+        "aparência",
+        "fala"
+       ],
+       "c": 2,
+       "e": "O provérbio usa a capa do livro como metáfora da 'aparência'; a leitura literal só sobre livros perde o sentido; idade e fala não são o foco."
+      },
+      {
+       "p": "'Sustainable development meets the needs of the present without compromising future generations.' A ideia central é:",
+       "alt": [
+        "lucro imediato acima de tudo",
+        "equilíbrio entre presente e futuro",
+        "crescimento sem limites",
+        "redução da população"
+       ],
+       "c": 1,
+       "e": "O texto define desenvolvimento sustentável como equilíbrio entre necessidades atuais e futuras; lucro imediato e crescimento sem limites contrariam a ideia; redução populacional não é citada."
+      },
+      {
+       "p": "'I'm looking forward to seeing you.' A pessoa está:",
+       "alt": [
+        "ansiosa para te ver",
+        "com medo de te ver",
+        "evitando você",
+        "despedindo-se para sempre"
+       ],
+       "c": 0,
+       "e": "'Look forward to' indica expectativa positiva: 'ansiosa para te ver'; medo, evitação e despedida definitiva não correspondem à expressão."
+      },
+      {
+       "p": "'Turn off the lights before leaving.' A frase é:",
+       "alt": [
+        "uma pergunta",
+        "uma oferta",
+        "uma instrução/ordem",
+        "uma reclamação"
+       ],
+       "c": 2,
+       "e": "É uma frase no imperativo, ou seja, uma instrução/ordem; não há ponto de interrogação (pergunta), oferta nem tom de reclamação."
+      },
+      {
+       "p": "Dizer que 'the glass is half full' representa uma visão:",
+       "alt": [
+        "pessimista",
+        "neutra",
+        "estritamente científica",
+        "otimista"
+       ],
+       "c": 3,
+       "e": "'Half full' (meio cheio) representa visão otimista; 'half empty' seria pessimista; não é neutra nem apenas científica."
+      },
+      {
+       "p": "'Once in a blue moon I eat fast food.' A frequência indicada é:",
+       "alt": [
+        "todos os dias",
+        "muito raramente",
+        "sempre",
+        "nunca"
+       ],
+       "c": 1,
+       "e": "'Once in a blue moon' significa 'muito raramente'; não é diário, constante nem total ausência (nunca)."
+      },
+      {
+       "p": "'Recycling helps reduce pollution.' O texto destaca como benefício da reciclagem:",
+       "alt": [
+        "reduzir a poluição",
+        "aumentar o lixo",
+        "gastar mais água",
+        "poluir o ar"
+       ],
+       "c": 0,
+       "e": "A frase afirma que reciclar ajuda a 'reduzir a poluição'; aumentar lixo, gastar água e poluir o ar são o contrário do que o texto diz."
+      },
+      {
+       "p": "'She finally got the hang of it.' A expressão significa que ela:",
+       "alt": [
+        "desistiu",
+        "ficou pendurada",
+        "pegou o jeito",
+        "se cansou"
+       ],
+       "c": 2,
+       "e": "'Get the hang of it' é 'pegar o jeito/aprender a fazer'; a leitura literal de 'pendurar' engana; desistir e cansar contrariam o 'finally'."
+      },
+      {
+       "p": "Num e-mail formal, 'I look forward to hearing from you.' indica que o remetente espera:",
+       "alt": [
+        "uma visita",
+        "um pagamento imediato",
+        "silêncio",
+        "uma resposta"
+       ],
+       "c": 3,
+       "e": "'Hearing from you' indica que se espera 'uma resposta/retorno'; visita, pagamento e silêncio não correspondem à fórmula de fechamento."
+      },
+      {
+       "p": "'Better late than never.' O provérbio quer dizer:",
+       "alt": [
+        "é melhor nunca tentar",
+        "antes tarde do que nunca",
+        "nunca se atrase",
+        "o tempo é dinheiro"
+       ],
+       "c": 1,
+       "e": "Equivale ao português 'antes tarde do que nunca'; as demais opções invertem ou trocam o sentido do provérbio."
+      },
+      {
+       "p": "'Access denied: incorrect password.' A mensagem informa que o acesso foi:",
+       "alt": [
+        "negado",
+        "permitido",
+        "adiado",
+        "liberado"
+       ],
+       "c": 0,
+       "e": "'Access denied' significa acesso 'negado', por causa da senha incorreta; permitido e liberado são o oposto; adiado não se aplica."
+      },
+      {
+       "p": "'The author criticizes social media addiction.' A intenção do autor é:",
+       "alt": [
+        "elogiar as redes sociais",
+        "vender um aplicativo",
+        "criticar o vício em redes sociais",
+        "ensinar a postar fotos"
+       ],
+       "c": 2,
+       "e": "'Criticizes ... addiction' mostra que o autor critica o vício em redes sociais; elogiar é o oposto; vender app e ensinar a postar não constam."
+      },
+      {
+       "p": "'Practice makes perfect.' A mensagem é que, para melhorar, é preciso:",
+       "alt": [
+        "ter talento natural",
+        "ter sorte",
+        "já nascer pronto",
+        "praticar/treinar"
+       ],
+       "c": 3,
+       "e": "O provérbio destaca que a prática leva à perfeição, ou seja, é preciso 'praticar/treinar'; talento, sorte e dom inato não são o foco da frase."
       }
      ]
     }
