@@ -1434,7 +1434,7 @@
       "numero": 58,
       "ano": 2025,
       "titulo": "Questão 58 - UNICAMP 2025",
-      "enunciado": "![](vestibular/unicamp/img/2025_q58_full.png)",
+      "enunciado": "A poluição de rios, lagos e lagoas é um dos grandes problemas enfrentados pela sociedade moderna. Ao longo das últimas dé­ cadas, vários mecanismos têm sido utilizados para minimizar os danos causados por ela. Uma indústria despeja numa lagoa, de forma indevida, água contaminada por um poluente a uma certa taxa. Dependendo da vazão da lagoa e da concentração do poluente, é possível verificar que a quantidade total desse contaminante na lagoa num tempo t, denotada por Q(t), é dada por Q( t ) = 20 + 2 sen( t ) – 4 cos(t), em que t representa o tempo medido em anos e Q( t ) é medido em quilos. O gráfico que melhor representa a função Q( t ), ou seja, a quantidade total do poluente na lagoa num tempo t é:",
       "alternativas_introducao": "",
       "alternativas": [
         "A)",
@@ -1443,10 +1443,10 @@
         "D)"
       ],
       "imagens_alternativas": [
-        null,
-        null,
-        null,
-        null
+        "vestibular/unicamp/img/2025_q58_altA.png",
+        "vestibular/unicamp/img/2025_q58_altB.png",
+        "vestibular/unicamp/img/2025_q58_altC.png",
+        "vestibular/unicamp/img/2025_q58_altD.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],

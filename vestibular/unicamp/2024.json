@@ -634,7 +634,7 @@
       "numero": 26,
       "ano": 2024,
       "titulo": "Questão 26 - UNICAMP 2024",
-      "enunciado": "![](vestibular/unicamp/img/2024_q26_full.png)",
+      "enunciado": "Um grupo de pesquisadores estudou a atividade antibacteria­ na – em ação sobre duas bactérias, a saber, Escherichia coli e Staphylococcus aureus – da curcumina livre e da curcumina combinada com octaarginina. Os pesquisadores observaram que a curcumina livre apresenta atividade antibacteriana frente a uma das bactérias. Na forma combinada, a curcumina foi mais eficiente – em comparação com a forma livre – no combate aos dois microrganismos. Tendo em vista essas informações, os gráficos que melhor representam os resultados do estudo são os seguintes: Dados: (i) E. coli; (ii) S. aureus.  curcumina livre;  curcumina combinada com octaarginina.",
       "alternativas_introducao": "",
       "alternativas": [
         "A)",
@@ -643,10 +643,10 @@
         "D)"
       ],
       "imagens_alternativas": [
-        null,
-        null,
-        null,
-        null
+        "vestibular/unicamp/img/2024_q26_altA.png",
+        "vestibular/unicamp/img/2024_q26_altB.png",
+        "vestibular/unicamp/img/2024_q26_altC.png",
+        "vestibular/unicamp/img/2024_q26_altD.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],
@@ -1659,7 +1659,7 @@
       "numero": 67,
       "ano": 2024,
       "titulo": "Questão 67 - UNICAMP 2024",
-      "enunciado": "![](vestibular/unicamp/img/2024_q67_full.png)",
+      "enunciado": "Em uma visita a um museu de arte indígena, um estudante ob­ servou uma obra seguida de uma placa explicativa: In some indigenous cultures, headdresses represent Native peoples’ right to govern themselves according to their own laws. The materials they are constructed with can vary greatly, including wood, iron, feathers, and ivory. Rather than using gridded designs (symbols of spiritual beliefs) or putting birds or mammals at center stage, as several others do, horns were attached to this headdress, an emblem of power reserved for those “whose exceeding worth and power is admitted by all the nation”. (Imagens (nas alternativas) e texto (acima) adaptados de: https://americanindian.si.edu/ exhibitions/infinityofnations/introduction.html. Acesso em 31/05/2023.) Qual das imagens corresponde à descrição da placa?",
       "alternativas_introducao": "",
       "alternativas": [
         "A)",
@@ -1668,10 +1668,10 @@
         "D)"
       ],
       "imagens_alternativas": [
-        null,
-        null,
-        null,
-        null
+        "vestibular/unicamp/img/2024_q67_altA.png",
+        "vestibular/unicamp/img/2024_q67_altB.png",
+        "vestibular/unicamp/img/2024_q67_altC.png",
+        "vestibular/unicamp/img/2024_q67_altD.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],

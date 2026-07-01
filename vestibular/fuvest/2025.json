@@ -1845,7 +1845,7 @@
       "numero": 69,
       "ano": 2025,
       "titulo": "Questão 69 - FUVEST 2025",
-      "enunciado": "![](vestibular/fuvest/img/2025_q69_full.png)",
+      "enunciado": "No plano cartesiano 𝑂𝑥𝑦, o gráfico que melhor representa a função 𝑓ሺ𝑥ሻൌ|𝑥ଶ൅5𝑥െ6| െ5𝑥൅6 é dado por",
       "alternativas_introducao": "",
       "alternativas": [
         "A)",
@@ -1855,11 +1855,11 @@
         "E)"
       ],
       "imagens_alternativas": [
-        null,
-        null,
-        null,
-        null,
-        null
+        "vestibular/fuvest/img/2025_q69_altA.png",
+        "vestibular/fuvest/img/2025_q69_altB.png",
+        "vestibular/fuvest/img/2025_q69_altC.png",
+        "vestibular/fuvest/img/2025_q69_altD.png",
+        "vestibular/fuvest/img/2025_q69_altE.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],

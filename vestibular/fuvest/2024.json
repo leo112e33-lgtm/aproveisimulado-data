@@ -1602,7 +1602,7 @@
       "numero": 60,
       "ano": 2024,
       "titulo": "Questão 60 - FUVEST 2024",
-      "enunciado": "![](vestibular/fuvest/img/2024_q60_full.png)",
+      "enunciado": "Considere o sistema linear ൜𝑥+ 2𝑦= 4 3𝑥−𝑦= 5 . Assinale a alternativa que representa graficamente esse sistema.",
       "alternativas_introducao": "",
       "alternativas": [
         "A)",
@@ -1612,11 +1612,11 @@
         "E)"
       ],
       "imagens_alternativas": [
-        null,
-        null,
-        null,
-        null,
-        null
+        "vestibular/fuvest/img/2024_q60_altA.png",
+        "vestibular/fuvest/img/2024_q60_altB.png",
+        "vestibular/fuvest/img/2024_q60_altC.png",
+        "vestibular/fuvest/img/2024_q60_altD.png",
+        "vestibular/fuvest/img/2024_q60_altE.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],
