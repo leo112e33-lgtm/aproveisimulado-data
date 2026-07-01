@@ -2196,7 +2196,7 @@
       "numero": 82,
       "ano": 2024,
       "titulo": "Questão 82 - UNESP 2024",
-      "enunciado": "![](vestibular/unesp/img/2024_q82_full.png)",
+      "enunciado": "Alguns peixes, como os tubarões, orientam-se sentindo o campo magnético da Terra. Como cada local na Terra tem uma assinatura magnética diferente, supõem-se que esses peixes possam guardar no cérebro algum tipo de mapa mag- nético que os informa sobre onde estão. Para verificar essa suposição, foi realizado um experimento colocando tubarões em um tanque cercado por um cubo envolto em fios de co- bre, pelos quais fez-se passar corrente elétrica. Essa corren- te modificou o campo magnético da região, desorientando os tubarões. (www.nationalgeographicbrasil.com. Adaptado.) Suponha que a figura, fora de escala, represente uma das fa- ces do cubo que cercou o tanque em que esse experimento foi realizado, envolvido por um fio de cobre com o formato de um solenoide, percorrido por uma corrente elétrica contínua (i) no sentido indicado. Considere que um tubarão esteja nadan- do ao longo do eixo longitudinal do solenoide, sujeito, simulta- neamente, ao campo magnético criado pela Terra na região, , indicado na figura, e ao campo magnético criado pela cor- rente que circula pelo solenoide. Considere que esteja contido no plano da figura, que represente um vetor saindo do plano desta folha e que represente um vetor entrando no plano desta folha. A repre- sentação do campo magnético sentido pelo tubarão, devido aos efeitos simultâneos do campo magnético terrestre e da corrente que circula pelo solenoide, é:",
       "alternativas_introducao": "",
       "alternativas": [
         "A)",
@@ -2206,11 +2206,11 @@
         "E)"
       ],
       "imagens_alternativas": [
-        null,
-        null,
-        null,
-        null,
-        null
+        "vestibular/unesp/img/2024_q82_altA.png",
+        "vestibular/unesp/img/2024_q82_altB.png",
+        "vestibular/unesp/img/2024_q82_altC.png",
+        "vestibular/unesp/img/2024_q82_altD.png",
+        "vestibular/unesp/img/2024_q82_altE.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],

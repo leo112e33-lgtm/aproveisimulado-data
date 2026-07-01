@@ -1683,7 +1683,7 @@
       "numero": 63,
       "ano": 2025,
       "titulo": "Questão 63 - UNESP 2025",
-      "enunciado": "Em um experimento, um mesmo meio de cultura líquido, enriquecido com nutrientes, foi acrescentado a dois tubos de ensaio, 1 e 2. Ao tubo 1 foram adicionados vírus bacteriófagos e ao tubo 2 foram adicionadas bactérias de uma mesma espécie. Os dois tubos foram mantidos em condições ambientais ideais, e em intervalos de tempo consecutivos foi verificada a quantidade de vírus bacteriófagos e a quantidade de bactérias nos respectivos tubos. Os gráficos que representam as quantidades verificadas ao longo do tempo em cada tubo são:",
+      "enunciado": "Em um experimento, um mesmo meio de cultura líquido, enri- quecido com nutrientes, foi acrescentado a dois tubos de en- saio, 1 e 2. Ao tubo 1 foram adicionados vírus bacteriófagos e ao tubo 2 foram adicionadas bactérias de uma mesma espé- cie. Os dois tubos foram mantidos em condições ambientais ideais, e em intervalos de tempo consecutivos foi verificada a quantidade de vírus bacteriófagos e a quantidade de bac- térias nos respectivos tubos. Os gráficos que representam as quantidades verificadas ao longo do tempo em cada tubo são:",
       "alternativas_introducao": "",
       "alternativas": [
         "A)",
@@ -1693,11 +1693,11 @@
         "E)"
       ],
       "imagens_alternativas": [
-        null,
-        null,
-        null,
-        null,
-        null
+        "vestibular/unesp/img/2025_q63_altA.png",
+        "vestibular/unesp/img/2025_q63_altB.png",
+        "vestibular/unesp/img/2025_q63_altC.png",
+        "vestibular/unesp/img/2025_q63_altD.png",
+        "vestibular/unesp/img/2025_q63_altE.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],

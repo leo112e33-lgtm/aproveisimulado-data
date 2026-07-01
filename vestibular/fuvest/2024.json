@@ -495,7 +495,7 @@
       "numero": 19,
       "ano": 2024,
       "titulo": "Questão 19 - FUVEST 2024",
-      "enunciado": "![](vestibular/fuvest/img/2024_q19_full.png)",
+      "enunciado": "Olestra é uma gordura artificial com sabor parecido ao do óleo vegetal. Essa substância não é metabolizada pelo organismo humano e, portanto, pode ser usada em dietas de emagrecimento. Seu uso, no entanto, é controverso. Por ser uma molécula semelhante à gordura, ela interage com vitaminas lipossolúveis, transportando-as para fora do organismo, o que pode levar à deficiência destas. Dentre as vitaminas apresentadas, assinale qual delas teria a sua absorção menos prejudicada com a ingestão exagerada de alimentos à base de olestra.",
       "alternativas_introducao": "",
       "alternativas": [
         "A)",
@@ -505,11 +505,11 @@
         "E)"
       ],
       "imagens_alternativas": [
-        null,
-        null,
-        null,
-        null,
-        null
+        "vestibular/fuvest/img/2024_q19_altA.png",
+        "vestibular/fuvest/img/2024_q19_altB.png",
+        "vestibular/fuvest/img/2024_q19_altC.png",
+        "vestibular/fuvest/img/2024_q19_altD.png",
+        "vestibular/fuvest/img/2024_q19_altE.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],
@@ -1926,7 +1926,7 @@
       "numero": 72,
       "ano": 2024,
       "titulo": "Questão 72 - FUVEST 2024",
-      "enunciado": "![](vestibular/fuvest/img/2024_q72_full.png)",
+      "enunciado": "Um protótipo de máquina térmica caseira baseia-se num motor de quatro etapas e pode ser construído com o auxílio de uma bomba de bicicleta, uma pequena câmara de pneu e um aquecedor térmico. Na primeira etapa, o gás da câmara de pneu é comprimido adiabaticamente. Na segunda etapa, o gás é aquecido isovolumetricamente. Na terceira etapa, o gás sofre uma expansão adiabática e, finalmente, na quarta etapa, um resfriamento isovolumétrico. Assinale a alternativa que melhor representa o diagrama correspondente a essa máquina térmica no plano pressão (𝑝) 𝑥 volume (𝑉). Note e adote: Despreze efeitos de dilatação ou contração da câmara do pneu.",
       "alternativas_introducao": "",
       "alternativas": [
         "A)",
@@ -1936,11 +1936,11 @@
         "E)"
       ],
       "imagens_alternativas": [
-        null,
-        null,
-        null,
-        null,
-        null
+        "vestibular/fuvest/img/2024_q72_altA.png",
+        "vestibular/fuvest/img/2024_q72_altB.png",
+        "vestibular/fuvest/img/2024_q72_altC.png",
+        "vestibular/fuvest/img/2024_q72_altD.png",
+        "vestibular/fuvest/img/2024_q72_altE.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],
