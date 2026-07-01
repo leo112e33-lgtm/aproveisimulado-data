@@ -121,6 +121,44 @@
         "indisponivel": 1,
         "inep_oficial": 1
       }
+    },
+    {
+      "ano": 2024,
+      "dia": 1,
+      "totalQuestoes": 90,
+      "arquivo": "enem/2024/dia1.json",
+      "fontes": {
+        "inep_oficial": 90
+      }
+    },
+    {
+      "ano": 2024,
+      "dia": 2,
+      "totalQuestoes": 90,
+      "arquivo": "enem/2024/dia2.json",
+      "fontes": {
+        "inep_oficial": 89,
+        "anulada_inep": 1
+      }
+    },
+    {
+      "ano": 2025,
+      "dia": 1,
+      "totalQuestoes": 90,
+      "arquivo": "enem/2025/dia1.json",
+      "fontes": {
+        "inep_oficial": 90
+      }
+    },
+    {
+      "ano": 2025,
+      "dia": 2,
+      "totalQuestoes": 90,
+      "arquivo": "enem/2025/dia2.json",
+      "fontes": {
+        "inep_oficial": 87,
+        "anulada_inep": 3
+      }
     }
   ]
 }
