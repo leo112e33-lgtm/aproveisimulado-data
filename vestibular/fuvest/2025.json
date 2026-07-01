@@ -414,14 +414,14 @@
       "numero": 16,
       "ano": 2025,
       "titulo": "Questão 16 - FUVEST 2025",
-      "enunciado": "![](vestibular/fuvest/img/2025_q16_full.png)",
+      "enunciado": "![](vestibular/fuvest/img/2025_q16_enun.png)",
       "alternativas_introducao": "",
       "alternativas": [
-        "A)",
-        "B)",
-        "C)",
-        "D)",
-        "E)"
+        "A) A rampa não está adequada, pois os dois segmentos não estão de acordo com a norma.",
+        "B) A rampa está adequada, pois os dois segmentos estão de acordo com a norma.",
+        "C) A rampa não está adequada, pois o primeiro segmento não está de acordo com a norma.",
+        "D) A rampa não está adequada, pois o segundo segmento não está de acordo com a norma.",
+        "E) A rampa está adequada, pois, apesar de o segundo segmento não estar de acordo com a norma, o primeiro está."
       ],
       "imagens_alternativas": [
         null,
@@ -441,14 +441,14 @@
       "numero": 17,
       "ano": 2025,
       "titulo": "Questão 17 - FUVEST 2025",
-      "enunciado": "![](vestibular/fuvest/img/2025_q17_full.png)",
+      "enunciado": "![](vestibular/fuvest/img/2025_q17_enun.png)",
       "alternativas_introducao": "",
       "alternativas": [
-        "A)",
-        "B)",
-        "C)",
-        "D)",
-        "E)"
+        "A) d < 2",
+        "B) 2 ≤ d < 5",
+        "C) 5 ≤ d ≤ 8",
+        "D) 8 < d ≤ 11",
+        "E) 11 < d"
       ],
       "imagens_alternativas": [
         null,
@@ -468,14 +468,14 @@
       "numero": 18,
       "ano": 2025,
       "titulo": "Questão 18 - FUVEST 2025",
-      "enunciado": "![](vestibular/fuvest/img/2025_q18_full.png)",
+      "enunciado": "![](vestibular/fuvest/img/2025_q18_enun.png)\n\nNote e adote: Utilize 1 m.p.h. = 0,5 m/s. Considere que a força atuando durante a colisão seja constante e igual à força média.",
       "alternativas_introducao": "",
       "alternativas": [
-        "A)",
-        "B)",
-        "C)",
-        "D)",
-        "E)"
+        "A) 7 × 10⁻² N.",
+        "B) 7 × 10⁰ N.",
+        "C) 7 × 10² N.",
+        "D) 7 × 10⁴ N.",
+        "E) 7 × 10⁶ N."
       ],
       "imagens_alternativas": [
         null,
@@ -495,14 +495,14 @@
       "numero": 19,
       "ano": 2025,
       "titulo": "Questão 19 - FUVEST 2025",
-      "enunciado": "![](vestibular/fuvest/img/2025_q19_full.png)",
+      "enunciado": "![](vestibular/fuvest/img/2025_q19_enun.png)",
       "alternativas_introducao": "",
       "alternativas": [
-        "A)",
-        "B)",
-        "C)",
-        "D)",
-        "E)"
+        "A) A maior variação no comprimento de onda do fóton ocorre quando o ângulo θ é igual a 90°.",
+        "B) Se o ângulo θ é igual a 30°, o fóton emergente tem frequência menor do que a frequência inicial.",
+        "C) Quando θ = 0, a velocidade do fóton emergente é menor do que a do fóton incidente, devido à conservação da quantidade de movimento.",
+        "D) Se o ângulo θ é igual a 60°, a variação no comprimento de onda do fóton é menor se a partícula for um elétron do que se a partícula for um próton.",
+        "E) Um fóton que emergiu perpendicularmente à sua direção inicial não sofreu mudança em sua frequência."
       ],
       "imagens_alternativas": [
         null,
@@ -576,14 +576,14 @@
       "numero": 22,
       "ano": 2025,
       "titulo": "Questão 22 - FUVEST 2025",
-      "enunciado": "![](vestibular/fuvest/img/2025_q22_full.png)",
+      "enunciado": "![](vestibular/fuvest/img/2025_q22_enun.png)",
       "alternativas_introducao": "",
       "alternativas": [
-        "A)",
-        "B)",
-        "C)",
-        "D)",
-        "E)"
+        "A) Material A.",
+        "B) Material B.",
+        "C) Material C.",
+        "D) Material D.",
+        "E) Material E."
       ],
       "imagens_alternativas": [
         null,
@@ -1872,14 +1872,14 @@
       "numero": 70,
       "ano": 2025,
       "titulo": "Questão 70 - FUVEST 2025",
-      "enunciado": "![](vestibular/fuvest/img/2025_q70_full.png)",
+      "enunciado": "Seja (aₙ) uma progressão aritmética cujo primeiro termo é a₁ e a razão r, ambos números reais. É possível construir uma outra sequência (bₙ), em que o primeiro termo é um número real b₁ e com a seguinte lei de formação\n\nbₙ₊₁ = bₙ + aₙ ,\n\nsendo n > 0 um número natural.\n\nPor exemplo, se b₁ = 0 e\n\n(aₙ) = (1,3,5,7,9,11, …) ,\n\ntem-se\n\n(bₙ) = (0,1,4,9,16,25, …).\n\nCom base em tais informações, os valores de a₁ e r foram escolhidos de forma que (bₙ) também seja uma progressão aritmética de razão r'. Nessas condições, é correto afirmar:",
       "alternativas_introducao": "",
       "alternativas": [
-        "A)",
-        "B)",
-        "C)",
-        "D)",
-        "E)"
+        "A) r' = a₁",
+        "B) r' = 2a₁",
+        "C) r' = r",
+        "D) r' = 2r",
+        "E) r' = b₁ − a₁"
       ],
       "imagens_alternativas": [
         null,
@@ -2034,14 +2034,14 @@
       "numero": 76,
       "ano": 2025,
       "titulo": "Questão 76 - FUVEST 2025",
-      "enunciado": "![](vestibular/fuvest/img/2025_q76_full.png)",
+      "enunciado": "Considere um cilindro C de altura h > 0 e cujo raio das circunferências, do topo e da base, é r > 0; um cilindro C₁ cujo raio é igual ao de C e altura igual a h/2; e um cilindro C₂ com altura h e raio igual a r/2.\n\nSendo V, V₁ e V₂ os volumes e A, A₁ e A₂ as áreas laterais dos cilindros C, C₁ e C₂, respectivamente, é correto afirmar:",
       "alternativas_introducao": "",
       "alternativas": [
-        "A)",
-        "B)",
-        "C)",
-        "D)",
-        "E)"
+        "A) V = V₁ + V₂ e A = A₁ + A₂",
+        "B) V = V₁ + V₂ e A = A₁ + 2A₂",
+        "C) V = V₁ + 2V₂ e A = A₁ + 2A₂",
+        "D) V = V₁ + 2V₂ e A = A₁ + A₂",
+        "E) V = 2V₁ + 2V₂ e A = 2A₁ + 2A₂"
       ],
       "imagens_alternativas": [
         null,

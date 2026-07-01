@@ -819,14 +819,14 @@
       "numero": 31,
       "ano": 2024,
       "titulo": "Questão 31 - FUVEST 2024",
-      "enunciado": "![](vestibular/fuvest/img/2024_q31_full.png)",
+      "enunciado": "![](vestibular/fuvest/img/2024_q31_enun.png)",
       "alternativas_introducao": "",
       "alternativas": [
-        "A)",
-        "B)",
-        "C)",
-        "D)",
-        "E)"
+        "A) (2π - √3/4)",
+        "B) (2π - 3√3/2)",
+        "C) (2π + 3√3/2)",
+        "D) (4π + √3/4)",
+        "E) (4π + 3√3/2)"
       ],
       "imagens_alternativas": [
         null,
@@ -1575,14 +1575,14 @@
       "numero": 59,
       "ano": 2024,
       "titulo": "Questão 59 - FUVEST 2024",
-      "enunciado": "![](vestibular/fuvest/img/2024_q59_full.png)",
+      "enunciado": "![](vestibular/fuvest/img/2024_q59_enun.png)",
       "alternativas_introducao": "",
       "alternativas": [
-        "A)",
-        "B)",
-        "C)",
-        "D)",
-        "E)"
+        "A) 5/6",
+        "B) 1",
+        "C) 6/5",
+        "D) 13/5",
+        "E) 18/5"
       ],
       "imagens_alternativas": [
         null,

@@ -9,13 +9,13 @@
       "numero": 1,
       "ano": 2025,
       "titulo": "Questão 1 - UNICAMP 2025",
-      "enunciado": "![](vestibular/unicamp/img/2025_q01_full.png)",
+      "enunciado": "![](vestibular/unicamp/img/2025_q01_enun.png)",
       "alternativas_introducao": "",
       "alternativas": [
-        "A)",
-        "B)",
-        "C)",
-        "D)"
+        "A) Atlas escolares apresentam mapas com escala menor e pouca generalização. O objetivo dos mapas que figuram nesses atlas é a representação espacial de diferentes variáveis físico-naturais, demográficas e socioeconômicas, acessíveis a um público bastante diversificado.",
+        "B) Os mapas elaborados para estudos de impactos ambientais, estudos estes aplicados a projetos de infraestrutura, precisam ter escala maior e, consequentemente, menos generalização dos dados, pois a intervenção no território deve minimizar impactos ambientais.",
+        "C) Atlas escolares apresentam mapas com escala maior e menos informação. O objetivo dos mapas que figuram nesses atlas é a representação espacial de diferentes variáveis (físico-naturais, demográficas e socioeconômicas) que sejam acessíveis a um público bastante especializado.",
+        "D) Os mapas elaborados para estudos de impactos ambientais, estudos estes aplicados a projetos de infraestrutura, precisam ter escala menor e, consequentemente, mais informação, pois a intervenção no território deve minimizar impactos ambientais."
       ],
       "imagens_alternativas": [
         null,
@@ -1359,13 +1359,13 @@
       "numero": 55,
       "ano": 2025,
       "titulo": "Questão 55 - UNICAMP 2025",
-      "enunciado": "![](vestibular/unicamp/img/2025_q55_full.png)",
+      "enunciado": "![](vestibular/unicamp/img/2025_q55_enun.png)",
       "alternativas_introducao": "",
       "alternativas": [
-        "A)",
-        "B)",
-        "C)",
-        "D)"
+        "A) 121/20.",
+        "B) 111/20.",
+        "C) 102/15.",
+        "D) 98/15."
       ],
       "imagens_alternativas": [
         null,
