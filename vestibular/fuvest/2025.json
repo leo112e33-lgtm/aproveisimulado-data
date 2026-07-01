@@ -1602,7 +1602,7 @@
       "numero": 60,
       "ano": 2025,
       "titulo": "Questão 60 - FUVEST 2025",
-      "enunciado": "![](vestibular/fuvest/img/2025_q60_full.png)",
+      "enunciado": "As massas de duas barras, uma de ferro e outra de aço inoxidável, armazenadas em um mesmo ambiente úmido e na presença de oxigênio, foram monitoradas ao longo do tempo. Assinale a alternativa que representa a variação das massas de ambas as barras ao longo do tempo. Ferro Aço inoxidável",
       "alternativas_introducao": "",
       "alternativas": [
         "A)",
@@ -1612,11 +1612,11 @@
         "E)"
       ],
       "imagens_alternativas": [
-        null,
-        null,
-        null,
-        null,
-        null
+        "vestibular/fuvest/img/2025_q60_altA.png",
+        "vestibular/fuvest/img/2025_q60_altB.png",
+        "vestibular/fuvest/img/2025_q60_altC.png",
+        "vestibular/fuvest/img/2025_q60_altD.png",
+        "vestibular/fuvest/img/2025_q60_altE.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],

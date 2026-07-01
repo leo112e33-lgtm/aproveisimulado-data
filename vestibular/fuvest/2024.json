@@ -684,7 +684,7 @@
       "numero": 26,
       "ano": 2024,
       "titulo": "Questão 26 - FUVEST 2024",
-      "enunciado": "![](vestibular/fuvest/img/2024_q26_full.png)",
+      "enunciado": "Nas embalagens de lâmpadas de LED atuais, está indicada uma “temperatura de cor” (expressa na escala Kelvin), que corresponde à tonalidade da luz emitida pela lâmpada. A “temperatura de cor” não indica a temperatura de operação da lâmpada, servindo apenas como uma referência da cor predominante da radiação eletromagnética termicamente emitida por um corpo a essa dada temperatura. A densidade () de energia eletromagnética irradiada é função do comprimento de onda  da luz emitida. As curvas presentes nos gráficos das alternativas mostram () dividida pelo seu valor máximo (𝜆୫á୶). O máximo de cada curva corresponde ao comprimento de onda 𝜆୫á୶ predominante da luz irradiada. Com base nessas informações, assinale a alternativa que apresenta o gráfico que melhor corresponde à situação em que a cor predominante da luz irradiada seja amarela. Note e adote: Velocidade da luz no vácuo: 3 × 10଼ m/s. Cores associadas a frequências de luz visível: Cor Frequência aproximada (Hz) 4,4 x 1014 Vermelha 5,0 x 1014 Amarela 6,0 x 1014 Verde 6,3 x 1014 Azul 7,5 x 1014 Violeta",
       "alternativas_introducao": "",
       "alternativas": [
         "A)",
@@ -694,11 +694,11 @@
         "E)"
       ],
       "imagens_alternativas": [
-        null,
-        null,
-        null,
-        null,
-        null
+        "vestibular/fuvest/img/2024_q26_altA.png",
+        "vestibular/fuvest/img/2024_q26_altB.png",
+        "vestibular/fuvest/img/2024_q26_altC.png",
+        "vestibular/fuvest/img/2024_q26_altD.png",
+        "vestibular/fuvest/img/2024_q26_altE.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],
@@ -846,7 +846,7 @@
       "numero": 32,
       "ano": 2024,
       "titulo": "Questão 32 - FUVEST 2024",
-      "enunciado": "![](vestibular/fuvest/img/2024_q32_full.png)",
+      "enunciado": "A tabela a seguir mostra a condição de duas variáveis sociais em quatro cidades urbanas genéricas. % da população % de domicílios com imunizada com coleta de esgoto e cobertura vacinal tratamento de água completa 89% 19% cidade I 12% 13% cidade II 98% 15% cidade III 10% 90% cidade IV Com base nesses dados, é correto afirmar que a população humana dessas cidades tem risco aumentado de ter as respectivas doenças: Concurso Vestibular FUVEST 2024 - Prova V cidade I cidade II cidade III cidade IV leptospirose influenza amebíase cólera",
       "alternativas_introducao": "",
       "alternativas": [
         "A)",
@@ -856,11 +856,11 @@
         "E)"
       ],
       "imagens_alternativas": [
-        null,
-        null,
-        null,
-        null,
-        null
+        "vestibular/fuvest/img/2024_q32_altA.png",
+        "vestibular/fuvest/img/2024_q32_altB.png",
+        "vestibular/fuvest/img/2024_q32_altC.png",
+        "vestibular/fuvest/img/2024_q32_altD.png",
+        "vestibular/fuvest/img/2024_q32_altE.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],

@@ -387,7 +387,7 @@
       "numero": 15,
       "ano": 2025,
       "titulo": "Questão 15 - UNESP 2025",
-      "enunciado": "Para responder às questões de 13 a 15, leia um trecho do artigo “Quantos jovens sabem que o adjetivo ‘surreal’ deriva de um movimento centenário?”, do escritor e jornalista Sérgio Augusto, publicado em 25.02.2024. Quantos de nossos jovens saberão que o adjetivo “surreal”, por eles usado a torto e a direito para qualificar qualquer coisa que lhes pareça absurda, deriva de um dos movimentos de vanguarda mais controversos e influentes do século passado? Tão do século passado, que está fazendo 100 anos. O surrealismo, fruto de uma época quase tão conturbada quanto a nossa e também assolada por uma pandemia (a gripe espanhola), nasceu oficialmente em 1924, impulsionado pelo manifesto de André Breton. Nesse manifesto, Breton detonava o equilíbrio, o realismo (“hostil a todo impulso de liberação intelectual e moral” e refúgio dos medíocres), proclamava a prevalência absoluta do sonho, do inconsciente, do instinto e do desejo, pregava a renovação de todos os valores filosóficos, morais, políticos e científicos, preconizando uma nova maneira radical de ver as artes, o mundo – e a vida. “Não é o medo da loucura que nos vai obrigar a hastear a meio pau a bandeira da imaginação”, ameaçava Breton numa das melhores imprecações do manifesto, visceralmente antimilitarista (a Grande Guerra terminara seis anos antes) e anticlerical. Porém, esperançoso. Augurou que um dia a poesia decretasse o fim do dinheiro, utopia que a poesia não logrou, nem o Pix deverá consumar. (www.estadao.com.br. Adaptado.)\n\n“A língua sem arcaísmos, sem erudição. Natural e neológica. A contribuição milionária de todos os erros. Como falamos. Como somos.” (4o parágrafo) Atende particularmente a esse princípio estético do manifesto (podendo até mesmo ser visto como um desdobramento dele) o seguinte poema de Oswald de Andrade (publicado em 1925):\n\n![](vestibular/unesp/img/2025_q15_full.png)",
+      "enunciado": "Uma obra representativa do movimento explorado no artigo está reproduzida em:",
       "alternativas_introducao": "",
       "alternativas": [
         "A)",
@@ -397,11 +397,11 @@
         "E)"
       ],
       "imagens_alternativas": [
-        null,
-        null,
-        null,
-        null,
-        null
+        "vestibular/unesp/img/2025_q15_altA.png",
+        "vestibular/unesp/img/2025_q15_altB.png",
+        "vestibular/unesp/img/2025_q15_altC.png",
+        "vestibular/unesp/img/2025_q15_altD.png",
+        "vestibular/unesp/img/2025_q15_altE.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],
@@ -2250,7 +2250,7 @@
       "numero": 84,
       "ano": 2025,
       "titulo": "Questão 84 - UNESP 2025",
-      "enunciado": "![](vestibular/unesp/img/2025_q84_full.png)",
+      "enunciado": "A fórmula de conversão entre a temperatura , em graus , em graus Fahrenheit, é Celsius, e a temperatura . Para cálculos rápidos, ainda que não , totalmente precisos, pode-se usar a fórmula em que é a temperatura aproximada, em graus Celsius, , em graus Fahrenheit. da temperatura ), cometido pela Considerando que o erro absoluto E( fórmula de valores aproximados em relação à fórmula de valores precisos, seja dado pela função modular , seu gráfico pode ser representado por:",
       "alternativas_introducao": "",
       "alternativas": [
         "A)",
@@ -2260,11 +2260,11 @@
         "E)"
       ],
       "imagens_alternativas": [
-        null,
-        null,
-        null,
-        null,
-        null
+        "vestibular/unesp/img/2025_q84_altA.png",
+        "vestibular/unesp/img/2025_q84_altB.png",
+        "vestibular/unesp/img/2025_q84_altC.png",
+        "vestibular/unesp/img/2025_q84_altD.png",
+        "vestibular/unesp/img/2025_q84_altE.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],
@@ -2331,7 +2331,7 @@
       "numero": 87,
       "ano": 2025,
       "titulo": "Questão 87 - UNESP 2025",
-      "enunciado": "![](vestibular/unesp/img/2025_q87_full.png)",
+      "enunciado": "A figura indica dois quadrados, ABCD e AEFG, no plano car- tesiano de eixos ortogonais. Os pontos A(0, 1) e P(x, y) são pontos comuns aos dois quadrados, e os vértices B e E têm coordenadas (6, 0) e (2, 0), respectivamente. Nessas condições, a ordenada do ponto P é",
       "alternativas_introducao": "",
       "alternativas": [
         "A)",
@@ -2341,11 +2341,11 @@
         "E)"
       ],
       "imagens_alternativas": [
-        null,
-        null,
-        null,
-        null,
-        null
+        "vestibular/unesp/img/2025_q87_altA.png",
+        "vestibular/unesp/img/2025_q87_altB.png",
+        "vestibular/unesp/img/2025_q87_altC.png",
+        "vestibular/unesp/img/2025_q87_altD.png",
+        "vestibular/unesp/img/2025_q87_altE.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],
