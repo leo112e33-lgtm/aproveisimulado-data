@@ -1913,14 +1913,14 @@
       "dia": 2,
       "numero": 69,
       "titulo": "Questão 69 - ENEM 2024",
-      "enunciado": "![](enem/2024/img/2024_d2_q69_full.png)",
+      "enunciado": "Uma tubulação despeja sempre o mesmo volume de água por unidade de tempo em uma caixa-d’água, o que significa dizer que a vazão de água nessa tubulação é constante. Na junção dessa tubulação com a caixa-d’água, está instalada uma membrana de filtragem cujo objetivo é filtrar eventuais impurezas presentes na água, combinado a um bom fluxo de água. O fluxo (φ) de água através da superfície da membrana é diretamente proporcional à vazão de água na tubulação, medida em mililitro por segundo, e inversamente proporcional à área da superfície da membrana, medida em centímetro quadrado. A unidade de medida adequada para descrever o fluxo (φ) de água que atravessa a superfície da membrana é s cm2 A mL ⋅ ⋅ B mL cm2 ⋅ s mL C 2 ⋅ cm s 2 ⋅ D cm s mL cm E s mL ⋅",
       "alternativas_introducao": "",
       "alternativas": [
-        "A)",
-        "B)",
-        "C)",
-        "D)",
-        "E)"
+        "A) mL · s · cm²",
+        "B) (mL/s) · cm²",
+        "C) mL/(cm² · s)",
+        "D) (cm² · s)/mL",
+        "E) cm²/(mL · s)"
       ],
       "imagens_alternativas": [
         null,
@@ -2193,7 +2193,7 @@
       "dia": 2,
       "numero": 79,
       "titulo": "Questão 79 - ENEM 2024",
-      "enunciado": "![](enem/2024/img/2024_d2_q79_full.png)",
+      "enunciado": "![](enem/2024/img/2024_d2_q79_enun.png)",
       "alternativas_introducao": "",
       "alternativas": [
         "A) 1/25 + 1/25 + 1/25",
