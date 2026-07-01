@@ -549,14 +549,14 @@
       "numero": 21,
       "ano": 2025,
       "titulo": "Questão 21 - FUVEST 2025",
-      "enunciado": "Baterias íon-lítio (íon-Li) armazenam energia por meio de um processo de intercalação iônica, no qual íons Li+ penetram e se acomodam entre camadas de grafite no ânodo da bateria. A quantidade de energia armazenada é diretamente proporcional ao número de íons Li+ intercalados no ânodo, que, entre outros aspectos, é limitado pelo espaço disponível para a sua alocação. Uma recente inovação tecnológica em baterias é a substituição de Li por Na, formando baterias íon- sódio (íon-Na). O mecanismo de funcionamento se baseia no processo de intercalação, com a vantagem de que o Na é mais abundante do que o Li no planeta. Considerando que a única diferença entre baterias de mesma massa e volume seja o íon utilizado (Na+ ou Li+) e que a densidade de energia é a quantidade de energia armazenada na bateria por unidade de massa e volume, é correto afirmar que a densidade de energia de uma bateria íon-Na é",
+      "enunciado": "Baterias íon-lítio (íon-Li) armazenam energia por meio de um processo de intercalação iônica, no qual íons Li+ penetram e se acomodam entre camadas de grafite no ânodo da bateria. A quantidade de energia armazenada é diretamente proporcional ao número de íons Li+ intercalados no ânodo, que, entre outros aspectos, é limitado pelo espaço disponível para a sua alocação. Uma recente inovação tecnológica em baterias é a substituição de Li por Na, formando baterias íon- sódio (íon-Na). O mecanismo de funcionamento se baseia no processo de intercalação, com a vantagem de que o Na é mais abundante do que o Li no planeta. Considerando que a única diferença entre baterias de mesma massa e volume seja o íon utilizado (Na+ ou Li+) e que a densidade de energia é a quantidade de energia armazenada na bateria por unidade de massa e volume, é correto afirmar que a densidade de energia de uma bateria íon-Na é\n\nNote e adote: Distribuição eletrônica: Li = 1s2, 2s1; Na = 1s2, 2s2, 2p6, 3s1. Massa atômica (u): Li = 7; Na = 23.",
       "alternativas_introducao": "",
       "alternativas": [
         "A) maior do que de uma bateria íon-Li, pois o Na+ tem maior massa e menor raio iônico do que o Li+.",
         "B) menor do que de uma bateria íon-Li, pois o Na+ tem maior massa e maior raio iônico do que o Li+.",
         "C) maior do que de uma bateria íon-Li, pois o Na+ tem menor massa e maior raio iônico do que o Li+.",
         "D) menor do que de uma bateria íon-Li, pois o Na+ tem menor massa e menor raio iônico do que o Li+.",
-        "E) igual à de uma bateria íon-Li, pois ambos os íons são monovalentes. Note e adote: Distribuição eletrônica: Li = 1s2, 2s1; Na = 1s2, 2s2, 2p6, 3s1. Massa atômica (u): Li = 7; Na = 23. #####"
+        "E) igual à de uma bateria íon-Li, pois ambos os íons são monovalentes"
       ],
       "imagens_alternativas": [
         null,
@@ -1656,14 +1656,14 @@
       "numero": 62,
       "ano": 2025,
       "titulo": "Questão 62 - FUVEST 2025",
-      "enunciado": "Um brinquedo bastante comum em parques de diversões, a montanha-russa, utiliza-se da transformação parcial de energia potencial em energia cinética (e vice-versa) como princípio de funcionamento. Uma das montanhas-russas mais famosas do mundo, a Takabisha, cuja pista possui mais de 1 km de extensão, localiza-se no Japão e tem vista para o Monte Fuji. Nela, a subida inicial até o ponto mais alto, situado a uma altura aproximada de 50 m do solo, é feita sob ângulo de aproximadamente 90 graus, seguida de uma descida vertiginosa, cuja velocidade, no ponto mais baixo desse trecho, atinge cerca de 30 m/s em poucos segundos.\n![](vestibular/fuvest/img/2025_q62_fig1.png)\nMontanha-russa Takabisha. Considerando um carrinho ocupado com massa total de 300 kg em repouso na posição de altura máxima, a energia mecânica perdida durante a descida inicial é, aproximadamente,",
+      "enunciado": "Um brinquedo bastante comum em parques de diversões, a montanha-russa, utiliza-se da transformação parcial de energia potencial em energia cinética (e vice-versa) como princípio de funcionamento. Uma das montanhas-russas mais famosas do mundo, a Takabisha, cuja pista possui mais de 1 km de extensão, localiza-se no Japão e tem vista para o Monte Fuji. Nela, a subida inicial até o ponto mais alto, situado a uma altura aproximada de 50 m do solo, é feita sob ângulo de aproximadamente 90 graus, seguida de uma descida vertiginosa, cuja velocidade, no ponto mais baixo desse trecho, atinge cerca de 30 m/s em poucos segundos.\n![](vestibular/fuvest/img/2025_q62_fig1.png)\nMontanha-russa Takabisha. Considerando um carrinho ocupado com massa total de 300 kg em repouso na posição de altura máxima, a energia mecânica perdida durante a descida inicial é, aproximadamente,\n\nNote e adote: Aceleração da gravidade: g = 10 m/s2.",
       "alternativas_introducao": "",
       "alternativas": [
         "A) 1200 J.",
         "B) 2500 J.",
         "C) 5000 J.",
         "D) 15000 J.",
-        "E) 20000 J. Note e adote: Aceleração da gravidade: g = 10 m/s2. #####"
+        "E) 20000 J"
       ],
       "imagens_alternativas": [
         null,
@@ -1710,14 +1710,14 @@
       "numero": 64,
       "ano": 2025,
       "titulo": "Questão 64 - FUVEST 2025",
-      "enunciado": "Alguns motores de foguetes espaciais usam metano como combustível e oxigênio como comburente. Ambos os compostos são armazenados em estado líquido no próprio foguete, o que permite o seu armazenamento em maior quantidade do que se estivessem no estado gasoso. Sabe-se que o foguete armazena um volume de oxigênio líquido 1,5 vez maior do que de metano líquido e que ambos são completamente consumidos na combustão, conforme a equação CH4(l) + 2 O2(l) → CO2(g) + 2 H2O(g). Nessas condições, é correto afirmar que a razão entre a densidade do metano líquido e a densidade do oxigênio líquido é igual a",
+      "enunciado": "Alguns motores de foguetes espaciais usam metano como combustível e oxigênio como comburente. Ambos os compostos são armazenados em estado líquido no próprio foguete, o que permite o seu armazenamento em maior quantidade do que se estivessem no estado gasoso. Sabe-se que o foguete armazena um volume de oxigênio líquido 1,5 vez maior do que de metano líquido e que ambos são completamente consumidos na combustão, conforme a equação CH4(l) + 2 O2(l) → CO2(g) + 2 H2O(g). Nessas condições, é correto afirmar que a razão entre a densidade do metano líquido e a densidade do oxigênio líquido é igual a\n\nNote e adote: Massa molar (g/mol): H = 1; C = 12; O = 16",
       "alternativas_introducao": "",
       "alternativas": [
         "A) 0,186.",
         "B) 0,375.",
         "C) 0,75.",
         "D) 1,5.",
-        "E) 3. Note e adote: Massa molar (g/mol): H = 1; C = 12; O = 16"
+        "E) 3"
       ],
       "imagens_alternativas": [
         null,
