@@ -457,7 +457,7 @@
       "dia": 2,
       "numero": 17,
       "titulo": "Questão 17 - ENEM 2025",
-      "enunciado": "![](enem/2025/img/2025_d2_q17_full.png)",
+      "enunciado": "A figura apresenta a herança genética de uma característica a partir do cruzamento de insetos de uma mesma espécie.\n\n![](enem/2025/img/2025_d2_q17_fig.png)\n\nQual alternativa representa a proporção fenotípica da prole resultante do cruzamento entre indivíduos da primeira geração?",
       "alternativas_introducao": "",
       "alternativas": [
         "A)",
@@ -467,11 +467,11 @@
         "E)"
       ],
       "imagens_alternativas": [
-        null,
-        null,
-        null,
-        null,
-        null
+        "enem/2025/img/2025_d2_q17_altA.png",
+        "enem/2025/img/2025_d2_q17_altB.png",
+        "enem/2025/img/2025_d2_q17_altC.png",
+        "enem/2025/img/2025_d2_q17_altD.png",
+        "enem/2025/img/2025_d2_q17_altE.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],
@@ -793,7 +793,7 @@
       "dia": 2,
       "numero": 29,
       "titulo": "Questão 29 - ENEM 2025",
-      "enunciado": "![](enem/2025/img/2025_d2_q29_full.png)",
+      "enunciado": "Em uma comunidade rural, os moradores utilizam uma bomba-d’água alimentada por 100 V de tensão contínua, podendo variar em até 5 V. Um eletrotécnico pretende instalar placas fotovoltaicas para alimentar essa bomba. As placas são idênticas e cada uma apresenta tensão de operação igual a 34 V com corrente de 7,5 A. Além disso, cada placa apresenta 40 V de tensão elétrica, quando em circuito aberto. Assim, considerando que a placa descrita é um gerador não ideal, em circuito aberto ela pode ser representada conforme a figura:\n\n![](enem/2025/img/2025_d2_q29_fig.png)\n\nO eletrotécnico construiu um circuito que permite à bomba-d’água operar corretamente com o menor número possível de placas conectadas. Para isso, desenhou um diagrama no qual todas essas placas são representadas como um único gerador não ideal, com a especificação das correspondentes características elétricas. O diagrama que representa o circuito construído pelo eletrotécnico é:",
       "alternativas_introducao": "",
       "alternativas": [
         "A)",
@@ -803,11 +803,11 @@
         "E)"
       ],
       "imagens_alternativas": [
-        null,
-        null,
-        null,
-        null,
-        null
+        "enem/2025/img/2025_d2_q29_altA.png",
+        "enem/2025/img/2025_d2_q29_altB.png",
+        "enem/2025/img/2025_d2_q29_altC.png",
+        "enem/2025/img/2025_d2_q29_altD.png",
+        "enem/2025/img/2025_d2_q29_altE.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],
