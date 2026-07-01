@@ -849,7 +849,7 @@
       "dia": 2,
       "numero": 31,
       "titulo": "Questão 31 - ENEM 2024",
-      "enunciado": "![](enem/2024/img/2024_d2_q31_full.png)",
+      "enunciado": "Na tirinha, Calvin se divertia em um balanço antes de soltar-se dele e cair ao chão. Em sua fala, ele demonstra ter imaginado que permaneceria em movimento circular. Porém, a força gravitacional, que permanece atuando no garoto, modifica a direção de sua velocidade, fazendo com que ele chegue ao chão da maneira ilustrada no último quadrinho.\n\n![](enem/2024/img/2024_d2_q31_fig.png)\n\nWATTERSON, B. Disponível em: https://tiras-do-calvin.tumblr.com. Acesso em: 19 nov. 2021 (adaptado). Qual vetor representa a força resultante exercida pelo chão sobre Calvin no exato momento em que ele toca o chão?",
       "alternativas_introducao": "",
       "alternativas": [
         "A)",
@@ -859,11 +859,11 @@
         "E)"
       ],
       "imagens_alternativas": [
-        null,
-        null,
-        null,
-        null,
-        null
+        "enem/2024/img/2024_d2_q31_altA.png",
+        "enem/2024/img/2024_d2_q31_altB.png",
+        "enem/2024/img/2024_d2_q31_altC.png",
+        "enem/2024/img/2024_d2_q31_altD.png",
+        "enem/2024/img/2024_d2_q31_altE.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],
@@ -1017,7 +1017,7 @@
       "dia": 2,
       "numero": 37,
       "titulo": "Questão 37 - ENEM 2024",
-      "enunciado": "![](enem/2024/img/2024_d2_q37_full.png)",
+      "enunciado": "Em um experimento de laboratório, duas barras metálicas, A e B, são carregadas com cargas opostas e imersas em óleo. Farelo de milho é jogado sobre o óleo e, após um certo tempo, o farelo assume o formato das linhas de campo elétrico entre as barras. A figura representa a vista superior desse experimento.\n\n![](enem/2024/img/2024_d2_q37_fig.png)\n\nALMEIDA, M. A. T. Introdução às ciências físicas 2 — volume 4: módulo 4. Rio de Janeiro: Fundação CECIERJ, 2007 (adaptado). Ao repetir o experimento colocando um cilindro metálico oco entre as placas, o esquema que representa o formato das linhas de campo assumido pelo farelo é:",
       "alternativas_introducao": "",
       "alternativas": [
         "A)",
@@ -1027,11 +1027,11 @@
         "E)"
       ],
       "imagens_alternativas": [
-        null,
-        null,
-        null,
-        null,
-        null
+        "enem/2024/img/2024_d2_q37_altA.png",
+        "enem/2024/img/2024_d2_q37_altB.png",
+        "enem/2024/img/2024_d2_q37_altC.png",
+        "enem/2024/img/2024_d2_q37_altD.png",
+        "enem/2024/img/2024_d2_q37_altE.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],
@@ -2333,7 +2333,7 @@
       "dia": 2,
       "numero": 84,
       "titulo": "Questão 84 - ENEM 2024",
-      "enunciado": "![](enem/2024/img/2024_d2_q84_full.png)",
+      "enunciado": "Em um jogo virtual para celular, um personagem pode percorrer trajetórias retilíneas voando ou se deslocando ao longo de paredes. Considere que o personagem descreve a trajetória ABCDEF, em que os pontos A, D e E estão em um plano paralelo ao que contém os pontos B e C, sendo esses dois planos ortogonais ao plano da base que contém o ponto F, conforme a figura.\n\n![](enem/2024/img/2024_d2_q84_fig.png)\n\nA projeção ortogonal, sobre o plano da base, da trajetória ABCDEF descrita pelo personagem é",
       "alternativas_introducao": "",
       "alternativas": [
         "A)",
@@ -2343,11 +2343,11 @@
         "E)"
       ],
       "imagens_alternativas": [
-        null,
-        null,
-        null,
-        null,
-        null
+        "enem/2024/img/2024_d2_q84_altA.png",
+        "enem/2024/img/2024_d2_q84_altB.png",
+        "enem/2024/img/2024_d2_q84_altC.png",
+        "enem/2024/img/2024_d2_q84_altD.png",
+        "enem/2024/img/2024_d2_q84_altE.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],

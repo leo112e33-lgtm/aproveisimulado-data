@@ -1325,7 +1325,7 @@
       "dia": 2,
       "numero": 48,
       "titulo": "Questão 48 - ENEM 2025",
-      "enunciado": "![](enem/2025/img/2025_d2_q48_full.png)",
+      "enunciado": "Em um jogo de computador, um cubo se encontra inicialmente posicionado conforme indicado na figura.\n\n![](enem/2025/img/2025_d2_q48_fig.png)\n\nCada deslocamento efetuado por esse cubo se dá sempre em uma das direções definidas pelos três eixos coordenados. Ao se movimentar a partir da posição inicial, esse cubo se aproximou 3 unidades do plano yz, se afastou 5 unidades do plano xz e se aproximou 4 unidades do plano xy. A figura que apresenta as projeções ortogonais desse cubo sobre os três planos coordenados, após efetuar as movimentações descritas, é",
       "alternativas_introducao": "",
       "alternativas": [
         "A)",
@@ -1335,11 +1335,11 @@
         "E)"
       ],
       "imagens_alternativas": [
-        null,
-        null,
-        null,
-        null,
-        null
+        "enem/2025/img/2025_d2_q48_altA.png",
+        "enem/2025/img/2025_d2_q48_altB.png",
+        "enem/2025/img/2025_d2_q48_altC.png",
+        "enem/2025/img/2025_d2_q48_altD.png",
+        "enem/2025/img/2025_d2_q48_altE.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],
