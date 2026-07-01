@@ -2061,14 +2061,14 @@
       "numero": 77,
       "ano": 2025,
       "titulo": "Questão 77 - UNESP 2025",
-      "enunciado": "![](vestibular/unesp/img/2025_q77_full.png)",
+      "enunciado": "![](vestibular/unesp/img/2025_q77_enun.png)",
       "alternativas_introducao": "",
       "alternativas": [
-        "A)",
-        "B)",
-        "C)",
-        "D)",
-        "E)"
+        "A) 4 m/s",
+        "B) √45 m/s",
+        "C) 6 m/s",
+        "D) 13 m/s",
+        "E) √89 m/s"
       ],
       "imagens_alternativas": [
         null,
