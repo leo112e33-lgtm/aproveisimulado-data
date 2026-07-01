@@ -873,14 +873,14 @@
       "numero": 33,
       "ano": 2024,
       "titulo": "Questão 33 - FUVEST 2024",
-      "enunciado": "![](vestibular/fuvest/img/2024_q33_full.png)",
+      "enunciado": "Uma empresa farmacêutica produz certo medicamento, o qual é formado por quatro componentes, conforme indicado na tabela I. O custo do grama de cada um dos componentes desse medicamento também é apresentado nessa tabela.\n\nTabela I — Composição do medicamento (Quantidade em mg | Custo em R$/g):\nComponente A: 200 mg | R$ 700/g\nComponente B: 70 mg | R$ 500/g\nComponente C: 130 mg | R$ 300/g\nComponente D: 100 mg | R$ 120/g\n\nPara a produção do próximo lote do medicamento, a empresa terá um gasto diferente para fabricá-lo, pois os custos de alguns componentes sofreram alterações, conforme mostra a tabela II.\n\nTabela II — Variação no custo (em %):\nComponente A: +7%\nComponente B: −5%\nComponente C: 0%\nComponente D: +10%\n\nQual é o aumento, em reais, no custo do medicamento?\n\nNote e adote: Considere que os outros custos de produção permaneceram inalterados.",
       "alternativas_introducao": "",
       "alternativas": [
-        "A)",
-        "B)",
-        "C)",
-        "D)",
-        "E)"
+        "A) 9,25",
+        "B) 12,00",
+        "C) 12,75",
+        "D) 36,00",
+        "E) 86,00"
       ],
       "imagens_alternativas": [
         null,
