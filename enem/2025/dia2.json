@@ -485,7 +485,7 @@
       "dia": 2,
       "numero": 18,
       "titulo": "Questão 18 - ENEM 2025",
-      "enunciado": "![](enem/2025/img/2025_d2_q18_full.png)",
+      "enunciado": "Para transportar uma caixa do primeiro para o segundo piso de uma construção, um trabalhador precisará arrasta-lá sobre um plano inclinado. O trabalhador começa a arrastar a caixa no primeiro piso, exercendo sobre ela uma força de grande intensidade, paralela ao seu deslocamento. Na medida em que a caixa sobe o plano inclinado, ele decide reduzir a força sobre ela, arrastando-a lentamente até chegar ao segundo piso. Considere que a caixa permanece em movimento nos encontros dos pisos com o plano inclinado, e que a rugosidade entre as superfícies permanece a mesma durante todo o percurso. O comportamento da força de atrito entre a caixa e o chão no plano inclinado é representado em:",
       "alternativas_introducao": "",
       "alternativas": [
         "A)",
@@ -495,11 +495,11 @@
         "E)"
       ],
       "imagens_alternativas": [
-        null,
-        null,
-        null,
-        null,
-        null
+        "enem/2025/img/2025_d2_q18_altA.png",
+        "enem/2025/img/2025_d2_q18_altB.png",
+        "enem/2025/img/2025_d2_q18_altC.png",
+        "enem/2025/img/2025_d2_q18_altD.png",
+        "enem/2025/img/2025_d2_q18_altE.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],
@@ -1101,7 +1101,7 @@
       "dia": 2,
       "numero": 40,
       "titulo": "Questão 40 - ENEM 2025",
-      "enunciado": "![](enem/2025/img/2025_d2_q40_full.png)",
+      "enunciado": "Em sua maioria, os equipamentos eletrônicos domésticos demandam baixa potência elétrica em corrente contínua. Para alimentá-los, uma fonte externa ou embutida transforma a corrente alternada em corrente contínua de baixa tensão. Entretanto, cada equipamento tem suas especificidades, e muitas vezes não é possível simplesmente trocar essas fontes sem levar em conta a tensão, a corrente ou a potência elétrica de saída. Considere um equipamento de resistência elétrica RC que funciona corretamente apenas em um dado valor de tensão. Porém, a única fonte de alimentação disponível fornece uma tensão 20% superior à tensão recomendada. Para adaptar essa fonte ao aparelho, a associação de um resistor de proteção RP , de potência adequada, se faz necessária. A configuração adequada do circuito e o valor do resistor de proteção, em relação ao valor da resistência do equipamento, são:",
       "alternativas_introducao": "",
       "alternativas": [
         "A)",
@@ -1111,11 +1111,11 @@
         "E)"
       ],
       "imagens_alternativas": [
-        null,
-        null,
-        null,
-        null,
-        null
+        "enem/2025/img/2025_d2_q40_altA.png",
+        "enem/2025/img/2025_d2_q40_altB.png",
+        "enem/2025/img/2025_d2_q40_altC.png",
+        "enem/2025/img/2025_d2_q40_altD.png",
+        "enem/2025/img/2025_d2_q40_altE.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],
@@ -1241,7 +1241,7 @@
       "dia": 2,
       "numero": 45,
       "titulo": "Questão 45 - ENEM 2025",
-      "enunciado": "![](enem/2025/img/2025_d2_q45_full.png)",
+      "enunciado": "A icterícia é uma doença que acomete recém-nascidos e pode ser tratada com um método de fototerapia conhecido como banho de luz, que consiste na exposição do recém-nascido a uma fonte luminosa equipada com LEDs azuis. Para o monitoramento da dosagem dessa radiação, é utilizada a resposta óptica de um sensor constituído de materiais orgânicos que luminescem quando expostos à luz azul. Com o passar do tempo, essa radiação oxida os materiais do sensor, alterando sua coloração de vermelho-laranja para verde, o que indica o final do tratamento. O gráfico apresenta o espectro de fotoluminescência do sensor em função do comprimento de onda da luz emitida no início do tratamento, quando o sensor, colado na fralda do bebê (Figura 1), luminesce na região do vermelho-laranja (∼600 nm). A Figura 2 apresenta a evolução da coloração do sensor, mostrando que a frequência da luz emitida por ele aumenta em função do tempo de exposição à luz azul.\n\n![](enem/2025/img/2025_d2_q45_fig.png)\n\nSILVA, M. M. et al. Fabricação de sensor orgânico flexível para aplicação em terapia com luz azul. Tecnol. Metal. Mater. Miner., n. 3, jul.-set. 2011 (adaptado). CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS | 2º DIA | CADERNO 7 | AZUL Os espectros de fotoluminescência do sensor no início e no final do tratamento estão esboçados no gráfico:",
       "alternativas_introducao": "",
       "alternativas": [
         "A)",
@@ -1251,11 +1251,11 @@
         "E)"
       ],
       "imagens_alternativas": [
-        null,
-        null,
-        null,
-        null,
-        null
+        "enem/2025/img/2025_d2_q45_altA.png",
+        "enem/2025/img/2025_d2_q45_altB.png",
+        "enem/2025/img/2025_d2_q45_altC.png",
+        "enem/2025/img/2025_d2_q45_altD.png",
+        "enem/2025/img/2025_d2_q45_altE.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],

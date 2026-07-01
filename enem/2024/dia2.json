@@ -1969,7 +1969,7 @@
       "dia": 2,
       "numero": 71,
       "titulo": "Questão 71 - ENEM 2024",
-      "enunciado": "![](enem/2024/img/2024_d2_q71_full.png)",
+      "enunciado": "Um tanque, em formato de paralelepípedo reto retângulo, tem em seu interior dois anteparos verticais, fixados na sua base e em duas paredes opostas, sendo perpendiculares a elas, conforme a figura.\n\n![](enem/2024/img/2024_d2_q71_fig.png)\n\nEsses anteparos, de espessuras desprezíveis, estão instalados de maneira a dividir a base do tanque em três retângulos congruentes, tendo suas alturas iguais à metade e a um quarto da altura do tanque. O tanque é abastecido por uma entrada situada no teto, através de um duto que despeja água a uma vazão constante, sendo necessárias 12 horas para finalizar o seu enchimento. O gráfico que descreve, em cada instante, a maior altura de coluna de água, dentre aquelas que vão sendo formadas ao longo do enchimento do tanque, é",
       "alternativas_introducao": "",
       "alternativas": [
         "A)",
@@ -1979,11 +1979,11 @@
         "E)"
       ],
       "imagens_alternativas": [
-        null,
-        null,
-        null,
-        null,
-        null
+        "enem/2024/img/2024_d2_q71_altA.png",
+        "enem/2024/img/2024_d2_q71_altB.png",
+        "enem/2024/img/2024_d2_q71_altC.png",
+        "enem/2024/img/2024_d2_q71_altD.png",
+        "enem/2024/img/2024_d2_q71_altE.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],
@@ -2165,7 +2165,7 @@
       "dia": 2,
       "numero": 78,
       "titulo": "Questão 78 - ENEM 2024",
-      "enunciado": "![](enem/2024/img/2024_d2_q78_full.png)",
+      "enunciado": "Projetistas de uma fábrica de amortecedores realizaram uma série de experimentos que produziram oscilações semelhantes ao comportamento do gráfico de uma senoide, para qualquer tipo de estrada. Cada experimento teve duração de 20 minutos, sendo os 9 primeiros minutos em superfície que simula uma rodovia asfaltada, e os 11 minutos restantes em superfície que simula uma estrada de chão. Para os amortecedores serem aprovados no experimento, exige-se que as amplitudes das ondas oscilatórias, em cada tipo de superfície, sejam constantes e, ainda, que a amplitude da oscilação do amortecedor no asfalto seja menor do que sua amplitude da oscilação na estrada de chão. O tipo de gráfico que descreve o comportamento oscilatório de um amortecedor aprovado nesse experimento é",
       "alternativas_introducao": "",
       "alternativas": [
         "A)",
@@ -2175,11 +2175,11 @@
         "E)"
       ],
       "imagens_alternativas": [
-        null,
-        null,
-        null,
-        null,
-        null
+        "enem/2024/img/2024_d2_q78_altA.png",
+        "enem/2024/img/2024_d2_q78_altB.png",
+        "enem/2024/img/2024_d2_q78_altC.png",
+        "enem/2024/img/2024_d2_q78_altD.png",
+        "enem/2024/img/2024_d2_q78_altE.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],
