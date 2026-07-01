@@ -1,0 +1,1809 @@
+{
+  "vestibular": "unicamp",
+  "ano": 2024,
+  "titulo": "UNICAMP 2024 - 1ª fase (Conhecimentos Gerais)",
+  "totalQuestoes": 72,
+  "observacao": "Prova completa da 1ª fase da UNICAMP 2024. Anuladas: nenhuma.",
+  "questoes": [
+    {
+      "numero": 1,
+      "ano": 2024,
+      "titulo": "Questão 1 - UNICAMP 2024",
+      "enunciado": "‘Nevou’ no Rio Em pleno verão, o fenômeno que vem chamando atenção nas ruas do Rio é conhecido como “nevada carioca”, ou apenas “nevou”. Trata-se da mania de descolorir, platinando os cabelos até os fios ficarem completamente brancos, que tomou conta das cabeças dos jovens de Norte a Sul e virou a febre do mo­ mento. A onda começou às vésperas do Natal, ganhou força no réveillon e entrou em janeiro lotando os salões. Nascida nas comunidades e nos subúrbios, a tendência ultrapassou frontei­ ras geográficas e sociais da cidade, principalmente depois de ganhar as redes e de ter conquistado artistas e atletas. Cabe­ leireiros e donos de salão apostam que o modismo resiste com força até os dias de folia. (Adaptado de: https://oglobo.globo.com/rio/noticia/2023/01/nevou-no-rio-mania-de­ -descolorir-o-cabelo-ate-ficar-quase-branco-vira-moda-entre-os-cariocas.ghtml. Acesso em 22/06/2023.) No texto, o verbo nevar apresenta sentido",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) literal e é sinônimo de descolorir.",
+        "B) figurado e quer dizer embranquecer.",
+        "C) metafórico e é antônimo de escurecer.",
+        "D) metonímico e significa cabelos brancos."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "**Por que a alternativa B está correta:**\nO verbo \"nevar\" não aparece com seu sentido próprio, referente à queda de neve — algo que não ocorre no verão carioca. Ele é empregado em sentido figurado para descrever a mania de descolorir os cabelos até deixá-los completamente brancos, tal como a neve. Assim, \"nevou\" passa a significar \"embranquecer\", ou seja, tornar os fios brancos, associando a cor da neve à cor dos cabelos platinados.\n\nO próprio texto confirma essa leitura ao explicar que a \"nevada carioca\" é \"a mania de descolorir, platinando os cabelos até os fios ficarem completamente brancos\". A brancura da neve é transposta para a brancura dos cabelos, caracterizando um uso não literal, mas figurado, do verbo.\n\n**Conceito-chave:**\nSentido figurado (ou conotativo) é aquele em que uma palavra é usada fora de seu significado literal (denotativo), explorando semelhanças ou associações para criar novos efeitos de sentido. Aqui, a semelhança de cor entre a neve e os cabelos platinados sustenta o emprego figurado de \"nevar\" como \"embranquecer\".",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 2,
+      "ano": 2024,
+      "titulo": "Questão 2 - UNICAMP 2024",
+      "enunciado": "Assinale a alternativa em que todas as palavras listadas têm um mesmo referente dentro do texto.",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) fenômeno – onda – tendência – modismo",
+        "B) mania – onda – febre – força",
+        "C) fenômeno – momento – mania – febre",
+        "D) modismo – tendência – força – momento"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "**Por que a alternativa A está correta:**\nAs palavras \"fenômeno\", \"onda\", \"tendência\" e \"modismo\" retomam, ao longo do texto, um mesmo referente: a moda de descolorir os cabelos (a \"nevada carioca\"). Todas funcionam como sinônimos contextuais ou expressões correferenciais que designam esse mesmo fenômeno de moda, garantindo a coesão referencial do texto.\n\nAo substituir uma pela outra sem alterar aquilo a que se referem, percebe-se que todas apontam para a mesma realidade: a febre de platinar os cabelos. Já palavras como \"força\", \"momento\" e \"febre\" (usada em \"febre do momento\") ou não retomam esse mesmo referente ou remetem a outras noções, por isso não compõem uma cadeia correferencial completa nas demais alternativas.\n\n**Conceito-chave:**\nCorreferência (ou coesão referencial) é o recurso pelo qual diferentes expressões de um texto remetem ao mesmo referente, evitando repetições e assegurando a progressão temática. Identificar as palavras que compartilham o mesmo referente é reconhecer a cadeia coesiva que sustenta a unidade do texto.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 3,
+      "ano": 2024,
+      "titulo": "Questão 3 - UNICAMP 2024",
+      "enunciado": "Texto 1 Vivemos no limiar de uma transição, em que a automação ocu­ pará cada vez mais espaços na sociedade. Neste novo cenário, há um componente atuando com desenvoltura entre nós. Suas ações e decisões, invisíveis e muitas vezes autônomas, estão cada vez mais presentes no dia a dia da vida contemporânea. Seu comportamento, no entanto, é opaco e pouco compreen­ dido. Trata-se dos algoritmos. São eles que, muitas vezes, deci­ dem se você é contratado ou demitido, se você vai ter acesso a um benefício social, se seu visto de imigração vai ser concedido ou negado, quais notícias você vai ver nas redes sociais, qual o melhor trajeto do trabalho para casa ou qual o parceiro mais apropriado para um relacionamento. (Adaptado de: MENDONÇA, R.F.; FIGUEIRAS, F.; ALMEIDA, V. Algoritmos controlam socie­ dade e tomam decisões de vida ou morte. Folha de S. Paulo, 7 abr. 2021.) Texto 2 (Quadrinhos com o personagem laranja e amarelo, que representa um algoritmo, da sé­ rie criada por André Dahmer. Disponível em: https://diplomatique.org.br/novas-tirinhas­ -de-andre-dahmer-transformam-algoritmo-em-personagem-intrometido/. Acesso em 28/07/2023.) A partir do texto 1, é possível afirmar que o texto 2 explora o fato de que os algoritmos\n\n![](vestibular/unicamp/img/2024_q03_fig1.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) definem o que é melhor ou mais apropriado para cada pes­ soa.",
+        "B) são opacos porque aleatoriamente expõem às pessoas pro­ dutos para compra.",
+        "C) se servem dos nossos dados para nos oferecer continua­ mente produtos a serem consumidos.",
+        "D) controlam a vida humana para aperfeiçoar as nossas toma­ das de decisão."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Por que a alternativa C está correta:**\nO texto 1 apresenta os algoritmos como agentes invisíveis e autônomos que tomam decisões sobre a vida das pessoas, inclusive sobre consumo e ofertas. A tirinha de André Dahmer (texto 2), ao transformar o algoritmo em um personagem intrometido, satiriza justamente esse comportamento: o algoritmo se vale dos nossos dados para nos oferecer continuamente produtos a serem consumidos, explorando de forma crítica e humorística essa vigilância comercial.\n\nDessa forma, o texto 2 concretiza, em tom crítico, uma das ideias do texto 1: a de que os algoritmos monitoram nossos comportamentos e usam essas informações para direcionar o consumo. A alternativa C captura exatamente essa relação entre coleta de dados e oferta contínua de produtos.\n\n**Conceito-chave:**\nA articulação entre textos verbais e não verbais (como charges e tirinhas) frequentemente se dá por complementaridade crítica: o segundo texto retoma e amplia, muitas vezes com ironia, uma ideia do primeiro. Aqui, a crítica ao capitalismo de dados e à mercantilização do comportamento do usuário une os dois textos.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 4,
+      "ano": 2024,
+      "titulo": "Questão 4 - UNICAMP 2024",
+      "enunciado": "O anúncio (Texto 1) reproduzido a seguir foi postado nas redes sociais da Portela, escola de samba carioca, para divulgar uma festa literária. A escola, que traz a águia como símbolo em to­ dos os seus desfiles (Texto 2), completou 100 anos em 2023. Texto 1 Texto 2 (Disponível em: https://www.instagram.com/p/CrlVA_tOmAW/. Acesso em 24/06/2023.) (Águia da Portela no desfile de 2017. Foto: Ricardo Moraes/Reuters. 2017.)\n\nConsiderando a imagem no texto 2, podemos afirmar que o texto 1 promove uma\n\n![](vestibular/unicamp/img/2024_q04_fig1.png)\n![](vestibular/unicamp/img/2024_q04_fig2.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) fusão entre o símbolo da escola e o produto da expressão literária, que aparece materializado no desenho das asas da águia.",
+        "B) relação entre a festa literária, mencionada em segundo pla­ no, e o desenho do símbolo da escola, que passa a personi­ ficar a literatura.",
+        "C) associação das asas da águia com o título atribuído à fes­ ta literária, que mostra o nome da escola antecedido pelo prefixo fli.",
+        "D) ressignificação do símbolo da Portela, cujo desenho faz re­ ferência direta à arte literária, para destacar o centenário da escola como tema da festa."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "**Por que a alternativa A está correta:**\nO anúncio (texto 1) da festa literária da Portela promove uma fusão entre o símbolo da escola de samba — a águia — e o produto da expressão literária, o livro. No desenho, as asas da águia aparecem materializadas como as páginas abertas de um livro, de modo que os dois elementos se integram numa só imagem: a águia-símbolo e a literatura tornam-se uma coisa só.\n\nConsiderando o texto 2, que mostra a águia como símbolo presente em todos os desfiles da Portela, percebe-se que o anúncio explora justamente essa identidade visual da escola, transformando as asas do animal no objeto que representa a festa literária. Trata-se, portanto, de uma fusão entre o símbolo da agremiação e o objeto livro, e não apenas de uma associação ou personificação isolada.\n\n**Conceito-chave:**\nNa linguagem publicitária multimodal, a fusão de imagens (ou hibridização visual) combina dois referentes em uma única figura para condensar sentidos. Aqui, a sobreposição entre as asas da águia e as páginas do livro cria um sentido novo, unindo a identidade da escola de samba ao tema da festa literária.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 5,
+      "ano": 2024,
+      "titulo": "Questão 5 - UNICAMP 2024",
+      "enunciado": "O texto a seguir é um trecho da canção Pantanal, que foi tema de abertura da novela com o mesmo nome, exibida original­ mente pela TV Manchete em 1990 e regravada pela TV Globo em 2022. Lendas de raças, cidades perdidas nas selvas do coração do Bra­ sil. Contam os índios de deuses que descem do espaço no coração do Brasil. Redescobrindo as Américas quinhentos anos depois, Lutar com unhas e dentes pra termos direito a um depois. Fim do milênio, resgate da vida, do sonho, do bem. A terra é tão verde e azul. Os filhos dos filhos dos filhos dos nossos filhos verão. (Pantanal, letra de Marcus Viana, gravada pelo grupo Sagrado Coração da Terra na cole­ tânea em LP Sagrado – Farol da Liberdade, lançada em 1991 pelo selo Sonhos & Sons.) Nesse trecho da canção, podemos identificar",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) repetição de advérbios que indicam as mesmas circunstân­ cias de tempo e de lugar, para produzir um efeito de redun­ dância a respeito da luta pela terra.",
+        "B) indeterminação de sujeito com verbo na terceira pessoa do plural, para produzir um efeito de incerteza quanto ao papel das futuras gerações.",
+        "C) atribuição de características positivas por meio de substanti­ vos que indicam cores, para produzir um efeito de otimismo na preservação da natureza.",
+        "D) encadeamento sucessivo de termos ligados por preposição, para produzir um efeito de continuidade temporal quanto à condição do planeta."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "**Por que a alternativa D está correta:**\nNo verso \"Os filhos dos filhos dos filhos dos nossos filhos verão\", há um encadeamento sucessivo de termos ligados pela preposição \"de\" (\"dos\"). Essa cadeia de complementos nominais encaixados produz um efeito de continuidade temporal, sugerindo uma sucessão de gerações que se estende no tempo e reforçando a ideia de futuro e de permanência da condição do planeta.\n\nA repetição encadeada de \"filhos\" ligada pela preposição projeta o olhar para gerações cada vez mais distantes, o que dialoga com o tom da canção sobre preservação e esperança quanto ao destino da terra. É esse recurso sintático de subordinação sucessiva por preposição que gera o efeito de prolongamento no tempo.\n\n**Conceito-chave:**\nO encadeamento de termos preposicionados (sintagmas nominais ligados em série pela mesma preposição) é um recurso expressivo que cria efeito de continuidade e de sucessão. No verso, ele materializa a ideia de gerações que se prolongam indefinidamente, reforçando o sentido de continuidade temporal.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 6,
+      "ano": 2024,
+      "titulo": "Questão 6 - UNICAMP 2024",
+      "enunciado": "je ne parle pas bien* je ne parle pas bien je ne parle pas bien je ne parle pas bien eu tenho uma língua solta que não me deixa esquecer que cada palavra minha é resquício da colonização cada verbo que aprendi conjugar foi ensinado com a missão de me afastar de quem veio antes nossas escolas não nos ensinam a dar voos [...] reinvenção nossa revolução surge e urge das nossas bocas das falas aprendidas que são ensinadas e muitas não compreendidas salve, a cada gíria je ne parle pas bien [...] o que era pra ser arma de colonizador está virando revide de ex colonizado estamos aprendendo as suas línguas e descolonizando os pensamento * Je ne parle pas bien, do francês, significa “Eu não falo direi­ to”. Podemos afirmar que o uso repetido do verso Je ne parle pas bien no poema slam de Luz Ribeiro",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) expressa a necessidade de repetir muitas vezes uma mesma sentença como forma de resistir ao esquecimento de uma língua.",
+        "B) enfatiza a ideia de que a língua francesa do colonizador ain­ da não foi aprendida e precisa ser repetida várias vezes.",
+        "C) é uma constatação de que, na posição de ex-colônia, não conseguimos aprender línguas estrangeiras.",
+        "D) indica um posicionamento de resistência por meio de uma crítica à aprendizagem forçada da língua do colonizador."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "**Por que a alternativa D está correta:**\nA repetição do verso \"je ne parle pas bien\" (\"eu não falo direito\", em francês) indica um posicionamento de resistência por meio de uma crítica à aprendizagem forçada da língua do colonizador. O poema slam de Luz Ribeiro denuncia que cada palavra e cada verbo aprendidos são \"resquício da colonização\", ensinados \"com a missão de me afastar de quem veio antes\", e propõe transformar essa língua imposta em \"revide de ex colonizado\".\n\nAssim, dizer repetidamente \"não falo direito\" na língua do colonizador é um gesto irônico e político: assume a marca da imposição colonial para, ao mesmo tempo, resistir a ela e \"descolonizar os pensamento\". A repetição enfatiza essa crítica e o caráter de resistência, não uma incapacidade real de aprender línguas.\n\n**Conceito-chave:**\nNa poesia slam, marcada pela oralidade e pelo engajamento, a repetição é um recurso retórico de ênfase e de afirmação política. Aqui, articulada ao tema da descolonização linguística, ela expressa resistência à imposição cultural do colonizador e a reapropriação crítica de sua língua.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 7,
+      "ano": 2024,
+      "titulo": "Questão 7 - UNICAMP 2024",
+      "enunciado": "Texto 1 “Que século, meus Deus! – exclamaram os ratos E começaram a roer o edifício”. (“Edifício Esplendor” (1955), de Carlos Drummond de Andrade, epígrafe do conto “Semi­ nário dos Ratos”, de Lygia Fagundes Telles.) Texto 2 Epígrafe é um paratexto (um texto que acompanha o texto principal), que pode justificar ou comentar um título ou texto; referenciar a relação entre o autor do texto e o da epígrafe; criar um efeito por meio do qual a presença da epígrafe já evoca a identificação do autor do texto com uma época ou movimento. (Adaptado de: GENETTE, G. Paratextos Editoriais. Tradução de Álvaro Faleiros. Cotia: Ate­ liê Editorial, 2009.) Considerando os textos 1 e 2, assinale a alternativa correta.",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) A epígrafe associa o conto de Lygia ao “sentimento do mun­ do” drummondiano. (Fragmentos do poema Je ne parle pas bien, de Luz Ribeiro, publicado na Revista Opiniães: Revista dos alunos de Literatura Brasileira, n.10, 2017.)",
+        "B) A epígrafe mostra que os versos de Drummond são impres­ cindíveis à escrita do conto.",
+        "C) A epígrafe justifica o título do conto e comenta os possíveis sentidos críticos dele.",
+        "D) A epígrafe identifica Lygia à geração de 30 do Modernismo, ao lado de Drummond."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Por que a alternativa C está correta:**\nA epígrafe de Drummond — \"Que século, meus Deus! – exclamaram os ratos / E começaram a roer o edifício\" — justifica o título do conto \"Seminário dos Ratos\", de Lygia Fagundes Telles, e comenta seus possíveis sentidos críticos. Conforme o texto 2 (baseado em Genette), a epígrafe é um paratexto que pode justificar ou comentar um título. Aqui, os \"ratos\" que roem o edifício antecipam a leitura crítica do conto, remetendo à ideia de degradação e de crítica social e política.\n\nA relação entre a epígrafe e o título é direta: os ratos que dão nome ao conto reaparecem nos versos de Drummond, associados à corrosão de uma estrutura (\"o edifício\"). Isso confirma a função de justificar o título e sugerir seus sentidos críticos, exatamente como descreve a alternativa C.\n\n**Conceito-chave:**\nEpígrafe é um paratexto que dialoga com o texto principal, podendo justificar ou comentar o título e orientar sua interpretação. Reconhecer essa função exige articular a citação inicial com o conteúdo e o título da obra, percebendo como a epígrafe projeta um sentido crítico sobre a leitura.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 8,
+      "ano": 2024,
+      "titulo": "Questão 8 - UNICAMP 2024",
+      "enunciado": "Leia o trecho da reportagem: “Mulher espancada após boatos em rede social morre no Gua­ rujá, SP (...) A dona de casa Fabiane Maria de Jesus, de 33 anos, morreu na manhã desta segunda-feira (5), dois dias após ter sido espan­ cada por dezenas de moradores do Guarujá, no litoral de São Paulo. Segundo a família, ela foi agredida a partir de um boato gerado por uma página em uma rede social (...)” (G1, Santos, 05/05/2014. Disponível em: https://g1.globo.com/sp/santos-regiao/noti­ cia/2014/05/mulher-espancada-apos-boatos-em-rede-social-morre-em-guaruja-sp.html. Acessado em 04/07/2023.) Assinale o trecho de um dos contos a seguir – extraídos de EVA­ RISTO, Conceição. Olhos d’Água. Rio de Janeiro: Pallas; Fun­ dação Biblioteca Nacional, 2016 –, trecho este que relaciona o acontecimento da reportagem ao texto de ficção:",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) “Os mais velhos, acumulados de tanto sofrimento, olhavam para trás e do passado nada reconheciam no presente. Suas lutas, seu fazer e saber, tudo parecia ter se perdido no tem­ po (...) Deram de clamar pela morte. E a todo instante eles partiam” (p. 112).",
+        "B) “Vi só lágrimas e lágrimas. Entretanto, ela sorria feliz. Mas eram tantas lágrimas, que eu me perguntei se minha mãe tinha olhos ou rios caudalosos sobre a face. E só então com­ preendi. Minha mãe trazia, serenamente em si, águas cor­ rentezas (...). Águas de Mamãe Oxum!” (p. 18-19).",
+        "C) “Os assaltantes desceram rápido. Maria olhou saudosa e desesperada para o primeiro. (...) Alguém gritou que aquela puta safada lá da frente conhecia os assaltantes (...). A pri­ meira voz, a que acordou a coragem de todos, (...) levantou e se encaminhou em direção à Maria (...)” (p. 41-42).",
+        "D) “Nos últimos tempos na favela, os tiroteios aconteciam com frequência e a qualquer hora. Os componentes dos grupos rivais brigavam para garantir seus espaços e freguesias. Ha­ via ainda o confronto constante com os policiais que inva­ diam a área” (p. 76)."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Por que a alternativa C está correta:**\nO trecho da alternativa C, do conto de Conceição Evaristo, relaciona-se diretamente ao caso noticiado: uma mulher (Maria) é acusada publicamente — \"alguém gritou que aquela puta safada lá da frente conhecia os assaltantes\" — e, a partir desse boato, a multidão desperta a \"coragem\" para atacá-la. Isso reproduz a lógica da reportagem, em que Fabiane Maria de Jesus foi espancada até a morte por dezenas de moradores a partir de um boato gerado numa rede social.\n\nA correspondência está no mecanismo da violência coletiva desencadeada por uma acusação/boato contra uma mulher, culminando em linchamento. Os demais trechos tratam de outros temas (sofrimento dos mais velhos, religiosidade materna, tiroteios entre grupos), sem esse paralelo com a agressão coletiva movida por rumor.\n\n**Conceito-chave:**\nA intertextualidade temática entre um texto jornalístico e um texto literário se estabelece pela identificação de um mesmo núcleo de sentido — aqui, a violência coletiva contra uma mulher provocada por um boato. Comparar situações e reconhecer o paralelo entre realidade e ficção é a chave da questão.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 9,
+      "ano": 2024,
+      "titulo": "Questão 9 - UNICAMP 2024",
+      "enunciado": "No início da novela Casa Velha, de Machado de Assis, o cônego da Capela Imperial, um personagem da história, assumindo a voz narrativa dela, conta a seus interlocutores: “– Não desejo ao meu maior inimigo o que me aconteceu no mês de abril de 1839.” (MACHADO DE ASSIS. Casa Velha. Rio de Janeiro: Paz e Terra, 1986, p. 11.) De acordo com o texto, o acontecimento desagradável que viti­ mou o religioso faz com que ele possa ser considerado, ao final da narrativa, como",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) um boêmio que se sente entediado na presença dos convi­ vas da Casa Velha: “Disseram-me que era amiga da família, e se chamava Mafalda. (...) Creio que disseram ainda outras coisas; mas não me interessando nada, nem a conversação, nem a hóspeda, (...) deixei-me estar comigo” (p. 29-30).",
+        "B) um antiescravista, obrigado a conviver, na mesma casa gran­ de, com senhores, agregados e escravos: “Lalau (...) com as mãos no ombro do moleque, ora fitava os olhos na carapi­ nha deste, ouvindo somente as palavras de Félix; ora erguia­ -os para o moço (...)” (p. 67).",
+        "C) um republicano que suporta um velho Coronel de posições conservadoras: “Reverendíssimo, (...) os farrapos invadiram Santa Catarina, entraram na Laguna, e os legais fugiram. Eu, se fosse o governo, mandava fuzilar a todos estes para escarmento...” (p. 89).",
+        "D) um ingênuo que se deixa iludir em suas relações pessoais: “nem por sombras me acudiu que a revelação de Dona An­ tônia podia não ser verdadeira (...) Não adverti sequer na minha cumplicidade. Em verdade, eu é que proferira as pa­ lavras que ela trazia na mente (...)” (p. 89)."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "**Por que a alternativa D está correta:**\nNa novela \"Casa Velha\", de Machado de Assis, o cônego narrador revela-se, ao final, um ingênuo que se deixa iludir em suas relações pessoais. O trecho da alternativa D confirma isso: ele admite não ter desconfiado da falsidade da revelação de Dona Antônia e reconhece sua própria \"cumplicidade\", percebendo que fora manipulado — \"eu é que proferira as palavras que ela trazia na mente\". Esse é o acontecimento desagradável que o vitimou e que ele lamenta profundamente.\n\nO próprio início da narrativa (\"Não desejo ao meu maior inimigo o que me aconteceu\") anuncia o caráter penoso da experiência, que se explica ao final como fruto de sua ingenuidade diante das intrigas alheias. A alternativa D reúne, assim, a caracterização do personagem (ingênuo) e o trecho que a comprova.\n\n**Conceito-chave:**\nA construção do narrador machadiano frequentemente explora a autoilusão e a manipulação: o narrador reconstrói, retrospectivamente, sua própria ingenuidade diante dos fatos. Compreender a caracterização de uma personagem exige articular sua trajetória na narrativa com os indícios textuais que a confirmam.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 10,
+      "ano": 2024,
+      "titulo": "Questão 10 - UNICAMP 2024",
+      "enunciado": "“Um deles viu umas contas brancas de rosário, acenou que lhas dessem e divertiu-se muito com elas. Enrolou-as ao pescoço, depois tirou-as e embrulhou-as no braço, e acenava para a terra e depois para as contas, e em seguida para o colar do capitão, dando a entender que eles dariam ouro por aquilo. Isto nós entendíamos assim porque queríamos. Mas se ele queria dizer que levaria as contas e mais o colar, isto nós não queríamos entender, porque não lho daríamos.\" (CAMINHA, Pero Vaz de. Carta de Achamento do Brasil. Campinas: Editora da UNICAMP, p. 108, 2001.) Em seu relato de viagem, Pero Vaz de Caminha",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) descreve a natureza e as pessoas que os portugueses en­ contraram no Novo Mundo, inventariando os detalhes da viagem, com vistas à preservação da História Colonial.",
+        "B) descreve e interpreta os fatos, mostrando que a compreen­ são dos portugueses sobre os povos originários era mediada pelos interesses do colonizador.",
+        "C) descreve como os povos originários do Novo Mundo auxilia­ ram os colonizadores na prospecção por riquezas, anteven­ do a realização do projeto colonizador.",
+        "D) descreve e interpreta os fatos, sugerindo que, na visão dos povos originários, era possível a convivência pacífica com o colonizador, já que compartilhavam os mesmos interesses."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "**Por que a alternativa B está correta:**\nNo trecho, Caminha não se limita a descrever a cena: ele também a interpreta. Ao relatar o episódio das contas de rosário e do ouro, o escrivão admite explicitamente que a compreensão é enviesada pelo desejo português — \"Isto nós entendíamos assim porque queríamos\". Ou seja, o que o indígena \"queria dizer\" era traduzido segundo aquilo que convinha ao colonizador, revelando que a leitura dos gestos do outro passava pelo filtro dos interesses europeus (a busca por ouro e riquezas).\n\nO próprio narrador reconhece os limites dessa interpretação ao afirmar que, se o indígena quisesse também o colar, \"isto nós não queríamos entender\". Fica evidente, portanto, que a mediação entre os dois mundos era regida pela conveniência do colonizador, que atribuía aos povos originários intenções e significados de acordo com seus próprios propósitos. Isso corresponde exatamente ao que descreve a alternativa B.\n\n**Conceito-chave:**\nA Carta de Pero Vaz de Caminha é um documento fundador do período colonial que expressa o olhar eurocêntrico sobre os povos originários. Mais do que um registro \"neutro\", o texto revela como o encontro entre europeus e indígenas foi mediado pelos interesses econômicos e culturais do colonizador, que projetava sobre o outro suas próprias expectativas — um ponto central para a análise crítica das fontes históricas da conquista da América.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 11,
+      "ano": 2024,
+      "titulo": "Questão 11 - UNICAMP 2024",
+      "enunciado": "Em 1921, Mário de Andrade, escrevendo a série de artigos “Mestres do passado”, publicados no Jornal do Comércio (edi­ ção de São Paulo), observou:\n\n\"Tarde [de Olavo Bilac] foi uma promessa de anos seguidos. Tais são, tão salientes os artifícios e tão repetidos que muito bem provam o esforço do poeta decaído da poesia e a sua parca inspiração (...).” (ANDRADE, M. Mestres do passado – Olavo Bilac. In: BRITO, M.S. História do modernis­ mo brasileiro. Antecedentes da Semana de Arte Moderna. 5.ed. Rio de Janeiro: Civiliza­ ção Brasileira, p. 288-289, 1978.) Relacione, ao poema a seguir, o trecho da crítica anterior, assi­ nalando a alternativa que coincide com a ideia geral de Mário sobre a obra de Bilac. As estrelas Olavo Bilac Desenrola-se a sombra no regaço Da morna tarde, no esmaiado anil; Dorme, no ofego do calor febril, A natureza, mole de cansaço. Vagarosas estrelas! passo a passo,\n\nO aprisco desertando, às mil e às mil,\n\nVindes do ignoto seio do redil\n\nNum compacto rebanho, e encheis o espaço...\n\nE, enquanto, lentas, sobre a paz terrena,\n\nVos tresmalhais tremulamente a flux, – Uma divina música serena Desce rolando pela vossa luz: Cuida-se ouvir, ovelhas de ouro: a avena Do invisível pastor que vos conduz... (BILAC, Olavo. Tarde. Rio de Janeiro: Livraria Francisco Alves, p. 42-43, 1919.) Esmaiado: esmaecido, pálido Aprisco: curral Redil: curral para o gado ovino ou caprino; rebanho de ovelhas Tresmalhar: Afastar-se, perder-se do rebanho Flux: fluxo Avena: flauta pastoril",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) O crítico lamenta o espaçamento da criação poética de Bi­ lac, o que se expressa no poema pela imagem das estrelas que se afastam umas das outras.",
+        "B) O crítico elogia os salientes artifícios da linguagem poética de Tarde, o que se pode perceber, por exemplo, pela varie­ dade de sinônimos para a palavra “curral”.",
+        "C) O crítico evoca, como resultado da pouca inspiração artística do poeta, a sobrecarga de investimento formal (os hipérba­ tos ou inversões, por exemplo).",
+        "D) O crítico associa a poesia de Bilac ao estilo decadentista, o que é reforçado pelas imagens de esgotamento, como se vê nas palavras “morna”, “esmaiado”, “ofego”, “mole”, “lentas”."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Por que a alternativa C está correta:**\nNa crítica de 1921, Mário de Andrade acusa Bilac de ser um \"poeta decaído da poesia\" de \"parca inspiração\", cujos \"artifícios\" são \"salientes\" e \"repetidos\". A crítica modernista, portanto, associa a pobreza de inspiração ao excesso de elaboração formal: faltando genuína força criadora, o poeta parnasiano compensaria com o virtuosismo técnico e o rebuscamento da linguagem. Isso é exatamente o que a alternativa C aponta ao falar em \"sobrecarga de investimento formal\".\n\nNo poema \"As estrelas\", esse investimento formal excessivo aparece de modo claro nos hipérbatos (inversões da ordem natural das palavras), como em \"Desenrola-se a sombra no regaço / Da morna tarde\" e \"Do invisível pastor que vos conduz\". Para Mário, esses recursos rebuscados não nascem da inspiração, mas a substituem — coincidindo com a ideia geral do crítico de que a técnica encobre a falta de espontaneidade poética em Bilac.\n\n**Conceito-chave:**\nA série \"Mestres do passado\" (1921), de Mário de Andrade, é um marco da crítica pré-modernista que ataca o Parnasianismo — do qual Bilac era o maior nome — por seu formalismo, culto à forma perfeita, rima rica e sintaxe rebuscada. A questão exige reconhecer o antagonismo entre a estética modernista (que valoriza a liberdade e a expressão) e o preciosismo formal parnasiano, tomado pelos modernistas como sinal de artificialismo e ausência de verdadeira inspiração.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 12,
+      "ano": 2024,
+      "titulo": "Questão 12 - UNICAMP 2024",
+      "enunciado": "Leia as duas citações a seguir, extraídas do início e do final de O Ateneu: “Lembramo-nos, entretanto, com saudade hipócrita, dos feli­ zes tempos; como se a mesma incerteza de hoje, sob outro aspecto, não nos houvesse perseguido outrora e não viesse de longe a enfiada das decepções que nos ultrajam. Eufemismo, os felizes tempos, eufemismo apenas, igual aos outros que nos alimentam, a saudade dos dias que correram como melhores. Bem considerando, a atualidade é a mesma em todas as datas. Feita a compensação dos desejos que variam, das aspirações que se transformam, alentadas perpetuamente do mesmo ar­ dor, sobre a mesma base fantástica de esperanças, a atualidade é uma (...)”. “Aqui suspendo a crônica das saudades. Saudades verdadei­ ramente? Puras recordações, saudades talvez, se ponderarmos que o tempo é a ocasião passageira dos fatos, mas sobretudo — o funeral para sempre das horas.” (POMPEIA, Raul. O Atheneu (Chronica de saudades). Rio de Janeiro: Tipografia de Gaze­ ta de Notícias, p 3-4 e 368, 1888.) Com base nessas duas citações, é possível afirmar que, ao fim da narrativa de Sérgio sobre sua vida no colégio, o narrador",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) idealiza a felicidade experimentada na infância, suas aspira­ ções, seu ardor e suas esperanças.",
+        "B) considera que a felicidade passada não era maior que a do presente, pois os tempos são iguais.",
+        "C) duvida da própria saudade, separando as lembranças relati­ vas ao passado daquele sentimento associado a elas.",
+        "D) denuncia a hipocrisia da saudade que sente, por saber que a passagem do tempo é incerta."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Por que a alternativa C está correta:**\nO fecho de O Ateneu explicita a dúvida do narrador sobre o próprio sentimento: \"Aqui suspendo a crônica das saudades. Saudades verdadeiramente?\". Sérgio questiona se aquilo que sente são de fato saudades ou apenas \"puras recordações\", operando uma separação entre as lembranças do passado (os fatos vividos no colégio) e o sentimento de saudade que costumamos associar a elas. Essa distinção crítica entre memória e afeto é justamente o que descreve a alternativa C.\n\nNo início da narrativa, o narrador já denunciara a \"saudade hipócrita\" e o \"eufemismo\" dos \"felizes tempos\", afirmando que \"a atualidade é a mesma em todas as datas\". Ao final, ele leva essa desconfiança adiante: reconhece o tempo como \"o funeral para sempre das horas\", o que o faz duvidar de que a saudade seja um sentimento sincero, e não uma idealização enganosa do passado.\n\n**Conceito-chave:**\nO Ateneu (1888), de Raul Pompeia, é um romance de memórias narrado retrospectivamente por Sérgio, marcado por um olhar desiludido e crítico sobre o internato e sobre a própria idealização do passado. O subtítulo \"Crônica de saudades\" é irônico: a obra desconstrói a nostalgia, mostrando que a suposta saudade é uma reconstrução hipócrita da memória — traço que aproxima o livro do pessimismo e da tendência impressionista/decadentista de fim de século.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 13,
+      "ano": 2024,
+      "titulo": "Questão 13 - UNICAMP 2024",
+      "enunciado": "Estudos, publicados na Nature Geoscience e na revista Science, apontam para a queda acentuada das temperaturas na Europa e na Ásia a partir do ano de 536, gerando a chamada “Peque­ na Idade do Gelo da Antiguidade Tardia”. As mudanças nas temperaturas podem ter sido causadas por erupções vulcâni­ cas, cujos efeitos foram reforçados pelas correntes oceânicas, pela expansão do gelo e pela coincidência de um mínimo solar (século VI). A conjugação desses fatores teria gerado mudanças efetivas na história, já que a agricultura e a pastagem teriam sido diretamente atingidas. Exemplos dessas relações entre o clima e a história humana podem ser encontrados na Antigui­ dade, como a invasão da Europa por vários povos das estepes, a queda do segundo império persa, a entrada dos turcos na Anatólia, o início da expansão árabe, entre outros. (Adaptado de: CRIADO, M.l Á. “Uma pequena ‘idade do gelo’ pode ter mudado a história da Antiguidade (...)”. El País, fev, 2016.) Com base em seus conhecimentos sobre a Antiguidade e tendo em vista o excerto anterior, é correto afirmar que",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) a história do planeta Terra e a história humana são indis­ sociáveis; eventos do século VI são bons exemplos disso: mudanças nos ecossistemas teriam gerado peste, fome e escassez, levando aos deslocamentos de povos.",
+        "B) a “Pequena Idade do Gelo da Antiguidade Tardia”, assim como as mudanças climáticas dos séculos XX e XXI, foram provocadas, em especial, pela ação humana e também pelas mudanças nas paisagens dos campos.",
+        "C) os efeitos das mudanças climáticas no passado eram locais; os eventos históricos citados se desconectavam das mudan­ ças nos ecossistemas encontrados na Europa e na Ásia.",
+        "D) os estudos sobre as mudanças nas temperaturas no sécu­ lo VI apresentam uma visão sobre o passado, destacando como grupamentos humanos controlavam as mudanças na natureza."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "**Por que a alternativa A está correta:**\nO texto defende que a história da Terra e a história humana são indissociáveis: mudanças climáticas do século VI (a \"Pequena Idade do Gelo da Antiguidade Tardia\"), provocadas por erupções vulcânicas, correntes oceânicas e mínimo solar, teriam afetado diretamente a agricultura e a pastagem. Como consequência dessas alterações nos ecossistemas, sobrevieram fome, peste e escassez, que impulsionaram grandes deslocamentos de povos — exatamente o encadeamento descrito na alternativa A.\n\nOs exemplos citados no excerto confirmam essa leitura: a invasão da Europa por povos das estepes, a queda do segundo império persa, a entrada dos turcos na Anatólia e o início da expansão árabe são apresentados como desdobramentos históricos ligados às mudanças ambientais. A alternativa A sintetiza corretamente essa relação de causa e efeito entre transformação climática e movimentos migratórios na Antiguidade Tardia.\n\n**Conceito-chave:**\nA questão trabalha o conceito de história ambiental, campo que estuda as interações entre os processos naturais e as sociedades humanas. Ela rejeita o determinismo simplista, mas reconhece que fatores climáticos e ecológicos podem condicionar profundamente eventos históricos — como migrações, colapsos de impérios e epidemias —, especialmente em sociedades agrárias dependentes de colheitas e pastagens.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 14,
+      "ano": 2024,
+      "titulo": "Questão 14 - UNICAMP 2024",
+      "enunciado": "“Dos pretos é tão própria e natural a união que a todos os que têm a mesma cor, chamam parentes; a todos os que servem na mesma casa, chamam parceiros; e a todos os que se embarcam no mesmo navio, chamam malungos.” (VIEIRA, Padre Antônio. Sermão XX. Parte II. Lisboa: Impressão Craesbeeckiana, p. 165, 1688.) Sobre as comunidades de malungos no período da escravidão, é correto afirmar, de acordo com o texto, que são formadas",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) nos laços entre africanos de múltiplas etnias, os quais ha­ viam atravessado juntos o Atlântico.",
+        "B) no encontro dos africanos nas senzalas, no exercício de ofí­ cios e no trabalho da lavoura.",
+        "C) no Novo Mundo por pessoas de uma mesma etnia que se reconheciam como iguais.",
+        "D) nos quilombos rurais e urbanos, formados por escravizados fugidos de muitas etnias."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "**Por que a alternativa A está correta:**\nO sermão de Padre Antônio Vieira define \"malungos\" como aqueles \"que se embarcam no mesmo navio\", distinguindo-os dos \"parentes\" (mesma cor) e dos \"parceiros\" (mesma casa). Assim, o próprio texto indica que o laço de malungo se forma na travessia atlântica compartilhada, unindo africanos que atravessaram juntos o oceano nos navios negreiros — o que corresponde exatamente à alternativa A, que fala em africanos de múltiplas etnias unidos por terem atravessado juntos o Atlântico.\n\nO vínculo de malungo é, portanto, forjado na experiência comum do tráfico negreiro, e não na origem étnica compartilhada (o que descreveria os \"parentes\") nem no trabalho na mesma lavoura ou senzala (o que se aproximaria dos \"parceiros\"). Por isso as demais alternativas não se sustentam diante da própria classificação apresentada por Vieira.\n\n**Conceito-chave:**\nMalungo é um termo de origem banto que designa o companheiro de travessia no navio negreiro, expressando a solidariedade e os laços de parentesco fictício criados entre escravizados de diferentes etnias durante o tráfico atlântico. Esses laços eram fundamentais para a reconstrução de identidades e redes de apoio no cativeiro, evidenciando a agência e a sociabilidade dos africanos escravizados diante do desenraizamento imposto pela escravidão.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 15,
+      "ano": 2024,
+      "titulo": "Questão 15 - UNICAMP 2024",
+      "enunciado": "No processo de Independência, várias tropas indígenas foram recrutadas para proteger o território contra uma possível inva­ são portuguesa no litoral cearense entre setembro e novem­ bro de 1822. Já os índios da vila de Cimbres, em Pernambuco, se posicionaram em 1824 a favor de Dom João VI, opondo-se à Independência e à Constituição. No entanto, o que parecia ser mais comum era o engajamento dos índios no projeto de Brasil independente, identificando-se como “brasileiros”. Nas revoltas, buscavam muito menos se contrapor aos europeus e, assim, lutar por uma nova posição social que não mais os obri­ gasse ao trabalho forçado. (Adaptado de: COSTA, J. P. P. “Povos indígenas e a Independência”. Disponível em: ht­ tps://bicentenario2022.com.br/textos/. Acesso em 21/05/2023.) Tendo em vista seus conhecimentos sobre a participação dos povos indígenas no processo de Independência, e considerando o texto do blog citado, assinale a alternativa correta.",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) As disputas dos ameríndios em torno do “ser brasileiro” vi­ savam à manutenção da ordem social vigente.",
+        "B) As populações indígenas participaram, com projetos políti­ cos específicos, dos processos da Independência.",
+        "C) A independência era entendida pelos indígenas como uma ameaça a Dom João VI, símbolo da nação brasileira.",
+        "D) A diversidade da ação indígena se relacionava à distribuição de terras e títulos estabelecidos pela Corte portuguesa."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "**Por que a alternativa B está correta:**\nO texto mostra que a participação indígena na Independência foi diversa e orientada por interesses próprios: no Ceará, tropas indígenas foram recrutadas para defender o território contra os portugueses; em Cimbres (PE), índios se posicionaram a favor de Dom João VI, contra a Independência; e, de modo mais geral, muitos se engajaram no projeto do Brasil independente identificando-se como \"brasileiros\", buscando uma nova posição social que os livrasse do trabalho forçado. Essa variedade de posturas evidencia que as populações indígenas participaram com projetos políticos específicos, como afirma a alternativa B.\n\nO ponto central é reconhecer os indígenas como agentes históricos ativos, e não como massa passiva. Eles fizeram escolhas políticas conscientes — a favor ou contra a Independência — de acordo com suas demandas concretas, sobretudo a luta por autonomia e pelo fim da exploração compulsória de seu trabalho, o que confirma o protagonismo político descrito na alternativa correta.\n\n**Conceito-chave:**\nA questão destaca o protagonismo indígena no processo de Independência do Brasil (1822), tema revisto pela historiografia recente, que supera a visão eurocêntrica centrada apenas nas elites. Os povos originários agiram como sujeitos políticos, mobilizando a identidade de \"brasileiros\" e participando das disputas conforme seus próprios interesses — especialmente a busca por direitos, terra e a superação do trabalho forçado.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 16,
+      "ano": 2024,
+      "titulo": "Questão 16 - UNICAMP 2024",
+      "enunciado": "Muitos fotógrafos no século XIX registraram obras de enge­ nharia. O francês Édouard Baldus (1813-1889) atuou, primeiro como pintor e depois como fotógrafo, no inventário de monu­ mentos arquitetônicos da Comissão dos Monumentos Históri­ cos (1851) na França. Suas fotografias sobre esses monumentos renderam-lhe fama de fotógrafo de arquitetura. Sob encomen­ da, Baldus editou um álbum para a Companhia dos Caminhos Férreos do Norte (1855) e registrou estações, instalações ferro­ viárias, portos e cidades, ao longo desta via entre Paris e a cida­ de de Boulogne-sur-Mer. A rainha Vitória ganhou um exemplar dessa publicação. (Adaptado de: OLIVEIRA, E. R. Vistas fotográficas das ferrovias: a produção de registros de obra pública no Brasil do século XIX. Hist cienc saude-Manguinhos [Internet], 25(3), p. 695-723, 2018.) Tendo em vista seus conhecimentos sobre mundo contemporâ­ neo e considerando o texto, assinale a alternativa correta.",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) Na Europa do século XIX, a difusão social das fotografias das obras públicas se dava por meio de jornais impressos com baixa circulação social e restrita aos estudiosos.",
+        "B) No século XIX, a dissociação entre as fotografias de obras públicas e a vida política europeia expressa a desvalorização da técnica e do conhecimento científico positivista.",
+        "C) A fotografia teve vários usos e funções no século XIX, entre eles, o de compor inventários arquitetônicos e retratar obras de engenharia.",
+        "D) O álbum fotográfico dado à rainha Vitória era um gesto di­ plomático que mostrava o descontentamento francês com a política inglesa."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Por que a alternativa C está correta:**\nO texto relata que Édouard Baldus, ao inventariar monumentos arquitetônicos para a Comissão dos Monumentos Históricos e ao registrar estações, portos e instalações ferroviárias em um álbum encomendado pela companhia ferroviária, deu à fotografia usos variados. Ela serviu tanto para compor inventários arquitetônicos quanto para retratar obras de engenharia, o que corresponde diretamente à alternativa C, que reconhece a multiplicidade de funções da fotografia no século XIX.\n\nAs demais alternativas contrariam o texto ou fazem afirmações não sustentadas: não há indicação de circulação restrita e desvalorização da técnica, nem de dissociação entre fotografia e vida política, e o presente dado à rainha Vitória é apresentado como registro de obra pública, sem qualquer menção a descontentamento diplomático francês. Apenas a alternativa C se atém ao que o texto efetivamente demonstra sobre os usos sociais e documentais da fotografia.\n\n**Conceito-chave:**\nA questão aborda a fotografia como fonte histórica e prática social no século XIX, período de consolidação da técnica fotográfica em pleno avanço industrial e científico. A fotografia passou a documentar o progresso técnico (ferrovias, portos, engenharia) e o patrimônio arquitetônico, cumprindo funções de inventário, propaganda e memória — refletindo a mentalidade positivista e o culto ao progresso característicos da era contemporânea europeia.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 17,
+      "ano": 2024,
+      "titulo": "Questão 17 - UNICAMP 2024",
+      "enunciado": "É correto afirmar que a fotografia anterior\n\n![](vestibular/unicamp/img/2024_q17_fig1.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) foi produzida durante a Guerra Fria e documenta o seques­ tro, no sudeste asiático, da parte dos soldados norte-ameri­ canos, de mulheres. O estupro e a prostituição forçada são aceitos pelas cortes internacionais como estratégia de guer­ ra, já que os crimes de guerra referem-se apenas às armas usadas nos campos. (Foto, legenda e definição do termo disponíveis em: https://forbes. com.br/colunas/2017/07/imagens-raras-mostram-mulheres-de- -conforto-da-2a-guerra-mundial/ Acesso em 25 de maio de 2023 .) Legenda: Imagens de “mulheres de conforto”**, em 1944, na Coreia do Sul. ** Termo usado para designar coreanas, filipinas e chinesas, obrigadas a se prostituírem em bordéis usados por militares japoneses.",
+        "B) comprova a ação dos soldados norte-americanos, durante a Guerra do Vietnã, em relação às mulheres e às crianças fotografadas. A prostituição consensual era usada como es­ tratégia de criação de novos laços sociais e o povoamento dos territórios conquistados.",
+        "C) traz a imagem de mulheres enfileiradas, capturadas e obri­ gadas a se prostituírem durante a II Guerra Mundial. A vio­ lação sexual tem sido usada historicamente como arma para fragilizar os supostos inimigos, já que as vítimas da violência sexual trazem marcas da humilhação e da limpeza étnica e tem os laços sociais destruídos.",
+        "D) registra mulheres que, durante a Guerra das Coreias, esco­ lheram se casar e migrar com os soldados japoneses. A vio­ lação sexual é uma das marcas dos conflitos entre nações, atingindo em especial mulheres e crianças que, entendidas como vulneráveis, se tornam vítimas do domínio masculino."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Por que a alternativa C está correta:**\nA fotografia mostra mulheres enfileiradas — as chamadas \"mulheres de conforto\", coreanas, filipinas e chinesas — capturadas e forçadas à prostituição em bordéis militares japoneses durante a Segunda Guerra Mundial. A alternativa C descreve corretamente tanto a imagem quanto seu significado histórico: a violência sexual foi empregada como arma de guerra, destinada a fragilizar os inimigos, humilhar as vítimas e destruir seus laços sociais, funcionando como instrumento de dominação e limpeza étnica.\n\nAs demais alternativas trazem erros factuais e interpretativos: falam em soldados norte-americanos e Guerra Fria ou Guerra do Vietnã (A e B), ou em prostituição \"consensual\" e mulheres que \"escolheram\" se casar e migrar (B e D). Todas essas versões negam o caráter coercivo e criminoso do sistema. Apenas a alternativa C reconhece a natureza forçada da exploração e o uso histórico da violação sexual como estratégia de guerra.\n\n**Conceito-chave:**\nO caso das \"mulheres de conforto\" é um exemplo emblemático da violência sexual como arma de guerra, tema central dos estudos sobre direitos humanos e crimes de guerra no século XX. A escravização sexual sistemática promovida pelo exército japonês evidencia como conflitos armados atingem de forma específica as mulheres, transformando seus corpos em campo de batalha e usando o estupro como tática de dominação, humilhação e desestruturação de comunidades inteiras.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 18,
+      "ano": 2024,
+      "titulo": "Questão 18 - UNICAMP 2024",
+      "enunciado": "Prisões e torturas igualmente triplicaram, principalmente as de jornalistas. Dentre elas, a mais emblemática foi a de Vladimir Herzog, diretor da TV Cultura, que, embora fosse militante do PCB, não desenvolvia atividade clandestina nem perten­ cia aos quadros do partido. Herzog foi assassinado dentro do DOI-CODI, sendo a versão oficial de sua morte falsamente atri­ buída a um enforcamento. Em sua Autobiografia, Rita Lee pu­ blicou o bilhete de Elis Regina que fazia menção a uma música feita para “Vlado” e que, obviamente, fora censurada. (Adaptado de: LIMA, N. Ditadura no Brasil e Censura nas Canções de Rita Lee. Curitiba: Appris, 2019, p.17.) A partir da leitura do texto e de seus conhecimentos a respeito desse período da História do Brasil, é correto afirmar, sobre os eventos narrados, que",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) Rita Lee, Elis Regina, Caetano Veloso, Chico Buarque, entre outros artistas nacionais, tiveram suas músicas censuradas pela Ditadura Militar, apesar da manutenção da garantia constitucional da liberdade de expressão.",
+        "B) A Ditadura Militar permitiu a continuidade do Partido Co­ munista Brasileiro e perseguia sua atuação revolucionária vinculada a Stalin e à União Soviética; por conta disso, pren­ dia e torturava seus filiados.",
+        "C) Centros de detenção da Ditadura Militar, como o DOI-CODI, operaram dentro da legalidade constitucional, sendo que os presos, políticos ou não, eram fichados e tinham direito à defesa garantido por lei.",
+        "D) Vladimir Herzog e outros jornalistas foram vítimas de perse­ guição política, prisões, torturas e execuções realizadas por militares, com apoio de parte da sociedade civil, em nome da ideologia da segurança nacional."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "**Por que a alternativa D está correta:**\nO texto relata o assassinato do jornalista Vladimir Herzog nas dependências do DOI-CODI, com a falsificação da versão oficial (suposto enforcamento), num contexto de triplicação de prisões e torturas de jornalistas e de censura a músicas (como a que Elis Regina fez para \"Vlado\"). Esses fatos ilustram a perseguição política, as prisões, as torturas e as execuções cometidas por militares em nome da doutrina de segurança nacional, com o apoio de parte da sociedade civil — exatamente o que afirma a alternativa D.\n\nAs outras alternativas contêm erros graves: durante a Ditadura Militar não havia garantia constitucional efetiva da liberdade de expressão (A), o PCB estava na ilegalidade e era duramente reprimido (B), e o DOI-CODI operava à margem da legalidade, sem qualquer direito de defesa assegurado aos presos, que eram torturados e mortos clandestinamente (C). Apenas a alternativa D descreve corretamente a natureza repressiva do regime.\n\n**Conceito-chave:**\nO caso Herzog (1975) tornou-se um símbolo da repressão da Ditadura Militar brasileira (1964-1985) e do funcionamento dos órgãos de segurança como o DOI-CODI, centros de tortura e execução de opositores. A questão trabalha a Doutrina de Segurança Nacional, que justificava a violência de Estado contra supostos \"inimigos internos\", bem como a censura cultural e a colaboração de setores civis com o aparato repressivo.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 19,
+      "ano": 2024,
+      "titulo": "Questão 19 - UNICAMP 2024",
+      "enunciado": "Com propósitos diferentes, ambas as imagens promovem a de­ sinformação. Comparando historicamente os dois exemplos de desinformação, é correto afirmar que\n\n![](vestibular/unicamp/img/2024_q19_fig1.png)\n![](vestibular/unicamp/img/2024_q19_fig2.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) as campanhas de desinformação podem ser encontradas em diferentes contextos, como visto no uso do panfleto da rainha pela coroa francesa – com o objetivo de defender a monarquia – e na imagem do Papa – que explora a contra­ dição entre a riqueza do Vaticano e os excluídos defendidos por ele.",
+        "B) no século XVIII e no século XXI, a produção e a circulação de fake news e desinformação são controladas pelos aparelhos de censura que revisam conteúdos orais e impressos, ainda que estruturados a partir de tecnologias diferenciadas.",
+        "C) na era digital, a ruptura causada pelo uso de Inteligência Artificial e seu potencial na produção de desinformação está ao alcance do público, na instantaneidade e no realismo da imagem. No início da contemporaneidade, as manipulações em imagens e em notícias eram acessadas pelo público atra­ vés de jornais e panfletos.",
+        "D) os dispositivos de Inteligência Artificial representam uma ruptura no combate à desinformação ao possibilitar o ras­ treio e a eliminação instantânea de fake news. No século XVIII, o público era refém de notícias falsas pela ausência desta tecnologia. Imagem postada em março de 2023 no Reddit, uma comu­ nidade de fóruns, na página específica do Midjourney. Essa página reúne criações feitas na ferramenta de Inteligência Ar­ tificial, ferramenta que permi­ te criar imagens hiper-realistas a partir de uma descrição em texto. A imagem viralizou a partir do Twitter. O Papa nun­ ca usou aquele casaco branco. Tradução da legenda: Eu apenas respiro por você. Um beijo, meu belo anjo! Panfleto anônimo produ­ zido na França pré-revolu­ cionária do final do século XVIII retratando a rainha Maria Antonieta em um romance com a sua amiga, a duquesa Yolande de Po­ lignac. (Disponível em: https://www.uol.com.br/ tilt/noticias/redacao/2023/03/26/foto-do-pa­ pa-usando-casaco-estiloso-foi-criada-por-in­ teligencia-artificial.htm?cmpid=copiaecola. Acesso em 04/05/2023.) (Biblioteca Nacional da França, sem data, RES 8-LB39-12153. Disponível em: ht­ tps://gallica.bnf.fr/ark:/12148/btv1b6 942376r.item. Acesso em 04/05/2023.) Texto comum às questões 20 e 21: Texto 1 A OMS (Organização Mundial de Saúde) recomenda que a in­ gestão de açúcares livres esteja abaixo de 5% da ingestão total de energia diária para o nosso organismo. Como alternativa aos açúcares livres, tem-se intensificado o uso de adoçantes não nutritivos, como, por exemplo, sacarina, sucralose, stevia e as­ partame. A própria OMS atualmente recomenda que adoçantes não sejam utilizados para controlar a massa corporal, pois não oferecem benefício na redução da gordura corporal. Uma be­ bida muito consumida no cotidiano, o refrigerante, apresenta esses dois aspectos para os quais a OMS chama atenção: os comuns têm cerca de 11 g de açúcar por 100 mL e os diets contêm adoçantes não nutritivos."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Por que a alternativa C está correta:**\nA questão pede uma comparação histórica entre dois exemplos de desinformação. A imagem do Papa de casaco branco foi gerada por Inteligência Artificial (Midjourney) e viralizou nas redes: ela representa a ruptura da era digital, em que a produção de imagens hiper-realistas e falsas passou a estar ao alcance de qualquer pessoa, com instantaneidade e realismo capazes de enganar o público. Já o panfleto anônimo sobre Maria Antonieta, produzido na França do fim do século XVIII, ilustra que a manipulação de notícias e imagens no início da contemporaneidade circulava por meios impressos, como jornais e panfletos.\nA alternativa C é a única que faz essa distinção histórica de forma correta, reconhecendo tanto a novidade tecnológica da IA quanto a existência anterior da desinformação em suportes impressos, sem exageros. As demais erram ao supor censura controlando os dois períodos (B), ao tratar a IA como ferramenta de combate à desinformação (D) ou ao descrever equivocadamente o propósito de cada peça (A).\n\n**Conceito-chave:**\nDesinformação e mídia ao longo da história: a produção e a circulação de notícias falsas existem desde a Idade Moderna (panfletos, jornais), mas ganham escala, velocidade e realismo inéditos na era digital com a Inteligência Artificial, exigindo leitura crítica das fontes.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 20,
+      "ano": 2024,
+      "titulo": "Questão 20 - UNICAMP 2024",
+      "enunciado": "O gráfico a seguir apresenta o consumo médio de refrigerante por habitante por ano, no período de 2010 a 2021, no Brasil. Dados: i) ingestão total de energia diária para adultos: 8400 kJ (reco­ mendação da OMS). ii) energia por grama de açúcar: 16,5 kJ. De acordo com as informações do gráfico e do texto 1, pode-se afirmar que a média de consumo diário de açúcar, por habitan­ te, para cada ano, devido somente à ingestão de refrigerante,\n\n![](vestibular/unicamp/img/2024_q20_fig1.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) foi sempre superior à recomendada pela OMS, o que pode indicar uma baixa conscientização da população sobre o consumo de açúcar.",
+        "B) foi sempre inferior à recomendada pela OMS, o que pode indicar uma alta conscientização da população sobre o con­ sumo de açúcar.",
+        "C) foi superior; porém, mais recentemente, tornou-se inferior à recomendada pela OMS, o que pode indicar uma melho­ ra na conscientização da população sobre o consumo de açúcar.",
+        "D) foi inferior; porém, mais recentemente, tornou-se superior à recomendada pela OMS, o que pode indicar uma piora na conscientização da população sobre o consumo de açúcar."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Por que a alternativa C está correta:**\nO limite da OMS corresponde a 5% de 8400 kJ, ou seja, 420 kJ diários vindos de açúcar; dividindo por 16,5 kJ/g, obtém-se cerca de 25,5 g de açúcar por dia. No início do período (2010), o consumo era de aproximadamente 90 L/habitante/ano, o que dá cerca de 247 mL/dia e, a 11 g por 100 mL, cerca de 27 g de açúcar diários, valor superior ao recomendado. Já em anos mais recentes o consumo caiu para cerca de 60 L/habitante/ano (por volta de 164 mL/dia), o que resulta em aproximadamente 18 g de açúcar por dia, abaixo do limite da OMS.\nAssim, o consumo diário de açúcar proveniente do refrigerante começou superior e passou a ser inferior ao recomendado, o que pode indicar uma melhora na conscientização da população. Isso corresponde exatamente à alternativa C.\n\n**Conceito-chave:**\nLeitura e interpretação de gráficos com conversão de unidades: transformar consumo anual em consumo diário e relacionar massa de açúcar com energia (kJ) permite comparar o dado real com um limite de referência de saúde pública, articulando matemática, química e interpretação de dados.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 21,
+      "ano": 2024,
+      "titulo": "Questão 21 - UNICAMP 2024",
+      "enunciado": "A resposta glicêmica é a curva da concentração de glicose, em função do tempo, no sangue. Ela é utilizada como uma forma de classificar os alimentos com base em seu potencial de elevar a glicose (açúcar) no sangue. Pesquisadores da Universidade Johns Hopkins (EUA) testaram os efeitos de quatro adoçantes na respos­ ta glicêmica de indivíduos saudáveis. Cada grupo foi exposto a uma condição, conforme a figura ao lado, acompanhando-se a respos­ ta glicêmica. Com base nas informações da figura e do texto 1, pode-se concluir que a preocupação da OMS quanto ao uso de adoçantes não nutritivos\n\n![](vestibular/unicamp/img/2024_q21_fig1.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) precisaria ser complementada com um alerta sobre um risco aumentado de diabetes tipo 2, pois os adoçantes provocam o aparecimento de glicose no sangue.",
+        "B) não precisaria ser complementada com um alerta sobre um risco aumentado de diabetes tipo 2, pois os adoçantes não provocaram o aumento de glicose no sangue.",
+        "C) não precisaria ser complementada com um alerta sobre um risco aumentado de diabetes tipo 2, pois apenas dois adoçantes não provocaram o aparecimento de glicose no sangue.",
+        "D) precisaria ser complementada com um alerta sobre um risco aumentado de diabetes tipo 2, pois dois adoçantes provoca­ ram um aumento de glicose no sangue."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "**Por que a alternativa D está correta:**\nA resposta glicêmica mede a variação da concentração de glicose no sangue ao longo do tempo. Segundo a figura do experimento da Johns Hopkins, dois dos quatro adoçantes testados provocaram elevação da glicose sanguínea nos indivíduos, comportando-se de forma parecida com o açúcar. Como picos repetidos de glicose estão associados ao desenvolvimento de resistência à insulina e ao diabetes tipo 2, a preocupação da OMS quanto ao uso de adoçantes não nutritivos precisaria, sim, ser complementada com um alerta sobre esse risco.\nA alternativa D é a única que combina corretamente as duas informações: a necessidade de um alerta adicional E a justificativa de que dois adoçantes aumentaram a glicose. As alternativas B e C erram ao negar o alerta, e a A generaliza indevidamente afirmando que todos os adoçantes elevam a glicose.\n\n**Conceito-chave:**\nResposta glicêmica e adoçantes não nutritivos: nem todo adoçante é metabolicamente inerte; alguns podem elevar a glicemia, o que se relaciona ao risco de diabetes tipo 2. A conclusão deve ser sustentada pela leitura das curvas experimentais, não por senso comum.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 22,
+      "ano": 2024,
+      "titulo": "Questão 22 - UNICAMP 2024",
+      "enunciado": "Um refrigerante comum é uma formulação de vários ingredien­ tes: açúcar (11 g por 100 mL), água (88 g por 100 mL) – com­ ponentes majoritários –, além de acidulantes, antioxidantes, conservantes, adoçantes e CO2 (componentes em pequenas quantidades). O acidulante tem como finalidade regular a do­ çura do açúcar, realçar o paladar e reduzir o pH do refrigerante, que deve estar entre 2,7 e 3,5. Assim, para se usar uma peque­ na massa de acidulante que proporcione a redução do pH para o valor desejado, a massa molar do acidulante deve ser",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) pequena e seu pKa deve estar abaixo da faixa de pH do refrigerante.",
+        "B) pequena e seu pKa deve estar acima da faixa de pH do re­ frigerante.",
+        "C) grande e seu pKa deve estar abaixo da faixa de pH do refri­ gerante.",
+        "D) grande e seu pKa deve estar acima da faixa de pH do refri­ gerante."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "**Por que a alternativa A está correta:**\nO enunciado pede um acidulante que, em pequena massa, reduza o pH do refrigerante para a faixa de 2,7 a 3,5. Para que pouca massa forneça muitos mols de ácido (e, portanto, mais íons H+ liberados), a massa molar deve ser pequena, já que o número de mols é a massa dividida pela massa molar. Além disso, para conseguir abaixar efetivamente o pH até valores tão baixos, o ácido precisa ser relativamente forte, isto é, bastante dissociado nessa faixa; isso ocorre quando o pKa está abaixo da faixa de pH desejada.\nPortanto, massa molar pequena (mais mols por grama) e pKa abaixo da faixa de pH (ácido suficientemente forte) é a combinação correta, expressa na alternativa A.\n\n**Conceito-chave:**\nForça de ácidos e relação pKa/pH: quanto menor o pKa, mais dissociado (mais forte) é o ácido e mais eficiente ele é para reduzir o pH; e quanto menor a massa molar, maior o número de mols obtido por unidade de massa, permitindo usar menos reagente.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 23,
+      "ano": 2024,
+      "titulo": "Questão 23 - UNICAMP 2024",
+      "enunciado": "O mau gerenciamento da produção das baterias automotivas chumbo-ácido e de sua reciclagem após uso pode ocasionar contaminação do meio ambiente e de pessoas. Para minimizar esses problemas, a indústria pode levar em conta a “hierarquia de resíduos”, uma ordem de preferência nas ações de combate à contaminação. A figura a seguir, incompleta, mostra duas ações possíveis dessa hierarquia. Para minimizar os problemas, as ações a serem adotadas, em ordem de preferência e conside­ rando a direcionalidade indicada na figura, seriam\n\n![](vestibular/unicamp/img/2024_q23_fig1.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) descarte adequado; reciclagem; prevenção.",
+        "B) prevenção; descarte adequado; reciclagem.",
+        "C) descarte adequado; prevenção; reciclagem.",
+        "D) prevenção; reciclagem; descarte adequado."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "**Por que a alternativa D está correta:**\nA chamada hierarquia de resíduos estabelece uma ordem de preferência nas ações de combate à contaminação, priorizando evitar o problema antes de ter de remediá-lo. A opção mais desejável é a prevenção (não gerar o resíduo ou reduzir sua geração); em seguida vem a reciclagem (reaproveitar materiais, como o chumbo das baterias, reinserindo-os no ciclo produtivo); e, por último, quando não há outra alternativa, o descarte adequado do que sobra.\nSeguindo a direcionalidade indicada na figura, a sequência em ordem de preferência é prevenção, reciclagem e descarte adequado, exatamente como consta na alternativa D.\n\n**Conceito-chave:**\nHierarquia de resíduos (política dos R): a gestão ambiental prioriza prevenir/reduzir, depois reutilizar e reciclar, deixando o descarte como última opção, minimizando a contaminação e o uso de recursos naturais.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 24,
+      "ano": 2024,
+      "titulo": "Questão 24 - UNICAMP 2024",
+      "enunciado": "No início de 2023, um grupo de pes­ quisadores estudou o desenvolvimento de uma poliamina sólida contendo co­ bre, capaz de ad­ sorver CO2 na fase gasosa e em baixas concentrações. A fi­ gura ao lado mostra o esquema de ad­ sorção com a repre­ sentação do sólido: De acordo com os autores do estudo, 1 kg de poliamina con­ tendo cobre é capaz de adsorver até 5 mols de CO2, uma quan­ tidade bem superior ao que se conhece até então. Com base nessas informações, pode-se concluir que a porcentagem em massa de cobre no sólido é cerca de\n\n![](vestibular/unicamp/img/2024_q24_fig1.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) 16% e que 1 kg do sólido é capaz de absorver até 110 g de gás carbônico.",
+        "B) 32% e que 1 kg do sólido é capaz de absorver até 110 g de gás carbônico.",
+        "C) 16% e que 1 kg do sólido é capaz de absorver até 220 g de gás carbônico.",
+        "D) 32% e que 1 kg do sólido é capaz de absorver até 220 g de gás carbônico."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Por que a alternativa C está correta:**\nO estudo informa que 1 kg da poliamina com cobre adsorve até 5 mols de CO2. Como a massa molar do CO2 é 44 g/mol, a massa de gás carbônico capturada é 5 mol x 44 g/mol = 220 g. Isso já elimina as alternativas que indicam 110 g.\nQuanto ao teor de cobre, considerando a estequiometria da adsorção (em que cada átomo de cobre atua sobre dois CO2), os 5 mols de CO2 correspondem a cerca de 2,5 mols de cobre; multiplicando por sua massa molar (aproximadamente 64 g/mol), obtêm-se cerca de 160 g de cobre em 1 kg de sólido, ou seja, aproximadamente 16% em massa. A combinação de 16% de cobre e 220 g de CO2 é a da alternativa C.\n\n**Conceito-chave:**\nCálculo estequiométrico e relação massa-mol: a partir do número de mols e da massa molar (CO2 = 44 g/mol; Cu ~ 64 g/mol) determina-se massa capturada e porcentagem em massa, aplicando a proporção entre as espécies envolvidas na adsorção.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 25,
+      "ano": 2024,
+      "titulo": "Questão 25 - UNICAMP 2024",
+      "enunciado": "Algumas baterias transformam certas substâncias em outras, gerando energia elétrica. Isso permite, por exemplo, o funciona­ mento de equipamentos tendo como base essa energia (carros elétricos) ou então auxilia o funcionamento de equipamentos (carros de combustão interna). É por isso que os carros elétricos precisam se abastecer de energia elétrica de tempos em tempos e os de combustão não, já que a bateria desses últimos é carre­ gada durante seu funcionamento. Na descarga da bateria, dois comportamentos são importantes: curva de tensão (Figura A) e ciclo de vida (Figura B), sendo esse último a quantidade de vezes que a bateria pode ser recarregada em função da profundidade de sua descarga. Levando em conta essas informações, seria apropriado escolher para equipar um carro\n\n![](vestibular/unicamp/img/2024_q25_fig1.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) elétrico uma bateria com as características da curva Y e da curva II; para o carro de combustão interna qualquer com­ binação serviria.",
+        "B) elétrico uma bateria com as características da curva X e da curva I; para o carro de combustão interna, qualquer com­ binação serviria.",
+        "C) de combustão interna uma bateria com as características da curva X e da curva I; para o carro elétrico, qualquer combi­ nação serviria.",
+        "D) de combustão interna uma bateria com as características da curva Y e da curva II; para o carro elétrico qualquer combi­ nação serviria."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "**Por que a alternativa B está correta:**\nNa Figura A (curva de tensão), a curva X mantém a tensão praticamente constante e elevada durante quase toda a profundidade de descarga, enquanto a curva Y decai continuamente; um carro elétrico depende de tensão estável para alimentar o motor de forma constante, logo a curva X é a mais apropriada. Na Figura B (ciclo de vida), a curva I oferece um número muito maior de ciclos de recarga para uma mesma profundidade de descarga do que a curva II, o que é essencial para o carro elétrico, cuja bateria é recarregada muitas vezes ao longo da vida útil.\nPara o carro de combustão interna, a bateria apenas auxilia o funcionamento e é recarregada durante a operação do motor, sendo pouco exigida; por isso qualquer combinação serviria. Essa é a descrição da alternativa B.\n\n**Conceito-chave:**\nDesempenho de baterias (tensão x ciclo de vida): a escolha depende da aplicação. Um veículo elétrico exige tensão estável durante a descarga e alto número de ciclos de recarga, enquanto uma bateria auxiliar, recarregada continuamente pelo próprio motor, tem exigências bem menores.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 26,
+      "ano": 2024,
+      "titulo": "Questão 26 - UNICAMP 2024",
+      "enunciado": "![](vestibular/unicamp/img/2024_q26_full.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "**Por que a alternativa A está correta:**\nO texto afirma dois fatos que devem aparecer nos gráficos: a curcumina livre tem atividade antibacteriana frente a apenas UMA das bactérias, e a forma combinada com octaarginina é mais eficiente que a livre contra AS DUAS bactérias. No gráfico (i), referente à E. coli, a curcumina livre (círculos cheios) mantém a sobrevivência das bactérias em 100% (sem atividade), enquanto a forma combinada (círculos vazios) reduz a sobrevivência a zero, mostrando que a curcumina livre não age sobre a E. coli. No gráfico (ii), referente ao S. aureus, a curcumina livre já reduz a sobrevivência, e a forma combinada a reduz ainda mais rápido e a valores menores.\nAssim, a curcumina livre só é ativa contra uma bactéria (S. aureus) e a forma combinada é mais eficiente contra as duas, exatamente o padrão da alternativa A. As demais opções invertem qual curva mata as bactérias ou não respeitam a maior eficiência da forma combinada em ambos os casos.\n\n**Conceito-chave:**\nInterpretação de gráficos de sobrevivência bacteriana: menor sobrevivência significa maior atividade antibacteriana. Traduzir corretamente as afirmações do texto (atividade em apenas uma bactéria; forma combinada mais eficiente em ambas) para o comportamento das curvas é o que resolve a questão.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 27,
+      "ano": 2024,
+      "titulo": "Questão 27 - UNICAMP 2024",
+      "enunciado": "Povos e comunidades tradicionais são grupos culturalmente di­ ferenciados e que se reconhecem como tais. Esses grupos con­ tam com formas próprias de organização social, além de ocupa­ rem e usarem territórios e recursos naturais como condição para sua reprodução cultural, social, religiosa, ancestral e econômica. Para tanto, utilizam conhecimentos, inovações e práticas gera­ dos e transmitidos pela tradição (Inciso I, Art. 3o, Decreto 6.040 / 2007). Estima-se que cerca de 4,5 milhões de pessoas fazem parte de comunidades tradicionais atualmente no Brasil. (Adaptado de: Populações Tradicionais – Instituto Chico Mendes de Conservação da Biodiversidade. Disponível em: https://www.gov.br/icmbio/pt-br/assuntos/populacoes­ -tradicionais. Acesso em 12/06/2023.) Assinale a alternativa que faz a correspondência correta dos po­ vos e comunidades tradicionais com a sua região de atuação e com as suas práticas específicas de organização socioterritorial.",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) Mulheres quebradeiras de coco babaçu da região do Meio­ -norte aproveitam as matas de cocais e fazem uso comuni­ tário dos babaçuais para a coleta de coco e de outros pro­ dutos das palmeiras.",
+        "B) Geraizeiros da região da Amazônia Ocidental se beneficiam dos rios para a pesca e praticam o extrativismo de frutos uti­ lizados na culinária regional e transformados em produtos alimentícios.",
+        "C) Caiçaras da região litorânea do Ceará praticam a pesca arte­ sanal, utilizam as riquezas naturais da Mata Atlântica para o extrativismo de frutos e fazem uso dos roçados para ativida­ des agrícolas de subsistência.",
+        "D) Faxinalenses do norte de Minas Gerais usufruem dos cam­ pos para o desenvolvimento do extrativismo vegetal da erva mate e do pinhão, do cultivo agrícola em pequena escala e da criação de animais soltos."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "**Por que a alternativa A está correta:**\nA alternativa A associa corretamente o povo tradicional à sua região e às suas práticas: as mulheres quebradeiras de coco babaçu atuam na região do Meio-Norte (transição entre o Nordeste e a Amazônia, com destaque para o Maranhão e o Piauí), onde aproveitam as matas de cocais e fazem uso comunitário dos babaçuais para a coleta do coco e o aproveitamento dos demais produtos das palmeiras.\nAs outras alternativas trocam a localização de cada povo: os geraizeiros são típicos do Cerrado do norte de Minas e da Bahia, não da Amazônia Ocidental (B); os caiçaras habitam o litoral e a Mata Atlântica do Sudeste (SP, RJ, PR), não o Ceará (C); e os faxinalenses são característicos do Sul do país, sobretudo do Paraná, com a erva-mate e o pinhão, e não do norte de Minas Gerais (D).\n\n**Conceito-chave:**\nPovos e comunidades tradicionais do Brasil: cada grupo possui território, região e práticas socioterritoriais específicas (quebradeiras de coco no Meio-Norte, geraizeiros no Cerrado mineiro, caiçaras no litoral sudeste, faxinalenses no Sul), ligadas ao uso comunitário dos recursos naturais e à reprodução cultural.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 28,
+      "ano": 2024,
+      "titulo": "Questão 28 - UNICAMP 2024",
+      "enunciado": "![](vestibular/unicamp/img/2024_q28_full.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Por que a alternativa C está correta:**\nAs falésias ativas são escarpas litorâneas ainda em processo de recuo. Sua evolução resulta da combinação de processos continentais (intemperismo, escoamento superficial e desmoronamento da encosta) e marinhos (ação das ondas e das marés que solapam continuamente a base do paredão). Justamente porque as ondas atacam o sopé da escarpa, essa base permanece exposta e sem vegetação, em constante erosão. As demais alternativas erram: os manguezais desenvolvem-se em planícies de maré lodosas e são dominados por espécies arbóreas halófitas (o mangue), e não por gramíneas herbáceas (A); os campos de dunas associam-se a depósitos arenosos, e não argilosos (B); e os deltas, formados por sedimentos fluviais, são recobertos por vegetação herbácea, de restinga e manguezal, e não por espécies arbóreas de grande porte (D).\n\n**Conceito-chave:**\nGeomorfologia do litoral brasileiro: cada feição costeira resulta de processos específicos — falésias ativas (erosão marinha e continental, base sem vegetação), campos de dunas (deposição eólica de areia), manguezais (planícies de maré) e deltas (acumulação fluvial) —, de modo que a leitura correta exige associar forma, processo formador e cobertura vegetal.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 29,
+      "ano": 2024,
+      "titulo": "Questão 29 - UNICAMP 2024",
+      "enunciado": "Moradores em situação de rua em São Paulo/SP (Ronaldo Silva/Photopress/Estadão Conteúdo. https://www.cnnbrasil.com.br/nacional/ prefeitura-faz-moradores-de-rua-desmontarem-barracas-durante-o-dia/ – Acesso em 18/06/2023.) Nas grandes cidades de todo o planeta, com maior ou menor intensidade, cresce o número de pessoas em situação de rua. No caso brasileiro, todavia, essa é uma realidade urbana perene, agravada em momentos de crise. Segundo estimativa do Insti­ tuto de Pesquisa Econômica Aplicada (IPEA), em 2022, existiam 281.472 pessoas em situação de rua no Brasil. (MONTFERRE, H., População em situação de rua supera 281,4 mil pessoas no Brasil. IPEA, 08/12/2022) O fenômeno descrito no excerto, e reportado na imagem, se constituiu historicamente nas cidades brasileiras em função\n\n![](vestibular/unicamp/img/2024_q29_fig1.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) da crise conjuntural da última década, agravada com a pan­ demia de covid-19; muitas vezes, a gestão urbana impõe a essa população a precariedade da circulação sem fim pela cidade e mesmo pela rede urbana.",
+        "B) do processo de modernização-urbanização excludente; as ações de política urbana implementam programas de habi­ tação popular nas áreas centrais para viabilizar a gentrifica­ ção e o direito à cidade a essa população.",
+        "C) da crise conjuntural da última década, agravada pela pande­ mia de covid-19; a gestão urbana busca formas de integrar essa população aos espaços urbanos por meio das casas de acolhimento e de programas de emprego e renda.",
+        "D) do processo de modernização-urbanização excludente; a gestão urbana promove, muitas vezes, práticas de “higie­ nização” do espaço, isto é, de expulsão, com o apoio de setores da sociedade."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "**Por que a alternativa D está correta:**\nA presença histórica e crescente de pessoas em situação de rua nas cidades brasileiras resulta de um processo de modernização e urbanização excludente, que concentra renda e não integra grande parcela da população nem ao mercado formal de trabalho nem à moradia digna. Diante desse quadro, em vez de políticas de acolhimento e inclusão, a gestão urbana recorre frequentemente a práticas de \"higienização\" do espaço — remoção de barracas, arquitetura hostil e expulsão dessa população das áreas centrais e valorizadas —, muitas vezes com o apoio de setores da sociedade que associam a pobreza à insegurança. A própria imagem, que mostra moradores obrigados a desmontar as barracas durante o dia, ilustra essa lógica de expulsão. As alternativas A e C atribuem o fenômeno apenas a uma crise conjuntural recente, ignorando seu caráter estrutural e perene, e a B inverte a realidade ao supor programas de habitação popular e efetiva garantia do direito à cidade.\n\n**Conceito-chave:**\nUrbanização excludente e \"higienização\" do espaço: o crescimento das cidades brasileiras deu-se de forma socialmente desigual, e a resposta do poder público à população em situação de rua costuma ser a invisibilização e a expulsão, negando o direito à cidade em vez de garanti-lo.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 30,
+      "ano": 2024,
+      "titulo": "Questão 30 - UNICAMP 2024",
+      "enunciado": "![](vestibular/unicamp/img/2024_q30_full.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Por que a alternativa C está correta:**\nO infográfico mostra que, entre 2022 e 2050, os EUA crescem pouco (de 338 para 375 milhões de habitantes), comportamento típico de um país em estágio avançado da transição demográfica, com fecundidade baixa e população envelhecida. Já a Nigéria salta de 213 para 377 milhões, chegando a ultrapassar os EUA, o que revela fecundidade ainda elevada e população predominantemente jovem. Uma população jovem em rápida expansão, como a nigeriana, pressiona fortemente as políticas públicas de educação (demanda por vagas escolares) e de saúde (atenção materno-infantil). As demais alternativas erram: os dois países não têm taxas de natalidade semelhantes (A); os EUA não apresentam, nesse cenário, crescimento vegetativo negativo (B); e não há redução da população em idade ativa nos dois — a Nigéria continua crescendo aceleradamente (D).\n\n**Conceito-chave:**\nTransição demográfica: países em estágio inicial (Nigéria) combinam alta fecundidade e população jovem, exigindo investimento em educação e saúde infantil; países em estágio avançado (EUA) têm baixa fecundidade e envelhecimento, deslocando a pressão para a previdência e a saúde do idoso.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 31,
+      "ano": 2024,
+      "titulo": "Questão 31 - UNICAMP 2024",
+      "enunciado": "![](vestibular/unicamp/img/2024_q31_full.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "**Por que a alternativa B está correta:**\nO texto de N. Smith afirma que, no período da globalização, as regiões são internamente construídas, mas seguem as oscilações econômicas nacionais e internacionais, o que as torna \"mais instáveis e sujeitas a frequentes crises\", com fronteiras \"mais cambiáveis\" à medida que se especializam para atender aos mercados internacionais. A alternativa B reproduz fielmente essa ideia: múltiplas escalas de ações (local, nacional e internacional) perpassam e dinamizam a coesão regional, ocasionando instabilidade socioeconômica e mutações aceleradas em suas fronteiras. As outras contrariam o texto — os laços internos de construção regional não desaparecem (A); o comando externo não torna as fronteiras estáveis e duradouras, e sim mais cambiáveis (C); e os arranjos produtivos não homogeneízam o espaço nem apagam identidades e desigualdades socioterritoriais (D).\n\n**Conceito-chave:**\nProdução do espaço regional na globalização: a região é uma construção histórico-social dinâmica, articulada por múltiplas escalas; a especialização produtiva voltada ao mercado global a torna instável e de fronteiras móveis, e não um recorte natural, fixo e homogêneo.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 32,
+      "ano": 2024,
+      "titulo": "Questão 32 - UNICAMP 2024",
+      "enunciado": "Por se situar em uma região limítrofe entre diferentes placas tectônicas, a Turquia tem histórico de terremotos de grande magnitude e poder destrutivo. Em 1939, um terremoto de magnitude 7,8 provocou a morte de cerca de 30.000 pessoas. Em fevereiro de 2023, registrou-se um terremoto de magnitude 7,8 às 4h17 (horário local) e, nove horas depois, registrou-se novo abalo sísmico, dessa vez de magnitude 7,6, o que levou 50.000 pessoas à morte. A figura a seguir mostra a localização do sistema de falhas da placa da Anatólia e indica as áreas atingidas pelos respectivos terremotos. (How the February 2023 Türkiye Earthquakes Ruptured and Produced Damaging Shaking. Disponível em: https://www.seismosoc.org/news/how-the-february-2023-turkiye-earth­ quakes-ruptured-and-produced-damaging-shaking/. Acesso em 12/06/2023.) Os tremores de 1939 e de 2023 foram gerados, respectivamen­ te, pelo deslocamento entre a Placa da Anatólia e as placas\n\n![](vestibular/unicamp/img/2024_q32_fig1.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) Euroasiática e Arábica; o sentido de deslocamento das pla­ cas forma falhas transcorrentes.",
+        "B) Indiana e Africana; o sentido de deslocamento forma falhas normais.",
+        "C) Arábica e Euroasiática; o sentido de deslocamento das pla­ cas forma falhas normais.",
+        "D) Africana e Indiana; o sentido de deslocamento forma falhas transcorrentes."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "**Por que a alternativa A está correta:**\nA Placa da Anatólia é comprimida entre as placas vizinhas e escapa lateralmente por dois grandes sistemas de falhas. O terremoto de 1939 (Erzincan) ocorreu na Falha Norte-Anatólica, no limite com a Placa Euroasiática, e o de 2023 ocorreu na Falha Leste-Anatólica, no limite com a Placa Arábica. Em ambos os casos, as placas deslizam horizontalmente uma em relação à outra, o que caracteriza falhas transcorrentes (ou transformantes), típicas desse movimento lateral. As alternativas B e D citam placas equivocadas (Indiana e Africana), distantes da região; e a C, embora acerte as placas, classifica erroneamente o movimento como falhas normais, que são próprias de esforços distensivos (afastamento vertical), e não do deslizamento lateral observado na Anatólia.\n\n**Conceito-chave:**\nFalhas transcorrentes (transformantes) ocorrem em limites onde as placas deslizam lateralmente, sem criação nem destruição significativa de crosta; o sistema de falhas da Anatólia, entre as placas Euroasiática e Arábica, é um exemplo clássico associado a terremotos destrutivos.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 33,
+      "ano": 2024,
+      "titulo": "Questão 33 - UNICAMP 2024",
+      "enunciado": "As convenções cartográficas utilizam símbolos pontuais, linea­ res, areais, bem como representações proporcionais e gradação de cores (coroplética) que permitem certo grau de compreensão e intuição de seu significado, possibilitando a leitura da infor­ mação contida no mapa por diferentes pessoas. (Adaptado de: https://atlasescolar.ibge.gov.br/conceitos-gerais/o-que-e-cartografia/ convenc-o-es-cartogra-ficas.html. Acesso em: 25/08/2023.) Com base no excerto e na figura, assinale a alternativa correta.\n\n![](vestibular/unicamp/img/2024_q33_fig1.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) Os símbolos pontuais se prestam a representar fenômenos não hierárquicos, a exemplo da rede urbana e da tipologia de cidades.",
+        "B) As representações lineares qualificam os fenômenos, não permitindo a sua hierarquização, a exemplo da tipologia dos sistemas de transportes.",
+        "C) O uso do gradiente de cores serve para diferenciar fenôme­ nos espaciais com variação contínua, a exemplo da altitude e da profundidade.",
+        "D) Um mesmo fenômeno pode ser representado por meio de diferentes formas e de variadas cores, a exemplo dos cursos e corpos de água. Use os valores aproximados: g = 10 m/s2 e π = 3. Texto comum às questões 34, 35, 36 e 37. Uma das etapas mais difíceis de um voo espacial tripulado é a reentrada na atmosfera terrestre. Ao reencontrar as camadas mais altas da atmosfera, a nave sofre forte desaceleração e sua temperatura externa atinge milhares de graus Celsius. Caso a reentrada não ocorra dentro das condições apropriadas, há ris­ co de graves danos à nave, inclusive de explosão, e até mesmo risco de ela ser lançada de volta ao espaço."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Por que a alternativa C está correta:**\nA gradação de cores (representação coroplética por gradiente) é indicada para fenômenos que variam de forma contínua no espaço, pois a intensidade da cor traduz visualmente o aumento ou a diminuição de um valor. É o caso da altitude e da profundidade, representadas em mapas hipsométricos e batimétricos, nos quais tons progressivos indicam a variação contínua do relevo e do fundo oceânico. As demais alternativas trocam as funções dos símbolos: os símbolos pontuais podem, sim, hierarquizar fenômenos (como a rede urbana e a tipologia de cidades, por variação de tamanho), o que invalida a A; e as representações lineares também qualificam e hierarquizam fenômenos (como os diferentes tipos e capacidades de sistemas de transporte), o que invalida a B. A alternativa D descreve um caso possível, mas não corresponde ao uso específico exigido pela figura.\n\n**Conceito-chave:**\nConvenções cartográficas: cada tipo de símbolo tem função própria — pontuais (localização e hierarquia de pontos), lineares (fluxos e conexões) e coropléticos/gradiente de cores (fenômenos de variação contínua, como altitude e profundidade).",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 34,
+      "ano": 2024,
+      "titulo": "Questão 34 - UNICAMP 2024",
+      "enunciado": "Logo ao reentrar na atmosfera terrestre, uma cápsula espacial passa a descrever, durante certo tempo, um movimento retilí­ neo uniformemente variado em que ela é freada com acelera­ ção a 5 0 , . m/s2 Se no início dessa etapa (t = 0 ) do mo­ vimento a velocidade da cápsula é v0 7000 = m/s, qual é a distância percorrida até o tempo t = 200 s?",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) 1300 km.",
+        "B) 1400 km.",
+        "C) 1500 km.",
+        "D) 4900 km."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "**Por que a alternativa A está correta:**\nTrata-se de um movimento retilíneo uniformemente variado (MRUV) com velocidade inicial v0 = 7000 m/s e desaceleração a = 5,0 m/s². Aplicando a função horária da posição, ΔS = v0·t + ½·a·t², com t = 200 s: ΔS = 7000·200 − ½·5·(200)² = 1 400 000 − 100 000 = 1 300 000 m, ou seja, 1300 km. Como ao fim do intervalo a velocidade ainda é positiva (v = 7000 − 5·200 = 6000 m/s), a cápsula não parou nem inverteu o sentido, o que confirma que o movimento é progressivo em todo o trecho e valida o cálculo.\n\n**Conceito-chave:**\nMovimento retilíneo uniformemente variado (MRUV): a distância percorrida é dada por ΔS = v0·t + ½·a·t²; numa desaceleração o termo da aceleração é negativo e reduz o espaço percorrido em relação ao movimento uniforme.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 35,
+      "ano": 2024,
+      "titulo": "Questão 35 - UNICAMP 2024",
+      "enunciado": "Após viajar pela atmosfera por determinado tempo, o módulo da velocidade da cápsula, que inicialmente era v0 = 7000 m/s, fica reduzido a v = 5000 m/s. Sendo a massa da cápsula m = 3000 kg, qual foi o trabalho da força resultante sobre a cápsula durante esse tempo?",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) –11,1 × 1010 J.",
+        "B) –3,60 × 1010 J.",
+        "C) –6,00 × 106 J.",
+        "D) –3,00 × 106 J."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "**Por que a alternativa B está correta:**\nPelo teorema da energia cinética (teorema do trabalho-energia), o trabalho da força resultante é igual à variação da energia cinética do corpo: τ = ½·m·v² − ½·m·v0². Com m = 3000 kg, v = 5000 m/s e v0 = 7000 m/s: τ = ½·3000·(5000² − 7000²) = 1500·(25×10⁶ − 49×10⁶) = 1500·(−24×10⁶) = −3,6×10¹⁰ J. O sinal negativo indica que a força resultante (de frenagem) atua contra o movimento, retirando energia cinética da cápsula durante a reentrada.\n\n**Conceito-chave:**\nTeorema da energia cinética: o trabalho da força resultante equivale à variação da energia cinética do corpo (τ = ΔEc); um trabalho negativo significa força contrária ao deslocamento, reduzindo a velocidade.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 36,
+      "ano": 2024,
+      "titulo": "Questão 36 - UNICAMP 2024",
+      "enunciado": "O ar atmosférico comporta-se como um gás perfeito. Sendo a pressão e a temperatura do ar, numa determinada posição da alta atmosfera, dadas por p = 2,0 Pa e T = 180 K (sem a presen­ ça da cápsula na vizinhança), e sendo a constante universal dos gases perfeitos 8 J/mol.K, R qual é o volume ocupado por um mol de ar naquela posição?",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) 1,38 × 10 –3 m3.",
+        "B) 9,00 × 101 m3.",
+        "C) 7,20 × 102 m3.",
+        "D) 2,88 × 103 m3."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Por que a alternativa C está correta:**\nUsando a equação de estado dos gases perfeitos (equação de Clapeyron), p·V = n·R·T, isola-se o volume: V = n·R·T / p. Com n = 1 mol, R = 8 J/mol·K, T = 180 K e p = 2,0 Pa: V = (1·8·180) / 2,0 = 1440 / 2,0 = 720 m³ = 7,2×10² m³. O volume é muito grande porque, na alta atmosfera, a pressão é baixíssima, de modo que um único mol de ar ocupa um espaço enorme.\n\n**Conceito-chave:**\nEquação de Clapeyron (gás ideal): p·V = n·R·T relaciona pressão, volume, quantidade de matéria e temperatura; a baixas pressões, como na alta atmosfera, o volume molar torna-se muito elevado.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 37,
+      "ano": 2024,
+      "titulo": "Questão 37 - UNICAMP 2024",
+      "enunciado": "A temperatura extremamente elevada no exterior da cápsula ioniza o ar atmosférico à sua volta. Esses íons blindam a cápsula como uma gaiola de Faraday, impedindo, por alguns minutos, a comunicação por ondas eletromagnéticas de rádio (conversas entre a tripulação e a base na Terra, comandos à distância para ajustes de navegação, etc.). O gráfico da figura a seguir mostra que, quanto maior a temperatura do ar externo, Tar , maior é a frequência limite da onda eletromagnética, f0 , abaixo da qual não se pode estabelecer comunicação com a cápsula. Se a tem­ peratura do ar for Tar = 4800 K, qual é o comprimento de onda λ0 correspondente à frequência limite f0 ? Dado: Velocidade da luz no vácuo: c = 3,0 ×108 m/s.\n\n![](vestibular/unicamp/img/2024_q37_fig1.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) 0,06 m.",
+        "B) 16,7 m.",
+        "C) 0,05 m.",
+        "D) 20 m."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "**Por que a alternativa A está correta:**\nNo gráfico, localizando a temperatura Tar = 4800 K no eixo horizontal e subindo até a reta, lê-se a frequência limite f0 = 5 GHz = 5,0 × 10⁹ Hz. Toda onda eletromagnética satisfaz a relação fundamental c = λ₀ · f0, de modo que o comprimento de onda é λ₀ = c / f0. Substituindo: λ₀ = (3,0 × 10⁸ m/s) / (5,0 × 10⁹ Hz) = 0,6 × 10⁻¹ m = 0,06 m.\n\nPortanto, à temperatura de 4800 K o comprimento de onda correspondente à frequência limite vale 0,06 m, confirmando a alternativa A. As demais opções resultam de leitura incorreta do gráfico ou da inversão entre c/f0 e f0/c na fórmula da ondulatória.\n\n**Conceito-chave:**\nA equação fundamental da ondulatória, v = λ · f, aplicada à luz no vácuo (v = c), mostra que frequência e comprimento de onda são inversamente proporcionais: quanto maior a frequência, menor o comprimento de onda. Ler corretamente o valor de f0 no gráfico e aplicar λ₀ = c / f0 é o passo decisivo da questão.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 38,
+      "ano": 2024,
+      "titulo": "Questão 38 - UNICAMP 2024",
+      "enunciado": "Um corpo em queda nas proximidades da superfície terrestre so­ fre a ação da força gravitacional e da força de resistência do ar,  ar F ; essa última atua em sentido oposto à força gravitacional. Nos primeiros instantes, ar F    se o corpo parte do repouso. À medida que a velocidade aumenta,  ar F também aumenta. Com isso, a aceleração do corpo diminui gradativamente, tornando­ -se praticamente nula a partir de certo momento. Desse ponto em diante, o corpo passa a cair com velocidade constante, cha­ mada de velocidade terminal. Um objeto de massa m = 200 g é solto a partir de certa altura e atinge a velocidade terminal após determinado tempo. Qual é o módulo da força de resistência do ar depois que o objeto atinge a velocidade terminal?",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) 0,20 N.",
+        "B) 2,0 N.",
+        "C) 200 N.",
+        "D) 2000 N. Texto comum às questões 39 e 40. A neurotransmissão no organismo humano pode ter origem química ou elétrica. O entendimento das sinapses elétricas ocorreu só mais recentemente, graças a estudos avançados das propriedades elétricas dos neurônios. As propriedades mecâni­ cas dos neurônios – como a elasticidade – são, por seu turno, importantes para a compreensão do desenvolvimento deles."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "**Por que a alternativa B está correta:**\nA velocidade terminal é atingida exatamente quando a aceleração do corpo se torna nula. Pela segunda lei de Newton, aceleração nula implica força resultante nula: a força de resistência do ar passa a equilibrar o peso do objeto, ou seja, F_ar = P = m · g.\n\nConvertendo a massa para o SI, m = 200 g = 0,2 kg, e adotando g = 10 m/s², obtém-se F_ar = 0,2 × 10 = 2,0 N. Esse é o módulo da força de resistência do ar após atingida a velocidade terminal, confirmando a alternativa B. Os demais valores decorrem de erro na conversão de gramas para quilogramas.\n\n**Conceito-chave:**\nNa velocidade terminal, o movimento passa a ser uniforme (resultante nula) e as forças se equilibram: a resistência do ar iguala o peso. O cuidado essencial é converter a massa (g → kg) antes de calcular o peso P = m · g.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 39,
+      "ano": 2024,
+      "titulo": "Questão 39 - UNICAMP 2024",
+      "enunciado": "Em um estudo do comportamento elétrico de neurônios, apli­ ca-se uma diferença de potencial elétrico (ddp, da ordem de 10 –3 V) e mede-se a corrente elétrica (da ordem de 10 –12 A) que passa pelo sistema. A partir dos resultados desse experimento, representados no gráfico da figura a seguir, conclui-se que a resistência elétrica do sistema é igual a\n\n![](vestibular/unicamp/img/2024_q39_fig1.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) 14 Ω.",
+        "B) 70 mΩ.",
+        "C) 70 MΩ.",
+        "D) 14 GΩ."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "**Por que a alternativa D está correta:**\nO gráfico é uma reta que passa pela origem, indicando um sistema ôhmico, em que a resistência é a razão entre a diferença de potencial e a corrente (R = U/I). Escolhendo o ponto de leitura mais nítido, U = 140 mV com I = 10 pA, faz-se a conversão para o SI: U = 140 × 10⁻³ V = 0,14 V e I = 10 × 10⁻¹² A = 1,0 × 10⁻¹¹ A.\n\nCalculando: R = U / I = 0,14 / (1,0 × 10⁻¹¹) = 1,4 × 10¹⁰ Ω = 14 × 10⁹ Ω = 14 GΩ. Logo, a resistência do sistema é 14 GΩ, confirmando a alternativa D. As unidades das demais alternativas (Ω, mΩ, MΩ) ignoram a enorme ordem de grandeza gerada pela corrente extremamente pequena (da ordem de picoampères).\n\n**Conceito-chave:**\nA primeira lei de Ohm (R = U/I) vale para condutores cuja curva U × I é uma reta que passa pela origem. O ponto crítico da questão é o controle das ordens de grandeza: mili (10⁻³) dividido por pico (10⁻¹²) resulta em resistência da ordem de gigaohms (10⁹ Ω).",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 40,
+      "ano": 2024,
+      "titulo": "Questão 40 - UNICAMP 2024",
+      "enunciado": "Em um experimento destinado a investigar propriedades elásti­ cas, uma diminuta ponta aplica uma força  F na superfície do neurônio, produzindo uma deformação ∆L de forma análoga a uma mola (ver figura). Foram estudados dois neurônios distin­ tos, designados pelos índices 1 e 2, que foram submetidos à ação de forças idênticas ( =   F F ). As deformações observadas foram ∆L1 = 20 nm e ∆L2 = 30 nm. Se k1 = 9,0 × 10 –6 N/m é a constante elástica para o neurônio 1, pode-se deduzir que o valor de k2 é\n\n![](vestibular/unicamp/img/2024_q40_fig1.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) 4,0 × 10 –6 N/m.",
+        "B) 6,0 × 10 –6 N/m.",
+        "C) 13,5 × 10 –6 N/m.",
+        "D) 20,25 × 10 –6 N/m."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "**Por que a alternativa B está correta:**\nO neurônio é modelado como uma mola que obedece à lei de Hooke, F = k · ΔL. Como os dois neurônios sofreram forças idênticas (F₁ = F₂), podem-se igualar as expressões: k₁ · ΔL₁ = k₂ · ΔL₂. Note que, para a mesma força, quanto maior a deformação, menor a constante elástica — o neurônio 2 deforma mais (30 nm contra 20 nm), logo é mais 'mole'.\n\nIsolando k₂: k₂ = k₁ · (ΔL₁ / ΔL₂) = (9,0 × 10⁻⁶) × (20/30) = 9,0 × 10⁻⁶ × (2/3) = 6,0 × 10⁻⁶ N/m. Portanto, a constante elástica do neurônio 2 vale 6,0 × 10⁻⁶ N/m, confirmando a alternativa B.\n\n**Conceito-chave:**\nNa lei de Hooke (F = k · ΔL), com força fixa, a constante elástica e a deformação são inversamente proporcionais (k ∝ 1/ΔL). Maior deformação para a mesma força significa material menos rígido, ou seja, menor k.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 41,
+      "ano": 2024,
+      "titulo": "Questão 41 - UNICAMP 2024",
+      "enunciado": "A região à margem do rio Guaporé em Rondônia é conside­ rada uma das mais importantes do planeta para a espécie Podocnemis expansa, popularmente conhecida como tartaru­ ga-da-amazônia. Assinale a alternativa que apresenta corretamente uma caracte­ rística importante para a vida de quelônios fluviais no ambiente terrestre.",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) A pele é seca e completamente impermeável, recoberta por uma espessa camada, em forma de espículas, composta da proteína quitina.",
+        "B) Os alvéolos com grande superfície de troca gasosa permi­ tem a respiração pulmonar e cutânea mesmo nas espécies aquáticas.",
+        "C) A principal excreta nitrogenada liberada é a ureia, que se caracteriza por ser pouco tóxica e que requer mínima quan­ tidade de água para ser eliminada.",
+        "D) A fecundação é interna e há formação de ovo amniótico; esse ovo possui uma bolsa contendo líquido que envolve o embrião."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "**Por que a alternativa D está correta:**\nA tartaruga-da-amazônia é um réptil (quelônio), grupo que conquistou definitivamente o ambiente terrestre graças, sobretudo, à sua reprodução. Nos répteis a fecundação é interna, o que elimina a dependência da água para a união dos gametas, e o desenvolvimento ocorre dentro de um ovo amniótico. Esse ovo possui anexos embrionários, entre eles o âmnio, uma bolsa preenchida por líquido (líquido amniótico) que envolve e protege o embrião contra choques e dessecação.\n\nAs demais alternativas contêm erros conceituais: a pele dos répteis é recoberta por escamas de queratina, e não de quitina (polissacarídeo típico do exoesqueleto de artrópodes); répteis não realizam respiração cutânea, apenas pulmonar; e a principal excreta nitrogenada dos répteis terrestres é o ácido úrico (pouco tóxico e eliminado com mínima perda de água), não a ureia como afirma a letra C. Logo, a característica correta e essencial à vida terrestre é a da alternativa D.\n\n**Conceito-chave:**\nO ovo amniótico é a grande adaptação dos amniotas (répteis, aves e mamíferos) à vida em terra firme: seus anexos (âmnio, cório, alantoide e saco vitelínico) garantem proteção, trocas gasosas, reserva nutritiva e armazenamento de excretas, permitindo o desenvolvimento embrionário fora da água.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 42,
+      "ano": 2024,
+      "titulo": "Questão 42 - UNICAMP 2024",
+      "enunciado": "O conceito apresentado na figura a seguir é importante para fundamentar a classificação biológica baseada nas relações evo­ lutivas entre os organismos. (Adaptado de: https://evolution.berkeley.edu/similarities-and-differences-understanding­ -homology-and-analogy-ms/.../. Acesso em 22/8/2023.) É correto afirmar que as estruturas anatômicas indicadas\n\n![](vestibular/unicamp/img/2024_q42_fig1.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) no humano e no lagarto são consideradas análogas; trata-se de um caso de evolução convergente.",
+        "B) na baleia e no pássaro são consideradas homólogas; trata-se de um caso de evolução divergente.",
+        "C) no lagarto e no pássaro são consideradas homólogas; trata­ -se de um caso de evolução convergente.",
+        "D) no humano e na baleia são consideradas análogas; trata-se de um caso de evolução divergente."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "**Por que a alternativa B está correta:**\nA figura compara os membros anteriores de humano, lagarto, baleia e pássaro. Embora exerçam funções diferentes (nadadeira na baleia, asa no pássaro), esses membros compartilham o mesmo plano estrutural ósseo e a mesma origem embrionária, herdados de um ancestral comum tetrápode. Estruturas com essa mesma origem são chamadas homólogas, e o processo que produz formas e funções distintas a partir de um ancestral comum é a evolução divergente.\n\nAssim, os membros anteriores da baleia e do pássaro são homólogos e resultam de evolução divergente, o que confirma a alternativa B. As alternativas que falam em estruturas 'análogas' (A e D) estão erradas, pois analogia se refere a estruturas de origens diferentes que assumem função semelhante por evolução convergente — o que não é o caso desses membros de mesma origem.\n\n**Conceito-chave:**\nHomologia (mesma origem, funções eventualmente distintas → evolução divergente) e analogia (origens distintas, mesma função → evolução convergente) são conceitos centrais da sistemática filogenética: apenas as estruturas homólogas revelam parentesco evolutivo e servem para classificar os organismos.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 43,
+      "ano": 2024,
+      "titulo": "Questão 43 - UNICAMP 2024",
+      "enunciado": "Sabe-se que o uso indiscriminado e irregular de anabolizantes gera consequências negativas significativas à saúde humana, tais como: tremores, acne severa, hipertensão arterial sistêmica, tumores no fígado e pâncreas, distúrbios de coagulação, distúr­ bios testiculares e menstruais, insônia, entre outros. (Adaptado de: https://bvsms.saude.gov.br/anabolizantes/. Acesso em 12/4/2023.) Assinale a alternativa que preenche corretamente as lacunas no excerto a seguir. A testosterona desempenha importante função no desenvol­ vimento de tecidos e órgãos do sistema reprodutor masculino, como (i) ___________ e testículos, além de atuar na promoção de características sexuais secundárias, como aumento de massa muscular, crescimento dos pelos corporais, espessamento das pregas vocais e (ii) ____________. Esse hormônio anabolizante é sintetizado em várias etapas a partir (iii) __________ e é con­ vertido para metabólitos inativos no (iv) __________.",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) (i) próstata; (ii) maturação dos ossos; (iii) do colesterol; (iv) fígado.",
+        "B) (i) vesícula seminal; (ii) maturação dos ossos; (iii) da creatina; (iv) fígado.",
+        "C) (i) próstata; (ii) produção de esperma; (iii) da creatina; (iv) pâncreas.",
+        "D) (i) vesícula seminal; (ii) produção de esperma; (iii) do coles­ terol; (iv) pâncreas."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "**Por que a alternativa A está correta:**\nA testosterona atua no desenvolvimento de órgãos do sistema reprodutor masculino, entre eles a próstata (i) e os testículos, e promove características sexuais secundárias, como aumento de massa muscular, crescimento de pelos, espessamento das pregas vocais e a maturação (fechamento) dos ossos (ii) ao final da puberdade. Quimicamente é um hormônio esteroide, sintetizado em várias etapas a partir do colesterol (iii). Após exercer sua função, é convertida em metabólitos inativos principalmente no fígado (iv), órgão central da biotransformação hormonal.\n\nO conjunto próstata / maturação dos ossos / colesterol / fígado corresponde exatamente à alternativa A. As demais opções erram ao apontar a creatina como precursora (a testosterona deriva do colesterol, não da creatina) ou o pâncreas como local de inativação, quando é o fígado que desempenha esse papel.\n\n**Conceito-chave:**\nOs hormônios esteroides (como a testosterona) derivam do colesterol e, por serem lipossolúveis, são metabolizados no fígado, que os inativa e prepara sua excreção. Distinguir o precursor (colesterol) do órgão de biotransformação (fígado) é o que resolve a questão.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 44,
+      "ano": 2024,
+      "titulo": "Questão 44 - UNICAMP 2024",
+      "enunciado": "Os lisossomos são organelas centrais que desempenham fun­ ções importantes para a homeostase celular. Assinale a alternativa que descreve corretamente a função dos lisossomos representada na figura a seguir. (Adaptado de: YANG, C.; WANG, X. Journal of Cell Biology, Nova Iorque, v. 220, p.e202102001, mai. 2021.)\n\n![](vestibular/unicamp/img/2024_q44_fig1.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) Heterofagia por pinocitose, o que permite à célula degradar fragmentos de microrganismos, fragmentos esses importan­ tes na apresentação de antígenos.",
+        "B) Autofagia, que permite à célula empacotar, modificar e ex­ portar proteínas sintetizadas no lúmen das cisternas do retí­ culo endoplasmático.",
+        "C) Autofagia, que permite à célula eliminar porções envelhe­ cidas ou danificadas do citoplasma, incluindo organelas e moléculas.",
+        "D) Heterofagia por fagocitose, o que permite à célula capturar macromoléculas, utilizando-as nas diferentes vias biossinté­ ticas."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Por que a alternativa C está correta:**\nA figura representa a autofagia, processo em que a própria célula sequestra porções internas do citoplasma — organelas envelhecidas ou danificadas e moléculas em excesso — dentro de uma vesícula (autofagossomo) que se funde ao lisossomo. As enzimas hidrolíticas lisossômicas então digerem esse material, permitindo a renovação de componentes celulares e a manutenção da homeostase. Trata-se, portanto, da digestão de material de origem interna (auto = próprio).\n\nA alternativa C descreve corretamente essa função: eliminar porções envelhecidas ou danificadas do citoplasma, incluindo organelas e moléculas. As alternativas A e D descrevem heterofagia (digestão de material externo captado por pinocitose ou fagocitose), e a alternativa B confunde a atividade lisossômica com a função secretora do retículo endoplasmático e do complexo golgiense.\n\n**Conceito-chave:**\nOs lisossomos realizam a digestão intracelular por meio de enzimas hidrolíticas. Distinguem-se dois processos: heterofagia (degradação de material externo à célula) e autofagia (degradação de material do próprio citoplasma), esta última essencial para reciclar organelas e manter a homeostase celular.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 45,
+      "ano": 2024,
+      "titulo": "Questão 45 - UNICAMP 2024",
+      "enunciado": "Uma quimera é um indivíduo formado por dois ou mais tipos de células, em que cada tipo contém um genoma distinto. Os ma­ chos da espécie de formiga Anoplolepis gracilipes são quimeras formadas por dois tipos de células haploides, bastante distintas do ponto de vista genético; essas células são provenientes de duas linhagens de formigas, podendo ser chamadas de linha­ gem 1 e linhagem 2. As rainhas (fêmeas capazes de produzir óvulos) desta espécie são indivíduos formados pela fusão en­ tre um óvulo com genoma característico da linhagem 1 e um espermatozoide com genoma característico da linhagem 1. Já as fêmeas operárias (não reprodutivas) são indivíduos forma­ dos pela fusão entre um óvulo com genoma característico da linhagem 1 e um espermatozoide com genoma característico da linhagem 2. (Adaptado de: DARRAS, H. et al. Science, Washington, v. 380, p.55-58, abr. 2023.) Com base em seus conhecimentos e considerando o texto apre­ sentado, pode-se dizer que as diferenças genéticas entre rai­ nhas e operárias se explicam pelo fato de",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) os gametas se fundirem nos machos e operárias.",
+        "B) os machos conterem células haploides das linhagens 1 e 2.",
+        "C) os machos serem homozigotos.",
+        "D) os machos serem diploides oriundos das linhagens 1 e 2."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "**Por que a alternativa B está correta:**\nSegundo o texto, os machos dessa formiga são quimeras: possuem dois tipos de células haploides geneticamente distintas, umas com genoma da linhagem 1 e outras com genoma da linhagem 2. Como o macho produz espermatozoides a partir dessas duas populações celulares, ele pode originar tanto espermatozoides de linhagem 1 quanto de linhagem 2. A rainha resulta da fusão de óvulo (linhagem 1) com espermatozoide de linhagem 1 — sendo, portanto, puramente da linhagem 1; já a operária resulta da fusão de óvulo (linhagem 1) com espermatozoide de linhagem 2, misturando os dois genomas.\n\nAssim, a diferença genética entre rainhas e operárias só é possível porque o macho é uma quimera que carrega células haploides das linhagens 1 e 2, fornecendo espermatozoides de origens genéticas diferentes — exatamente o que afirma a alternativa B. A alternativa D erra porque os machos não são diploides, e sim quimeras de células haploides; a C erra ao chamá-los de homozigotos.\n\n**Conceito-chave:**\nUma quimera reúne, em um mesmo indivíduo, células com genomas distintos. Aqui, o macho quimérico produz gametas de duas linhagens diferentes, e é a linhagem do espermatozoide que fecunda o óvulo (1 ou 2) que determina se o descendente será rainha (linhagem 1 pura) ou operária (mistura das linhagens 1 e 2).",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 46,
+      "ano": 2024,
+      "titulo": "Questão 46 - UNICAMP 2024",
+      "enunciado": "A dinâmica populacional de duas espécies que compartilham o mesmo habitat é representada na figura a seguir. O tamanho máximo da população de cada espécie é limitado pela disponi­ bilidade de recursos no habitat. Considerando seus conhecimentos e os dados apresentados, é correto afirmar que as espécies\n\n![](vestibular/unicamp/img/2024_q46_fig1.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) competem por recursos e apresentam diferenças na eficiên­ cia de utilização do alimento disponível.",
+        "B) ocupam nichos ecológicos distintos e têm crescimento po­ pulacional até o limite imposto pela resistência ambiental.",
+        "C) são generalistas e assim têm nichos ecológicos mais restri­ tos, o que diminui a competição entre elas.",
+        "D) apresentam uma relação de cooperação, facilitando o cres­ cimento populacional na ausência da resistência ambiental."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "**Por que a alternativa B está correta:**\nO gráfico mostra que ambas as espécies partem de poucos indivíduos, crescem rapidamente e depois estabilizam em um patamar (a Espécie 1 em torno de 90 indivíduos e a Espécie 2 em torno de 60). Esse formato de curva em \"S\" (sigmoide) é típico do crescimento logístico: no início o crescimento é acelerado, mas, à medida que os recursos do habitat se esgotam, a resistência ambiental (falta de alimento, espaço, etc.) freia o aumento populacional até estabilizar na capacidade de suporte do ambiente. Como as duas populações conseguem coexistir de forma estável, cada uma atingindo seu próprio patamar, elas ocupam nichos ecológicos distintos, evitando a exclusão competitiva que eliminaria uma delas.\nAs demais alternativas falham porque não há indício de competição excludente nem de cooperação entre as espécies, e organismos generalistas têm nichos amplos (não restritos), o que torna a alternativa C contraditória.\n\n**Conceito-chave:**\nO crescimento populacional real segue o modelo logístico, no qual a resistência ambiental limita a população à capacidade de suporte (K) do habitat. Quando duas espécies convivem de modo estável, isso indica que ocupam nichos ecológicos diferentes, princípio ligado à exclusão competitiva de Gause.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 47,
+      "ano": 2024,
+      "titulo": "Questão 47 - UNICAMP 2024",
+      "enunciado": "A partir da organização tecidual, é possível reconhecer o está­ gio de desenvolvimento das plantas e mesmo diferenciar mono­ cotiledôneas e eudicoti­ ledôneas. Nas figuras A e B são apresentados esquemas de raízes em crescimento primário, com a indicação dos te­ cidos 1 e 2. Assinale a alternativa que, de maneira correta, indica, respecti­ vamente, a espécie eudicotiledônea e seus tecidos 1 e 2.\n\n![](vestibular/unicamp/img/2024_q47_fig1.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) Figura A, floema e endoderme.",
+        "B) Figura B, floema e periciclo.",
+        "C) Figura A, xilema e endoderme.",
+        "D) Figura B, xilema e periciclo."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "**Por que a alternativa A está correta:**\nNa Figura A, o cilindro vascular apresenta o xilema central organizado em forma de estrela com poucos braços (arranjo com poucos polos, tetrarco), padrão característico das raízes de eudicotiledôneas. Já a Figura B mostra numerosos feixes dispostos em anel ao redor de uma medula central (arranjo poliarco), típico das monocotiledôneas. Portanto, a espécie eudicotiledônea corresponde à Figura A.\nNessa figura, o tecido 1, indicado entre os braços do xilema, é o floema, que nas eudicotiledôneas se alterna com os braços do xilema no interior do cilindro vascular. O tecido 2, apontado na camada mais externa (a linha tracejada que envolve o cilindro central), é a endoderme, camada mais interna do córtex que delimita o cilindro vascular e controla a passagem de água e solutos por meio das estrias de Caspary.\n\n**Conceito-chave:**\nNa raiz em crescimento primário, a distinção entre monocotiledôneas e eudicotiledôneas se faz pelo arranjo do sistema vascular: eudicotiledôneas têm xilema central em estrela com poucos polos e medula reduzida, enquanto monocotiledôneas apresentam muitos feixes (poliarco) em anel ao redor de uma medula ampla. A endoderme, com suas estrias de Caspary, separa o córtex do cilindro vascular.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 48,
+      "ano": 2024,
+      "titulo": "Questão 48 - UNICAMP 2024",
+      "enunciado": "Quando desempenho minha tarefa de irmão, de marido ou de cidadão, quando executo os compromissos que assumi, eu cum­ pro deveres que estão definidos fora de mim e de meus atos, no direito e nos costumes. Ainda que eles estejam de acordo com os meus sentimentos próprios e que eu sinta interiormente a realidade deles, tal realidade não deixa de ser objetiva, pois não fui eu que os fiz, mas os recebi pela educação. Eis aí, portanto, maneiras de agir, de pensar e de sentir que apresentam essa no­ tável propriedade de existirem fora das consciências individuais. (Adaptado de: DURKHEIM, E. As regras do método sociológico. São Paulo: Martins Fon­ tes, 2014.) Émile Durkheim é um dos fundadores da Sociologia e analisa a relação entre indivíduo e sociedade. A partir do texto, podemos afirmar que os modos de agir, de pensar e de sentir, em uma sociedade, são definidos",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) pelo livre-arbítrio dos indivíduos.",
+        "B) pelos sentimentos próprios dos indivíduos e independem do meio social.",
+        "C) pelo direito e pelos costumes, que são, por sua vez, defini­ dos livremente pelos indivíduos.",
+        "D) pela própria sociedade, que constitui uma realidade objetiva que exerce coerção sobre o indivíduo."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "**Por que a alternativa D está correta:**\nDurkheim descreve no texto aquilo que denominou fato social: maneiras de agir, pensar e sentir que existem \"fora das consciências individuais\". Ele destaca que, mesmo quando esses modos coincidem com nossos sentimentos, eles não foram criados por nós, mas recebidos pela educação, e por isso possuem uma realidade objetiva. A sociedade, portanto, é anterior e exterior ao indivíduo e exerce sobre ele uma coerção, definindo padrões de conduta que precedem e ultrapassam a vontade individual. É exatamente o que afirma a alternativa D.\nAs outras alternativas contrariam o texto ao atribuir a definição dos comportamentos ao livre-arbítrio (A), aos sentimentos individuais isolados do meio (B) ou a costumes livremente escolhidos pelos indivíduos (C), negando o caráter coercitivo e exterior do fato social.\n\n**Conceito-chave:**\nO fato social, conceito central da Sociologia de Durkheim, caracteriza-se por três traços: exterioridade (existe fora do indivíduo), coercitividade (impõe-se a ele) e generalidade (é compartilhado pela coletividade). A sociedade constitui uma realidade objetiva, distinta da soma dos indivíduos, que molda suas formas de agir, pensar e sentir.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 49,
+      "ano": 2024,
+      "titulo": "Questão 49 - UNICAMP 2024",
+      "enunciado": "Texto 1 Manifesto de lançamento da “Coalizão Negra Por Direitos”, reunião de entidades e coletivos do movimento negro brasilei­ ro, 2020. Texto 2 O sociólogo Octavio Ianni afirmou que democracia e cidadania são processos políticos marcados por dificuldades e retrocessos, pois a participação social – especialmente a de grupos como mulheres, negros, indígenas – é uma luta penosa e que, no Brasil, vem sendo realizada precariamente ao longo da história. (Adaptado de: “Entrevista com Octavio Ianni: Comunicação e Globalização”. Revista Novos Olhares, n. 4, p. 25, 1999.) De acordo com os textos 1 e 2, é possível dizer que, no caso brasileiro, os conceitos de democracia e de cidadania\n\n![](vestibular/unicamp/img/2024_q49_fig1.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) são limitados pela persistência histórica do racismo, pois os movimentos sociais pouco se ocupam dessa temática, redu­ zindo a possibilidade da conquista de igualdade.",
+        "B) podem ser tomados como conceitos relacionados, relativos à esfera do indivíduo, e marcados por processos lineares de conquistas de direitos sociais.",
+        "C) podem ser tomados como conceitos relacionados, próprios da esfera coletiva, e marcados por processos não lineares de conquistas e perdas de direitos sociais.",
+        "D) são marcados por disputas sociais e históricas, e influen­ ciam, de modo secundário, o exercício da igualdade, espe­ cialmente para grupos como mulheres, negros e indígenas."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Por que a alternativa C está correta:**\nOs dois textos tratam democracia e cidadania como conceitos relacionados entre si e situados na esfera coletiva, e não como conquistas puramente individuais. O manifesto da Coalizão Negra por Direitos expressa uma luta de grupos organizados, e Octavio Ianni afirma que a participação social de mulheres, negros e indígenas é uma luta \"penosa\", marcada por \"dificuldades e retrocessos\". Isso indica que a ampliação da democracia e da cidadania não ocorre de maneira linear e progressiva, mas por processos não lineares, feitos de conquistas e também de perdas de direitos ao longo da história brasileira. É precisamente o que sintetiza a alternativa C.\nAs demais alternativas erram ao dizer que os movimentos sociais pouco se ocupam do racismo (A), ao tratar os conceitos como relativos ao indivíduo e lineares (B) ou ao afirmar que essas disputas influenciam a igualdade apenas de modo secundário (D), o que contraria a centralidade dada por Ianni à participação desses grupos.\n\n**Conceito-chave:**\nDemocracia e cidadania são construções históricas e coletivas, resultado de disputas sociais permanentes. Longe de serem processos lineares de acúmulo de direitos, avançam e retrocedem conforme a correlação de forças, e sua ampliação depende da mobilização de grupos historicamente excluídos.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 50,
+      "ano": 2024,
+      "titulo": "Questão 50 - UNICAMP 2024",
+      "enunciado": "As sociólogas Patrícia Hill Collins e Sirma Bilge procuram ex­ plicar as relações entre mérito, oportunidade e desigualdades utilizando a metáfora de um campo de futebol. Elas imaginam uma situação na qual o campo seria um terreno levemente em declive, na qual o gol do Time 1 fica no topo e o do Time 2, na parte baixa. Quando o Time 1 tenta marcar um gol, a topogra­ fia do campo ajuda, o que não ocorre com o Time 2, que pode ter talento e disciplina, mas sempre trava uma batalha morro acima para marcar um gol. No caso de uma partida de futebol, torcedores ficariam indignados se os campos de verdade fos­ sem inclinados dessa maneira. No entanto, é isso que fazem as divisões sociais de classe, gênero e raça, ou seja, achamos que estamos jogando em igualdade de condições quando, na verdade, não estamos. (Adaptado de: HILL COLLINS, P.; BILGE, S. Interseccionalidades. São Paulo: Boitempo, p. 32-33, 2016.) A partir do texto, é correto afirmar que",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) divisões sociais de classe, gênero e raça permitem que to­ das as pessoas tenham acesso às mesmas oportunidades e possam igualmente desenvolver suas habilidades e aptidões.",
+        "B) condições de competição individual são marcadas por divi­ sões de classe, gênero e raça, e são influenciadas pelo con­ texto social, político e econômico.",
+        "C) o mérito e o esforço individual podem ser isolados das divi­ sões de classe, gênero e raça e considerados como parâme­ tros justos para a dinâmica da vida social.",
+        "D) divisões de classe, gênero e raça estão presentes na vida em sociedade e têm relação marginal com o fenômeno da desigualdade."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "**Por que a alternativa B está correta:**\nA metáfora do campo de futebol inclinado, usada por Hill Collins e Bilge, ilustra que a competição entre indivíduos não ocorre em condições de igualdade: o Time 2 pode ter \"talento e disciplina\", mas trava sempre uma \"batalha morro acima\". A inclinação do campo representa as divisões sociais de classe, gênero e raça, que favorecem uns e prejudicam outros. Assim, o desempenho individual está sempre condicionado por essas estruturas e pelo contexto social, político e econômico, exatamente como afirma a alternativa B.\nAs demais alternativas contrariam o texto: A nega as desigualdades ao supor igualdade de oportunidades; C defende que o mérito pode ser isolado das divisões sociais; e D minimiza a relação entre essas divisões e a desigualdade, tratando-a como \"marginal\".\n\n**Conceito-chave:**\nA interseccionalidade analisa como marcadores sociais como classe, gênero e raça se cruzam e se reforçam, produzindo desigualdades estruturais. A ideia de meritocracia pura é ilusória, pois o esforço individual atua sobre um \"campo\" desnivelado por essas divisões, que determinam desde o ponto de partida as chances de cada pessoa.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 51,
+      "ano": 2024,
+      "titulo": "Questão 51 - UNICAMP 2024",
+      "enunciado": "\"A negação da plena humanidade do Outro, o seu enclausura­ mento em categorias que lhe são estranhas, a afirmação de sua incapacidade inata para o desenvolvimento e aperfeiçoamento humano, a destituição da sua capacidade de produzir cultura e civilização prestam-se a afirmar uma razão racializada, que hegemoniza e naturaliza a superioridade europeia.\" (CARNEIRO, Sueli. Dispositivo de racialidade. A construção do outro como não ser como fundamento do ser. São Paulo: Zahar, p. 91, 2023.) Escolha a alternativa que apresenta crítica semelhante à de Sueli Carneiro.",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) \"Tão essencial é a diferença entre essas duas raças humanas [branca e negra], que parece ser tão grande em relação às capacidades mentais quanto às diferenças de cores.\" (E. Kant. Observações sobre o sentimento do belo e do sublime. Campinas: Papirus, p. 75- 76,1993.)",
+        "B) \"É na brutalidade e na selvageria que vemos o homem afri­ cano, na medida em que o podemos observar; e assim per­ manece hoje.\" (Hegel. A razão na história. Lisboa: Edições 70, p. 218.)",
+        "C) “A nossa solução foi medíocre. Estragou as duas raças, fundindo-as. O negro perdeu as suas admiráveis qualidades físicas de selvagem, e o branco sofreu a inevitável piora de caráter, consequente a todos os cruzamentos entre raças díspares\". (Personagem Miss Jane, do livro O Presidente Negro, de Monteiro Lobato. São Paulo: Editora Lafonte, p. 82, 2019.)",
+        "D) \"Na medida em que o racismo, enquanto discurso, se situa entre os discursos de exclusão, o grupo por ele excluído é tratado como objeto e não como sujeito.\" (Lélia Gonzales. Cultu­ ra, etnicidade e trabalho: efeitos linguísticos e políticos da exploração da mulher\". In: RIOS, F.; LIMA, M. Por um feminismo afro-latino-americano. São Paulo: Zahar, p. 43, 2020.)"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "**Por que a alternativa D está correta:**\nO texto de Sueli Carneiro faz uma crítica ao racismo: ela denuncia o dispositivo de racialidade que nega a plena humanidade do \"Outro\", transformando-o em objeto e naturalizando a suposta superioridade europeia. A questão pede a alternativa que apresenta uma crítica semelhante, ou seja, que também denuncie o racismo, e não que o reproduza. A alternativa D, de Lélia Gonzalez, faz justamente isso ao afirmar que o racismo, enquanto discurso de exclusão, trata o grupo excluído \"como objeto e não como sujeito\", ecoando a mesma denúncia de coisificação do Outro feita por Carneiro.\nAs alternativas A (Kant), B (Hegel) e C (Monteiro Lobato) são exemplos do próprio discurso racista criticado, pois afirmam diferenças de \"capacidades mentais\" entre raças, \"selvageria\" do homem africano ou a suposta \"piora\" da mistura racial, e portanto não constituem críticas ao racismo.\n\n**Conceito-chave:**\nO pensamento negro brasileiro (Sueli Carneiro, Lélia Gonzalez) analisa o racismo como um dispositivo que desumaniza e objetifica o negro, negando-lhe a condição de sujeito. Reconhecer essa crítica exige distinguir os textos que denunciam o racismo daqueles que, ao contrário, expressam e legitimam a ideologia racista.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 52,
+      "ano": 2024,
+      "titulo": "Questão 52 - UNICAMP 2024",
+      "enunciado": "Excerto 1 Quase todos estão de acordo que a felicidade é o maior de todos os bens que se pode alcançar pela ação; diferem, porém, quanto ao que seja a felicidade. A julgar pela vida que os ho­ mens levam em geral, a maioria deles, e os homens de tipo mais vulgar, parecem identificar o bem ou a felicidade com o prazer, e por isso amam a vida dos gozos. (Adaptado de: Aristóteles. Ética a Nicomaco, Livro I, seções 4 e 5.) Excerto 2 O conhecimento seguro dos desejos leva a direcionar toda a es­ colha e toda recusa para a saúde do corpo e para a serenidade do espírito, visto que essa é a finalidade da vida feliz. O prazer é o início e o fim de uma vida feliz. Embora o prazer seja nosso primeiro bem inato, nem por isso escolhemos qualquer prazer. (Adaptado de: Epicuro. Carta sobre a felicidade. São Paulo: Editora UNESP, p. 35-37, 2002.) Considerando os excertos dos filósofos gregos Aristóteles e Epi­ curo, ambos do século IV a.C., é possível afirmar que",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) Aristóteles e Epicuro sustentam a ideia de que há relação entre a felicidade e o prazer, pois ambos entendem que o prazer é o início e o fim de uma vida feliz.",
+        "B) diferentemente de Aristóteles, Epicuro defende que a feli­ cidade consiste na realização irrestrita dos nossos desejos, uma vez que o prazer é o início e o fim de uma vida feliz.",
+        "C) tanto Aristóteles quanto Epicuro – ainda que com concep­ ções éticas distintas – entendem que não há uma identifica­ ção imediata entre felicidade e prazer.",
+        "D) Aristóteles e Epicuro concordam entre si e discordam daque­ les que pensam que a felicidade seja o maior dos bens que se possa alcançar pela ação."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Por que a alternativa C está correta:**\nEmbora ambos os filósofos relacionem felicidade e prazer, nenhum dos dois faz uma identificação imediata entre os dois conceitos. Aristóteles observa que é \"a maioria\" e \"os homens de tipo mais vulgar\" que identificam a felicidade com o prazer e amam a vida dos gozos, tomando distância dessa posição comum. Epicuro, por sua vez, afirma que o prazer é início e fim da vida feliz, mas ressalva que \"nem por isso escolhemos qualquer prazer\", subordinando o prazer à saúde do corpo e à serenidade do espírito. Assim, com concepções éticas distintas, ambos recusam a equivalência simples entre felicidade e prazer, como diz a alternativa C.\nA alternativa A erra ao atribuir a Aristóteles a tese de que o prazer é o início e o fim da vida feliz (isso é de Epicuro); B distorce Epicuro ao falar em realização \"irrestrita\" dos desejos, contra a seleção criteriosa que ele defende; e D contraria os textos, pois ambos consideram a felicidade o maior dos bens.\n\n**Conceito-chave:**\nNa ética grega antiga (eudaimonismo), a felicidade é o bem supremo alcançado pela ação. Aristóteles a associa à virtude e à realização racional do homem, e Epicuro a um prazer moderado e seletivo (ausência de dor e perturbação, a ataraxia). Nenhum dos dois reduz felicidade a prazer imediato e irrestrito.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 53,
+      "ano": 2024,
+      "titulo": "Questão 53 - UNICAMP 2024",
+      "enunciado": "\"Apesar de sua presumida evidência, a articulação entre liber­ dade e igualdade é mais complicada do que parece. Sua reunião em um mesmo indivíduo, que seria, ao mesmo tempo, livre e igual a seus semelhantes, esconde tensões significativas. Como, por exemplo, alguém poderia ser livre em um contexto no qual prevalecem desigualdades aberrantes? Em contrapartida, o que resta da liberdade se os indivíduos não puderem singularizar-se e diferenciar-se uns dos outros?\" (FIGUEIREDO, V. A paixão da Igualdade: uma genealogia do indivíduo moral na França. Belo Horizonte: Relicário, p. 9, 2021.) Escolha, dentre as alternativas a seguir, aquela que sintetiza melhor a ideia expressa na citação de Figueiredo:",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) A realização da liberdade e da igualdade independe da su­ pressão de desigualdades profundas.",
+        "B) A articulação entre liberdade e igualdade é um ideal que não contrasta com regimes políticos antidemocráticos.",
+        "C) A articulação entre liberdade e igualdade é complexa porque exige tanto a supressão de desigualdades extremas quanto a possibilidade da afirmação das diferenças individuais.",
+        "D) O desenvolvimento pleno do capitalismo e da livre concor­ rência são condições suficientes para a concretização da li­ berdade e da igualdade."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Por que a alternativa C está correta:**\nFigueiredo aponta que a união entre liberdade e igualdade em um mesmo indivíduo, embora pareça evidente, esconde tensões. Ele apresenta duas perguntas que revelam essas tensões: como alguém pode ser livre onde há \"desigualdades aberrantes\"? E o que resta da liberdade se os indivíduos não puderem \"singularizar-se e diferenciar-se uns dos outros\"? Ou seja, realizar plenamente liberdade e igualdade exige, ao mesmo tempo, suprimir as desigualdades extremas (para que a liberdade seja efetiva) e garantir a afirmação das diferenças individuais (para que a igualdade não anule a singularidade). É exatamente essa dupla exigência que a alternativa C sintetiza.\nAs demais alternativas contrariam o texto: A nega que a supressão das desigualdades seja necessária; B afirma compatibilidade com regimes antidemocráticos; e D toma o capitalismo e a livre concorrência como suficientes, o que o texto não sustenta.\n\n**Conceito-chave:**\nA relação entre liberdade e igualdade é um problema central da filosofia política moderna. Igualdade sem liberdade pode dissolver a individualidade; liberdade sem igualdade convive com desigualdades que esvaziam a autonomia. Conciliá-las exige equilibrar a redução das desigualdades sociais com o respeito à diferença e à singularidade de cada indivíduo.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 54,
+      "ano": 2024,
+      "titulo": "Questão 54 - UNICAMP 2024",
+      "enunciado": "Sr. Gauss tem uma pizzaria, chamada π-zzaria, que vende dois tipos de pizzas circulares: uma individual, de diâmetro d; e uma de 20 cm de diâmetro, partida em quatro pedaços iguais. Considerando que o preço de uma pizza é proporcional à sua área, qual precisa ser o valor de d para que quatro pizzas indi­ viduais custem o mesmo que a pizza mencionada, de quatro pedaços?",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) 6 cm.",
+        "B) 8 cm.",
+        "C) 10 cm.",
+        "D) 12 cm."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Por que a alternativa C está correta:**\nComo o preço é proporcional à área, basta igualar as áreas. A pizza individual tem diâmetro d, logo raio d/2 e área igual a π·(d/2)² = π·d²/4. Quatro pizzas individuais têm área total 4·(π·d²/4) = π·d². A pizza grande tem diâmetro de 20 cm, logo raio 10 cm e área π·10² = 100π (o fato de estar partida em quatro pedaços não altera a área total, é apenas um distrator). Igualando: π·d² = 100π, portanto d² = 100 e d = 10 cm.\nAssim, quatro pizzas individuais de 10 cm de diâmetro têm a mesma área total (e o mesmo preço) que a pizza de 20 cm, o que confirma a alternativa C.\n\n**Conceito-chave:**\nA área do círculo é proporcional ao quadrado do raio (ou do diâmetro): A = π·r². Por isso, ao dobrar o diâmetro, a área quadruplica, e quatro pizzas de diâmetro 10 cm equivalem exatamente a uma de 20 cm. Grandezas proporcionais permitem substituir a comparação de preços pela comparação de áreas.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 55,
+      "ano": 2024,
+      "titulo": "Questão 55 - UNICAMP 2024",
+      "enunciado": "Todo final de semana, as amigas Ana, Bruna e Carol se encon­ tram em um parque para andar de bicicleta ou de patins. Nesta brincadeira, a escolha entre patins e bicicleta é feita usando a seguinte regra: Se Ana anda de patins, então Carol também anda de patins. Bruna anda de patins apenas quando Carol anda de bicicleta. Sabendo que neste final de semana Carol andou de patins, en­ tão é necessariamente verdade que",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) Ana andou de patins.",
+        "B) Ana não andou de patins.",
+        "C) Bruna andou de patins.",
+        "D) Bruna não andou de patins."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "**Por que a alternativa D está correta:**\nAs regras são: (1) \"Se Ana anda de patins, então Carol anda de patins\" e (2) \"Bruna anda de patins apenas quando Carol anda de bicicleta\", ou seja, se Bruna anda de patins, então Carol anda de bicicleta (não de patins). Sabemos que Carol andou de patins. Pela regra (2), na sua forma contrapositiva, se Carol NÃO está de bicicleta (está de patins), então Bruna NÃO pode estar de patins. Logo, é necessariamente verdade que Bruna não andou de patins.\n\nA regra (1) só garante algo sobre Carol a partir de Ana, e não o contrário: saber que Carol está de patins não permite concluir nada sobre Ana (ela pode estar de patins ou de bicicleta). Por isso as alternativas sobre Ana (A e B) e a que afirma que Bruna andou de patins (C) não são necessariamente verdadeiras.\n\n**Conceito-chave:**\nEm lógica proposicional, uma condicional \"se P então Q\" só permite concluir Q a partir de P (modus ponens) ou concluir \"não P\" a partir de \"não Q\" (modus tollens, a contrapositiva). A expressão \"apenas quando\" introduz uma condição necessária: \"A apenas quando B\" equivale a \"se A então B\".",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 56,
+      "ano": 2024,
+      "titulo": "Questão 56 - UNICAMP 2024",
+      "enunciado": "Luísa estava conversando com seu irmão ao telefone quando passou perto de uma feira de adoção de animais. Ela comentou que, na feira, havia cachorros, gatos e pintinhos. O irmão, curioso, perguntou-lhe quantos gatos havia. Luí­ sa, que adora charadas matemáticas, limitou-se a dizer que a quantidade de gatos somada à quantidade de pintinhos era 4 a mais do que a quantidade de cachorros, e que a quantidade de gatos somada à quantidade de cachorros era 6 a mais do que a quantidade de pintinhos.\n\nO irmão de Luísa, que adora as aulas de matemática, rapida­ mente chegou à resposta correta. Havia quantos gatos para adoção?",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) 4.",
+        "B) 5.",
+        "C) 6.",
+        "D) 7."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "**Por que a alternativa B está correta:**\nSejam g o número de gatos, p o de pintinhos e c o de cachorros. As condições são: g + p = c + 4 e g + c = p + 6. Subtraindo a segunda da primeira: (g + p) − (g + c) = (c + 4) − (p + 6), ou seja, p − c = c − p − 2. Isso leva a 2p − 2c = −2, portanto c = p + 1.\n\nSubstituindo na primeira equação: g = c + 4 − p = (p + 1) + 4 − p = 5. Logo, havia 5 gatos, independentemente das quantidades exatas de pintinhos e cachorros.\n\n**Conceito-chave:**\nSistemas de equações lineares podem ter uma incógnita determinada mesmo quando as demais permanecem indeterminadas. Combinando as equações (por soma ou subtração), elimina-se variáveis até isolar a grandeza pedida, técnica central na resolução algébrica de problemas.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 57,
+      "ano": 2024,
+      "titulo": "Questão 57 - UNICAMP 2024",
+      "enunciado": "Laura é geóloga e está fazendo pesquisa numa caverna cuja en­ trada tem o formato de uma parábola invertida. Essa entrada, no nível do chão, tem 2m de largura e seu ponto mais alto está a 2,5m do chão, conforme figura a seguir. Para realizar sua pesquisa, ela precisa entrar na caverna com um equipamento guardado em uma caixa de 1m de largura. Qual é a altura máxima, em metros, que a caixa pode ter para passar pela entrada da caverna?\n\n![](vestibular/unicamp/img/2024_q57_fig1.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) 11/8.",
+        "B) 13/8.",
+        "C) 15/8.",
+        "D) 17/8."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Por que a alternativa C está correta:**\nColocando o vértice da parábola invertida na origem do topo, com a forma y = 2,5 − k·x², e sabendo que a entrada tem 2 m de largura (x = ±1) ao nível do chão (y = 0): 0 = 2,5 − k·1², logo k = 2,5. A equação fica y = 2,5·(1 − x²). A caixa tem 1 m de largura, então ela ocupa de x = −0,5 a x = +0,5; a altura máxima que passa é limitada pela altura da parábola nas bordas da caixa, em x = 0,5.\n\nCalculando: y = 2,5·(1 − 0,5²) = 2,5·(1 − 0,25) = 2,5·0,75 = 1,875 = 15/8 m. Assim, a caixa pode ter no máximo 15/8 de altura para atravessar a entrada.\n\n**Conceito-chave:**\nModelagem por função quadrática: uma parábola com concavidade para baixo se escreve y = c − k·x² a partir do vértice, e as constantes se determinam impondo pontos conhecidos. O ponto crítico para \"passar\" um objeto é a altura da curva na borda do objeto, não no centro.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 58,
+      "ano": 2024,
+      "titulo": "Questão 58 - UNICAMP 2024",
+      "enunciado": "Joaquim estava brincando com um graveto, quando acertou uma parede e o graveto se partiu em três pedaços, de compri­ mentos a,b,c, com a ≤ b ≤ c. Ele recolheu os pedaços e tentou construir um triângulo cujos lados seriam exatamente os peda­ ços do graveto: não foi possível. Sabendo que o graveto tinha 50 cm de comprimento e que b = a + 2, qual é o maior valor possível de a?",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) 9,5 cm.",
+        "B) 10,5 cm.",
+        "C) 11,5 cm.",
+        "D) 12,5 cm."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Por que a alternativa C está correta:**\nOs três pedaços somam a + b + c = 50, com a ≤ b ≤ c e b = a + 2. Então c = 50 − a − b = 50 − a − (a + 2) = 48 − 2a. Como NÃO foi possível formar o triângulo, falha a desigualdade triangular: a soma dos dois menores deve ser menor ou igual ao maior, isto é, a + b ≤ c.\n\nSubstituindo: a + (a + 2) ≤ 48 − 2a, ou seja, 2a + 2 ≤ 48 − 2a, logo 4a ≤ 46 e a ≤ 11,5. O maior valor possível é a = 11,5 cm (nesse caso b = 13,5 e c = 25, com a + b = 25 = c, um triângulo degenerado que de fato não se fecha).\n\n**Conceito-chave:**\nA desigualdade triangular afirma que, para formar um triângulo, cada lado deve ser menor que a soma dos outros dois; basta verificar o maior lado contra a soma dos dois menores. Quando a + b ≤ c, o triângulo não existe (é impossível ou degenerado).",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 59,
+      "ano": 2024,
+      "titulo": "Questão 59 - UNICAMP 2024",
+      "enunciado": "Considere os conjuntos A = {x ∈ R | x2 – 2x – 24 < 0} e B = {x ∈ R | 2x – 7 ≤ 0}. Quantos números inteiros pertencem à interseção A ∩ B?",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) 3.",
+        "B) 5.",
+        "C) 7.",
+        "D) 9."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Por que a alternativa C está correta:**\nO conjunto A resolve x² − 2x − 24 < 0. Fatorando: (x − 6)(x + 4) < 0, cuja solução (parábola com concavidade para cima, negativa entre as raízes) é −4 < x < 6. O conjunto B resolve 2x − 7 ≤ 0, ou seja, x ≤ 7/2 = 3,5.\n\nA interseção A ∩ B é −4 < x ≤ 3,5. Os números inteiros nesse intervalo são −3, −2, −1, 0, 1, 2 e 3, totalizando 7 inteiros.\n\n**Conceito-chave:**\nPara inequações do 2º grau, fatora-se e analisa-se o sinal: uma parábola côncava para cima é negativa entre as raízes. A interseção de conjuntos combina as duas condições, e a contagem de inteiros exige atenção aos extremos abertos (<) ou fechados (≤).",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 60,
+      "ano": 2024,
+      "titulo": "Questão 60 - UNICAMP 2024",
+      "enunciado": "Terminado o almoço, Ana foi à cozinha para a escolha das so­ bremesas. A garota estava decidida a pegar dois itens. Seu pai, preocupado com a alimentação dela, instruiu-a da seguinte for­ ma: \"Escolha o que quiser, mas, se você pegar algum pirulito, pegue também alguma fruta\". Na cozinha, tinha 5 frutas dife­ rentes, 3 pirulitos diferentes e 2 pedaços de bolos de sabores diferentes. De quantas formas Ana poderia escolher seus dois itens?",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) 34.",
+        "B) 36.",
+        "C) 45.",
+        "D) 47."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "**Por que a alternativa B está correta:**\nHá 5 frutas, 3 pirulitos e 2 bolos, num total de 10 itens, e Ana escolhe 2. A restrição é: se pegar pirulito, deve pegar também uma fruta. Vamos contar as escolhas válidas por casos. Primeiro, escolhas sem nenhum pirulito: são os 7 itens não-pirulito (5 frutas + 2 bolos), dando C(7,2) = 21 combinações, todas válidas.\n\nSegundo, escolhas com exatamente um pirulito: para satisfazer a regra, o outro item precisa ser uma fruta, logo 3 pirulitos × 5 frutas = 15. Escolher dois pirulitos violaria a regra (não há fruta junto), então é proibido. Total: 21 + 15 = 36 formas.\n\n**Conceito-chave:**\nContagem por casos com o princípio aditivo e a combinação C(n,2) para selecionar itens sem ordem. Uma restrição condicional (\"se A então B\") reduz o espaço amostral: separam-se os casos que a envolvem e descartam-se os que a violam.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 61,
+      "ano": 2024,
+      "titulo": "Questão 61 - UNICAMP 2024",
+      "enunciado": "João e Maria estão passeando pela floresta. Para não se per­ derem no caminho, levaram consigo uma sacola com 100 pe­ drinhas, sendo 60 pedrinhas brancas e 40 pedrinhas pretas. A cada 5 passos eles retiram aleatoriamente uma pedrinha da sa­ cola e jogam-na no chão para marcar o caminho. Quando eles pararam para fazer um lanche, notaram que já ti­ nham sido jogadas 35 pedrinhas brancas e 25 pedrinhas pretas. Qual a probabilidade de as próximas duas pedrinhas jogadas serem brancas?",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) 7/13.",
+        "B) 5/13.",
+        "C) 11/52.",
+        "D) 7/52."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "**Por que a alternativa B está correta:**\nA sacola tinha 60 brancas e 40 pretas (100 no total). Já foram retiradas 35 brancas e 25 pretas, ou seja, 60 pedrinhas. Restam na sacola: 60 − 35 = 25 brancas e 40 − 25 = 15 pretas, totalizando 40 pedrinhas.\n\nA probabilidade de as duas próximas serem brancas, sem reposição, é (25/40) × (24/39). Calculando: (25 × 24)/(40 × 39) = 600/1560 = 5/13.\n\n**Conceito-chave:**\nProbabilidade de eventos sucessivos sem reposição: multiplicam-se as probabilidades condicionais, atualizando o total e os casos favoráveis a cada retirada. O ponto essencial é usar a composição ATUAL da sacola (após as retiradas já feitas), não a inicial.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 62,
+      "ano": 2024,
+      "titulo": "Questão 62 - UNICAMP 2024",
+      "enunciado": "Seja p (x) = x + 2024. A equação p (x) + p (2x) + p (3x) + ... + p (2023x) + p (2024x) = 0 tem uma solução x que satisfaz:",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) x < –2.",
+        "B) –2 < x < 0.",
+        "C) 0 < x < 2.",
+        "D) x > 2."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "**Por que a alternativa B está correta:**\nCom p(x) = x + 2024, a equação é a soma p(x) + p(2x) + ... + p(2024x) = 0. Cada termo é p(kx) = kx + 2024. Somando de k = 1 a 2024: x·(1 + 2 + ... + 2024) + 2024·2024 = 0. A soma dos coeficientes é 1 + 2 + ... + 2024 = 2024·2025/2.\n\nEntão x·(2024·2025/2) = −2024·2024, o que dá x = −(2024·2024)/(2024·2025/2) = −(2·2024)/2025 = −4048/2025 ≈ −1,999. Esse valor está entre −2 e 0, logo a solução satisfaz −2 < x < 0.\n\n**Conceito-chave:**\nSoma de uma progressão aritmética: 1 + 2 + ... + n = n(n+1)/2. Ao somar termos lineares em x, agrupam-se os coeficientes de x e as constantes separadamente, reduzindo a uma equação de 1º grau cuja raiz se localiza por estimativa numérica.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 63,
+      "ano": 2024,
+      "titulo": "Questão 63 - UNICAMP 2024",
+      "enunciado": "Na figura a seguir, ABCD é um trapézio com AB=1 e CD=5. Os pontos M e N são pontos médios de AB e BC, respectivamente.\n\nSabendo que a área de MBN é 1, a área do trapézio é:\n\n![](vestibular/unicamp/img/2024_q63_fig1.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) 18.",
+        "B) 20.",
+        "C) 22.",
+        "D) 24."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "**Por que a alternativa D está correta:**\nNo trapézio ABCD, com AB = 1 e CD = 5 paralelos, M é ponto médio de AB e N é ponto médio de BC. O triângulo MBN compartilha o ângulo em B com o triângulo ABC, e seus lados sobre AB e BC são metade dos correspondentes (BM = ½·BA e BN = ½·BC). Logo, a razão de áreas é (½)·(½) = 1/4, ou seja, área(MBN) = ¼·área(ABC). Como área(MBN) = 1, temos área(ABC) = 4.\n\nO triângulo ABC tem base AB = 1 e altura igual à distância h entre as paralelas, então área(ABC) = ½·1·h = h/2 = 4, o que dá h = 8. A área do trapézio é (AB + CD)/2 · h = (1 + 5)/2 · 8 = 3 · 8 = 24.\n\n**Conceito-chave:**\nQuando dois triângulos compartilham um ângulo, a razão entre suas áreas é o produto das razões dos lados que formam esse ângulo. Combinado com a fórmula da área do trapézio, (base maior + base menor)/2 × altura, obtém-se a altura e, então, a área total.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 64,
+      "ano": 2024,
+      "titulo": "Questão 64 - UNICAMP 2024",
+      "enunciado": "Considere as funções f(x) = 2x + c e g(x) = 5 – 6x, com c > 0. Sejam P e Q os pontos de interseção, com o eixo y, dos gráficos de y = f(g(x)) e y = g(f(x)), respectivamente. Para que a origem seja o ponto médio do segmento PQ, qual deverá ser o valor de c?",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) 1.",
+        "B) 2.",
+        "C) 3.",
+        "D) 4."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Por que a alternativa C está correta:**\nCompondo as funções, temos f(g(x)) = 2·(5 − 6x) + c = 10 − 12x + c e g(f(x)) = 5 − 6·(2x + c) = 5 − 12x − 6c. A interseção de cada gráfico com o eixo y ocorre em x = 0. Logo, P = (0, 10 + c) e Q = (0, 5 − 6c).\n\nPara que a origem (0, 0) seja o ponto médio de PQ, a média das ordenadas deve ser zero: (10 + c + 5 − 6c)/2 = 0, ou seja, 15 − 5c = 0, o que resulta em c = 3. Como c > 0, o valor é válido, confirmando a alternativa C.\n\n**Conceito-chave:**\nComposição de funções afins e ponto médio de um segmento. Ao compor f e g, o termo independente determina a interseção com o eixo y (basta fazer x = 0). O ponto médio de dois pontos alinhados no eixo y tem ordenada igual à média aritmética das ordenadas; impor que essa média seja zero fornece a equação que determina o parâmetro c.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 65,
+      "ano": 2024,
+      "titulo": "Questão 65 - UNICAMP 2024",
+      "enunciado": "![](vestibular/unicamp/img/2024_q65_full.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Por que a alternativa C está correta:**\nNo losango ABCD todos os lados são iguais e o ângulo em A vale 60°, de modo que o ângulo em D vale 120°. Colocando D na origem e DC sobre o eixo x, o segmento BF é a altura (BF ⊥ DC) com pé em F, onde DF = 3. Por simetria do losango, o pé da altura baixada de B cai no ponto médio da projeção, dando lado = 2·DF = 6. Assim B = (3, 3√3), pois a altura vale lado·(√3/2) = 6·(√3/2) = 3√3.\n\nO ponto E está sobre DA com ED = 2. A direção de DA (ângulo de 120°) é (−1/2, √3/2), então E = (−1, √3). Logo BE² = (3 − (−1))² + (3√3 − √3)² = 4² + (2√3)² = 16 + 12 = 28, ou seja, BE = √28. Isso confirma a alternativa C.\n\n**Conceito-chave:**\nPropriedades do losango (lados iguais e ângulos internos consecutivos suplementares) combinadas com geometria analítica. Reconhecer que o ângulo de 120° em D e a relação da altura (lado·sen 60°) permitem obter as coordenadas dos vértices; em seguida aplica-se a distância entre dois pontos para calcular BE.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 66,
+      "ano": 2024,
+      "titulo": "Questão 66 - UNICAMP 2024",
+      "enunciado": "Texto 1 I have a dream that one day down in Alabama, with its vicious racists, with its governor having his lips dripping with the words of interposition and nullification; that one day right down in Alabama little black boys and black girls will be able to join hands with little white boys and white girls as sisters and brothers (Martin Luther King, 1963). (Adaptado de: https://kr.usembassy.gov/martin-luther-king-jr-dream-speech-1963/. Acesso em 26/05/2023.) Texto 2\n\nConsidere os dois textos e assinale a alternativa correta.\n\n![](vestibular/unicamp/img/2024_q66_fig1.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) O texto 2 apresenta uma consequência social advinda do fato de que o “sonho” mencionado no texto 1 tornou-se realidade.",
+        "B) Os textos 1 e 2 são complementares porque usam diferentes linguagens para ilustrar a natureza velada do racismo.",
+        "C) O texto 2 funciona como um indício de que aquilo que se almejava em 1 ainda não se tornou realidade em todos os contextos.",
+        "D) Os textos 1 e 2 são contraditórios porque empregam dife­ rentes recursos de linguagem para tratar do racismo."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Por que a alternativa C está correta:**\nNo Texto 1, Martin Luther King (1963) expressa o \"sonho\" de igualdade racial, em que crianças negras e brancas poderiam conviver como irmãs. Já o Texto 2 é um cartaz atual de combate ao racismo (\"QUICK, HIRE ONE. Anti-Black racism happens here.\"), que mostra dois candidatos, um branco e um negro, denunciando a discriminação que ainda persiste, por exemplo, na contratação de trabalhadores.\n\nColocados lado a lado, o cartaz funciona como um indício de que aquilo que se almejava em 1963 ainda não se concretizou em todos os contextos: o racismo continua ocorrendo e precisa ser enfrentado. Por isso a alternativa C é a correta, pois estabelece essa relação de continuidade histórica entre o ideal não realizado e a persistência do problema.\n\n**Conceito-chave:**\nLeitura relacional de textos verbais e não verbais (intertextualidade). Compreender o diálogo entre um discurso histórico e um material contemporâneo exige perceber que o segundo texto atualiza e problematiza o primeiro, evidenciando que a meta enunciada permanece parcialmente não cumprida.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 67,
+      "ano": 2024,
+      "titulo": "Questão 67 - UNICAMP 2024",
+      "enunciado": "![](vestibular/unicamp/img/2024_q67_full.png)",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A)",
+        "B)",
+        "C)",
+        "D)"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "**Por que a alternativa D está correta:**\nA placa descreve um cocar (headdress) que, ao contrário de outros, NÃO usa desenhos quadriculados (símbolos de crenças espirituais) nem coloca aves ou mamíferos no centro; em vez disso, tem chifres (\"horns\") presos a ele, emblema de poder reservado a quem tem valor e poder reconhecidos por toda a nação.\n\nEntre as imagens, apenas a da alternativa D mostra um cocar com chifres reais incorporados à peça, sem grafismos quadriculados e sem animais inteiros em destaque. As demais mostram uma cabeça de cervo (mamífero, alternativa A), um gorro com padrão quadriculado colorido (alternativa B) e uma máscara com face central (alternativa C), todas contrariando a descrição. Logo, a alternativa D é a correta.\n\n**Conceito-chave:**\nCompreensão leitora em língua inglesa aplicada à correspondência texto-imagem. É preciso extrair da descrição os traços distintivos (presença de chifres, ausência de grafismos quadriculados e de animais no centro) e usá-los como critérios de exclusão para identificar a imagem compatível.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 68,
+      "ano": 2024,
+      "titulo": "Questão 68 - UNICAMP 2024",
+      "enunciado": "O texto a seguir é parte de uma chamada para publicação de artigos em uma edição especial da revista Nature. The environmental and ethical implications of traditional livestock rearing, combined with an increasing global population and demand for protein-rich nutrition, has led to investments in alternative protein research. One emerging approach is cellular agriculture, in which traditional ‘meat’ tissues, such as muscle and fat cells from cows, chicken and fish, or alternative protein sources, such as algae, are cultivated under controlled laboratory conditions. However, the optimisation of these protocols is highly dependent on cell types, and further development is required to make cellular agricul- ture an economically viable alternative to traditional sources of protein. This special issue welcomes research on improvements to cellular agriculture protocols to maximize sustainable protein production. (Adaptado de: https://www.nature.com/collections/chhdggaffd. Acesso em 12/05/2023.) Qual seria o tópico específico da edição especial ao qual o texto se refere?",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) Alternativas economicamente viáveis dentro da agricultura tradicional.",
+        "B) Desafios éticos e ambientais da pecuária.",
+        "C) Sustentabilidade na pesquisa de novos protocolos para agri­ cultura tradicional.",
+        "D) Agricultura celular de diversas fontes de proteína. (Adaptado de: https://www.toronto.ca/wp-con­ tent/uploads/2019/04/8f80-Anti-Black-Racism­ -Poster-1.pdf. Acesso em 27/05/2023.)"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "D",
+      "explicacao": "**Por que a alternativa D está correta:**\nO texto é uma chamada de artigos da revista Nature sobre \"cellular agriculture\" (agricultura celular), na qual tecidos como músculo e gordura de bois, frangos e peixes, ou fontes alternativas como algas, são cultivados em laboratório sob condições controladas. A edição especial convida pesquisas voltadas à melhoria desses protocolos para maximizar a produção sustentável de proteína.\n\nO tópico específico, portanto, é a agricultura celular a partir de diversas fontes de proteína, exatamente o que enuncia a alternativa D. As demais desviam do foco: a agricultura tradicional (A e C) é justamente o que o texto busca substituir, e os desafios éticos e ambientais da pecuária (B) aparecem apenas como motivação inicial, não como o tema central da edição.\n\n**Conceito-chave:**\nIdentificação do tópico/tema central de um texto de divulgação científica em inglês. Distinguir a ideia principal (o objeto da chamada de artigos) das informações de contexto ou motivação evita confundir o pano de fundo com o assunto efetivamente proposto.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 69,
+      "ano": 2024,
+      "titulo": "Questão 69 - UNICAMP 2024",
+      "enunciado": "Em uma matéria para um site, jornalistas fizeram interações com o ChatGPT a fim de analisar sua capacidade de criar textos possivelmente problemáticos. Para tanto, eles pediram que o programa de inteligência artificial reescrevesse um e-mail que seria, hipoteticamente, usado como golpe. Eis o texto reescrito pelo ChatGPT: (Adaptado de: https://mashable.com/article/chatgpt-scary-uses. Acesso em 12/05/2023.) O e-mail criado pelo programa chama a atenção",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) pelo uso de linguagem agressiva, pois se apoia em expres­ sões violentas para tentar extorquir o usuário.",
+        "B) por reproduzir a sintaxe da comunicação humana à medida que recorre ao humor para acusar o usuário.",
+        "C) pelo emprego de um tom sarcástico, pois se apoia em lin­ guagem informal para ameaçar o usuário.",
+        "D) por infringir questões éticas, uma vez que informa ter torna­ do públicas informações privadas do usuário."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Por que a alternativa C está correta:**\nO e-mail reescrito pelo ChatGPT simula uma tentativa de golpe (\"Hey there. You're probably wondering why you're getting this e-mail...\") em que o remetente afirma ter instalado malware, gravado a vítima e obtido seus contatos, propondo então um \"acordo\". O que chama a atenção é o tom sarcástico e a linguagem informal e descontraída (\"Hey there\", \"To top it all off\"), usados justamente para ameaçar e chantagear o usuário.\n\nPor isso a alternativa C é a correta: o texto não recorre a expressões violentas ou agressivas (afastando A), não usa humor para acusar de forma leve (afastando B) e o ponto destacado não é a quebra ética de tornar dados públicos, mas sim o contraste entre o tom casual/irônico e o conteúdo ameaçador (afastando D).\n\n**Conceito-chave:**\nAnálise de tom e registro linguístico. Reconhecer que um mesmo texto pode combinar linguagem informal e sarcástica com intenção intimidatória é essencial para interpretar a estratégia persuasiva de mensagens fraudulentas geradas por IA.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 70,
+      "ano": 2024,
+      "titulo": "Questão 70 - UNICAMP 2024",
+      "enunciado": "Netflix’s “Wednesday” draws many real-world parallels. It fea­ tures unusual creatures (werewolves and psychics) collectively referred to as Outcasts, while they refer to non-supernatural humans as Normies. The Outcasts are stand-ins for anyone othered by society, such as indigenous people, People of Color, the LGBT+, and the neurodivergent. Every so often, the Normies’ distrust in the Outcasts boils over into hatred and violence, and the othering and dehumanization normalizes violence against the Outcasts in day-to-day life. In the show, the town’s colonial era saw Outcasts not only being “othered”, but also murdered by Pilgrims. These acts of butchery were all but erased from their history books. It’s a distressingly familiar story. (Adaptado de: https://atribecalledgeek.com/woe-to-the-colonizer-an-indigenous-pers­ pective-of-wednesday/. Acesso em 12/05/2023.) A análise do autor sobre “Wednesday” se apoia em",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) paralelos entre ficção e realidade para discutir como a exis­ tência de grupos marginalizados tem sido historicamente apagada dos livros de história.",
+        "B) elementos fictícios presentes na série para aludir ao modo como a desumanização da alteridade é um processo histó­ rico e violento.",
+        "C) fatos históricos para traçar a origem da exploração de povos indígenas e o modo como foram violentamente desumani­ zados na série.",
+        "D) comparações históricas sobre os conflitos entre colonizado­ res e peregrinos para criticar o modo como esse conflito é retratado na série. “Hey there. You're probably wondering why you're getting this e-mail. The truth is, I put some malware on a website that you visited. My malware took control of your browser and recorded everything, including your contacts from your messenger, Face- book, and e-mail account. To top it all off, I also took videos of you. So I'll give you the option to make a deal before I do anything with it.”"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "B",
+      "explicacao": "**Por que a alternativa B está correta:**\nO autor analisa a série \"Wednesday\" partindo de seus elementos ficcionais: os Outcasts (criaturas incomuns) representam grupos marginalizados pela sociedade (indígenas, pessoas negras, LGBT+, neurodivergentes), enquanto os Normies desconfiam e por vezes odeiam e agridem esses \"outros\". Esse enredo fictício é usado para aludir a um processo real, histórico e violento de desumanização da alteridade, inclusive no episódio colonial em que os Outcasts foram assassinados por Pilgrims e apagados dos livros de história.\n\nAssim, a alternativa B é a correta, pois indica precisamente que a análise se apoia em elementos fictícios da série para tratar da desumanização do outro como fenômeno histórico e violento. As outras alternativas invertem a relação (C e D partem de \"fatos históricos\" como base da análise) ou reduzem o tema apenas ao apagamento nos livros de história (A), que é só um dos aspectos citados.\n\n**Conceito-chave:**\nInterpretação de texto crítico-argumentativo em inglês e a relação entre ficção e realidade. Compreender que uma obra de ficção pode servir de alegoria (stand-in) para processos sociais concretos permite identificar a base sobre a qual o autor constrói sua análise.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 71,
+      "ano": 2024,
+      "titulo": "Questão 71 - UNICAMP 2024",
+      "enunciado": "“Guardians of the Galaxy Vol.3” does something few movies have ever done: it tells a compassionate story about testing on animals to a Marvel-size audience. The film features gorgeously animated animals who take moviegoers on an emotional roller­ coaster while exposing the evils of animal testing. The strength of James Gunn’s screenplay lies in the fact that it doesn’t back away from the tough subject matter, and we’re thrilled by a story about having empathy for all animals. For his compelling portrayal of Rocket and for reminding moviegoers that animals tortured in laboratories are not the numbers tattooed on them, PETA (People for the Ethical Treatment of Animals) is honoring Gunn with the “Not a Number” Award. (Adaptado de: https://www.peta.org/blog/guardians-of-the-galaxy-vol-3/. Acesso em 19/05/2023.) Para a autora dessa crítica, o diferencial do filme está",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) na coragem do roteiro em dar destaque à polêmica de expe­ rimentação em animais para testes.",
+        "B) no ineditismo da abordagem do tema em produções de grande alcance, como os filmes da Marvel.",
+        "C) no retrato das emoções de animais usados em experimentos em laboratórios.",
+        "D) no impacto da abordagem do tema para órgãos de grande repercussão, como a PETA."
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "A",
+      "explicacao": "**Por que a alternativa A está correta:**\nPara a autora da crítica, a força do roteiro de James Gunn em \"Guardians of the Galaxy Vol. 3\" está em não recuar diante de um tema difícil (\"it doesn't back away from the tough subject matter\"): a experimentação em animais. O diferencial apontado é justamente a coragem do roteiro em dar destaque a essa polêmica para um público enorme, do tamanho da Marvel.\n\nPor isso a alternativa A é a correta. As demais tratam de aspectos mencionados apenas de passagem: o alcance das produções Marvel (B) é o contexto, não o diferencial em si; o retrato das emoções dos animais (C) é consequência do enredo; e o prêmio da PETA (D) é reconhecimento externo, não o mérito central destacado pela crítica.\n\n**Conceito-chave:**\nLocalização da tese/opinião do autor em um texto de crítica em inglês. É preciso separar o argumento central (o que a autora considera o mérito principal do filme) dos elementos acessórios que apenas o acompanham ou ilustram.",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    },
+    {
+      "numero": 72,
+      "ano": 2024,
+      "titulo": "Questão 72 - UNICAMP 2024",
+      "enunciado": "No trecho a seguir, observa-se o uso de uma variedade linguís­ tica de inglês conhecida como African American Vernacular English (AAVE). Ainda que tão diversa e sofisticada quanto quaisquer outras variedades, a AAVE ainda é estigmatizada por ter características linguísticas diferentes daquelas que marcam a variedade de prestígio, isto é, a padrão. Assinale a alternativa que preenche corretamente as lacunas no trecho a seguir: É correto dizer que o excerto apresenta aspectos linguísticos – que diferem dos observados na variedade padrão – como (i) _________, e que sua temática central é a (ii) ________.",
+      "alternativas_introducao": "",
+      "alternativas": [
+        "A) (i) a repetição do verbo de ligação; (ii) corrupção e o sofri­ mento inerentes ao homem.",
+        "B) (i) a possibilidade de dupla negação; (ii) previsibilidade da vontade de Deus.",
+        "C) (i) a concordância verbal não padrão; (ii) ilusão do homem quanto à sua superioridade.",
+        "D) (i) a omissão de sujeito em orações; (ii) ganância do homem em se sobrepor a Deus. “– Listen, God love everything you love – and a mess of stuff you don't. (…) It always making little surprises and springing them on us when us least expect. (…) Man corrupt everything (…) He try to make you think he everywhere (…), you think he God. But he ain't. (…) I start to wonder why us suffer. Why us black. It didn’t take long to realize I didn’t hardly know nothing.” (Adaptado de: WALKER, Alice. The Color Purple. London: The Orion Publishing Group, 1983.)"
+      ],
+      "imagens_alternativas": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "imagem_principal": "",
+      "imagens_extras": [],
+      "correta": "C",
+      "explicacao": "**Por que a alternativa C está correta:**\nO trecho de \"The Color Purple\", de Alice Walker, exemplifica o African American Vernacular English (AAVE) com marcas de concordância verbal não padrão: \"God love everything\", \"It always making\", \"Man corrupt everything\", \"He try to make you think\" e \"why us suffer\" — todas sem a flexão da variedade padrão. Esse é o aspecto linguístico da lacuna (i).\n\nQuanto ao tema (ii), o excerto discute a ilusão do homem quanto à sua superioridade, sobretudo em relação a Deus: \"He try to make you think he everywhere (…), you think he God. But he ain't\", desfazendo a pretensão humana de se equiparar ao divino. A combinação \"concordância verbal não padrão\" + \"ilusão do homem quanto à sua superioridade\" corresponde exatamente à alternativa C.\n\n**Conceito-chave:**\nVariação linguística e leitura temática em inglês. Reconhecer o AAVE por traços gramaticais estigmatizados (como a concordância verbal fora do padrão de prestígio) e articular esses traços à mensagem do texto exige separar a análise da forma (linguística) da análise do conteúdo (temática).",
+      "fonte": "unicamp_oficial",
+      "fonte_url": "https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf"
+    }
+  ]
+}

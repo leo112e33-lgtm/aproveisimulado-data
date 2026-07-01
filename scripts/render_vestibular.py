@@ -12,7 +12,9 @@ HERE = os.path.dirname(__file__)
 PDF = os.path.join(HERE, "..", ".provas", f"{BANCA}_{ANO}_f1.pdf")
 IMGDIR = os.path.join(HERE, "..", "vestibular", BANCA, "img")
 JSONP = os.path.join(HERE, "..", "vestibular", BANCA, f"{ANO}.json")
-ZOOM = 3.0; MIDX = 297.0; COL_TOP = 56.0; COL_BOT = 800.0
+ZOOM = 3.0; COL_TOP = 56.0; COL_BOT = 800.0
+SINGLECOL = (BANCA == "unicamp")
+MIDX = 99999.0 if SINGLECOL else 297.0   # coluna unica: tudo vira band 0
 d = fitz.open(PDF)
 if MODE == "brace":   NUM = re.compile(r"^\{0*(\d{1,2})\}$")
 elif MODE == "questao": NUM = re.compile(r"^QUEST[ÃA]O\s*0*(\d{1,2})\b", re.I)
@@ -42,6 +44,7 @@ mby = {m[0]: i for i, m in enumerate(marks)}
 
 def band_x(bd):
     pw = d[0].rect.width
+    if SINGLECOL: return (26, pw - 26)
     return (28, MIDX - 3) if bd == 0 else (MIDX + 3, pw - 28)
 
 def render_q(num):
@@ -77,10 +80,11 @@ for num in sorted(ALVOS):
     if num not in mby: print(f"Q{num}: marcador nao encontrado"); continue
     r = render_q(num)
     if r: done[num] = r[0]; print(f"Q{num}: {r[1]} regiao(oes) -> {r[0]}")
+LETRAS = "ABCD" if SINGLECOL else "ABCDE"   # UNICAMP: 4 alternativas
 for q in doc["questoes"]:
     if q["numero"] in done:
         q["enunciado"] = f"![]({done[q['numero']]})"
-        q["alternativas"] = [f"{L})" for L in "ABCDE"]
-        q["imagens_alternativas"] = [None]*5
+        q["alternativas"] = [f"{L})" for L in LETRAS]
+        q["imagens_alternativas"] = [None]*len(LETRAS)
 json.dump(doc, open(JSONP, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
 print("atualizadas:", sorted(done.keys()))

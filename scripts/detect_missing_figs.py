@@ -8,7 +8,9 @@ HERE = os.path.dirname(__file__)
 PDF = os.path.join(HERE, "..", ".provas", f"{BANCA}_{ANO}_f1.pdf")
 EXP = json.load(open(os.path.join(HERE, f"_{BANCA}_extract_{ANO}.json"), encoding="utf-8"))
 nfigs = {q["numero"]: q["n_figs"] for q in EXP}
-d = fitz.open(PDF); MIDX = 297.0
+d = fitz.open(PDF)
+SINGLECOL = (BANCA == "unicamp")
+MIDX = 99999.0 if SINGLECOL else 297.0
 if MODE == "brace": NUM = re.compile(r"^\{0*(\d{1,2})\}$")
 elif MODE == "questao": NUM = re.compile(r"^QUEST[ÃA]O\s*0*(\d{1,2})\b", re.I)
 else: NUM = re.compile(r"^0*(\d{1,2})$")
@@ -41,7 +43,7 @@ for i in range(d.page_count):
 
 def region_fig_area(pa, ba, ya, pb, bb, yb):
     """maior cluster de desenho na regiao da questao (mesma pagina+band da marca)."""
-    x0, x1 = (28, MIDX) if ba == 0 else (MIDX, 568)
+    x0, x1 = (26, 570) if SINGLECOL else ((28, MIDX) if ba == 0 else (MIDX, 568))
     y1 = yb if (pb == pa and bb == ba) else 800
     best = 0
     for r in draws.get(pa, []):
