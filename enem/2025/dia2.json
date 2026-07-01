@@ -737,14 +737,14 @@
       "dia": 2,
       "numero": 27,
       "titulo": "Questão 27 - ENEM 2025",
-      "enunciado": "Para a produção de titânio metálico ou dióxido de titânio puros, é necessário fazer a cloração do minério que contém dióxido de titânio, com o objetivo de separar esse óxido de outras substâncias presentes no minério. A principal reação química de cloração é representada por: TiO2 (s) + 2 Cl2 (g) TiCl4 (g) + O2 (g) ΔH = +175 kJ/mol Depois da cloração, o tetracloreto de titânio é condensado e convertido, novamente, a dióxido de titânio. Após o sistema atingir o equilíbrio químico, como a formação do TiCl4 pode ser favorecida?",
+      "enunciado": "Para a produção de titânio metálico ou dióxido de titânio puros, é necessário fazer a cloração do minério que contém dióxido de titânio, com o objetivo de separar esse óxido de outras substâncias presentes no minério. A principal reação química de cloração é representada por: TiO₂ (s) + 2 Cl₂ (g) ⇌ TiCl₄ (g) + O₂ (g)   ΔH = +175 kJ/mol Depois da cloração, o tetracloreto de titânio é condensado e convertido, novamente, a dióxido de titânio. Após o sistema atingir o equilíbrio químico, como a formação do TiCl₄ pode ser favorecida?",
       "alternativas_introducao": "",
       "alternativas": [
         "A) Aumentando a pressão total do sistema.",
         "B) Diminuindo a temperatura do sistema.",
-        "C) Aumentando a pressão parcial de O2.",
-        "D) Aumentando a pressão parcial de Cl2.",
-        "E) Variando a quantidade de TiO2."
+        "C) Aumentando a pressão parcial de O₂.",
+        "D) Aumentando a pressão parcial de Cl₂.",
+        "E) Variando a quantidade de TiO₂."
       ],
       "imagens_alternativas": [
         null,
@@ -765,7 +765,7 @@
       "dia": 2,
       "numero": 28,
       "titulo": "Questão 28 - ENEM 2025",
-      "enunciado": "A laje de um depósito de bebidas tem 50 m2 de área útil de armazenamento e foi projetada para suportar pressões de até 104 Pa. O gerente do estabelecimento pretende armazenar um produto cuja densidade é 1 250 kg/m3. Considere a aceleração da gravidade igual a 10 m/s2. A altura máxima, em metro, de empilhamento do produto que essa laje é capaz de suportar é",
+      "enunciado": "A laje de um depósito de bebidas tem 50 m² de área útil de armazenamento e foi projetada para suportar pressões de até 10⁴ Pa. O gerente do estabelecimento pretende armazenar um produto cuja densidade é 1 250 kg/m³. Considere a aceleração da gravidade igual a 10 m/s². A altura máxima, em metro, de empilhamento do produto que essa laje é capaz de suportar é",
       "alternativas_introducao": "",
       "alternativas": [
         "A) 0,16 m.",
@@ -1157,7 +1157,7 @@
       "dia": 2,
       "numero": 42,
       "titulo": "Questão 42 - ENEM 2025",
-      "enunciado": "O nível sonoro, em decibel (dB), é calculado pela expressão: n I I\n\n\u001b \u001a \u0019 log Uma conversa normal entre duas pessoas gera sons de níveis sonoros entre 50 e 60 dB, enquanto pessoas gritando podem gerar sons de níveis superiores a 100 dB. Supondo que, no centro de um estádio de futebol, foram realizadas medidas para avaliar o ruído médio de uma pessoa gritando a palavra “gol” em diferentes posições das arquibancadas. O valor médio obtido, considerando um grande número de medidas, foi de 100 dB. Com esse dado, estimou-se o ruído sonoro produzido por 10 000 pessoas, distribuídas aleatoriamente nas arquibancadas, enquanto gritavam, simultaneamente, a palavra “gol”. O valor médio estimado para o ruído produzido por essas pessoas, na posição central desse estádio hipotético, foi de",
+      "enunciado": "O nível sonoro, em decibel (dB), é calculado pela expressão: n = 10 log₁₀(I/I₀)\n\nUma conversa normal entre duas pessoas gera sons de níveis sonoros entre 50 e 60 dB, enquanto pessoas gritando podem gerar sons de níveis superiores a 100 dB. Supondo que, no centro de um estádio de futebol, foram realizadas medidas para avaliar o ruído médio de uma pessoa gritando a palavra \"gol\" em diferentes posições das arquibancadas. O valor médio obtido, considerando um grande número de medidas, foi de 100 dB. Com esse dado, estimou-se o ruído sonoro produzido por 10 000 pessoas, distribuídas aleatoriamente nas arquibancadas, enquanto gritavam, simultaneamente, a palavra \"gol\".\n\nO valor médio estimado para o ruído produzido por essas pessoas, na posição central desse estádio hipotético, foi de",
       "alternativas_introducao": "",
       "alternativas": [
         "A) 60 dB.",
@@ -1300,11 +1300,11 @@
       "enunciado": "A reportagem de uma revista abordou o uso de redes sociais pelos internautas brasileiros. Alguns dos dados apurados pela reportagem estão apresentados no infográfico. Perfil dos brasileiros nas redes sociais Disponível em: http://revistagalileu.globo.com. Acesso em: 22 out. 2015 (adaptado). Segundo os dados do infográfico, ao se escolher aleatoriamente um internauta brasileiro no período ao qual se refere a reportagem, a probabilidade de ele ser um homem que acessa alguma rede social é\n\n![](enem/2025/img/2025_d2_q47_fig1.png)",
       "alternativas_introducao": "",
       "alternativas": [
-        "A) 30",
-        "B) 36",
-        "C) 40",
-        "D) 40",
-        "E) 46"
+        "A) 30/90",
+        "B) 36/100",
+        "C) 40/100",
+        "D) 40/90",
+        "E) 46/90"
       ],
       "imagens_alternativas": [
         null,
@@ -1353,7 +1353,7 @@
       "dia": 2,
       "numero": 49,
       "titulo": "Questão 49 - ENEM 2025",
-      "enunciado": "No entorno de uma lagoa circular, cujo raio mede 1 km, há um uma ciclovia. Devido aos frequentes roubos de bicicleta, a prefeitura planeja alocar policiais em posições estratégicas para patrulhar essa ciclovia, de forma a torná-la totalmente protegida. Um ponto da ciclovia é considerado protegido se houver pelo menos um policial a, no máximo, 200 m de distância daquele ponto, posicionado sobre a ciclovia. A figura ilustra um ponto P sobre a ciclovia, que estará protegido se houver pelo menos um policial posicionado sobre a região de cor cinza escuro. Desconsidere a largura da pista da ciclovia e utilize 3 como aproximação para p. Nessas condições, a quantidade mínima necessária de policiais a serem alocados ao longo dessa ciclovia para torná-la protegida é\n\n![](enem/2025/img/2025_d2_q49_fig1.png)",
+      "enunciado": "No entorno de uma lagoa circular, cujo raio mede 1 km, há um uma ciclovia. Devido aos frequentes roubos de bicicleta, a prefeitura planeja alocar policiais em posições estratégicas para patrulhar essa ciclovia, de forma a torná-la totalmente protegida. Um ponto da ciclovia é considerado protegido se houver pelo menos um policial a, no máximo, 200 m de distância daquele ponto, posicionado sobre a ciclovia. A figura ilustra um ponto P sobre a ciclovia, que estará protegido se houver pelo menos um policial posicionado sobre a região de cor cinza escuro. Desconsidere a largura da pista da ciclovia e utilize 3 como aproximação para π. Nessas condições, a quantidade mínima necessária de policiais a serem alocados ao longo dessa ciclovia para torná-la protegida é\n\n![](enem/2025/img/2025_d2_q49_fig1.png)",
       "alternativas_introducao": "",
       "alternativas": [
         "A) 4.",
@@ -1440,11 +1440,11 @@
       "enunciado": "![](enem/2025/img/2025_d2_q52_full.png)",
       "alternativas_introducao": "",
       "alternativas": [
-        "A)",
-        "B)",
-        "C)",
-        "D)",
-        "E)"
+        "A) 360.",
+        "B) 370.",
+        "C) 380.",
+        "D) 390.",
+        "E) 400."
       ],
       "imagens_alternativas": [
         null,
@@ -1913,7 +1913,7 @@
       "dia": 2,
       "numero": 69,
       "titulo": "Questão 69 - ENEM 2025",
-      "enunciado": "O dono de uma sorveteria armazena sorvete em potes de 20 000 cm3. Ele serve o sorvete em taças, em porções de 250 mL. A quantidade de taças que ele consegue servir a partir de um pote cheio de sorvete é",
+      "enunciado": "O dono de uma sorveteria armazena sorvete em potes de 20 000 cm³. Ele serve o sorvete em taças, em porções de 250 mL. A quantidade de taças que ele consegue servir a partir de um pote cheio de sorvete é",
       "alternativas_introducao": "",
       "alternativas": [
         "A) 5.",
@@ -2084,11 +2084,11 @@
       "enunciado": "![](enem/2025/img/2025_d2_q75_full.png)",
       "alternativas_introducao": "",
       "alternativas": [
-        "A)",
-        "B)",
-        "C)",
-        "D)",
-        "E)"
+        "A) 1.",
+        "B) 2.",
+        "C) 3.",
+        "D) 4.",
+        "E) 5."
       ],
       "imagens_alternativas": [
         null,
@@ -2165,14 +2165,14 @@
       "dia": 2,
       "numero": 78,
       "titulo": "Questão 78 - ENEM 2025",
-      "enunciado": "![](enem/2025/img/2025_d2_q78_full.png)",
+      "enunciado": "Em um país, a primeira etapa para obtenção da carteira de motorista é a contratação de três produtos:\n• pacote com 20 aulas teóricas;\n• pacote com 10 aulas práticas;\n• aluguel do veículo para realização das aulas práticas.\n\nUma pessoa que pretende obter a carteira de motorista pesquisou o valor do aluguel do veículo e os valores de cada aula teórica e de cada aula prática em três autoescolas. O quadro apresenta esses valores.\n\n| Autoescola | Valor de cada aula teórica (R$) | Valor de cada aula prática (R$) | Aluguel do veículo (R$) |\n| --- | --- | --- | --- |\n| I | 10 | 80 | 400 |\n| II | 30 | 50 | 200 |\n| III | 20 | 40 | 400 |\n\nEla contratará os três produtos numa mesma autoescola de modo que o custo total nessa primeira etapa seja o menor possível.\n\nA autoescola que será contratada é a",
       "alternativas_introducao": "",
       "alternativas": [
-        "A)",
-        "B)",
-        "C)",
-        "D)",
-        "E)"
+        "A) I, com o custo total de R$ 1 400,00.",
+        "B) II, com o custo total de R$ 280,00.",
+        "C) II, com o custo total de R$ 1 300,00.",
+        "D) III, com o custo total de R$ 460,00.",
+        "E) III, com o custo total de R$ 1 200,00."
       ],
       "imagens_alternativas": [
         null,
@@ -2280,11 +2280,11 @@
       "enunciado": "Um empresário utiliza máquinas cuja pressão interna P, em atmosfera, depende do tempo contínuo de utilização t, em hora, e de um parâmetro positivo K, que define o modelo da máquina, segundo a expressão: P = 4 ⋅ log[−K ⋅ (t + 1) ⋅ (t − 19)] O fabricante dessas máquinas recomenda ao usuário que a pressão interna desse tipo de máquina não ultrapasse 10 atmosferas durante seu funcionamento. O empresário pretende comprar novas máquinas desse tipo que deverão funcionar, diariamente, por um período contínuo de 10 horas. Para isso, precisa definir o modelo de máquina a ser adquirida escolhendo o maior valor possível do parâmetro K, atendendo à recomendação do fabricante. O maior valor a ser escolhido para K é",
       "alternativas_introducao": "",
       "alternativas": [
-        "A) 100,5",
-        "B) 108",
-        "C) 10 2 5,",
-        "D) 10 2 5,",
-        "E) 25 × 10−2"
+        "A) 10⁰,⁵",
+        "B) 10⁸",
+        "C) 10²,⁵ / 84",
+        "D) 10²,⁵ / 99",
+        "E) 25 × 10⁻²"
       ],
       "imagens_alternativas": [
         null,
@@ -2305,13 +2305,13 @@
       "dia": 2,
       "numero": 83,
       "titulo": "Questão 83 - ENEM 2025",
-      "enunciado": "Em uma cidade, será construído um túnel que atravessa uma montanha para facilitar o trânsito de automóveis e bicicletas. Dois projetos foram elaborados e os esquemas com as vistas frontais desses projetos são apresentados na figura. O Projeto 1 conta com dois túneis, um exclusivo para bicicletas e o outro, para automóveis. O Projeto 2 conta com um único túnel, com espaços reservados para o trânsito exclusivo de bicicletas e automóveis. Nos dois projetos, os túneis têm o formato de semicilindro reto de mesma extensão, com vias de ida e volta para os dois tipos de veículos, separados por muretas. O projeto a ser aprovado será aquele que apresentar a menor área da seção transversal, pois implicará menor volume de material retirado da montanha. Considere 3 como aproximação para p e desconsidere as espessuras das muretas. O projeto a ser aprovado é\n\n![](enem/2025/img/2025_d2_q83_fig1.png)",
+      "enunciado": "Em uma cidade, será construído um túnel que atravessa uma montanha para facilitar o trânsito de automóveis e bicicletas. Dois projetos foram elaborados e os esquemas com as vistas frontais desses projetos são apresentados na figura. O Projeto 1 conta com dois túneis, um exclusivo para bicicletas e o outro, para automóveis. O Projeto 2 conta com um único túnel, com espaços reservados para o trânsito exclusivo de bicicletas e automóveis. Nos dois projetos, os túneis têm o formato de semicilindro reto de mesma extensão, com vias de ida e volta para os dois tipos de veículos, separados por muretas. O projeto a ser aprovado será aquele que apresentar a menor área da seção transversal, pois implicará menor volume de material retirado da montanha. Considere 3 como aproximação para π e desconsidere as espessuras das muretas. O projeto a ser aprovado é\n\n![](enem/2025/img/2025_d2_q83_fig1.png)",
       "alternativas_introducao": "",
       "alternativas": [
-        "A) o 1, pois apresenta área de seção transversal medindo 67,5 m2.",
-        "B) o 2, pois apresenta área de seção transversal medindo 121,5 m2.",
-        "C) o 1, pois apresenta área de seção transversal medindo 135 m2.",
-        "D) o 2, pois apresenta área de seção transversal medindo 243 m2.",
+        "A) o 1, pois apresenta área de seção transversal medindo 67,5 m².",
+        "B) o 2, pois apresenta área de seção transversal medindo 121,5 m².",
+        "C) o 1, pois apresenta área de seção transversal medindo 135 m².",
+        "D) o 2, pois apresenta área de seção transversal medindo 243 m².",
         "E) qualquer um dos dois, pois apresentam áreas de suas seções transversais com medidas iguais."
       ],
       "imagens_alternativas": [
@@ -2417,7 +2417,7 @@
       "dia": 2,
       "numero": 87,
       "titulo": "Questão 87 - ENEM 2025",
-      "enunciado": "A figura ilustra o projeto visual para confecção de uma medalha comemorativa, com a forma de um cilindro circular reto, de diâmetro 6 cm e espessura 3 mm. A figura ABCD tem a forma de um quadrado e é a base de um prisma que atravessa toda a medalha. A região da medalha externa a esse prisma será cunhada em ouro. Pretende-se cunhar 100 dessas medalhas. Considere 3,1 como valor aproximado para p. Qual é o volume de ouro, em centímetro cúbico, necessário para a confecção dessas medalhas?\n\n![](enem/2025/img/2025_d2_q87_fig1.png)",
+      "enunciado": "A figura ilustra o projeto visual para confecção de uma medalha comemorativa, com a forma de um cilindro circular reto, de diâmetro 6 cm e espessura 3 mm. A figura ABCD tem a forma de um quadrado e é a base de um prisma que atravessa toda a medalha. A região da medalha externa a esse prisma será cunhada em ouro. Pretende-se cunhar 100 dessas medalhas. Considere 3,1 como valor aproximado para π. Qual é o volume de ouro, em centímetro cúbico, necessário para a confecção dessas medalhas?\n\n![](enem/2025/img/2025_d2_q87_fig1.png)",
       "alternativas_introducao": "",
       "alternativas": [
         "A) 288",
@@ -2448,11 +2448,11 @@
       "enunciado": "Três dados cúbicos, com faces numeradas de 1 a 6, foram utilizados em um jogo. Artur escolheu dois dados, e João ficou com o terceiro. O jogo consiste em ambos lançarem seus dados, observarem os números nas faces voltadas para cima e compararem o maior número obtido por Artur com o número obtido por João. Vence o jogador que obtiver o maior número. Em caso de empate, a vitória é de João. O jogador que tem a maior probabilidade de vitória é",
       "alternativas_introducao": "",
       "alternativas": [
-        "A) Artur, com probabilidade de 2",
-        "B) João, com probabilidade de 4",
-        "C) Artur, com probabilidade de 91",
-        "D) João, com probabilidade de 91",
-        "E) Artur, com probabilidade de 125"
+        "A) Artur, com probabilidade de 2/3",
+        "B) João, com probabilidade de 4/9",
+        "C) Artur, com probabilidade de 91/216",
+        "D) João, com probabilidade de 91/216",
+        "E) Artur, com probabilidade de 125/216"
       ],
       "imagens_alternativas": [
         null,
@@ -2476,11 +2476,11 @@
       "enunciado": "A luminância de um objeto é a grandeza que descreve a quantidade de luz produzida ou refletida por sua superfície. Ela está definida como a razão entre a intensidade luminosa, medida em candela (cd), e o quadrado da distância do objeto até o foco de luz, medida em metro (m). A unidade de medida da luminância de um objeto é",
       "alternativas_introducao": "",
       "alternativas": [
-        "A) cd m2",
-        "B) m cd",
-        "C) cd m",
-        "D) m cd",
-        "E) m cd2"
+        "A) cd/m²",
+        "B) m²/cd",
+        "C) cd/m",
+        "D) m/cd",
+        "E) m/cd²"
       ],
       "imagens_alternativas": [
         null,

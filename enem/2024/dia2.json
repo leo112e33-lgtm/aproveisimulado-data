@@ -765,7 +765,7 @@
       "dia": 2,
       "numero": 28,
       "titulo": "Questão 28 - ENEM 2024",
-      "enunciado": "A hidroxiapatita, Ca5(PO4)3OH, é um mineral constituinte do esmalte dos dentes. Entre as diversas reações que ocorrem no meio bucal, encontram-se em equilíbrio as reações de desmineralização e mineralização da hidroxiapatita em meio aquoso, ilustradas a seguir. A desmineralização está associada à fragilização do esmalte do dente e à formação de cáries. Ca5(PO4)3OH (s) + H+ (aq) 5 Ca2+ (aq) + 3 PO4 3− (aq) + H2O (l) Desmineralização Mineralização O uso de creme dental pode minimizar a perda da hidroxiapatita. O quadro apresenta o agente de polimento e o pH de alguns cremes dentais comerciais. Creme dental Agente de polimento pH I Bicarbonato de sódio 9,5 II Carbonato de cálcio 11,0 III Citrato de potássio 7,7 IV Dióxido de silício 6,9 V Fosfato de cálcio 7,3 STORGATTO, G. A.; BRAIBANTE, M. E. F.; BRAIBANTE, H. T. S. A química na odontologia. Química Nova na Escola, v. 39, fev. 2017 (adaptado). Considerando o equilíbrio químico envolvido, qual creme dental promove a maior desmineralização do esmalte do dente?",
+      "enunciado": "A hidroxiapatita, Ca₅(PO₄)₃OH, é um mineral constituinte do esmalte dos dentes. Entre as diversas reações que ocorrem no meio bucal, encontram-se em equilíbrio as reações de desmineralização e mineralização da hidroxiapatita em meio aquoso, ilustradas a seguir. A desmineralização está associada à fragilização do esmalte do dente e à formação de cáries. Ca₅(PO₄)₃OH (s) + H⁺ (aq) ⇌ 5 Ca²⁺ (aq) + 3 PO₄³⁻ (aq) + H₂O (l) Desmineralização Mineralização O uso de creme dental pode minimizar a perda da hidroxiapatita. O quadro apresenta o agente de polimento e o pH de alguns cremes dentais comerciais. Creme dental Agente de polimento pH I Bicarbonato de sódio 9,5 II Carbonato de cálcio 11,0 III Citrato de potássio 7,7 IV Dióxido de silício 6,9 V Fosfato de cálcio 7,3 STORGATTO, G. A.; BRAIBANTE, M. E. F.; BRAIBANTE, H. T. S. A química na odontologia. Química Nova na Escola, v. 39, fev. 2017 (adaptado). Considerando o equilíbrio químico envolvido, qual creme dental promove a maior desmineralização do esmalte do dente?",
       "alternativas_introducao": "",
       "alternativas": [
         "A) I",
@@ -1241,7 +1241,7 @@
       "dia": 2,
       "numero": 45,
       "titulo": "Questão 45 - ENEM 2024",
-      "enunciado": "Brasil fecha 2020 entre os maiores recicladores de latas de alumínio A bauxita contém alumina (Al2O3), que é a matéria-prima para produção do alumínio (Al). De forma geral, são necessários 50 kg de bauxita para produzir 10 kg de alumínio. O Brasil fechou 2020 como um dos principais líderes mundiais em reciclagem de latas de alumínio. De acordo com levantamento da Associação Brasileira dos Fabricantes de Latas de Alumínio (Abralatas), o país obteve um índice de reciclagem de 97,4%, de um total de 4,0 × 105 toneladas de latas vendidas. Considere que a lata é constituída de alumínio puro. Disponível em: https://agenciabrasil.ebc.com.br. Acesso em: 30 nov. 2021 (adaptado). Levando em conta apenas a reciclagem de latas, qual é o valor mais próximo da massa de bauxita, em tonelada, que deixou de ser extraída da natureza em 2020 no Brasil?",
+      "enunciado": "Brasil fecha 2020 entre os maiores recicladores de latas de alumínio A bauxita contém alumina (Al₂O₃), que é a matéria-prima para produção do alumínio (Al). De forma geral, são necessários 50 kg de bauxita para produzir 10 kg de alumínio. O Brasil fechou 2020 como um dos principais líderes mundiais em reciclagem de latas de alumínio. De acordo com levantamento da Associação Brasileira dos Fabricantes de Latas de Alumínio (Abralatas), o país obteve um índice de reciclagem de 97,4%, de um total de 4,0 × 10⁵ toneladas de latas vendidas. Considere que a lata é constituída de alumínio puro. Disponível em: https://agenciabrasil.ebc.com.br. Acesso em: 30 nov. 2021 (adaptado). Levando em conta apenas a reciclagem de latas, qual é o valor mais próximo da massa de bauxita, em tonelada, que deixou de ser extraída da natureza em 2020 no Brasil?",
       "alternativas_introducao": "",
       "alternativas": [
         "A) 1,0 × 10⁴ ton",
@@ -1269,7 +1269,7 @@
       "dia": 2,
       "numero": 46,
       "titulo": "Questão 46 - ENEM 2024",
-      "enunciado": "O tamanho mínimo que a visão humana é capaz de visualizar sem o uso de equipamento auxiliar é equivalente a 100 micrômetros (1 micrômetro = 10-3 milímetros). Uma estudante pretende visualizar e analisar hemácias do sangue humano, que medem 0,007 mm de diâmetro. Ela adquiriu um microscópio óptico que tem uma lente ocular que amplia em 10 vezes a imagem do objeto em observação, e um conjunto de lentes objetivas com estas capacidades de ampliação: • lente I: 2 vezes; • lente II: 10 vezes; • lente III: 15 vezes; • lente IV: 1,1 vez; • lente V: 1,4 vez. O funcionamento desse microscópio permite o uso da lente ocular sozinha ou a combinação dela com uma de suas lentes objetivas, proporcionando, nesse caso, um aumento de sua capacidade de ampliação final, que é dada pelo produto entre as capacidades de ampliação da ocular e da objetiva. Essa estudante pretende selecionar a lente objetiva de menor capacidade de ampliação que permita, na combinação com a ocular, visualizar hemácias do sangue humano. A lente objetiva a ser selecionada pela estudante é a\n\n![](enem/2024/img/2024_d2_q46_fig1.png)",
+      "enunciado": "O tamanho mínimo que a visão humana é capaz de visualizar sem o uso de equipamento auxiliar é equivalente a 100 micrômetros (1 micrômetro = 10⁻³ milímetros). Uma estudante pretende visualizar e analisar hemácias do sangue humano, que medem 0,007 mm de diâmetro. Ela adquiriu um microscópio óptico que tem uma lente ocular que amplia em 10 vezes a imagem do objeto em observação, e um conjunto de lentes objetivas com estas capacidades de ampliação: • lente I: 2 vezes; • lente II: 10 vezes; • lente III: 15 vezes; • lente IV: 1,1 vez; • lente V: 1,4 vez. O funcionamento desse microscópio permite o uso da lente ocular sozinha ou a combinação dela com uma de suas lentes objetivas, proporcionando, nesse caso, um aumento de sua capacidade de ampliação final, que é dada pelo produto entre as capacidades de ampliação da ocular e da objetiva. Essa estudante pretende selecionar a lente objetiva de menor capacidade de ampliação que permita, na combinação com a ocular, visualizar hemácias do sangue humano. A lente objetiva a ser selecionada pela estudante é a\n\n![](enem/2024/img/2024_d2_q46_fig1.png)",
       "alternativas_introducao": "",
       "alternativas": [
         "A) I.",
@@ -1437,14 +1437,14 @@
       "dia": 2,
       "numero": 52,
       "titulo": "Questão 52 - ENEM 2024",
-      "enunciado": "Uma criança, utilizando um aplicativo, escreveu uma mensagem para enviar a um amigo. Essa mensagem foi escrita seguindo estas etapas: Etapas Visor de escrita 1a etapa: inseriu três fi guras do tipo no visor de escrita da mensagem; 2a etapa: copiou o que havia inserido anteriormente e colou (inseriu o que havia copiado) ao lado; 3a etapa: copiou o que tinha no visor na 2a etapa e colou ao lado. A criança seguiu copiando e colando, em cada etapa, o que tinha no visor na etapa imediatamente anterior, até concluir a 20a etapa. Em seguida, enviou a mensagem. Qual foi o total de figuras contidas na mensagem enviada?",
+      "enunciado": "Uma criança, utilizando um aplicativo, escreveu uma mensagem para enviar a um amigo. Essa mensagem foi escrita seguindo estas etapas: Etapas Visor de escrita 1ª etapa: inseriu três figuras do tipo no visor de escrita da mensagem; 2ª etapa: copiou o que havia inserido anteriormente e colou (inseriu o que havia copiado) ao lado; 3ª etapa: copiou o que tinha no visor na 2ª etapa e colou ao lado. A criança seguiu copiando e colando, em cada etapa, o que tinha no visor na etapa imediatamente anterior, até concluir a 20ª etapa. Em seguida, enviou a mensagem. Qual foi o total de figuras contidas na mensagem enviada?",
       "alternativas_introducao": "",
       "alternativas": [
-        "A) 3 × 219",
-        "B) 3 × 220",
-        "C) 3 × 221",
-        "D) 3 × 220 − 1",
-        "E) 3 × 220 − 3"
+        "A) 3 × 2¹⁹",
+        "B) 3 × 2²⁰",
+        "C) 3 × 2²¹",
+        "D) 3 × 2²⁰ − 1",
+        "E) 3 × 2²⁰ − 3"
       ],
       "imagens_alternativas": [
         null,
@@ -1638,9 +1638,9 @@
       "alternativas": [
         "A) 6",
         "B) 18",
-        "C) 6 6",
-        "D) 6 6",
-        "E) 3 12"
+        "C) 6√6",
+        "D) 6∛6",
+        "E) 3∛12"
       ],
       "imagens_alternativas": [
         null,
@@ -1773,14 +1773,14 @@
       "dia": 2,
       "numero": 64,
       "titulo": "Questão 64 - ENEM 2024",
-      "enunciado": "![](enem/2024/img/2024_d2_q64_full.png)",
+      "enunciado": "Contratos de vários serviços disponíveis na internet apresentam uma quantidade excessiva de informações. Isso faz com que o tempo necessário para a leitura desses contratos possa ser longo.\n\nO quadro apresenta uma amostra do tempo considerado necessário para a leitura completa do contrato de alguns serviços digitais.\n\n![](enem/2024/img/2024_d2_q64_full.png)\n\nO tempo médio, em minuto, necessário para a leitura completa de um contrato de serviço dentre os listados no quadro é, com uma casa decimal, aproximadamente,",
       "alternativas_introducao": "",
       "alternativas": [
-        "A)",
-        "B)",
-        "C)",
-        "D)",
-        "E)"
+        "A) 13,0",
+        "B) 15,0",
+        "C) 19,8",
+        "D) 20,0",
+        "E) 23,3"
       ],
       "imagens_alternativas": [
         null,
@@ -2081,14 +2081,14 @@
       "dia": 2,
       "numero": 75,
       "titulo": "Questão 75 - ENEM 2024",
-      "enunciado": "![](enem/2024/img/2024_d2_q75_full.png)",
+      "enunciado": "Para melhorar o fluxo de ônibus em uma avenida que tem dois semáforos, a prefeitura reduzirá o tempo em que cada sinal ficará vermelho, que atualmente é de 15 segundos a cada 60 segundos. Admita que o instante de chegada de um ônibus a cada semáforo é aleatório.\n\nO engenheiro de tráfego da prefeitura calculou a probabilidade de um ônibus encontrar cada um deles vermelho, obtendo 15/60. A partir daí, estabeleceu uma mesma redução na quantidade do tempo, em segundo, em que cada sinal ficará vermelho, de maneira que a probabilidade de um ônibus encontrar ambos os sinais vermelhos numa mesma viagem seja igual a 4/100, considerando os eventos independentes.\n\nPara isso, a redução do tempo em que o sinal ficará vermelho, em segundo, estabelecida pelo engenheiro foi de",
       "alternativas_introducao": "",
       "alternativas": [
-        "A)",
-        "B)",
-        "C)",
-        "D)",
-        "E)"
+        "A) 1,35",
+        "B) 3,00",
+        "C) 9,00",
+        "D) 12,60",
+        "E) 13,80"
       ],
       "imagens_alternativas": [
         null,
@@ -2109,14 +2109,14 @@
       "dia": 2,
       "numero": 76,
       "titulo": "Questão 76 - ENEM 2024",
-      "enunciado": "![](enem/2024/img/2024_d2_q76_full.png)",
+      "enunciado": "A densidade demográfica de uma região é definida como sendo a razão entre o número de habitantes dessa região e sua área, expressa na unidade habitantes por quilômetro quadrado.\n\nUma região R é subdividida em várias outras, sendo uma delas a região Q. A área de Q é igual a três quartos da área de R, e o número de habitantes de Q é igual à metade do número de habitantes de R. As densidades demográficas correspondentes a essas regiões são denotadas por d(Q) e d(R).\n\nA expressão que relaciona d(Q) e d(R) é",
       "alternativas_introducao": "",
       "alternativas": [
-        "A)",
-        "B)",
-        "C)",
-        "D)",
-        "E)"
+        "A) d(Q) = (1/4)·d(R)",
+        "B) d(Q) = (1/2)·d(R)",
+        "C) d(Q) = (3/4)·d(R)",
+        "D) d(Q) = (3/2)·d(R)",
+        "E) d(Q) = (2/3)·d(R)"
       ],
       "imagens_alternativas": [
         null,
@@ -2137,7 +2137,7 @@
       "dia": 2,
       "numero": 77,
       "titulo": "Questão 77 - ENEM 2024",
-      "enunciado": "Atualmente, há telefones celulares com telas de diversos tamanhos e em formatos retangulares. Alguns deles apresentam telas medindo 3 1 polegadas, com determinadas especificações técnicas. Além disso, em muitos modelos, com a inclusão de novas funções no celular, suas telas ficaram maiores, sendo muito comum encontrarmos atualmente telas medindo 4 5 6 polegadas, conforme a figura. Disponível em: www.tecmundo.com.br. Acesso em: 5 nov. 2014 (adaptado). A diferença de tamanho, em valor absoluto, entre as medidas, em polegada, das telas do celular 2 e do celular 1, representada apenas com uma casa decimal, é\n\n![](enem/2024/img/2024_d2_q77_fig1.png)",
+      "enunciado": "Atualmente, há telefones celulares com telas de diversos tamanhos e em formatos retangulares. Alguns deles apresentam telas medindo 3 1/2 polegadas, com determinadas especificações técnicas. Além disso, em muitos modelos, com a inclusão de novas funções no celular, suas telas ficaram maiores, sendo muito comum encontrarmos atualmente telas medindo 4 5/6 polegadas, conforme a figura. Disponível em: www.tecmundo.com.br. Acesso em: 5 nov. 2014 (adaptado). A diferença de tamanho, em valor absoluto, entre as medidas, em polegada, das telas do celular 2 e do celular 1, representada apenas com uma casa decimal, é\n\n![](enem/2024/img/2024_d2_q77_fig1.png)",
       "alternativas_introducao": "",
       "alternativas": [
         "A) 0,1.",
@@ -2196,11 +2196,11 @@
       "enunciado": "![](enem/2024/img/2024_d2_q79_full.png)",
       "alternativas_introducao": "",
       "alternativas": [
-        "A)",
-        "B)",
-        "C)",
-        "D)",
-        "E)"
+        "A) 1/25 + 1/25 + 1/25",
+        "B) 24/25 + 23/24 + 1/23",
+        "C) 1/25 × 1/24 × 1/23",
+        "D) 24/25 × 23/25 × 1/25",
+        "E) 24/25 × 23/24 × 1/23"
       ],
       "imagens_alternativas": [
         null,
@@ -2221,7 +2221,7 @@
       "dia": 2,
       "numero": 80,
       "titulo": "Questão 80 - ENEM 2024",
-      "enunciado": "Em uma região com grande incidência de terremotos, observou-se que dois terremotos ocorridos apresentaram magnitudes M1 e M2, medidos segundo a escala Richter, e liberaram energias iguais a E1 e E2, respectivamente. Entre os estudiosos do assunto, é conhecida uma expressão algébrica relacionando esses valores dada por M M E E\n\n\u001b \u001a \u0019 \u0018 log Estudos mais abrangentes observaram que o primeiro terremoto apresentou a magnitude M1 = 6,9 e a energia liberada foi um décimo da observada no segundo terremoto. O valor aproximado da magnitude M2 do segundo terremoto, expresso com uma casa decimal, é igual a",
+      "enunciado": "Em uma região com grande incidência de terremotos, observou-se que dois terremotos ocorridos apresentaram magnitudes M₁ e M₂, medidos segundo a escala Richter, e liberaram energias iguais a E₁ e E₂, respectivamente. Entre os estudiosos do assunto, é conhecida uma expressão algébrica relacionando esses valores dada por\n\nM₂ − M₁ = (2/3) log(E₂/E₁)\n\nEstudos mais abrangentes observaram que o primeiro terremoto apresentou a magnitude M₁ = 6,9 e a energia liberada foi um décimo da observada no segundo terremoto.\n\nO valor aproximado da magnitude M₂ do segundo terremoto, expresso com uma casa decimal, é igual a",
       "alternativas_introducao": "",
       "alternativas": [
         "A) 5,4.",
