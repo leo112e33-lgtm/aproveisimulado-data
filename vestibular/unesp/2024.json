@@ -2277,14 +2277,14 @@
       "numero": 85,
       "ano": 2024,
       "titulo": "Questão 85 - UNESP 2024",
-      "enunciado": "Seja a equação quadrática nx2 – x + 1 = 0, em que n é uma constante real, com duas raízes reais positivas e distintas. Assim, os valores de n que satisfazem essas condições são tais que:",
+      "enunciado": "Seja a equação quadrática nx² – x + 1 = 0, em que n é uma constante real, com duas raízes reais positivas e distintas. Assim, os valores de n que satisfazem essas condições são tais que:",
       "alternativas_introducao": "",
       "alternativas": [
-        "A)",
-        "B)",
-        "C)",
-        "D)",
-        "E)"
+        "A) 0 < n < 1/4",
+        "B) n < 1/4",
+        "C) –1/4 < n < 1/4",
+        "D) n > 1/4",
+        "E) –1/4 < n < 0"
       ],
       "imagens_alternativas": [
         null,
@@ -2334,11 +2334,11 @@
       "enunciado": "Ana somou dois números distintos sorteados ao acaso do conjunto {8,9,10}. Beto multiplicou dois números distintos sorteados ao acaso do conjunto {3,5,6}. A probabilidade de que o resultado obtido na conta de Ana tenha sido maior ou igual ao obtido na conta de Beto é igual a:",
       "alternativas_introducao": "",
       "alternativas": [
-        "A)",
-        "B)",
-        "C)",
-        "D)",
-        "E)"
+        "A) 1/3",
+        "B) 2/3",
+        "C) 4/9",
+        "D) 3/8",
+        "E) 5/9"
       ],
       "imagens_alternativas": [
         null,
