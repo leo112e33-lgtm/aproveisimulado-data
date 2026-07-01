@@ -333,14 +333,14 @@
       "numero": 13,
       "ano": 2024,
       "titulo": "Questão 13 - FUVEST 2024",
-      "enunciado": "![](vestibular/fuvest/img/2024_q13_full.png)",
+      "enunciado": "Matrizes podem ser usadas para se obter informações sobre uma rede social. Para compreender como isso pode ser feito, consideremos como exemplo uma pequena rede social formada por 4 pessoas: P₁, P₂, P₃, P₄. A matriz associada a essa rede social é a matriz 4 × 4:\n\nM = ⎛0 1 0 1⎞\n    ⎜0 0 1 0⎟\n    ⎜1 1 0 1⎟\n    ⎝1 0 1 0⎠\n\nO valor 1 (um) na posição a₃₂ (linha 3, coluna 2) da matriz significa que a pessoa P₃ segue a pessoa P₂, ao passo que o valor 0 (zero) na posição a₂₄ (linha 2, coluna 4) significa que a pessoa P₂ não segue a pessoa P₄. O valor 0 (zero) será atribuído às posições aᵢᵢ. O significado do valor da posição bₘₙ da matriz produto M × M = M² é a quantidade de conexões da pessoa Pₘ até a pessoa Pₙ passando exatamente por uma pessoa, diferente delas duas, que chamaremos de conexão de grau 2.\n\nDessa forma, os valores das posições da matriz M² podem refletir o alcance da rede social, suas potencialidades e fraquezas, a influência de certos membros dela, dentre outros aspectos.\n\nCom relação à rede social apresentada, é correto afirmar que:\n\nNote e adote: A posição bₘₙ da matriz produto M × M = M² é dada pela expressão bₘₙ = aₘ₁a₁ₙ + aₘ₂a₂ₙ + aₘ₃a₃ₙ + aₘ₄a₄ₙ",
       "alternativas_introducao": "",
       "alternativas": [
-        "A)",
-        "B)",
-        "C)",
-        "D)",
-        "E)"
+        "A) Existem 5 pares de pessoas diferentes (Pᵢ ≠ Pⱼ) que não possuem conexões de grau 2.",
+        "B) Existem 6 pares de pessoas diferentes (Pᵢ ≠ Pⱼ) que possuem apenas uma conexão de grau 2.",
+        "C) Existem 3 pares de pessoas diferentes (Pᵢ ≠ Pⱼ) que possuem 2 conexões de grau 2 diferentes.",
+        "D) Existem 3 pessoas que possuem conexões de grau 2 com todas as outras pessoas da rede social.",
+        "E) Existe apenas 1 pessoa Pᵢ (i ≠ 3) tal que Pᵢ e P₃ seguem-se mutuamente."
       ],
       "imagens_alternativas": [
         null,
@@ -711,11 +711,11 @@
       "numero": 27,
       "ano": 2024,
       "titulo": "Questão 27 - FUVEST 2024",
-      "enunciado": "Uma empresa júnior de alunos de engenharia projetou um termômetro mecânico para medir a temperatura do óleo utilizado em máquinas e equipamentos, com base na variação da densidade do óleo com a temperatura. Com essa finalidade, emprega-se um objeto de massa M igual a 18 g e volume de 20 cm3, que permanece imerso em um óleo e está preso, por um fio, ao fundo da superfície, conforme mostra a figura.\n![](vestibular/fuvest/img/2024_q27_fig1.png)\nA temperatura é medida por meio da variação na tensão do fio, que muda devido à variação da densidade do óleo com a temperatura. O gráfico a seguir mostra a dependência da densidade do óleo com a temperatura.\n![](vestibular/fuvest/img/2024_q27_fig2.png)\nNessa configuração, a temperatura na qual a tensão na corda se anula é igual a",
+      "enunciado": "Uma empresa júnior de alunos de engenharia projetou um termômetro mecânico para medir a temperatura do óleo utilizado em máquinas e equipamentos, com base na variação da densidade do óleo com a temperatura. Com essa finalidade, emprega-se um objeto de massa M igual a 18 g e volume de 20 cm³, que permanece imerso em um óleo e está preso, por um fio, ao fundo da superfície, conforme mostra a figura.\n![](vestibular/fuvest/img/2024_q27_fig1.png)\nA temperatura é medida por meio da variação na tensão do fio, que muda devido à variação da densidade do óleo com a temperatura. O gráfico a seguir mostra a dependência da densidade do óleo com a temperatura.\n![](vestibular/fuvest/img/2024_q27_fig2.png)\nNessa configuração, a temperatura na qual a tensão na corda se anula é igual a\n\nNote e adote: Despreze a massa do fio.",
       "alternativas_introducao": "",
       "alternativas": [
-        "A) 0°C Note e adote:",
-        "B) 75°C Despreze a massa do fio.",
+        "A) 0°C",
+        "B) 75°C",
         "C) 100°C",
         "D) 150°C",
         "E) 275°C"
@@ -792,14 +792,14 @@
       "numero": 30,
       "ano": 2024,
       "titulo": "Questão 30 - FUVEST 2024",
-      "enunciado": "Para gerar hidrogênio, foi utilizado o aparato ilustrado na figura.\n![](vestibular/fuvest/img/2024_q30_fig1.png)\nDurante o processo de geração de H2\n![](vestibular/fuvest/img/2024_q30_fig2.png)\nApós o processo de geração de H2 Ao frasco à esquerda adicionou-se uma quantidade pré- determinada de raspas de zinco metálico e ácido clorídrico. Em seguida, o frasco foi fechado com uma rolha conectada a uma tubulação. À medida que o hidrogênio é produzido pela reação Zn0(s) + 2H+(aq) → Zn2+(aq) + H2(g), o gás se acumula em uma proveta previamente cheia de água. Dado que a solubilidade do hidrogênio na água é desprezível, o volume ocupado pelo gás na proveta corresponde ao volume de hidrogênio produzido durante a reação. Considerando que, nas condições do experimento, foram gerados 49,8 mL de hidrogênio, qual a quantidade de Zn metálico, em gramas, que de fato reagiu?",
+      "enunciado": "Para gerar hidrogênio, foi utilizado o aparato ilustrado na figura.\n![](vestibular/fuvest/img/2024_q30_fig1.png)\nDurante o processo de geração de H₂\n![](vestibular/fuvest/img/2024_q30_fig2.png)\nApós o processo de geração de H₂\nAo frasco à esquerda adicionou-se uma quantidade pré-determinada de raspas de zinco metálico e ácido clorídrico. Em seguida, o frasco foi fechado com uma rolha conectada a uma tubulação. À medida que o hidrogênio é produzido pela reação Zn⁰(s) + 2H⁺(aq) → Zn²⁺(aq) + H₂(g), o gás se acumula em uma proveta previamente cheia de água. Dado que a solubilidade do hidrogênio na água é desprezível, o volume ocupado pelo gás na proveta corresponde ao volume de hidrogênio produzido durante a reação.\nConsiderando que, nas condições do experimento, foram gerados 49,8 mL de hidrogênio, qual a quantidade de Zn metálico, em gramas, que de fato reagiu?\nNote e adote: Volume molar do gás ideal nas condições do experimento = 24,9 L. Massa molar do Zn = 65,4 g/mol.",
       "alternativas_introducao": "",
       "alternativas": [
         "A) 0,07",
         "B) 0,13",
         "C) 0,26",
         "D) 0,29",
-        "E) 0,48 Note e adote: Volume molar do gás ideal nas condições do experimento = 24,9 L. Massa molar do Zn = 65,4 g/mol."
+        "E) 0,48"
       ],
       "imagens_alternativas": [
         null,
@@ -1305,14 +1305,14 @@
       "numero": 49,
       "ano": 2024,
       "titulo": "Questão 49 - FUVEST 2024",
-      "enunciado": "No Código de Obras e Edificações da Prefeitura de São Paulo, encontra-se a regulamentação para vagas de estacionamento em um edifício para diferentes tipos de veículos. De acordo com o código, as dimensões de uma vaga de estacionamento são estabelecidas de acordo com o tipo de veículo, conforme a seguinte tabela: Tabela: Dimensões das vagas de estacionamento em função do tipo de veículo (medidas em metros).\n![](vestibular/fuvest/img/2024_q49_fig1.png)\nCódigo de Obras e Edificações da Prefeitura de São Paulo. Adaptado. Na figura a seguir, é apresentada parte de um projeto de garagem para um edifício. Foram projetadas vagas para automóveis e uma vaga para moto, no formato de paralelogramo, com ângulo α de medida 60°.\n![](vestibular/fuvest/img/2024_q49_fig2.png)\nObservação: A imagem não está em escala. Após a vaga da moto, restou um espaço na garagem. Os responsáveis pela obra estão avaliando a possibilidade de colocar algum objeto que possa ser utilizado pelos condôminos do edifício. Qual a medida do segmento destacado (tracejado) nesse espaço?",
+      "enunciado": "No Código de Obras e Edificações da Prefeitura de São Paulo, encontra-se a regulamentação para vagas de estacionamento em um edifício para diferentes tipos de veículos. De acordo com o código, as dimensões de uma vaga de estacionamento são estabelecidas de acordo com o tipo de veículo, conforme a seguinte tabela: Tabela: Dimensões das vagas de estacionamento em função do tipo de veículo (medidas em metros).\n![](vestibular/fuvest/img/2024_q49_fig1.png)\nCódigo de Obras e Edificações da Prefeitura de São Paulo. Adaptado. Na figura a seguir, é apresentada parte de um projeto de garagem para um edifício. Foram projetadas vagas para automóveis e uma vaga para moto, no formato de paralelogramo, com ângulo α de medida 60°.\n![](vestibular/fuvest/img/2024_q49_fig2.png)\nObservação: A imagem não está em escala. Após a vaga da moto, restou um espaço na garagem. Os responsáveis pela obra estão avaliando a possibilidade de colocar algum objeto que possa ser utilizado pelos condôminos do edifício. Qual a medida do segmento destacado (tracejado) nesse espaço?\nNote e adote: cos (60°) = 0,5 ; sen (60°) = √3/2",
       "alternativas_introducao": "",
       "alternativas": [
         "A) 0,75 m",
         "B) 1,15 m",
         "C) 1,25 m",
         "D) 2,20 m",
-        "E) 2,25 m Note e adote: cos (60°) = 0,5 ; sen (60°) = √³ ²"
+        "E) 2,25 m"
       ],
       "imagens_alternativas": [
         null,
@@ -1332,12 +1332,12 @@
       "numero": 50,
       "ano": 2024,
       "titulo": "Questão 50 - FUVEST 2024",
-      "enunciado": "Um carro movimentava-se por uma rua de mão única, com sentido da esquerda para a direita, e deixou no asfalto o padrão de pingos de óleo indicado na figura I.\n![](vestibular/fuvest/img/2024_q50_fig1.png)\nFigura I Entre as curvas no gráfico da figura II, indique aquela que melhor corresponde à dependência da posição do carro com o tempo, segundo esses pingos. Adote como positivo o sentido para a direita, conforme a indicação da seta em I.\n![](vestibular/fuvest/img/2024_q50_fig2.png)\nFigura II",
+      "enunciado": "Um carro movimentava-se por uma rua de mão única, com sentido da esquerda para a direita, e deixou no asfalto o padrão de pingos de óleo indicado na figura I.\n![](vestibular/fuvest/img/2024_q50_fig1.png)\nFigura I\n\nEntre as curvas no gráfico da figura II, indique aquela que melhor corresponde à dependência da posição do carro com o tempo, segundo esses pingos. Adote como positivo o sentido para a direita, conforme a indicação da seta em I.\n![](vestibular/fuvest/img/2024_q50_fig2.png)\nFigura II\n\nNote e adote: Assuma que o intervalo de tempo entre os pingos seja o mesmo.",
       "alternativas_introducao": "",
       "alternativas": [
-        "A) Curva a. Note e adote:",
-        "B) Curva b. Assuma que o intervalo de tempo",
-        "C) Curva c. entre os pingos seja o mesmo.",
+        "A) Curva a.",
+        "B) Curva b.",
+        "C) Curva c.",
         "D) Curva d.",
         "E) Curva e."
       ],
@@ -1359,11 +1359,11 @@
       "numero": 51,
       "ano": 2024,
       "titulo": "Questão 51 - FUVEST 2024",
-      "enunciado": "Uma das modalidades de skate é o bowl, disputado em um espaço em formato aproximado de bacia. Supondo um bowl com profundidade de 2,45 m, qual a máxima velocidade que um skatista, partindo do repouso no ponto mais alto da bacia, poderia alcançar no ponto mais baixo?\n![](vestibular/fuvest/img/2024_q51_fig1.png)",
+      "enunciado": "Uma das modalidades de skate é o bowl, disputado em um espaço em formato aproximado de bacia. Supondo um bowl com profundidade de 2,45 m, qual a máxima velocidade que um skatista, partindo do repouso no ponto mais alto da bacia, poderia alcançar no ponto mais baixo?\n![](vestibular/fuvest/img/2024_q51_fig1.png)\n\nNote e adote:\nAceleração da gravidade (g) = 10 m/s²",
       "alternativas_introducao": "",
       "alternativas": [
-        "A) 3 m/s Note e adote:",
-        "B) 5 m/s Aceleração da gravidade (g) = 10m/s2",
+        "A) 3 m/s",
+        "B) 5 m/s",
         "C) 7 m/s",
         "D) 9 m/s",
         "E) 11 m/s"
@@ -1494,14 +1494,14 @@
       "numero": 56,
       "ano": 2024,
       "titulo": "Questão 56 - FUVEST 2024",
-      "enunciado": "Um tema de grande interesse na química é a ativação seletiva de ligações C-H. Essa ativação permite a substituição de H nessas ligações por outros átomos, como O ou N. A relevância desse tema pode ser verificada em um estudo recentemente publicado no prestigioso periódico Science, que conta com uma egressa da USP dentre seus autores. A baixa diferença de eletronegatividade entre C e H é um dos motivos que dificulta a ativação da ligação C-H, pois torna a ligação pouco polar e diminui sua reatividade.\n![](vestibular/fuvest/img/2024_q56_fig1.png)\nConsiderando apenas a eletronegatividade, representada no gráfico, qual das alternativas apresenta uma ligação ainda menos reativa do que a ligação C-H?",
+      "enunciado": "Um tema de grande interesse na química é a ativação seletiva de ligações C-H. Essa ativação permite a substituição de H nessas ligações por outros átomos, como O ou N. A relevância desse tema pode ser verificada em um estudo recentemente publicado no prestigioso periódico Science, que conta com uma egressa da USP dentre seus autores. A baixa diferença de eletronegatividade entre C e H é um dos motivos que dificulta a ativação da ligação C-H, pois torna a ligação pouco polar e diminui sua reatividade.\n![](vestibular/fuvest/img/2024_q56_fig1.png)\nConsiderando apenas a eletronegatividade, representada no gráfico, qual das alternativas apresenta uma ligação ainda menos reativa do que a ligação C-H?\nNote e adote: Número atômico (Z) dos elementos: H = 1, C = 6, N = 7, O = 8, F = 9, P = 15, S = 16, Cl = 17.",
       "alternativas_introducao": "",
       "alternativas": [
         "A) C-N",
         "B) C-F",
         "C) S-O",
         "D) P-H",
-        "E) P-Cl Note e adote: Número atômico (Z) dos elementos: H = 1, C = 6, N = 7, O = 8, F = 9, P = 15, S = 16, Cl = 17."
+        "E) P-Cl"
       ],
       "imagens_alternativas": [
         null,
@@ -1521,7 +1521,7 @@
       "numero": 57,
       "ano": 2024,
       "titulo": "Questão 57 - FUVEST 2024",
-      "enunciado": "A foto a seguir mostra um circuito com três resistores (R₁, R² e R³) conectados em uma protoboard (base de contatos). Nesse tipo de placa, os cinco furos de uma mesma linha (indicados pelos retângulos amarelos) estão em curto, formando os nós do circuito. Os cabos vermelho e preto, por sua vez, estão conectados aos terminais de uma fonte contínua de 5V.\n![](vestibular/fuvest/img/2024_q57_fig1.png)\nSe R₁ = 150 kΩ e R² = R³ = 100 kΩ, a corrente elétrica que passa pelo resistor R₁ será de:",
+      "enunciado": "A foto a seguir mostra um circuito com três resistores (R₁, R₂ e R₃) conectados em uma protoboard (base de contatos). Nesse tipo de placa, os cinco furos de uma mesma linha (indicados pelos retângulos amarelos) estão em curto, formando os nós do circuito. Os cabos vermelho e preto, por sua vez, estão conectados aos terminais de uma fonte contínua de 5V.\n![](vestibular/fuvest/img/2024_q57_fig1.png)\nSe R₁ = 150 kΩ e R₂ = R₃ = 100 kΩ, a corrente elétrica que passa pelo resistor R₁ será de:",
       "alternativas_introducao": "",
       "alternativas": [
         "A) 12,5 μA",
@@ -1548,14 +1548,14 @@
       "numero": 58,
       "ano": 2024,
       "titulo": "Questão 58 - FUVEST 2024",
-      "enunciado": "No processo de compra e venda de artigos de ouro, é comum testar os objetos para verificar se eles realmente são feitos de ouro ou se são alguma falsificação feita com metais menos nobres. Esse teste pode ser feito adicionando um pequeno volume de ácido forte concentrado às raspas do objeto a ser testado, conforme figura a seguir. Caso o objeto seja feito com ouro, as raspas permanecem visíveis, enquanto as raspas de falsificações são dissolvidas.\n![](vestibular/fuvest/img/2024_q58_fig1.png)\nConsiderando apenas o potencial de redução padrão, qual das alternativas apresenta um material que poderia gerar um falso positivo para o objeto de ouro no teste descrito?",
+      "enunciado": "No processo de compra e venda de artigos de ouro, é comum testar os objetos para verificar se eles realmente são feitos de ouro ou se são alguma falsificação feita com metais menos nobres. Esse teste pode ser feito adicionando um pequeno volume de ácido forte concentrado às raspas do objeto a ser testado, conforme figura a seguir. Caso o objeto seja feito com ouro, as raspas permanecem visíveis, enquanto as raspas de falsificações são dissolvidas.\n![](vestibular/fuvest/img/2024_q58_fig1.png)\nConsiderando apenas o potencial de redução padrão, qual das alternativas apresenta um material que poderia gerar um falso positivo para o objeto de ouro no teste descrito?\n\nNote e adote:\nMg²⁺ + 2e⁻ ⇌ Mg⁰    E° = − 2,37 V\nAℓ³⁺ + 3e⁻ ⇌ Aℓ⁰    E° = − 1,66 V\nFe²⁺ + 2e⁻ ⇌ Fe⁰    E° = − 0,44 V\n2H⁺ + 2e⁻ ⇌ H₂    E° = 0,00 V\nPt²⁺ + 2e⁻ ⇌ Pt⁰    E° = + 1,20 V\nAu³⁺ + 3e⁻ ⇌ Au⁰    E° = + 1,50 V\nF₂ + 2e⁻ ⇌ 2F⁻    E° = + 2,87 V",
       "alternativas_introducao": "",
       "alternativas": [
-        "A) Mg Note e adote:",
-        "B) Al Mg 2+ + 2eꟷ ⇌ Mg0 E° = -2,37 V Al 3+ + 3eꟷ ⇌ Al 0 E° = - 1,66 V",
-        "C) Fe Fe2+ + 2eꟷ ⇌ Fe0 E° = - 0,44 V",
-        "D) Pt 2H+ + 2eꟷ ⇌ H2 E° = 0,00 V",
-        "E) F2 Pt 2+ + 2eꟷ ⇌ Pt0 E° = + 1,20 V Au 3+ + 3eꟷ ⇌ Au0 E° = + 1,50 V F2 + 2eꟷ ⇌ 2F ꟷ E° = + 2,87 V"
+        "A) Mg",
+        "B) Aℓ",
+        "C) Fe",
+        "D) Pt",
+        "E) F₂"
       ],
       "imagens_alternativas": [
         null,
@@ -1629,14 +1629,14 @@
       "numero": 61,
       "ano": 2024,
       "titulo": "Questão 61 - FUVEST 2024",
-      "enunciado": "O gráfico a seguir representa a curva de biomassa e biodiversidade em diferentes partes do globo.\n![](vestibular/fuvest/img/2024_q61_fig1.png)\nGRIGORIEV, A.A. The theoretical fundaments of modern physical Geography. In: The interaction of sciences in the Earth, Moscou, 1968. Adaptado. Sobre os ambientes do globo terrestre que podem ser exemplificados pelos dados demonstrados no gráfico, é correto afirmar que, onde o índice de aridez é igual a",
+      "enunciado": "O gráfico a seguir representa a curva de biomassa e biodiversidade em diferentes partes do globo.\n![](vestibular/fuvest/img/2024_q61_fig1.png)\nGRIGORIEV, A.A. The theoretical fundaments of modern physical Geography. In: The interaction of sciences in the Earth, Moscou, 1968. Adaptado.\nSobre os ambientes do globo terrestre que podem ser exemplificados pelos dados demonstrados no gráfico, é correto afirmar que, onde o índice de aridez é igual a",
       "alternativas_introducao": "",
       "alternativas": [
-        "A) 1 e o balanço de radiação é igual a 70 kcal/cm2, a curva de biomassa e biodiversidade atinge o ápice, caracterizando, por exemplo, o ambiente de uma floresta equatorial.",
-        "B) 2 e o balanço de radiação é igual a 40 kcal/cm2, é possível inferir os ambientes compostos por savanas ou cerrados, com crescimento da curva de biomassa e biodiversidade.",
-        "C) 0 e o balanço de radiação é igual também a 0, encontram- se os ambientes desérticos muito quentes, a exemplo do deserto do Saara.",
+        "A) 1 e o balanço de radiação é igual a 70 kcal/cm², a curva de biomassa e biodiversidade atinge o ápice, caracterizando, por exemplo, o ambiente de uma floresta equatorial.",
+        "B) 2 e o balanço de radiação é igual a 40 kcal/cm², é possível inferir os ambientes compostos por savanas ou cerrados, com crescimento da curva de biomassa e biodiversidade.",
+        "C) 0 e o balanço de radiação é igual também a 0, encontram-se os ambientes desérticos muito quentes, a exemplo do deserto do Saara.",
         "D) 3 e o balanço de radiação é igual a 0, a curva de biomassa e biodiversidade indica exemplo típico de ambiente tropical úmido.",
-        "E) 1,5 e o balanço de radiação é igual a 55 kcal/cm2, a curva de biomassa e biodiversidade diminui, caracterizando os ambientes com presença de neve eterna."
+        "E) 1,5 e o balanço de radiação é igual a 55 kcal/cm², a curva de biomassa e biodiversidade diminui, caracterizando os ambientes com presença de neve eterna."
       ],
       "imagens_alternativas": [
         null,
@@ -1683,12 +1683,12 @@
       "numero": 63,
       "ano": 2024,
       "titulo": "Questão 63 - FUVEST 2024",
-      "enunciado": "Uma Árvore Pitagórica é uma figura plana que é construída por etapas. Na Etapa 1, ela começa com um quadrado de lado 1 cm. Na Etapa 2, constroem-se dois quadrados acima do quadrado da Etapa 1, de tal forma que a medida de seus lados seja igual à medida dos catetos do triângulo retângulo isósceles que possui hipotenusa igual ao lado do quadrado da Etapa 1. Na Etapa 3, aplica-se a Etapa 2 em cada um dos novos quadrados obtidos, e assim por diante. Ou seja, em cada nova etapa, aplica-se a etapa anterior em cada um dos novos quadrados obtidos. A figura a seguir exibe as quatro primeiras etapas da construção da Árvore Pitagórica.\n![](vestibular/fuvest/img/2024_q63_fig1.png)\nDomínio público. Disponível em https://commons.wikimedia.org/. A partir de qual etapa da construção o lado de cada um dos novos quadrados obtidos fica, pela primeira vez, menor do que 1 décimo de milésimo do lado do quadrado da Etapa 1?",
+      "enunciado": "Uma Árvore Pitagórica é uma figura plana que é construída por etapas. Na Etapa 1, ela começa com um quadrado de lado 1 cm. Na Etapa 2, constroem-se dois quadrados acima do quadrado da Etapa 1, de tal forma que a medida de seus lados seja igual à medida dos catetos do triângulo retângulo isósceles que possui hipotenusa igual ao lado do quadrado da Etapa 1. Na Etapa 3, aplica-se a Etapa 2 em cada um dos novos quadrados obtidos, e assim por diante. Ou seja, em cada nova etapa, aplica-se a etapa anterior em cada um dos novos quadrados obtidos. A figura a seguir exibe as quatro primeiras etapas da construção da Árvore Pitagórica.\n![](vestibular/fuvest/img/2024_q63_fig1.png)\nDomínio público. Disponível em https://commons.wikimedia.org/. A partir de qual etapa da construção o lado de cada um dos novos quadrados obtidos fica, pela primeira vez, menor do que 1 décimo de milésimo do lado do quadrado da Etapa 1?\nNote e adote: log₁₀2 = 0,3",
       "alternativas_introducao": "",
       "alternativas": [
         "A) 26",
         "B) 27",
-        "C) 28 Note e adote: log₁₀2 = 0,3",
+        "C) 28",
         "D) 29",
         "E) 30"
       ],
@@ -1899,14 +1899,14 @@
       "numero": 71,
       "ano": 2024,
       "titulo": "Questão 71 - FUVEST 2024",
-      "enunciado": "Para esfriar um copo contendo 250 mL de água fervente (100°C), é comum utilizar o seguinte método: Passo 1. Colocar esse copo\n![](vestibular/fuvest/img/2024_q71_fig1.png)\ndentro de uma vasilha em contato com 1 litro de água à temperatura ambiente (25°C), como mostrado na figura. Passo 2. Esperar que entrem em equilíbrio térmico. Passo 3. Tirar o copo e trocar a água da vasilha por outro litro de água à temperatura ambiente. Passo 4. Colocar o copo em contato com a água “nova” e esperar que entrem em equilíbrio térmico. Após o passo (4) desse método, a temperatura da água no copo será aproximadamente:",
+      "enunciado": "Para esfriar um copo contendo 250 mL de água fervente (100°C), é comum utilizar o seguinte método: Passo 1. Colocar esse copo\n![](vestibular/fuvest/img/2024_q71_fig1.png)\ndentro de uma vasilha em contato com 1 litro de água à temperatura ambiente (25°C), como mostrado na figura. Passo 2. Esperar que entrem em equilíbrio térmico. Passo 3. Tirar o copo e trocar a água da vasilha por outro litro de água à temperatura ambiente. Passo 4. Colocar o copo em contato com a água “nova” e esperar que entrem em equilíbrio térmico. Após o passo (4) desse método, a temperatura da água no copo será aproximadamente:\n\nNote e adote: Considere apenas trocas de calor entre a água no copo e a água na vasilha. Despreze quaisquer trocas de calor do sistema com o ambiente.",
       "alternativas_introducao": "",
       "alternativas": [
-        "A) 14°C Note e adote:",
-        "B) 28°C Considere apenas trocas de calor",
-        "C) 40°C entre a água no copo e a água na",
-        "D) 60°C vasilha. Despreze quaisquer trocas de",
-        "E) 84°C calor do sistema com o ambiente."
+        "A) 14°C",
+        "B) 28°C",
+        "C) 40°C",
+        "D) 60°C",
+        "E) 84°C"
       ],
       "imagens_alternativas": [
         null,
@@ -1953,14 +1953,14 @@
       "numero": 73,
       "ano": 2024,
       "titulo": "Questão 73 - FUVEST 2024",
-      "enunciado": "Um experimento de demonstração sobre ondas estacionárias faz uso de uma canaleta disposta horizontalmente, contendo grãos de areia fina e seca. Abaixo da canaleta, posiciona-se um alto-falante que transmite um som, produzindo, na canaleta, uma vibração, associada a uma onda estacionária com um comprimento de onda bem definido. O diagrama representa uma imagem digitalizada dos grãos de areia depositados na base da canaleta em um certo instante. Utilize a régua da figura, graduada em centímetros, para assinalar a alternativa que apresenta a melhor aproximação para o valor do comprimento de onda da vibração em questão.\n![](vestibular/fuvest/img/2024_q73_fig1.png)",
+      "enunciado": "Um experimento de demonstração sobre ondas estacionárias faz uso de uma canaleta disposta horizontalmente, contendo grãos de areia fina e seca. Abaixo da canaleta, posiciona-se um alto-falante que transmite um som, produzindo, na canaleta, uma vibração, associada a uma onda estacionária com um comprimento de onda bem definido. O diagrama representa uma imagem digitalizada dos grãos de areia depositados na base da canaleta em um certo instante. Utilize a régua da figura, graduada em centímetros, para assinalar a alternativa que apresenta a melhor aproximação para o valor do comprimento de onda da vibração em questão.\n![](vestibular/fuvest/img/2024_q73_fig1.png)\n\nNote e adote: Os grãos de areia tendem naturalmente a se acumular em torno dos pontos nos quais o deslocamento transversal da canaleta é nulo.",
       "alternativas_introducao": "",
       "alternativas": [
-        "A) 1,2 cm Note e adote:",
-        "B) 5,1 cm Os grãos de areia tendem",
-        "C) 6,8 cm naturalmente a se acumular em torno",
-        "D) 11,3 cm dos pontos nos quais o deslocamento",
-        "E) 18,1 cm transversal da canaleta é nulo."
+        "A) 1,2 cm",
+        "B) 5,1 cm",
+        "C) 6,8 cm",
+        "D) 11,3 cm",
+        "E) 18,1 cm"
       ],
       "imagens_alternativas": [
         null,
@@ -1980,7 +1980,7 @@
       "numero": 74,
       "ano": 2024,
       "titulo": "Questão 74 - FUVEST 2024",
-      "enunciado": "Apesar de a África ser considerada o berço das civilizações e existirem indícios de conhecimentos elementares de Química no sul do continente cerca de 100.000 anos atrás, os conhecimentos químicos ensinados são eurocentristas. Entretanto, uma das grandes contribuições para o estudo de reatividade química é atribuída ao químico egípcio Ahmed Hassan Zewail, agraciado com o prêmio Nobel em 1999 por seus estudos de reações químicas usando uma técnica conhecida como espectroscopia de femtossegundos. Essa técnica possibilita identificar espécies com tempo de vida curto utilizando pulsos de laser com duração de 10-15 s. Essa contribuição é relevante para o estudo de reações químicas, pois",
+      "enunciado": "Apesar de a África ser considerada o berço das civilizações e existirem indícios de conhecimentos elementares de Química no sul do continente cerca de 100.000 anos atrás, os conhecimentos químicos ensinados são eurocentristas. Entretanto, uma das grandes contribuições para o estudo de reatividade química é atribuída ao químico egípcio Ahmed Hassan Zewail, agraciado com o prêmio Nobel em 1999 por seus estudos de reações químicas usando uma técnica conhecida como espectroscopia de femtossegundos. Essa técnica possibilita identificar espécies com tempo de vida curto utilizando pulsos de laser com duração de 10⁻¹⁵ s. Essa contribuição é relevante para o estudo de reações químicas, pois",
       "alternativas_introducao": "",
       "alternativas": [
         "A) todos os processos químicos são extremamente rápidos e não podem ser estudados por técnicas que não sejam em femtossegundos.",
@@ -2176,7 +2176,7 @@
         "B) Ambos os conceitos se referem a um tipo de trabalho cuja importância é socialmente reconhecida, fato que pode ser comprovado pela porcentagem expressiva que ele representava do PIB brasileiro no ano de 2015.",
         "C) As definições de reprodução social e de economia do cuidado excluem, necessariamente, a possibilidade de que o Estado seja responsável por parte das tarefas envolvidas na reprodução das pessoas.",
         "D) A contabilização no PIB dos valores dos afazeres domésticos no contexto da economia do cuidado abarca apenas uma parte da reprodução social, pois não inclui o trabalho doméstico remunerado e os trabalhos de reprodução executados fora do ambiente doméstico.",
-        "E) Os dados estimados sobre a participação das atividades domésticas não remuneradas no PIB do Brasil mostram que a reprodução social acontece apenas quando não há uma relação salarial entre quem executa e quem se beneficia desse tipo de trabalho. TEXTOS PARA AS QUESTÕES 82 E 83 Texto I “Na confusão verde do fundo da machamba, Maria não viu o capataz imediatamente. Esbracejou com aflição, tentando libertar as pernas. O braço rodeou-lhe os ombros duramente. O bafo quente e ácido do homem aproximou-se da sua face. A capulana da Maria desprendeu-se durante a breve luta e a sensação fria de água tornou-se-lhe mais vívida. Um arrepio fê-la contrair-se. Sentiu nas coxas nuas a carícia morna e áspera dos dedos calosos do homem.” Luis Bernardo Honwana. Dina, In: Nós Matamos o Cão Tinhoso!. Texto II “– Mas choraste. A bofetada que te dei foi só uma disciplina para aprenderes a não fazer ciúmes. Gosto muito de ti, Sarnau. És a minha primeira mulher. É tua a honra deste território. Tu és a mãe de todas as mães da nossa terra. Tu és o meu mundo, minha flor, rebuçado [bala] do meu coração. Deixei cair duas gotas de fel bem amargas e salgadinhas. Meu marido acariciava-me à moda dos búfalos; dizia-me coisas no ouvido e o seu hálito fedia a álcool, enjoava-me, arrepiava- me, maltratando o meu corpinho frágil. Explodi furiosa e chorei de amargura. – Sarnau, pareces ser uma machamba difícil. Já faz tempo que semeio em ti e não vejo resultado. Com a outra foi tão diferente. Bastou uma sementeira e germinou logo. – Casámo-nos há pouco tempo, Nguila, muito pouco tempo. – Não tenho lá muita paciência. Não estou para lavrar sem colher.” Paulina Chiziane. Balada de amor ao vento, p. 61-62."
+        "E) Os dados estimados sobre a participação das atividades domésticas não remuneradas no PIB do Brasil mostram que a reprodução social acontece apenas quando não há uma relação salarial entre quem executa e quem se beneficia desse tipo de trabalho."
       ],
       "imagens_alternativas": [
         null,
@@ -2196,7 +2196,7 @@
       "numero": 82,
       "ano": 2024,
       "titulo": "Questão 82 - FUVEST 2024",
-      "enunciado": "Os trechos transcritos foram retirados dos livros dos moçambicanos Luís Bernardo Honwana e Paulina Chiziane. Em ambos, observa-se a ocorrência da palavra “machamba”. A respeito do uso desse termo, é correto afirmar:",
+      "enunciado": "**Textos para as questões 82 e 83:**\nTexto I “Na confusão verde do fundo da machamba, Maria não viu o capataz imediatamente. Esbracejou com aflição, tentando libertar as pernas. O braço rodeou-lhe os ombros duramente. O bafo quente e ácido do homem aproximou-se da sua face. A capulana da Maria desprendeu-se durante a breve luta e a sensação fria de água tornou-se-lhe mais vívida. Um arrepio fê-la contrair-se. Sentiu nas coxas nuas a carícia morna e áspera dos dedos calosos do homem.” Luis Bernardo Honwana. Dina, In: Nós Matamos o Cão Tinhoso!. Texto II “– Mas choraste. A bofetada que te dei foi só uma disciplina para aprenderes a não fazer ciúmes. Gosto muito de ti, Sarnau. És a minha primeira mulher. É tua a honra deste território. Tu és a mãe de todas as mães da nossa terra. Tu és o meu mundo, minha flor, rebuçado [bala] do meu coração. Deixei cair duas gotas de fel bem amargas e salgadinhas. Meu marido acariciava-me à moda dos búfalos; dizia-me coisas no ouvido e o seu hálito fedia a álcool, enjoava-me, arrepiava- me, maltratando o meu corpinho frágil. Explodi furiosa e chorei de amargura. – Sarnau, pareces ser uma machamba difícil. Já faz tempo que semeio em ti e não vejo resultado. Com a outra foi tão diferente. Bastou uma sementeira e germinou logo. – Casámo-nos há pouco tempo, Nguila, muito pouco tempo. – Não tenho lá muita paciência. Não estou para lavrar sem colher.” Paulina Chiziane. Balada de amor ao vento, p. 61-62.\n\nOs trechos transcritos foram retirados dos livros dos moçambicanos Luís Bernardo Honwana e Paulina Chiziane. Em ambos, observa-se a ocorrência da palavra “machamba”. A respeito do uso desse termo, é correto afirmar:",
       "alternativas_introducao": "",
       "alternativas": [
         "A) No texto I, machamba refere-se a um matagal, em sentido denotativo; no texto II, ao papel de esposa de Sarnau, em sentido conotativo.",
@@ -2223,7 +2223,7 @@
       "numero": 83,
       "ano": 2024,
       "titulo": "Questão 83 - FUVEST 2024",
-      "enunciado": "Nos excertos, os escritores moçambicanos descrevem, cada um em seu contexto, cenas de violência. Sobre elas, é correto afirmar:",
+      "enunciado": "**Textos para as questões 82 e 83:**\nTexto I “Na confusão verde do fundo da machamba, Maria não viu o capataz imediatamente. Esbracejou com aflição, tentando libertar as pernas. O braço rodeou-lhe os ombros duramente. O bafo quente e ácido do homem aproximou-se da sua face. A capulana da Maria desprendeu-se durante a breve luta e a sensação fria de água tornou-se-lhe mais vívida. Um arrepio fê-la contrair-se. Sentiu nas coxas nuas a carícia morna e áspera dos dedos calosos do homem.” Luis Bernardo Honwana. Dina, In: Nós Matamos o Cão Tinhoso!. Texto II “– Mas choraste. A bofetada que te dei foi só uma disciplina para aprenderes a não fazer ciúmes. Gosto muito de ti, Sarnau. És a minha primeira mulher. É tua a honra deste território. Tu és a mãe de todas as mães da nossa terra. Tu és o meu mundo, minha flor, rebuçado [bala] do meu coração. Deixei cair duas gotas de fel bem amargas e salgadinhas. Meu marido acariciava-me à moda dos búfalos; dizia-me coisas no ouvido e o seu hálito fedia a álcool, enjoava-me, arrepiava- me, maltratando o meu corpinho frágil. Explodi furiosa e chorei de amargura. – Sarnau, pareces ser uma machamba difícil. Já faz tempo que semeio em ti e não vejo resultado. Com a outra foi tão diferente. Bastou uma sementeira e germinou logo. – Casámo-nos há pouco tempo, Nguila, muito pouco tempo. – Não tenho lá muita paciência. Não estou para lavrar sem colher.” Paulina Chiziane. Balada de amor ao vento, p. 61-62.\n\nNos excertos, os escritores moçambicanos descrevem, cada um em seu contexto, cenas de violência. Sobre elas, é correto afirmar:",
       "alternativas_introducao": "",
       "alternativas": [
         "A) Luís Bernardo Honwana descreve uma cena de violência psicológica velada do capataz contra a mulher, sem que ela perceba a agressão sofrida.",
@@ -2412,14 +2412,14 @@
       "numero": 90,
       "ano": 2024,
       "titulo": "Questão 90 - FUVEST 2024",
-      "enunciado": "Texto I “W. I. Thomas, decano dos sociólogos norte-americanos, formula um teorema básico para as ciências sociais: ‘Se os indivíduos definem as situações como reais, elas são reais em suas consequências’. (...) A primeira parte do teorema constitui uma incessante lembrança de que os homens reagem não somente aos traços objetivos de uma situação, como também, e às vezes principalmente, ao sentido que a situação tem para eles. E, assim que atribuíram algum sentido à situação, sua conduta consequente, e algumas das consequências dessa conduta, são determinadas pelo sentido atribuído. (...) A profecia que se cumpre por si mesma é, inicialmente, uma definição falsa da situação que provoca uma nova conduta, a qual, por sua vez, converte em verdadeiro o conceito originalmente falso.” MERTON, Robert. Sociologia: Teoria e Estrutura. São Paulo: Editora Mestre Jou, 1970. p.515-517. Texto II “Depois de alguns anos inseridos nesta lógica de abuso e privações de distintos tipos, o detento é novamente colocado em liberdade. (...) Conseguir um trabalho não é tão fácil como parece, já que mesmo as atividades menos qualificadas e manuais (como as relacionadas a limpeza, serviços gerais, construção civil, dentre outras) demandam ‘atestado de bons antecedentes e a marca da passagem pela cadeia pode significar um indesejável pertencimento ao mundo do crime’ (Ramalho, 2018, p. 91). (...) O fator [condicionante da reincidência] mais citado, presente em 44% dos textos [sobre o tema], foi a baixa qualificação e as poucas oportunidades, sendo essa a explicação padrão de boa parte da literatura para a reincidência.” RIBEIRO, Ludmila; OLIVEIRA, Valéria. Reincidência e reentrada na prisão no Brasil: o que os estudos dizem sobre os fatores que contribuem para essa trajetória. Artigo Estratégico 56. São Paulo: Instituto Igarapé, 2022. p.10-14. Aplicando a noção proposta por Robert Merton, no texto I, ao cenário descrito no texto II, qual definição da situação das pessoas egressas do sistema prisional pelos possíveis empregadores no mercado de trabalho tornaria a reincidência criminal uma “profecia que se cumpre por si mesma”?",
+      "enunciado": "Texto I\n\n\"W. I. Thomas, decano dos sociólogos norte-americanos, formula um teorema básico para as ciências sociais: 'Se os indivíduos definem as situações como reais, elas são reais em suas consequências'. (...) A primeira parte do teorema constitui uma incessante lembrança de que os homens reagem não somente aos traços objetivos de uma situação, como também, e às vezes principalmente, ao sentido que a situação tem para eles. E, assim que atribuíram algum sentido à situação, sua conduta consequente, e algumas das consequências dessa conduta, são determinadas pelo sentido atribuído. (...) A profecia que se cumpre por si mesma é, inicialmente, uma definição falsa da situação que provoca uma nova conduta, a qual, por sua vez, converte em verdadeiro o conceito originalmente falso.\"\n\nMERTON, Robert. Sociologia: Teoria e Estrutura. São Paulo: Editora Mestre Jou, 1970. p.515-517.\n\nTexto II\n\n\"Depois de alguns anos inseridos nesta lógica de abuso e privações de distintos tipos, o detento é novamente colocado em liberdade. (...) Conseguir um trabalho não é tão fácil como parece, já que mesmo as atividades menos qualificadas e manuais (como as relacionadas a limpeza, serviços gerais, construção civil, dentre outras) demandam 'atestado de bons antecedentes e a marca da passagem pela cadeia pode significar um indesejável pertencimento ao mundo do crime' (Ramalho, 2018, p. 91). (...) O fator [condicionante da reincidência] mais citado, presente em 44% dos textos [sobre o tema], foi a baixa qualificação e as poucas oportunidades, sendo essa a explicação padrão de boa parte da literatura para a reincidência.\"\n\nRIBEIRO, Ludmila; OLIVEIRA, Valéria. Reincidência e reentrada na prisão no Brasil: o que os estudos dizem sobre os fatores que contribuem para essa trajetória. Artigo Estratégico 56. São Paulo: Instituto Igarapé, 2022. p.10-14.\n\nAplicando a noção proposta por Robert Merton, no texto I, ao cenário descrito no texto II, qual definição da situação das pessoas egressas do sistema prisional pelos possíveis empregadores no mercado de trabalho tornaria a reincidência criminal uma \"profecia que se cumpre por si mesma\"?",
       "alternativas_introducao": "",
       "alternativas": [
         "A) Pessoas egressas do sistema prisional têm dificuldade de conseguir emprego no mercado de trabalho porque são estigmatizadas.",
         "B) Pessoas egressas do sistema prisional têm a mesma chance de conseguir empregos que o restante da população, razão pela qual não devem ser privilegiadas pelos empregadores.",
         "C) Pessoas egressas do sistema prisional já foram condenadas e cumpriram pena pelo crime cometido e merecem a oportunidade de trabalhar para recomeçarem a vida.",
         "D) Pessoas egressas do sistema prisional voltarão a cometer crimes e, por isso, não devem ser contratadas para trabalhar.",
-        "E) Pessoas egressas do sistema prisional conseguem somente trabalhos informais e de baixa remuneração por terem pouca qualificação e dificuldades para conseguir seus documentos. RASCUNHO NÃO SERÁ CONSIDERADO NA CORREÇÃO"
+        "E) Pessoas egressas do sistema prisional conseguem somente trabalhos informais e de baixa remuneração por terem pouca qualificação e dificuldades para conseguir seus documentos."
       ],
       "imagens_alternativas": [
         null,
