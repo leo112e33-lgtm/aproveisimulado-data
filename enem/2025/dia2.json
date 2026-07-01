@@ -1745,7 +1745,7 @@
       "dia": 2,
       "numero": 63,
       "titulo": "Questão 63 - ENEM 2025",
-      "enunciado": "Em um jogo digital, há três personagens: um herói e dois vilões. A programação é feita de tal forma que o herói sempre será atacado pelo vilão que estiver mais próximo dele. Uma das maneiras de “confundir” os vilões é movimentar o herói por trajetórias que o mantenha equidistante dos vilões, gerando indefinição entre eles e, com isso, não sendo atacado. Para a programação de uma das etapas desse jogo, o programador considerou, no plano cartesiano, o quadrado STUV como a região de movimentação dos personagens, onde V e T representam as posições fixas dos vilões, e S, a posição inicial do herói, como apresentado na figura. Qual é a equação da trajetória em que o herói poderá se movimentar sem ser atacado?\n\n![](enem/2025/img/2025_d2_q63_fig1.png)",
+      "enunciado": "![](enem/2025/img/2025_d2_q63_fig1.png)\n\nEm um jogo digital, há três personagens: um herói e dois vilões. A programação é feita de tal forma que o herói sempre será atacado pelo vilão que estiver mais próximo dele. Uma das maneiras de “confundir” os vilões é movimentar o herói por trajetórias que o mantenha equidistante dos vilões, gerando indefinição entre eles e, com isso, não sendo atacado. Para a programação de uma das etapas desse jogo, o programador considerou, no plano cartesiano, o quadrado STUV como a região de movimentação dos personagens, onde V e T representam as posições fixas dos vilões, e S, a posição inicial do herói, como apresentado na figura. Qual é a equação da trajetória em que o herói poderá se movimentar sem ser atacado?",
       "alternativas_introducao": "",
       "alternativas": [
         "A) y = −3x + 20",
@@ -1773,7 +1773,7 @@
       "dia": 2,
       "numero": 64,
       "titulo": "Questão 64 - ENEM 2025",
-      "enunciado": "Uma livraria comercializa livros dos seguintes gêneros literários: ficção científica, autoajuda, romance e biografia. O gráfico apresenta o estoque dos livros que essa livraria tem, por gênero literário e por nacionalidade do autor, bem como a demanda por gênero literário, obtida por meio de uma enquete feita com seus clientes habituais. Estoque e demanda por livros O gerente da livraria fará a encomenda de novos exemplares somente do gênero cuja quantidade em estoque seja insuficiente para atender a demanda constatada pela enquete. O gênero de livro do qual o gerente deverá encomendar mais exemplares é\n\n![](enem/2025/img/2025_d2_q64_fig1.png)",
+      "enunciado": "![](enem/2025/img/2025_d2_q64_fig1.png)\n\nUma livraria comercializa livros dos seguintes gêneros literários: ficção científica, autoajuda, romance e biografia. O gráfico apresenta o estoque dos livros que essa livraria tem, por gênero literário e por nacionalidade do autor, bem como a demanda por gênero literário, obtida por meio de uma enquete feita com seus clientes habituais. Estoque e demanda por livros O gerente da livraria fará a encomenda de novos exemplares somente do gênero cuja quantidade em estoque seja insuficiente para atender a demanda constatada pela enquete. O gênero de livro do qual o gerente deverá encomendar mais exemplares é",
       "alternativas_introducao": "",
       "alternativas": [
         "A) ficção, pois é o que apresenta maior demanda.",
@@ -1829,7 +1829,7 @@
       "dia": 2,
       "numero": 66,
       "titulo": "Questão 66 - ENEM 2025",
-      "enunciado": "Um artista, que costuma fazer desenhos com areia na praia, pediu a um banhista que fizesse um pequeno desenho, que serviria de esboço para uma grande obra de arte a ser feita na areia. Esse desenho está representado na figura. Após a conclusão, a obra de arte obtida manteve as mesmas proporções do desenho feito pelo banhista, sendo que as medidas indicadas na figura foram ampliadas para 30 m. Em qual escala esse desenho representa a obra de arte?\n\n![](enem/2025/img/2025_d2_q66_fig1.png)",
+      "enunciado": "![](enem/2025/img/2025_d2_q66_fig1.png)\n\nUm artista, que costuma fazer desenhos com areia na praia, pediu a um banhista que fizesse um pequeno desenho, que serviria de esboço para uma grande obra de arte a ser feita na areia. Esse desenho está representado na figura. Após a conclusão, a obra de arte obtida manteve as mesmas proporções do desenho feito pelo banhista, sendo que as medidas indicadas na figura foram ampliadas para 30 m. Em qual escala esse desenho representa a obra de arte?",
       "alternativas_introducao": "",
       "alternativas": [
         "A) 1 : 1,5",
@@ -1969,7 +1969,7 @@
       "dia": 2,
       "numero": 71,
       "titulo": "Questão 71 - ENEM 2025",
-      "enunciado": "Os quadrados em cinza na figura representam os quarteirões de uma parte do bairro onde moram João e seu amigo. O quadrado pequeno (A), pintado em preto e localizado no canto superior esquerdo de um quadrado maior, indica a casa do amigo de João. João também mora em uma casa de esquina, mas na extremidade nordeste de um quarteirão. Para chegar à casa de seu amigo, ao sair de casa, João deve caminhar pelo quarteirão onde mora na direção oeste, dobrar à direita, caminhar por três quarteirões na direção norte e dobrar à esquerda. A casa de seu amigo fica no segundo quarteirão a oeste. O quarteirão onde se encontra a casa de João é representado pelo quadrado com a letra\n\n![](enem/2025/img/2025_d2_q71_fig1.png)",
+      "enunciado": "![](enem/2025/img/2025_d2_q71_fig1.png)\n\nOs quadrados em cinza na figura representam os quarteirões de uma parte do bairro onde moram João e seu amigo. O quadrado pequeno (A), pintado em preto e localizado no canto superior esquerdo de um quadrado maior, indica a casa do amigo de João. João também mora em uma casa de esquina, mas na extremidade nordeste de um quarteirão. Para chegar à casa de seu amigo, ao sair de casa, João deve caminhar pelo quarteirão onde mora na direção oeste, dobrar à direita, caminhar por três quarteirões na direção norte e dobrar à esquerda. A casa de seu amigo fica no segundo quarteirão a oeste. O quarteirão onde se encontra a casa de João é representado pelo quadrado com a letra",
       "alternativas_introducao": "",
       "alternativas": [
         "A) P.",
@@ -2025,7 +2025,7 @@
       "dia": 2,
       "numero": 73,
       "titulo": "Questão 73 - ENEM 2025",
-      "enunciado": "Em uma escola, todos os estudantes do ensino médio praticam uma das três modalidades esportivas oferecidas como atividade física, e cada um deles pratica somente uma dessas atividades. Os gráficos trazem alguns dados relativos aos quantitativos de estudantes que praticam essas modalidades esportivas nessa escola, apesar de algumas quantidades não terem sido informadas. Qual é a quantidade de estudantes no ensino médio dessa escola?\n\n![](enem/2025/img/2025_d2_q73_fig1.png)",
+      "enunciado": "![](enem/2025/img/2025_d2_q73_fig1.png)\n\nEm uma escola, todos os estudantes do ensino médio praticam uma das três modalidades esportivas oferecidas como atividade física, e cada um deles pratica somente uma dessas atividades. Os gráficos trazem alguns dados relativos aos quantitativos de estudantes que praticam essas modalidades esportivas nessa escola, apesar de algumas quantidades não terem sido informadas. Qual é a quantidade de estudantes no ensino médio dessa escola?",
       "alternativas_introducao": "",
       "alternativas": [
         "A) 720",
@@ -2053,7 +2053,7 @@
       "dia": 2,
       "numero": 74,
       "titulo": "Questão 74 - ENEM 2025",
-      "enunciado": "O dono de uma embarcação deve partir do ponto P e chegar ao ponto R por meio de dois deslocamentos lineares e navegando a uma velocidade constante. Essa viagem será feita durante a noite, e como ele dispõe somente de uma bússola e de um relógio, planejou sua rota da seguinte forma: 1o – partir do ponto P na direção 110 e navegar por 4 horas, alcançando um ponto Q; 2o – partir do ponto Q na direção 90 e navegar por 2 horas, alcançando o ponto de destino R. No entanto, ao direcionar o barco para o primeiro deslocamento, o fez na direção 340, em vez de 110. Com isso, realizou os seguintes deslocamentos: 1o – partiu do ponto P na direção 340 e navegou por 4 horas, alcançando um ponto S; 2o – partiu do ponto S na direção 90 e navegou por 2 horas, alcançando o ponto T. A figura apresenta a bússola, a rota planejada e a rota executada. O dono da embarcação só percebeu o equívoco ao chegar ao ponto T. Com isso, agora ele precisa definir a direção e o tempo de navegação que lhe permita, partindo do ponto T, chegar ao ponto de destino R por meio de uma rota retilínea. Considere 0,64 como aproximação para cos 50°. A direção e o tempo aproximado de navegação que o dono da embarcação deve utilizar são, respectivamente,\n\n![](enem/2025/img/2025_d2_q74_fig1.png)",
+      "enunciado": "![](enem/2025/img/2025_d2_q74_fig1.png)\n\nO dono de uma embarcação deve partir do ponto P e chegar ao ponto R por meio de dois deslocamentos lineares e navegando a uma velocidade constante. Essa viagem será feita durante a noite, e como ele dispõe somente de uma bússola e de um relógio, planejou sua rota da seguinte forma: 1o – partir do ponto P na direção 110 e navegar por 4 horas, alcançando um ponto Q; 2o – partir do ponto Q na direção 90 e navegar por 2 horas, alcançando o ponto de destino R. No entanto, ao direcionar o barco para o primeiro deslocamento, o fez na direção 340, em vez de 110. Com isso, realizou os seguintes deslocamentos: 1o – partiu do ponto P na direção 340 e navegou por 4 horas, alcançando um ponto S; 2o – partiu do ponto S na direção 90 e navegou por 2 horas, alcançando o ponto T. A figura apresenta a bússola, a rota planejada e a rota executada. O dono da embarcação só percebeu o equívoco ao chegar ao ponto T. Com isso, agora ele precisa definir a direção e o tempo de navegação que lhe permita, partindo do ponto T, chegar ao ponto de destino R por meio de uma rota retilínea. Considere 0,64 como aproximação para cos 50°. A direção e o tempo aproximado de navegação que o dono da embarcação deve utilizar são, respectivamente,",
       "alternativas_introducao": "",
       "alternativas": [
         "A) 135 e 7 horas e 15 minutos.",
@@ -2109,7 +2109,7 @@
       "dia": 2,
       "numero": 76,
       "titulo": "Questão 76 - ENEM 2025",
-      "enunciado": "Pace é um termo usado por um corredor para denominar o seu ritmo médio em uma corrida. Representa o tempo médio, em segundo, que esse corredor leva para percorrer 1 km. O esquema apresenta o tempo, em segundo, que um corredor levou para cruzar as marcas que definem os quatro primeiros trechos de 1 km, em uma corrida de 5 km, e o tempo gasto para percorrer cada trecho de 1 km. O melhor pace que esse corredor alcançou em corridas de 5 km foi 281 s/km. Para que consiga repetir nessa corrida seu melhor pace em corridas de 5 km, seu tempo, no 5o trecho, deve ser quantos segundos menor do que o que ele gastou para percorrer o 4o trecho?\n\n![](enem/2025/img/2025_d2_q76_fig1.png)",
+      "enunciado": "![](enem/2025/img/2025_d2_q76_fig1.png)\n\nPace é um termo usado por um corredor para denominar o seu ritmo médio em uma corrida. Representa o tempo médio, em segundo, que esse corredor leva para percorrer 1 km. O esquema apresenta o tempo, em segundo, que um corredor levou para cruzar as marcas que definem os quatro primeiros trechos de 1 km, em uma corrida de 5 km, e o tempo gasto para percorrer cada trecho de 1 km. O melhor pace que esse corredor alcançou em corridas de 5 km foi 281 s/km. Para que consiga repetir nessa corrida seu melhor pace em corridas de 5 km, seu tempo, no 5o trecho, deve ser quantos segundos menor do que o que ele gastou para percorrer o 4o trecho?",
       "alternativas_introducao": "",
       "alternativas": [
         "A) 1",
@@ -2137,7 +2137,7 @@
       "dia": 2,
       "numero": 77,
       "titulo": "Questão 77 - ENEM 2025",
-      "enunciado": "Uma pessoa tem um carro bicombustível, que funciona a gás natural veicular (GNV) e a gasolina. O rendimento do carro, medido em km/m3, no caso do gás, ou medido em km/L, no caso da gasolina, depende, entre outros fatores, da velocidade, em km/h, em que o carro trafega. Essa relação está em conformidade com estes gráficos. Durante um feriado, essa pessoa realizou uma viagem de 240 km. Para obter uma estimativa de gasto de combustível, assuma que em todo o trajeto se manteve uma velocidade constante de 60 km/h. Considere que, durante metade do caminho, foi utilizado apenas GNV e, na outra metade, apenas gasolina. O que foi pago pelo metro cúbico de GNV e pelo litro de gasolina correspondeu, respectivamente, a R$ 2,00 e a R$ 3,00. Qual foi a diferença, em real, entre os gastos totais com gasolina e com GNV?\n\n![](enem/2025/img/2025_d2_q77_fig1.png)",
+      "enunciado": "![](enem/2025/img/2025_d2_q77_fig1.png)\n\nUma pessoa tem um carro bicombustível, que funciona a gás natural veicular (GNV) e a gasolina. O rendimento do carro, medido em km/m3, no caso do gás, ou medido em km/L, no caso da gasolina, depende, entre outros fatores, da velocidade, em km/h, em que o carro trafega. Essa relação está em conformidade com estes gráficos. Durante um feriado, essa pessoa realizou uma viagem de 240 km. Para obter uma estimativa de gasto de combustível, assuma que em todo o trajeto se manteve uma velocidade constante de 60 km/h. Considere que, durante metade do caminho, foi utilizado apenas GNV e, na outra metade, apenas gasolina. O que foi pago pelo metro cúbico de GNV e pelo litro de gasolina correspondeu, respectivamente, a R$ 2,00 e a R$ 3,00. Qual foi a diferença, em real, entre os gastos totais com gasolina e com GNV?",
       "alternativas_introducao": "",
       "alternativas": [
         "A) 4",
@@ -2221,7 +2221,7 @@
       "dia": 2,
       "numero": 80,
       "titulo": "Questão 80 - ENEM 2025",
-      "enunciado": "Uma caixa de descarga, acoplada a um vaso sanitário, tem a forma de paralelepípedo reto retângulo cujas dimensões internas da base são 2,5 dm e 1,5 dm. Nessa caixa há uma boia que interrompe o abastecimento quando a altura da coluna de água atinge 2 dm, conforme a figura. A cada acionamento da descarga, todo o volume de água contida na caixa é despejado no vaso. Para reduzir o volume de água despejado a cada acionamento, uma pessoa colocará, no interior dessa caixa, garrafas de 300 mL, cheias de areia e tampadas, de modo a ficarem submersas quando o abastecimento for interrompido. Para garantir o funcionamento eficiente, o mínimo de água despejada a cada acionamento deve ser de 5 L. A quantidade máxima de garrafas que serão colocadas nessa caixa, garantindo um funcionamento eficiente, é igual a\n\n![](enem/2025/img/2025_d2_q80_fig1.png)\n![](enem/2025/img/2025_d2_q80_fig2.png)",
+      "enunciado": "![](enem/2025/img/2025_d2_q80_fig1.png)\n![](enem/2025/img/2025_d2_q80_fig2.png)\n\nUma caixa de descarga, acoplada a um vaso sanitário, tem a forma de paralelepípedo reto retângulo cujas dimensões internas da base são 2,5 dm e 1,5 dm. Nessa caixa há uma boia que interrompe o abastecimento quando a altura da coluna de água atinge 2 dm, conforme a figura. A cada acionamento da descarga, todo o volume de água contida na caixa é despejado no vaso. Para reduzir o volume de água despejado a cada acionamento, uma pessoa colocará, no interior dessa caixa, garrafas de 300 mL, cheias de areia e tampadas, de modo a ficarem submersas quando o abastecimento for interrompido. Para garantir o funcionamento eficiente, o mínimo de água despejada a cada acionamento deve ser de 5 L. A quantidade máxima de garrafas que serão colocadas nessa caixa, garantindo um funcionamento eficiente, é igual a",
       "alternativas_introducao": "",
       "alternativas": [
         "A) 10.",
