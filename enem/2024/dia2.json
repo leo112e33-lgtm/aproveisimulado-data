@@ -597,7 +597,7 @@
       "dia": 2,
       "numero": 22,
       "titulo": "Questão 22 - ENEM 2024",
-      "enunciado": "![](enem/2024/img/2024_d2_q22_full.png)",
+      "enunciado": "![](enem/2024/img/2024_d2_q22_stem.png)",
       "alternativas_introducao": "",
       "alternativas": [
         "A)",
@@ -607,11 +607,11 @@
         "E)"
       ],
       "imagens_alternativas": [
-        null,
-        null,
-        null,
-        null,
-        null
+        "enem/2024/img/2024_d2_q22_altA.png",
+        "enem/2024/img/2024_d2_q22_altB.png",
+        "enem/2024/img/2024_d2_q22_altC.png",
+        "enem/2024/img/2024_d2_q22_altD.png",
+        "enem/2024/img/2024_d2_q22_altE.png"
       ],
       "imagem_principal": "",
       "imagens_extras": [],
